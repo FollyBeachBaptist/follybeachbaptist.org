@@ -17,7 +17,7 @@ header:
 <b>Deacon Chair | George Willis</b><br> <i class="fas fa-mobile-alt fa-fw"></i> 843-906-4175<br>
 
 <b>Office Administrator | Donna Bolus</b><br> <i class="fas fa-mobile-alt fa-fw"></i>
-843-588-9414<br>
+843-588-9414<br> <i class="far fa-envelope fa-fw"></i> info@follybeachbaptist.org
 
 <hr>
 <b> Audio Visual Team </b><br> Matt Beasley and Sandy Kisamore
