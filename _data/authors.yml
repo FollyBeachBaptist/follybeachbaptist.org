@@ -12,7 +12,7 @@ default:
       url: "https://www.facebook.com/FollyBeachBaptistChurch/videos"
     - label: "Email Us"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:info@follybeachbaptist.com "
+      url: "mailto:info@follybeachbaptist.org"
     - label: "Facebook"
       icon: "fab fa-facebook fa-fw"
       url: "https://www.facebook.com/FollyBeachBaptistChurch/"
