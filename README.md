@@ -5,7 +5,7 @@
 | :-------------- | :----------------------------------------------------- |
 | [Navigation Bar](_data/navigation.yml)   | [Calendar Page](/_pages/weeklyschedule.md/) |
 | [Stored Pictures](/assets/images/)  | [Outreach Page](/_pages/outreach.md/)           |
-| Youth Page      | [Youth Page](/_pages/youth.md/)                   |
+| [Footer Bar](_includes/footer.html)      | [Youth Page](/_pages/youth.md/)                   |
 | Stored Pictures | [Leaders Page](/_pages/ourleaders.md/)                   |
 
 </b>
