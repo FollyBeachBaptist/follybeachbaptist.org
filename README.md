@@ -1,7 +1,7 @@
 ## Quick Links
 <b>
   
-| Home Page       | [index.md](index.md )                                  |
+| Home Page       | [Home Page](index.md )                                  |
 | :-------------- | :----------------------------------------------------- |
 | Calendar Page   | [_pages/weeklyschedule.md](/_pages/weeklyschedule.md/) |
 | Outreach Page   | [_pages/outreach.md](/_pages/outreach.md/)             |
