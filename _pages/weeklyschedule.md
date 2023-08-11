@@ -8,7 +8,7 @@ header:
 
 <b>Sunday, August 13</b><br> 9:45 am Sunday School <br> 11:00 am Worship Service<br> 5:00 pm Baptisms at County Park
 
-<b>Monday, August 14</b><br> 9:30 am Moms in Prayer</b>7:00 pm Men's Bible Study<br>
+<b>Monday, August 14</b><br> 9:30 am Moms in Prayer</b> 7:00 pm Men's Bible Study<br>
 
 <b>Tuesday, August 15</b><br> 9:30 am 6:30 pm Girlfriend's Bible Study<br> 6:30 pm "Youth on the Edge"
 Bible Study<br>
