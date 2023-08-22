@@ -10,7 +10,7 @@ header:
 
 <b>Monday, August 21</b><br> 9:30 am Moms in Prayer<br>7:00 pm Men's Bible Study<br>
 
-<b>Tuesday, August 22</b><br> 9 6:30 pm "Youth on the Edge" Prayer Meeting at James Island Charter School<br>
+<b>Tuesday, August 22</b><br> 6:30 pm "Youth on the Edge" Prayer Meeting at James Island Charter School<br>
 
 <b>Wednesday, August 23</b><br> 6:30 pm Prayer Meeting<br> 7:30 pm Choir Practice<br>
 
