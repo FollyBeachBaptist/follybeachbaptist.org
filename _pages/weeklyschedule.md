@@ -6,18 +6,17 @@ header:
   og_image: /assets/images/preview.jpg
 ---
 
-<b>Sunday, August 13</b><br> 9:45 am Sunday School <br> 11:00 am Worship Service<br> 5:00 pm Baptisms at County Park
+<b>Sunday, August 20</b><br> 9:45 am Sunday School <br> 11:00 am Worship Service <br>
 
-<b>Monday, August 14</b><br> 9:30 am Moms in Prayer<br>7:00 pm Men's Bible Study<br>
+<b>Monday, August 21</b><br> 9:30 am Moms in Prayer<br>7:00 pm Men's Bible Study<br>
 
-<b>Tuesday, August 15</b><br> 9:30 am 6:30 pm Girlfriend's Bible Study<br> 6:30 pm "Youth on the Edge"
-Bible Study<br>
+<b>Tuesday, August 22</b><br> 9 6:30 pm "Youth on the Edge" Prayer Meeting at James Island Charter School<br>
 
-<b>Wednesday, August 16</b><br> 6:30 pm Business Meeting<br> 7:30 pm Choir Practice<br>
+<b>Wednesday, August 23</b><br> 6:30 pm Prayer Meeting<br> 7:30 pm Choir Practice<br>
 
-<b>Thursday, August 17</b><br> 10:00 am Girlfriend's Bible Study<br> 6:30 pm Recovery in Christ<br>
+<b>Thursday, August 24</b><br> 6:30 pm Recovery in Christ<br>
 
-<b>Sunday, August 20</b><br> 9:45 am Sunday School<br> 11:00 am Worship Service<br>
+<b>Sunday, August 27</b><br> 9:45 am Sunday School<br> 11:00 am Worship Service<br>
 
 <!-- <hr>
 <h1>Special Events</h1>
