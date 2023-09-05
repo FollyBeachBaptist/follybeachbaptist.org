@@ -6,17 +6,20 @@ header:
   og_image: /assets/images/preview.jpg
 ---
 
-<b>Sunday, August 20</b><br> 9:45 am Sunday School <br> 11:00 am Worship Service <br>
+<b>Sunday, September 3</b><br> 9:45 am Sunday School <br> 11:00 am Worship Service <br>
 
-<b>Monday, August 21</b><br> 9:30 am Moms in Prayer<br>7:00 pm Men's Bible Study<br>
+<b>Monday, September 4</b><br> 9:30 am Moms in Prayer<br>7:00 pm No Men's Bible Study<br>
 
-<b>Tuesday, August 22</b><br> 6:30 pm "Youth on the Edge" Prayer Meeting at James Island Charter School<br>
+<b>Tuesday, September 5</b><br> 6:30 pm "Youth on the Edge" Prayer Meeting at James Island Charter School<br>
 
-<b>Wednesday, August 23</b><br> 6:30 pm Prayer Meeting<br> 7:30 pm Choir Practice<br>
+<b>Wednesday, September 6</b><br> 6:30 pm Prayer Meeting<br> 7:30 pm Choir Practice<br>
 
-<b>Thursday, August 24</b><br> 6:30 pm Recovery in Christ<br>
+<b>Thursday, September 7</b><br> 6:30 pm Recovery in Christ<br>
 
-<b>Sunday, August 27</b><br> 9:45 am Sunday School<br> 11:00 am Worship Service<br>
+<b>Saturday, September 9</b><br> 9:00 am-1:00 pm Ministry Team Summit (Part One)<br>
+
+
+<b>Sunday, August 27</b><br> 9:45 am Sunday School<br> 11:00 am Worship Service<br>1:00-4:00 pm Ministry Team Summit (Part Two)<br>
 
 <!-- <hr>
 <h1>Special Events</h1>
