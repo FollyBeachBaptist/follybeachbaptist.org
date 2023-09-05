@@ -28,7 +28,7 @@ header:
 
 <hr>
 <h1>Deacon of the Week</h1>
-<b>August 6 </b> Rocky Burke<br> 
-<b>August 13</b> Robert Follin<br> 
-<b>August 20</b> Jerry Ulmer<br>
-<b>August 27</b> Marty Wright<br>
+<b>September 3 </b> Rocky Burke<br> 
+<b>September 10</b> Robert Follin<br> 
+<b>September 17</b> Jerry Ulmer<br>
+<b>September 24</b> Marty Wright<br>
