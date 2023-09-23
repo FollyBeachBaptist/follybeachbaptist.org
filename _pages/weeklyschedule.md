@@ -16,7 +16,7 @@ header:
 
 <b>Thursday, September 28</b><br> 10:30 am Girlfriend's Bible Study<br> 6:30 pm Recovery in Christ<br>
 
-<b>Sunday, October 1</b><br> 9:45 am Sunday School<br> 11:00 am Worship Service<br> 6:00 pm Night of Worship | Deserts and Coffee t<br>
+<b>Sunday, October 1</b><br> 9:45 am Sunday School<br> 11:00 am Worship Service<br> 6:00 pm Night of Worship & Deserts and Coffee t<br>
 
 <!-- <hr>
 <h1>Special Events</h1>
