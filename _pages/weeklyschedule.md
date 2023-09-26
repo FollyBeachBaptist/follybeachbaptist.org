@@ -18,8 +18,7 @@ header:
 
 <b>Sunday, October 1</b><br> [9:45 am] Sunday School<br> [11:00 am] Worship Service<br> [6:00 pm] Night of Worship & Deserts and Coffee<br>
 
-<hr>
-<h2>Operation Christmas Child</h2>
+<h1>Operation Christmas Child</h1>
 
 <b>Sunday, November 12</b><br> [6:00 pm -8:00 pm] "Christmas at the Beach" Packing Party<br>
 
