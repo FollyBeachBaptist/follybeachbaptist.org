@@ -20,9 +20,9 @@ header:
 
 <hr>
 
-<h1>Operation Christmas Child</h1>
+<h2>Operation Christmas Child</h2>
 
-<b>Sunday, November 12</b><br> <i>6:00-8:00 pm</i> "Christmas at the Beach" Packing Party<br>
+<b>Sunday, November 12</b><br> [6:00-8:00 pm] "Christmas at the Beach" Packing Party<br>
 
 <b>Monday, November 13</b><br> <i>6:00 pm - 8:00 pm</i> Collection Hours <br> 
 
