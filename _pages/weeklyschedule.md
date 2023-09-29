@@ -6,17 +6,17 @@ header:
   og_image: /assets/images/preview.jpg
 ---
 
-<b>Sunday, September 24</b><br> [9:45 am] Sunday School <br> [11:00 am] Worship Service <br>
-
-<b>Monday, September 25</b><br> [9:30 am] Moms in Prayer<br>[7:00 pm] No Men's Bible Study<br>
-
-<b>Tuesday, September 26</b><br> [9:30 am or 6:30 pm] Girlfriend's Bible Study<br>[6:30 pm] "Youth on the Edge"<br>
-
-<b>Wednesday, September 27</b><br> [6:30 pm] Prayer Meeting<br> [7:30 pm] Choir Practice<br>
-
-<b>Thursday, September 28</b><br> [10:30 am] Girlfriend's Bible Study<br> [6:30 pm] Recovery in Christ<br>
-
 <b>Sunday, October 1</b><br> [9:45 am] Sunday School<br> [11:00 am] Worship Service<br> [6:00 pm] Night of Worship & Deserts and Coffee<br>
+
+<b>Monday, October 25</b><br> [9:30 am] Moms in Prayer<br>[12:00 pm] Soup and Soul<br>[7:00 pm] No Men's Bible Study<br>
+
+<b>Tuesday, October 26</b><br> [9:30 am or 6:30 pm] Girlfriend's Bible Study<br>[6:30 pm] "Youth on the Edge"<br>
+
+<b>Wednesday, October 27</b><br> [6:30 pm] Prayer Meeting<br> [7:30 pm] Choir Practice<br>
+
+<b>Thursday, October 28</b><br> [10:30 am] Girlfriend's Bible Study<br> [6:30 pm] Recovery in Christ<br>
+
+<b>Sunday, October 8</b><br> [9:45 am] Sunday School<br> [11:00 am] Worship Service<br> [5:00 pm] Choir Practice<br>
 
 <h1>Operation Christmas Child</h1>
 
