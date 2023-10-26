@@ -18,6 +18,16 @@ header:
 
 <b>Sunday, October 29</b><br> [9:45 am] Sunday School<br> [11:00 am] Worship Service<br> [5:00 pm] Choir Practice<br>
 
+<b>Monday, October 30</b><br> [10:30 am] Moms in Prayer<br>[12:00 pm] Soup and Soul<br>[7:00 pm] No Men's Bible Study<br>
+
+<b>Tuesday, October 31</b><br> [9:30 am or 6:30 pm] Girlfriend's Bible Study<br>[Not Meeting] "Youth on the Edge"<br>
+
+<b>Wednesday, November 1</b><br> [6:30 pm] Business Meeting<br> [7:30 pm] Choir Practice<br>
+
+<b>Thursday, November 2</b><br> [10:30 am] Girlfriend's Bible Study<br> [6:30 pm] Recovery in Christ<br>
+
+<b>Sunday, November 3</b><br> [9:45 am] Sunday School<br> [11:00 am] Worship Service<br> [12:00 pm] OCC Pre-packing <br> [5:00 pm] Choir Practice<br>
+
 <h1>Operation Christmas Child</h1>
 
 <b>Sunday, November 12</b><br> [6:00 pm -8:00 pm] "Christmas at the Beach" Packing Party<br>
