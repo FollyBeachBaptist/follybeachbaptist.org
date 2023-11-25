@@ -5,14 +5,10 @@ author: default
 header:
   og_image: /assets/images/preview.jpg
 ---
-<b>Sunday, November 26</b><br> [9:45 am] Sunday School<br> [11:00 am] Worship Service<br> [6:00 pm] Choir Practice<br> [7:00 pm] Community Christmas Tree Lighting with Caroling<br>
+<b>Sunday, January 21</b><br> [9:45 am] Sunday School - “The Invisible War Part 1” in Classroom 8<br>
 
-<b>Monday, November 27</b><br> [10:30 am] Moms in Prayer<br>[12:00 pm] Soup and Soul Ministry<br>[7:00 pm] Men's Bible Study<br>
+<b>Sunday, January 28</b><br> [9:45 am] Sunday School - “The Invisible War Part 2” in Classroom 8<br>
 
-<b>Tuesday, November 28</b><br>[6:30 pm] "Youth on the Edge" Bible Study<br>
+<b>Sunday, February 4</b><br> [9:45 am] Sunday School - “The Invisible War Part 3” in Classroom 8<br>
 
-<b>Wednesday, November 29</b><br> [6:30 pm] Prayer Meeting<br> [7:30 pm] Choir Practice<br>
-
-<b>Thursday, November 30</b><br> [6:30 pm] Recovery in Christ<br>
-
-<b>Sunday, December 3</b><br> [9:45 am] Sunday School<br> [11:00 am] Worship Service<br>
+<b>Sunday, February 11</b><br> [9:45 am] Sunday School - “The Invisible War Part 4” in Classroom 8<br>
