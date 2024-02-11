@@ -30,3 +30,5 @@ plugins:
   - jekyll-gist
   - jemoji
   - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-feed
