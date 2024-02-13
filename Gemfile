@@ -8,9 +8,9 @@ gem "tzinfo-data"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 group :jekyll_plugins do
-  gem "jekyll-sitemap", '~> 228'
-  gem "jekyll-gist", '~> 228'
-  gem "jemoji", '~> 228'
-  gem "jekyll-include-cache", '~> 228'
-  gem "jekyll-algolia", '~> 228'
+  gem "jekyll-sitemap"
+  gem "jekyll-gist"
+  gem "jemoji"
+  gem "jekyll-include-cache"
+  gem "jekyll-algolia"
 end
