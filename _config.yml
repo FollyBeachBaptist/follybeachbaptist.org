@@ -8,7 +8,7 @@ description:
   A friendly and loving church situated in a beachfront community in Folly Beach, South Carolina.
 
 # Build settings
-title_separator: "|"
+#title_separator: "|"
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin:
