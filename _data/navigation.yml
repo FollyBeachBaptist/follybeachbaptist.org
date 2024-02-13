@@ -1,7 +1,5 @@
 # Navigation Bar (add, edit, or remove links)
 main:
-  - title: "Bible Study"
-    url: /biblestudy/
   - title: "Calendar"
     url: /calendar/
   - title: "Outreach"
