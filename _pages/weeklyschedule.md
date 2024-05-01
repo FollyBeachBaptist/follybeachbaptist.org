@@ -10,11 +10,11 @@ header:
 
 <b>Thursday, May 2</b><br> [12:00 pm] National Day of Prayer at Folly River Park<br> [6:30 pm] Recovery in Christ<br>
 
-<b>Sunday, May 5</b>[9:45 am] Sunday School<br> [11:00 am] Worship Service<br>
+<b>Sunday, May 5</b><br>[9:45 am] Sunday School<br> [11:00 am] Worship Service<br>
 
 <hr>
 <h1>Special Events</h1>
 
-<b>Movie Night</b><br> "The Jesus Revolution"<br> Sunday, June 23 at 6:00 pm<br> - Free admission, popcorn, and drinks<br>
+<b>Movie Night</b><br> "The Jesus Revolution"<br> Sunday, June 23 at 6:00 pm<br><i>Free admission, popcorn, and drinks</i><br>
 
 ![](/assets/images/jesus_revolution.png)
