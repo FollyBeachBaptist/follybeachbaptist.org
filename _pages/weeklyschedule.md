@@ -12,7 +12,9 @@ header:
 
 <b>Sunday, May 5</b>[9:45 am] Sunday School<br> [11:00 am] Worship Service<br>
 
-<!-- <hr>
+<hr>
 <h1>Special Events</h1>
 
-<b>Vacation Bible School</b><br> "Pets Unleashed"<br> July 21st-23rd<br> 6:00 pm to 8:45 pm<br> -->
+<b>Movie Night</b><br> "The Jesus Revolution"<br> Sunday, June 23 at 6:00 pm<br> - Free admission, popcorn, and drinks<br>
+
+![](/assets/images/jesus_revolution.png)
