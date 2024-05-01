@@ -1,5 +1,7 @@
 # Navigation Bar (add, edit, or remove links)
 main:
+  - title: "Movie Night"
+    url: /movienight/
   - title: "Calendar"
     url: /calendar/
   - title: "Outreach"
