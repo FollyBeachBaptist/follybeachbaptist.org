@@ -6,15 +6,26 @@ header:
   og_image: /assets/images/preview.jpg
 ---
 
-<b>Wednesday, May 1</b><br> [5:30 pm] Building & Grounds Meeting<br>[6:30 pm] Prayer Meeting<br> [7:30 pm] Choir Practice<br>
+**Wednesday, May 1**  
+[5:30 pm] Building & Grounds Meeting  
+[6:30 pm] Prayer Meeting  
+[7:30 pm] Choir Practice  
 
-<b>Thursday, May 2</b><br> [12:00 pm] National Day of Prayer at Folly River Park<br> [6:30 pm] Recovery in Christ<br>
+**Thursday, May 2**  
+[12:00 pm] National Day of Prayer at Folly River Park  
+[6:30 pm] Recovery in Christ  
 
-<b>Sunday, May 5</b><br>[9:45 am] Sunday School<br> [11:00 am] Worship Service<br>
+**Sunday, May 5**  
+[9:45 am] Sunday School  
+[11:00 am] Worship Service  
 
-<hr>
-<h1>Special Events</h1>
+---
 
-<b>Movie Night</b><br> "The Jesus Revolution"<br> Sunday, June 23 at 6:00 pm<br><i>Free admission, popcorn, and drinks</i><br>
+# Special Events
 
-![](/assets/images/jesus_revolution.png)
+**Movie Night**  
+"The Jesus Revolution"  
+Sunday, June 23 at 6:00 pm  
+*Free admission, popcorn, and drinks*
+
+![Jesus Revolution](/assets/images/jesus_revolution.png)
