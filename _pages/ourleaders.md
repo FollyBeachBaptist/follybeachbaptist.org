@@ -3,7 +3,7 @@ title: "Our Leaders"
 permalink: /ourleaders/
 author: default
 header:
-  image: ourleaders.jpg
+  image: /assets/images/ourleaders.jpg
   og_image: /assets/images/preview.jpg
 ---
 
