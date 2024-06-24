@@ -17,7 +17,6 @@ default:
       icon: "fab fa-facebook fa-fw"
       url: "https://www.facebook.com/FollyBeachBaptistChurch/"
 
-
 # For youth pages
 youth:
   bio: "<h3>Meeting Times</h3><b>Tuesday Nights</b><br>6:30pm"
