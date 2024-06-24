@@ -1,5 +1,7 @@
 # Navigation Bar (add, edit, or remove links)
 main:
+  - title: "Announcements"
+    url: /announcements/
   - title: "Calendar"
     url: /calendar/
   - title: "Outreach"
