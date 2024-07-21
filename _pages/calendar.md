@@ -15,7 +15,7 @@ header:
 
 **Tuesday, July 23**  
 [9:30 am or 6:30 pm] Women’s Bible Study  
-[6:30 pm] “Youth on the Edge” Bible Study (off campus)
+[6:30 pm] “Youth on the Edge” Bible Study
 
 **Wednesday, July 24**  
 [5:30 pm] Building and Grounds Meeting  
