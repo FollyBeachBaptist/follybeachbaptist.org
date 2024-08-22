@@ -40,7 +40,7 @@ Marie Schultz
 
 # Deacon of the Week
 
-**June 2** Rocky Burke  
-**June 9** Robert Follin  
-**June 16** Jerry Ulmer  
-**June 23** Marty Wright
+**August 4** George Willis  
+**August 11** Robert Follin  
+**August 18** Jerry Ulmer  
+**August 25** Marty Wright
