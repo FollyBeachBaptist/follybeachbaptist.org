@@ -7,35 +7,35 @@ header:
 ---
 
 **Sunday, September 8**  
-- 9:00 am: Deacon’s Meeting  
-- 9:45 am: Sunday School  
-- 11:00 am: Worship Service  
-- 6:30 pm: “On the Edge Student Ministry”
+[9:00 am] Deacon’s Meeting  
+[9:45 am] Sunday School  
+[11:00 am] Worship Service  
+[6:30 pm] “On the Edge Student Ministry”
 
 **Monday, September 9**  
-- 10:30 am: Mom’s in Prayer  
-- 6:45 pm: Men’s Bible Study
+[10:30 am] Mom’s in Prayer  
+[6:45 pm] Men’s Bible Study
 
 **Tuesday, September 10**  
-- 11:00 am: WMU  
-- 6:30 pm: Women’s Bible Study
+[11:00 am] WMU  
+[6:30 pm] Women’s Bible Study
 
 **Wednesday, September 11**  
-- 5:30 pm: Building and Grounds  
-- 6:30 pm: Prayer Meeting  
-- 7:30 pm: Choir Practice
+[5:30 pm] Building and Grounds  
+[6:30 pm] Prayer Meeting  
+[7:30 pm] Choir Practice
 
 **Thursday, September 12**  
-- 5:00 pm: Prayer at the Pier  
-- 6:30 pm: Recovery in Christ
+[5:00 pm] Prayer at the Pier  
+[6:30 pm] Recovery in Christ
 
 **Saturday, September 14**  
-- 8:30 am: Ministry Team Summit
+[8:30 am] Ministry Team Summit
 
 **Sunday, September 15**  
-- 9:45 am: Sunday School  
-- 11:00 am: Worship Service  
-- 6:30 pm: “On the Edge Student Ministry”
+[9:45 am] Sunday School  
+[11:00 am] Worship Service  
+[6:30 pm] “On the Edge Student Ministry”
 
 <!--
 
