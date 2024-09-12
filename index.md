@@ -1,10 +1,4 @@
 ---
-author_profile: true
-author: default
-layout: single
-header:
-  image: /assets/images/welcome.jpg
-  og_image: /assets/images/preview.jpg
 title: "Welcome"
 ---
 
