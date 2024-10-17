@@ -16,5 +16,5 @@ so ministry will not be hindered at Folly Beach Baptist Church?
 
 Donations for this project can be given online by using
 [this secure link](https://secure.myvanco.com/L-Z0TS/campaign/C-13R83), by placing your gift in a
-"Love God, Love HIs Church" envelope and placing it in the offering plate, or simply dropping a
+"Love God, Love His Church" envelope and placing it in the offering plate, or simply dropping a
 check off by the church. Thank you for your support and let's see what God is going to do!
