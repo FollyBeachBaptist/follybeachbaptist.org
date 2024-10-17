@@ -6,32 +6,33 @@ header:
   og_image: /assets/images/preview.jpg
 ---
 
-**Sunday, September 29**  
+**Sunday, October 13**  
 [9:45 am] Sunday School  
 [11:00 am] Worship Service  
-[5:00 pm] “On the Edge Student Ministry”
+[5:00 pm] “On the Edge Student Ministry”  
 
-**Monday, September 30**  
+**Monday, October 14**  
 [10:30 am] Moms in Prayer  
-[6:45 pm] Men’s Bible Study
+[12:00 pm] Soup and Soul  
+[6:45 pm] Men’s Bible Study  
 
-**Tuesday, October 1**  
+**Tuesday, October 15**  
 [9:30 am] Women’s Bible Study  
-[6:30 pm] Women’s Bible Study
+[6:30 pm] Women’s Bible Study  
 
-**Wednesday, October 2**  
+**Wednesday, October 16**  
 [5:30 pm] Building and Grounds  
 [6:30 pm] Prayer Meeting  
-[7:30 pm] Choir Practice
+[7:30 pm] Choir Practice  
 
-**Thursday, October 3**  
+**Thursday, October 17**  
 [10:00 am] Women’s Bible Study  
-[6:30 pm] Recovery in Christ
+[6:30 pm] Recovery in Christ  
 
-**Sunday, October 6**  
+**Sunday, October 20**  
 [9:45 am] Sunday School  
 [11:00 am] Worship Service  
-[5:00 pm] “On the Edge Student Ministry”
+[5:00 pm] “On the Edge Student Ministry” 
 
 <!--
 
