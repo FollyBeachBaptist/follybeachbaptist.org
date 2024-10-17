@@ -40,8 +40,7 @@ Marie Schultz
 
 # Deacon of the Week
 
-**September 1** George Willis  
-**September 8** Robert Follin  
-**September 15** Jerry Ulmer  
-**September 22** Marty Wright  
-**September 29** Richard Harriss
+**October 6** George Willis  
+**October 13** Robert Follin  
+**October 20** Jerry Ulmer  
+**October 27** Marty Wright  
