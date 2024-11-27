@@ -27,6 +27,4 @@ include:
   - _pages
 plugins:
   - jekyll-sitemap
-  - jekyll-gist
-  - jemoji
   - jekyll-include-cache
