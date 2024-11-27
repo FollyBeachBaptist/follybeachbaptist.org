@@ -1,0 +1,32 @@
+# Top Navigation Bar
+title: Folly Beach Baptist Church
+subtitle: "At The Edge of America"
+logo: "/assets/images/88x88.png"
+
+# Google Description
+description:
+  A friendly and loving church situated in a beachfront community in Folly Beach, South Carolina.
+
+# Build settings
+title_separator: "|"
+repository: FollyBeachBaptist/follybeachbaptist.org
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin:
+search: false
+defaults:
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+permalink: /
+include:
+  - _pages
+plugins:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jemoji
+  - jekyll-include-cache

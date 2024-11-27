@@ -1,0 +1,26 @@
+# For main church pages
+default:
+  bio:
+    "<h3>Service Times</h3><b>Sunday School</b><br> 9:45am <br><b>Sunday Mornings</b><br> 11:00am
+    <br><b>Sunday Evenings</b><br>See [Calendar](/calendar)"
+  links:
+    - label: "Give Online"
+      icon: "fas fa-hand-holding-usd fa-fw"
+      url: "https://secure.myvanco.com/L-Z0TS/home"
+    - label: "Watch Online"
+      icon: "fas fa-laptop-house fa-fw"
+      url: "https://www.facebook.com/FollyBeachBaptistChurch/videos"
+    - label: "Email Us"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:info@follybeachbaptist.org"
+    - label: "Facebook"
+      icon: "fab fa-facebook fa-fw"
+      url: "https://www.facebook.com/FollyBeachBaptistChurch/"
+
+# For youth pages
+youth:
+  bio: "<h3>Meeting Times</h3><b>Tuesday Nights</b><br>6:30pm"
+  links:
+    - label: "Facebook"
+      icon: "fab fa-facebook fa-fw"
+      url: "https://www.facebook.com/1Timothyfourtwelve"

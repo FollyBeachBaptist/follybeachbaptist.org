@@ -1,0 +1,14 @@
+# Navigation Bar (add, edit, or remove links)
+main:
+  - title: "OCC Drop-off"
+    url: /occ/
+  - title: "Announcements"
+    url: /announcements/
+  - title: "Calendar"
+    url: /calendar/
+  - title: "Outreach"
+    url: /outreach/
+  - title: "Youth"
+    url: /youth/
+  - title: "Our Leaders"
+    url: /ourleaders/
