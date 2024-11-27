@@ -1,7 +1,5 @@
 # Navigation Bar (add, edit, or remove links)
 main:
-  - title: "OCC Drop-off"
-    url: /occ/
   - title: "Announcements"
     url: /announcements/
   - title: "Calendar"
