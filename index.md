@@ -6,6 +6,7 @@ header:
   image: /assets/images/welcome.jpg
   og_image: /assets/images/preview.jpg
 title: "Welcome"
+header: false
 ---
 
 Thank you for visiting our site.
