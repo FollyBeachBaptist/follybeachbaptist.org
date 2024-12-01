@@ -9,11 +9,9 @@ title: "Welcome"
 header_title: ""
 ---
 
-Thank you for visiting our site.
+Thank you for visiting our site, we are so excited that you are here!
 
-## Welcome to Folly Beach Baptist Church!
-
-We are so excited that you are here. We are a fellowship of Christ followers who are committed to:
+We are a fellowship of Christ followers who are committed to:
 
 **Reaching** Everyone with the Gospel (Romans 1:16)  
 **Raising** Believers in the Scripture (2 Timothy 3:16-17)  
