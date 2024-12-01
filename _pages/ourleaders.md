@@ -40,7 +40,7 @@ Marie Schultz
 
 # Deacon of the Week
 
-**November 3** George Willis  
-**November 10** Robert Follin  
-**November 17** Jerry Ulmer  
-**November 24** Marty Wright  
+**December 1** George Willis  
+**December 8** Robert Follin  
+**December 15** Jerry Ulmer  
+**December 22** Marty Wright
