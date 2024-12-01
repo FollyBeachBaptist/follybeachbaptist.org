@@ -6,33 +6,29 @@ header:
   og_image: /assets/images/preview.jpg
 ---
 
-**Sunday, November 17**  
+**Sunday, December 1**  
 [9:45 am] Sunday School  
 [11:00 am] Worship Service  
 [5:00 pm] "On the Edge" Student Ministry  
-[6:00 pm] "Christmas at the Beach"
+[7:00 pm] Christmas Tree Lighting  
 
-**Monday, November 18**  
+**Monday, December 2**  
 [10:30 am] Moms in Prayer  
 [12:00 pm] Soup and Soul  
 [6:45 pm] Men’s Bible Study  
 
-**Tuesday, November 19**  
-[9:30 am] Women’s Bible Study  
-
-**Wednesday, November 20**  
+**Wednesday, December 4**  
 [5:30 pm] Building and Grounds Committee Meeting  
-[6:30 pm] Business Meeting  
+[6:30 pm] Prayer Meeting  
 [7:30 pm] Choir Practice  
 
-**Thursday, November 21**  
-[10:00 am] Women’s Bible Study  
+**Thursday, December 5**  
 [6:30 pm] Recovery in Christ  
 
-**Sunday, November 24**  
+**Sunday, December 8**  
 [9:45 am] Sunday School  
 [11:00 am] Worship Service  
-[6:00 pm] Community Thanksgiving Dinner (hosted by United Methodist)
+[5:00 pm] "On the Edge" Student Ministry
 
 <!--
 
