@@ -44,3 +44,4 @@ Marie Schultz
 **December 8** Robert Follin  
 **December 15** Jerry Ulmer  
 **December 22** Marty Wright
+**December 29** Richard Harriss
