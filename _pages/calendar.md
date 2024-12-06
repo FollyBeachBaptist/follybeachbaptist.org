@@ -6,29 +6,34 @@ header:
   og_image: /assets/images/preview.jpg
 ---
 
-**Sunday, December 1**  
+**Today, December 8**  
 [9:45 am] Sunday School  
 [11:00 am] Worship Service  
 [5:00 pm] "On the Edge" Student Ministry  
-[7:00 pm] Christmas Tree Lighting  
 
-**Monday, December 2**  
+**Monday, December 9**  
 [10:30 am] Moms in Prayer  
 [12:00 pm] Soup and Soul  
 [6:45 pm] Men’s Bible Study  
 
-**Wednesday, December 4**  
+**Tuesday, December 10**  
+[11:00 am] WMU  
+
+**Wednesday, December 11**  
 [5:30 pm] Building and Grounds Committee Meeting  
 [6:30 pm] Prayer Meeting  
 [7:30 pm] Choir Practice  
 
-**Thursday, December 5**  
+**Thursday, December 12**  
 [6:30 pm] Recovery in Christ  
 
-**Sunday, December 8**  
+**Saturday, December 14**  
+Birthday Party for Jesus (following Christmas Parade!)  
+
+**Sunday, December 15**  
 [9:45 am] Sunday School  
 [11:00 am] Worship Service  
-[5:00 pm] "On the Edge" Student Ministry
+[5:00 pm] "On the Edge" Student Ministry Christmas Party  
 
 <!--
 
