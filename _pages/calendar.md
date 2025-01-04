@@ -6,34 +6,29 @@ header:
   og_image: /assets/images/preview.jpg
 ---
 
-**Today, December 8**  
+**Sunday, January 5**  
+[9:00 am] Deacon Meeting  
 [9:45 am] Sunday School  
 [11:00 am] Worship Service  
 [5:00 pm] "On the Edge" Student Ministry  
 
-**Monday, December 9**  
+**Monday, January 6**  
 [10:30 am] Moms in Prayer  
-[12:00 pm] Soup and Soul  
+[12:00 pm] Soup and Soul Ministry  
 [6:45 pm] Men’s Bible Study  
 
-**Tuesday, December 10**  
-[11:00 am] WMU  
-
-**Wednesday, December 11**  
+**Wednesday, January 8**  
 [5:30 pm] Building and Grounds Committee Meeting  
 [6:30 pm] Prayer Meeting  
 [7:30 pm] Choir Practice  
 
-**Thursday, December 12**  
+**Thursday, January 9**  
 [6:30 pm] Recovery in Christ  
 
-**Saturday, December 14**  
-Birthday Party for Jesus (following Christmas Parade!)  
-
-**Sunday, December 15**  
+**Sunday, January 12**  
 [9:45 am] Sunday School  
 [11:00 am] Worship Service  
-[5:00 pm] "On the Edge" Student Ministry Christmas Party  
+[5:00 pm] "On the Edge" Student Ministry  
 
 <!--
 
