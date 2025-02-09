@@ -6,30 +6,33 @@ header:
   og_image: /assets/images/preview.jpg
 ---
 
-**Today, January 26**  
+**Sunday, February 9**  
 [9:45 am] Sunday School  
 [11:00 am] Worship Service  
 [5:00 pm] “On the Edge” Student Ministry  
 
-**Monday, January 27**  
+**Monday, February 10**  
 [10:30 am] Moms in Prayer  
+[12:00 am] Soup and Soul  
 [6:45 pm] Men’s Bible Study  
 
-**Tuesday, January 28**  
+**Tuesday, February 11**  
 [9:30 am & 6:30 pm] Girlfriend’s Bible Study  
+[11:00 am] WMU  
 
-**Wednesday, January 29**  
-[6:30 pm] Business Meeting  
-[7:30 pm] Choir Practice  
+**Wednesday, February 12**  
+[6:30 pm] Valentine Banquet
 
-**Thursday, January 30**  
-[10:00 am] Girlfriend’s Bible Study  
+**Thursday, February 13**  
+[10:00 am] Girlfriend’s Bible Study
+[5:00 pm] Prayer at the Pier  
 [6:30 pm] Recovery in Christ  
 
-**Sunday, February 2**  
+**Sunday, February 16**  
 [9:45 am] Sunday School  
 [11:00 am] Worship Service  
-[5:00 pm] Church Council    
+[5:00 pm] “On the Edge” Student Ministry  
+[6:00 pm] "Discover Folly Beach Baptist Church"    
 
 <!--
 
