@@ -6,8 +6,13 @@ header:
   og_image: /assets/images/preview.jpg
 ---
 
+<!--
+**Example Day**
+[10:00 am] Two Spaces At The End Of The Line ->
+-->
+
 **Thursday, February 13**  
-[10:00 am] Girlfriend’s Bible Study
+[10:00 am] Girlfriend’s Bible Study  
 [5:00 pm] Prayer at the Pier  
 [6:30 pm] Recovery in Christ  
 
