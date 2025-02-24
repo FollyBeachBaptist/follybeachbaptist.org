@@ -11,10 +11,10 @@ header:
 <i class="fas fa-mobile-alt fa-fw"></i> 843-478-6779  
 <i class="far fa-envelope fa-fw"></i> dclarkcarter@gmail.com
 
-**Music Director and Pastor Emeritus | Rev. Richard Summey**  
+**Pastor Emeritus | Rev. Richard Summey**  
 <i class="fas fa-mobile-alt fa-fw"></i> 843-793-8623
 
-**Youth Pastor | Billy Smith**  
+**Associate Pastor/ Student Minister | Rev. Billy Smith**  
 <i class="fas fa-mobile-alt fa-fw"></i> 843-460-7737  
 <i class="far fa-envelope fa-fw"></i> superdad8586@yahoo.com
 
