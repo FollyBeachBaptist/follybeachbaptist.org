@@ -27,7 +27,7 @@ Who needs recovery? Anyone whose relationship with God, family and others falls 
 standards for our lives. In other words, we all do to some degree. We meet Thursdays at 6:30pm
 in the education building at Folly Beach Baptist Church.
 Access is through the office door located in the rear of the church on West Indian avenue. 
-**Contact Pastor Billy Smith at 843-460-7737 or Superdad8586@yahoo.com**if you would like more information.
+**Contact Pastor Billy Smith at 843-460-7737 or Superdad8586@yahoo.com** if you would like more information.
 **2 Corinthians 5:17** "Therefore if anyone is in Christ, he is a new creation. The old has passed away;
 behold, the new has come."
 
