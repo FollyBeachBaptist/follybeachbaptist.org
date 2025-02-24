@@ -12,7 +12,7 @@ Operation Christmas Child demonstrated God's love in a tangible way. We pack sho
 toys, school supplies and hygiene items for boys and girls ages 2-14. We collect donations of items
 and money from March through October and then purchase and pack items into boxes to be distributed
 to children around the world. For additional information in contributing or volunteering, please
-contact Terry Smith at 843-534-6730. Check
+contact Danielle Willis at 843-224-0873. Check
 [here](https://www.samaritanspurse.org/operation-christmas-child/what-goes-in-my-shoebox-suggestions/)
 for suggested gifts and prohibited items.
 
