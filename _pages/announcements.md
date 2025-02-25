@@ -21,10 +21,10 @@ to this FREE event! Join us and gain a more full understanding of this holy seas
 We have childcare provided during our morning worship service for ages birth through 4 years old!  We also have small group studies for all ages (preschool, children, youth, and adults) on Sunday mornings from 9:45 a.m. until 10:45 a.m.  
 
 
-**"Love God Love His Church"** 
+**Love God, Love His Church** 
 
-Donations given to the _Love God Love His Church_ go directly to maintaining our buildings, grounds and facilities. 
+Donations given to the _Love God, Love His Church_ go directly to maintaining our buildings, grounds and facilities. 
 Donations can be given online by using
 [this secure link](https://secure.myvanco.com/L-Z0TS/campaign/C-13R83), or by placing your gift in a
-"Love God, Love His Church" envelope and placing it in the offering plate, or simply dropping a
+_Love God, Love His Church_ envelope and placing it in the offering plate, or simply dropping a
 check off by the church. Thank you for your support as we continue to be good stewards of the things with which God has entrusted us.
