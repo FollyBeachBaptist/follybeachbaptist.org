@@ -6,8 +6,24 @@ header:
   og_image: /assets/images/preview.jpg
 ---
 
-"Love God Love His Church" donations go directly to maintaining our buildings, grounds and facilities. 
+**Messiah in the Passover** 
 
+Do you want to have a deeper understanding of the Easter message? Have you ever
+wondered how the life, death, burial, and resurrection of Jesus was connected to the
+Passover Celebration? Let’s get some answers!
+You are invited to join us for the Chosen People Ministries presentation, “Messiah in
+the Passover” on **Sunday, April 6, beginning at 6 p.m.** The entire community is invited
+to this FREE event! Join us and gain a more full understanding of this holy season!
+
+
+**Childcare Provided**
+
+We have childcare provided during our morning worship service for ages birth through 4 years old!  We also have small group studies for all ages (preschool, children, youth, and adults) on Sunday mornings from 9:45 a.m. until 10:45 a.m.  
+
+
+**"Love God Love His Church"** 
+
+Donations given to the _Love God Love His Church_ go directly to maintaining our buildings, grounds and facilities. 
 Donations can be given online by using
 [this secure link](https://secure.myvanco.com/L-Z0TS/campaign/C-13R83), or by placing your gift in a
 "Love God, Love His Church" envelope and placing it in the offering plate, or simply dropping a
