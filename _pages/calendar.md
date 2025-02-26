@@ -11,38 +11,40 @@ header:
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
 
-**Thursday, February 13**  
-[10:00 am] Girlfriend’s Bible Study  
-[5:00 pm] Prayer at the Pier  
-[6:30 pm] Recovery in Christ  
+  
+  
+  
+ 
 
-**Sunday, February 16**  
-[9:45 am] Sunday School  
-[11:00 am] Worship Service  
-[5:00 pm] “On the Edge” Student Ministry  
-[6:00 pm] "Discover Folly Beach Baptist Church"    
+**Sunday, March 2** 
+9:00 am Deacon's Meeting
+9:45 am Sunday School  
+11:00 am Worship Service  
+5:00 pm On the Edge Student Ministry  
+6:00 pm "Discover Folly Beach Baptist Church"    
 
-**Monday, February 17**  
-[10:30 am] Moms in Prayer  
-[12:00 am] Soup and Soul  
-[6:45 pm] Men’s Bible Study  
+**Monday, March 3**  
+10:30 am  Moms in Prayer  
+12:00 pm Soup and Soul  
+6:45 pm Men’s Bible Study  
 
-**Tuesday, February 18**  
-[9:30 am & 6:30 pm] Girlfriend’s Bible Study  
+**Tuesday, March 4**  
+9:30 am & 6:30 pm Women’s Bible Study  
 
-**Wednesday, February 19**  
-[5:30 pm] Building and Grounds  
-[6:30 pm] Prayer Meeting  
-[7:30 pm] Choir Practice
+**Wednesday, March 5**  
+5:30 pm Building and Grounds  
+6:30 pm Prayer Cottage  
+7:30 pm Choir Practice
 
-**Thursday, February 20**  
-[10:00 am] Girlfriend’s Bible Study  
-[6:30 pm] Recovery in Christ  
+**Thursday, March 6**  
+10:00 am Women’s Bible Study  
+6:30 pm Recovery in Christ  
 
-**Sunday, February 24**  
-[9:45 am] Sunday School  
-[11:00 am] Worship Service  
-[5:00 pm] “On the Edge” Student Ministry  
+**Sunday, March 9**  
+9:45 am Sunday School  
+11:00 am Worship Service  
+5:00 pm  On the Edge Student Ministry
+6:00 pm "Discover Folly Beach Baptist Church"
 
 <!--
 
