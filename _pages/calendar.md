@@ -11,7 +11,9 @@ header:
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
 **Sunday, March 2**
+
 9:00 am Deacon's Meeting
+
 9:45 am Sunday School  
 11:00 am Worship Service  
 5:00 pm On the Edge Student Ministry  
