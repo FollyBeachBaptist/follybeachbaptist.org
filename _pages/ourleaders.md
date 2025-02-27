@@ -38,12 +38,13 @@ Marie Schultz
 
 ---
 
-# Deacon of the Week
+# Deacons
 
-**March 2** Travis Rodgers  
-**March 9** Robert Follin  
-**March 16** Jerry Ulmer  
-**March 23** Marty Wright
-**March 30** Richard Harriss
+George Willis, Chairman  
+Travis Rogers    
+Robert Follin    
+Jerry Ulmer    
+Marty Wright  
+Richard Harriss  
 
 
