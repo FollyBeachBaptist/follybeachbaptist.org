@@ -32,14 +32,14 @@ header:
 
 **Thursday, March 6**  
 10:00 am Women’s Bible Study  
- 6:00 pm Prayer Cottage
+ 6:00 pm Prayer Cottage  
  6:30 pm Recovery in Christ
  
 
 **Sunday, March 9**  
  9:45 am Sunday School  
 11:00 am Worship Service  
- 5:00 pm On the Edge Student Ministry
+ 5:00 pm On the Edge Student Ministry  
  6:00 pm "Discover Folly Beach Baptist Church"
 
 <!--
