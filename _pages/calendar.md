@@ -11,37 +11,35 @@ header:
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
 **Sunday, March 2**
-
-9:00 am Deacon's Meeting
-
-9:45 am Sunday School  
+ 9:00 am Deacon's Meeting
+ 9:45 am Sunday School  
 11:00 am Worship Service  
-5:00 pm On the Edge Student Ministry  
-6:00 pm "Discover Folly Beach Baptist Church"    
+ 5:00 pm On the Edge Student Ministry  
+ 6:00 pm "Discover Folly Beach Baptist Church"    
 
 **Monday, March 3**  
 10:30 am  Moms in Prayer  
-12:00 pm Soup and Soul  
-6:45 pm Men’s Bible Study  
+12:00 pm  Soup and Soul Ministry  
+ 6:45 pm  Men’s Bible Study  
 
 **Tuesday, March 4**  
-9:30 am & 6:30 pm Women’s Bible Study  
+ 9:30 am & 6:30 pm Women’s Bible Study  
 
 **Wednesday, March 5**  
-5:30 pm Building and Grounds  
-6:30 pm Prayer Cottage  
-7:30 pm Choir Practice
+ 5:30 pm Building and Grounds  
+ 6:30 pm Prayer Cottage  
+ 7:30 pm Choir Practice
 
 **Thursday, March 6**  
 10:00 am Women’s Bible Study  
-6:30 pm Recovery in Christ  
+ 6:00 pm Prayer Cottage
+ 6:30 pm Recovery in Christ  
 
 **Sunday, March 9**  
-9:45 am Sunday School  
+ 9:45 am Sunday School  
 11:00 am Worship Service  
-5:00 pm  On the Edge Student Ministry
-
-6:00 pm "Discover Folly Beach Baptist Church"
+ 5:00 pm  On the Edge Student Ministry
+ 6:00 pm "Discover Folly Beach Baptist Church"
 
 <!--
 
