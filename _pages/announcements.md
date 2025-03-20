@@ -20,8 +20,8 @@ to this FREE event! Join us and gain a more full understanding of this holy seas
 
 **Richard and Debbie Summey Retirement Reception**  
 The community is invited to join us for Richard and Debbie Summey’s Retirement Reception on Saturday, May 10, from 2-4 p.m. in the church's Fellowship Hall.  This wonderful couple has faithfully ministered to the Folly Beach Community for over a decade and a half.  Gifts, smiles, and hugs are welcomed and appreciated.  Plan to drop in to thank and bless the Summeys!  
-REGISTER HERE - 
-](https://docs.google.com/document/d/1v0g9V4zo0mivIr-P1HZ7SVwUb0r_ihR2rI0_SHBO3pk/edit?usp=sharing)   
+[REGISTER HERE](https://docs.google.com/document/d/1v0g9V4zo0mivIr-P1HZ7SVwUb0r_ihR2rI0_SHBO3pk/edit?usp=sharing)
+   
 
 **Childcare Provided**  
 We have childcare provided during our morning worship service for ages birth through 4 years old!  We also have small group studies for all ages (preschool, children, youth, and adults) on Sunday mornings from 9:45 a.m. until 10:45 a.m.  
