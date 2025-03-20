@@ -14,15 +14,17 @@ header:
  9:45 am Sunday School  
 11:00 am Worship Service  
  5:00 pm On the Edge Student Ministry  
- 6:00 pm "Discover Folly Beach Baptist Church"    
+ 6:00 pm "Discover Folly Beach Baptist Church"   
+ At The Parsonage
 
 **Monday, March 24**  
 10:30 am  Moms in Prayer  
 12:00 pm  Soup and Soul Ministry  
  6:45 pm  Men’s Bible Study  
 
-**Tuesday, March 25**  
- 9:30 am & 6:30 pm Women’s Bible Study  
+**Tuesday, March 25**   
+ 9:30 am & 6:30 pm Women’s Bible Study   
+ 11:00 am to 2:00pm Community Grocery Bus
 
 **Wednesday, March 26**  
  5:30 pm Building and Grounds  
@@ -39,7 +41,7 @@ header:
  9:45 am Sunday School  
 11:00 am Worship Service  
  5:00 pm On the Edge Student Ministry  
- 6:00 pm "Discover Folly Beach Baptist Church"
+ 6:00 pm Tunes and Testimonies
 
 <!--
 
