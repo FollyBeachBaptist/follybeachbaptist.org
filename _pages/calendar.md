@@ -37,7 +37,7 @@ header:
 **Sunday, March 30**  
  9:45 am Sunday School  
 11:00 am Worship Service  
- 5:00 pm On the Edge Student Ministry Youth Bowling  
+ 5:00 pm On the Edge Student Ministry  
  6:00 pm "Discover Folly Beach Baptist Church"
 
 <!--
