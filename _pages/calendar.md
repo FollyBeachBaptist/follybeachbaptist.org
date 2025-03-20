@@ -30,7 +30,7 @@ header:
  7:30 pm Choir Practice
 
 **Thursday, March 27**  
-10:00 am Women's Bible Study
+10:00 am Women's Bible Study  
  6:00 pm Prayer Cottage  
  6:30 pm Recovery in Christ
  
