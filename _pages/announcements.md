@@ -18,15 +18,12 @@ the Passover” on **Sunday, April 6, beginning at 6 p.m.** The entire community
 to this FREE event! Join us and gain a more full understanding of this holy season!
 
 
+**Richard and Debbie Summey Retirement Reception**  
+The community is invited to join us for Richard and Debbie Summey’s Retirement Reception on Saturday, May 10, from 2-4 p.m. in the church's Fellowship Hall.  This wonderful couple has faithfully ministered to the Folly Beach Community for over a decade and a half.  Gifts, smiles, and hugs are welcomed and appreciated.  Plan to drop in to thank and bless the Summeys!  
+REGISTER HERE
+
 **Childcare Provided**
 
 We have childcare provided during our morning worship service for ages birth through 4 years old!  We also have small group studies for all ages (preschool, children, youth, and adults) on Sunday mornings from 9:45 a.m. until 10:45 a.m.  
 
 
-**Love God, Love His Church** 
-
-Donations given to the _Love God, Love His Church_ go directly to maintaining our buildings, grounds and facilities. 
-Donations can be given online by using
-[this secure link](https://secure.myvanco.com/L-Z0TS/campaign/C-13R83), or by placing your gift in a
-_Love God, Love His Church_ envelope and placing it in the offering plate, or simply dropping a
-check off by the church. Thank you for your support as we continue to be good stewards of the things with which God has entrusted us.
