@@ -16,7 +16,7 @@ Passover Celebration? Let’s get some answers!
 You are invited to join us for the Chosen People Ministries presentation, “Messiah in
 the Passover” on **Sunday, April 6, beginning at 6 p.m.** The entire community is invited
 to this FREE event! Join us and gain a more full understanding of this holy season!  
-![](https://github.com/FollyBeachBaptist/follybeachbaptist.org/blob/ead26ed4276e56416e65a67b64ddcbc0a47bacfa/assets/images/Summeys_page-0001.jpg)
+![](https://github.com/FollyBeachBaptist/follybeachbaptist.org/blob/ead26ed4276e56416e65a67b64ddcbc0a47bacfa/assets/images/Summeys_page-0001.jpg)  
 **Richard and Debbie Summey Celebration Week, May 4-10**   
 The community is invited to join us for Richard and Debbie Summey’s Celebration Week.  Below are descriptions of each event and links to register.  
 
