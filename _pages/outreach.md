@@ -50,5 +50,5 @@ within the year.
 
 **Pantry Closet**  
 FBBC believes in ministering to the body as well as the soul. To this end, we have a Pantry Closet
-for those in need. Please contact **Pastor Clark Carter at 843-793-6779** or the church office at
+for those in need. Please contact **Pastor Clark Carter at 843-478-6779** or the church office at
 **843-588-9414** to schedule a time to visit the closet.
