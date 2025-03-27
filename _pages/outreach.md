@@ -32,11 +32,10 @@ Access is through the office door located in the rear of the church on West Indi
 behold, the new has come."
 
 **Virtual Prayer Meeting**  
-Wednesday night Hour of Power is a virtual prayer evening that occurs every Wednesday at 6:30 on
-[Facebook Live](https://www.facebook.com/FollyBeachBaptistChurch/). You can text or private message
-Pastor Richard Summey before Wednesday with your prayer requests at 843-793-8623. Or you may leave a
-message with your prayer request at 843-588-2309. Sign in on Wednesday to participate in praying for
-those with needs.
+**Wednesday Night Hour of Power** is a virtual prayer service broadcasting Wednesdays at 6:30pm on
+[Facebook Live](https://www.facebook.com/FollyBeachBaptistChurch/). To pray with us simply go to our page Wednesdays at 6:30. You can text or private message
+**Pastor Clark Carter** before Wednesday with your prayer requests at **843-478-6779**. Or you may leave a
+message with your prayer request at **843-588-9414**. 
 
 **Seafarer's Ministry**  
 The FBBC parishioners knit or crochet caps for the International Seafarer's Ministry as Christmas
