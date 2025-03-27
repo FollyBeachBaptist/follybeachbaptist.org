@@ -8,7 +8,7 @@ author: default
 ---
 
 **Operation Christmas Child**  
-Operation Christmas Child demonstrated God's love in a tangible way. We pack shoebox gifts with
+Operation Christmas Child demonstrates God's love in a tangible way. We pack shoebox gifts with
 toys, school supplies and hygiene items for boys and girls ages 2-14. We collect donations of items
 and money from March through October and then purchase and pack items into boxes to be distributed
 to children around the world. For additional information in contributing or volunteering, please
