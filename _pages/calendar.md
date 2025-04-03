@@ -41,6 +41,10 @@ header:
 11:00 am Worship Service    
  6:00 pm "Messiah in the Passover" Seder meal presentation
 
+**Sunday, April 20**  
+**7:00  am Sunrise Service on the Pier**  
+**11:00 am Worship Service in the Sanctuary**
+
 <!--
 
 # Special Events
