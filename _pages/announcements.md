@@ -19,7 +19,7 @@ to this FREE event! Join us and gain a more full understanding of this holy seas
 
 **EASTER SUNRISE SERVICE**  
 Everyone is invited to Join the Folly Beach Community of Faith for the **Annual Easter Sunrise Service**   
-on the **Folly Beach Pier April 20 at 7 a.m.**  
+on the **Folly Beach Pier, April 20 at 7 a.m.**  
     
 **RICHARD AND DEBBIE SUMMEY CELEBRATION WEEK, MAY 4-10**   
 The community is invited to join us for Richard and Debbie Summey’s Celebration Week.  Below are descriptions of each event and links to register.  
