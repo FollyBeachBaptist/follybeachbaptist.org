@@ -17,9 +17,10 @@ You are invited to join us for the Chosen People Ministries presentation, “Mes
 the Passover” on **Sunday, April 6, beginning at 6 p.m.** The entire community is invited
 to this FREE event! Join us and gain a more full understanding of this holy season!  
 
-    **EASTER SUNRISE SERVICE**
-    Everyone is invited to Join the Folly Beach Community of Faith for the **Annual Easter Sunrise Service**   
-    on the **Folly Beach Pier April 20th at 7:00am**  
+**EASTER SUNRISE SERVICE**  
+
+Everyone is invited to Join the Folly Beach Community of Faith for the **Annual Easter Sunrise Service**   
+on the **Folly Beach Pier April 20th at 7:00am**  
     
 **RICHARD AND DEBBIE SUMMEY CELEBRATION WEEK, MAY 4-10**   
 The community is invited to join us for Richard and Debbie Summey’s Celebration Week.  Below are descriptions of each event and links to register.  
