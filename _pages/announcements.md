@@ -23,6 +23,7 @@ Everyone is invited to Join the Folly Beach Community of Faith for the **Annual 
 on the **Folly Beach Pier, April 20 at 7 a.m.**  
 
 <img src="/assets/images/Summeys_page-0001.jpg" alt="Announcement Image">  
+
 **RICHARD AND DEBBIE SUMMEY CELEBRATION WEEK, MAY 4-10**   
 The community is invited to join us for Richard and Debbie Summey’s Celebration Week.  Below are descriptions of each event and links to register.  
 
@@ -43,7 +44,7 @@ The community is invited to join us for Richard and Debbie Summey’s Celebratio
 
 **Friday, May 9**  
 Take a break and prepare for tomorrow!  
-
+    
 **Saturday, May 10, 2 - 4 p.m. in the Fellowship Hall**  
 This wonderful couple has faithfully ministered to the Folly Beach Community for over a decade and a half.  Gifts, smiles, and hugs are welcomed and appreciated.  Plan to drop in to thank and bless the Summeys!  
 Register [HERE](https://docs.google.com/document/d/1v0g9V4zo0mivIr-P1HZ7SVwUb0r_ihR2rI0_SHBO3pk/edit?usp=sharing)
