@@ -17,7 +17,7 @@ You are invited to join us for the Chosen People Ministries presentation, “Mes
 the Passover” on **Sunday, April 6, beginning at 6 p.m.** The entire community is invited
 to this FREE event! Join us and gain a more full understanding of this holy season!  
 
-**EASTER SUNRISE SERVICE**  
+![Church View](images/church_view.jpg)**EASTER SUNRISE SERVICE**  
 Everyone is invited to Join the Folly Beach Community of Faith for the **Annual Easter Sunrise Service**   
 on the **Folly Beach Pier, April 20 at 7 a.m.**  
     
