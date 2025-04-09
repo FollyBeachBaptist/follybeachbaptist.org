@@ -16,7 +16,10 @@ on the **Folly Beach Pier, April 20 at 7 a.m.**
 ![Announcement Image](https://raw.githubusercontent.com/FollyBeachBaptist/follybeachbaptist.org/main/assets/images/2025%20Theme%20SM%20Graphic.jpeg)  You are invited to join us for the **National Day of Prayer** at the Folly River Park at Folly Beach (right across the street from the church) on Thursday, May 1, beginning at 6 p.m. Immediatly following the community-wide event, stay and enjoy free hotdogs, chips, and drinks. Bring the entire family and enjoy an encouraging evening together!  
 <hr>
 
-![Announcement Image](https://github.com/FollyBeachBaptist/follybeachbaptist.org/blob/main/assets/images/Summy%20Celebration.jpg)  
+![Announcement Image](https://raw.githubusercontent.com/FollyBeachBaptist/follybeachbaptist.org/main/assets/images/Summy%20Celebration.jpg)  
+**RICHARD AND DEBBIE SUMMEY CELEBRATION WEEK, MAY 4-10**   
+The community is invited to join us for Richard and Debbie Summey’s Celebration Week.  Below are descriptions of each event and links to register.
+...
 **RICHARD AND DEBBIE SUMMEY CELEBRATION WEEK, MAY 4-10**   
 The community is invited to join us for Richard and Debbie Summey’s Celebration Week.  Below are descriptions of each event and links to register.  
 
