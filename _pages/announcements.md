@@ -18,9 +18,6 @@ on the **Folly Beach Pier, April 20 at 7 a.m.**
 
 ![Announcement Image](https://raw.githubusercontent.com/FollyBeachBaptist/follybeachbaptist.org/main/assets/images/Summy%20Celebration.jpg)  
 **RICHARD AND DEBBIE SUMMEY CELEBRATION WEEK, MAY 4-10**   
-The community is invited to join us for Richard and Debbie Summey’s Celebration Week.  Below are descriptions of each event and links to register.
-...
-**RICHARD AND DEBBIE SUMMEY CELEBRATION WEEK, MAY 4-10**   
 The community is invited to join us for Richard and Debbie Summey’s Celebration Week.  Below are descriptions of each event and links to register.  
 
 **Sunday, May 4, 11 a.m. - 12:30 p.m. in the Sanctuary**  
