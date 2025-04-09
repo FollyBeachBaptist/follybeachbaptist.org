@@ -10,7 +10,6 @@ header:
 **EASTER SUNRISE SERVICE**  
 Everyone is invited to Join the Folly Beach Community of Faith for the **Annual Easter Sunrise Service**   
 on the **Folly Beach Pier, April 20 at 7 a.m.**  
-<br>
 
 <hr> 
   
