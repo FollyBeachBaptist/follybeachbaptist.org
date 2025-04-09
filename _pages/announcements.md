@@ -12,10 +12,11 @@ Everyone is invited to Join the Folly Beach Community of Faith for the **Annual 
 on the **Folly Beach Pier, April 20 at 7 a.m.**  
 <br>
 
-<br>  
+<hr> 
   
 ![Announcement Image](https://github.com/FollyBeachBaptist/follybeachbaptist.org/blob/main/assets/images/2025%20Theme%20SM%20Graphic.jpeg)    
 You are invited to join us for the **National Day of Prayer** at the Folly River Park at Folly Beach (right across the street from the church) on Thursday, May 1, beginning at 6 p.m. Immediatly following the community-wide event, stay and enjoy free hotdogs, chips, and drinks. Bring the entire family and enjoy an encouraging evening together!  
+<hr>
 
 <img src="/assets/images/Summeys_page-0001.jpg" alt="Announcement Image">  
 
@@ -43,7 +44,7 @@ Take a break and prepare for tomorrow!
 **Saturday, May 10, 2 - 4 p.m. in the Fellowship Hall**  
 This wonderful couple has faithfully ministered to the Folly Beach Community for over a decade and a half.  Gifts, smiles, and hugs are welcomed and appreciated.  Plan to drop in to thank and bless the Summeys!  
 Register [HERE](https://docs.google.com/document/d/1v0g9V4zo0mivIr-P1HZ7SVwUb0r_ihR2rI0_SHBO3pk/edit?usp=sharing)
-   
+<hr>   
 
 **Childcare Provided**  
 We have childcare provided during our morning worship service for ages birth through 4 years old!  We also have small group studies for all ages (preschool, children, youth, and adults) on Sunday mornings from 9:45 a.m. until 10:45 a.m.  
