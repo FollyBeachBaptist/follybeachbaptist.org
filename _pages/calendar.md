@@ -11,7 +11,7 @@ header:
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
 **Sunday, April 13**  
-**Palm Sunday**
+**Palm Sunday**  
  **9:45 am** Sunday School  
 **11:00 am** Worship Service  
 **5:00 pm** Student Ministry  
@@ -35,7 +35,8 @@ header:
 **6:00 pm** Prayer Cottage  
 **6:30 pm** Recovery In Christ
  
-**Sunday, April 20 EASTER SUNDAY**    
+**Sunday, April 20   
+EASTER SUNDAY**    
 **7:00am** **Sunrise Service on the Pier**  
  **9:45 am** Sunday School  
 **11:00 am** Worship Service    
