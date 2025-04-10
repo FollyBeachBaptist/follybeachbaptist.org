@@ -49,7 +49,8 @@ We have childcare provided during our morning worship service for ages birth thr
 
 
 **SUMMER SONRISE SERVICE**  
-Join us for **Summer Sonrise Service**, beginning **Sunday, June 1st at 8:30am**  
+Join us for **Summer Sonrise Service**,  
+beginning **Sunday, June 1st at 8:30am**  
 in the **Original Sanctuary** building!  
 **Free coffee, Good People, Great God!**   
 Bring your family and start your day at the beach the right way.  
