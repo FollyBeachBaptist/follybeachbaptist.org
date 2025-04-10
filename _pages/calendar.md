@@ -14,7 +14,7 @@ header:
 **Palm Sunday**
  **9:45 am** Sunday School  
 **11:00 am** Worship Service  
-**5:00 pm** Student Ministry
+**5:00 pm** Student Ministry  
  **6:00 pm** Discover FBBC
 
 **Monday, April 14**  
