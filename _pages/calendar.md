@@ -60,6 +60,62 @@ EASTER SUNDAY**
   **Sunday, May 25**  
   **6:00 pm** Special Evening Worship in the Fellowship Hall  
 
+  **Monday, May 26**  
+  **Last Soup and Soul before Summer Break**  
+  **Soup and Soul will resume Oct 6**
+
+  **Sunday, June 1**  
+  **8:30 am**  
+  **Very First SUMMER SONRISE SERVICE**  
+
+
+  **Sunday, June 22**  
+  **6:00 pm** Movie Night "Unsung Hero"  
+
+  **Sunday, June 29**  
+  **Patriotic Musical**  
+
+  **Wednesday, July 16**  
+  **6:30 pm** Quarterly Business Meeting  
+
+  **Sunday, July 27**  
+  **6:00 pm** Movie Night  
+
+  **Sunday, August 24**  
+  **6:00 pm** Movie Night**  
+
+  **Sunday, September 14**  
+  **Ministry Team Summit**  
+
+  **Monday, October 6**  
+  **12:00 pm Soup and Soul resumes**
+
+  **Monday, October 13-16**
+  **Celebrator's Conference, Pigeon Forge, TN**
+
+  **Wednesday, October 22**  
+  **6:30 pm** Quarterly Business Meeting  
+
+  **Sunday, November 16**  
+  **5:00 pm to 8:00 pm**  
+  **"Christmas at the Beach"**  
+  **Operation Christmas Child Packing Party**  
+
+  **Monday, November 17-24**  
+  Operation Christmas Child Collection Week  
+
+  **Saturday, December 13**  
+  Birthday Party For Jesus  
+
+  **Sunday, December 14**  
+  Christmas Musical  
+
+  **Wednesday, December 24**  
+  **CHRISTMAS EVE**  
+  **5:00 pm Evening Service**
+
+    
+
     
 
 
