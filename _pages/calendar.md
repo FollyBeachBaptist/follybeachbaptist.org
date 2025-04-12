@@ -41,7 +41,16 @@ header:
 EASTER SUNDAY**    
 **7:00am** **Sunrise Service on the Pier**  
  **9:45 am** Sunday School  
-**11:00 am** Worship Service    
+**11:00 am** Worship Service     
+<hr>  
+
+  **UPCOMING EVENTS**  
+
+  **Thursday, May 1**  
+  **6:00 pm** National Day of Prayer in Folly River Park  
+
+  **Sunday, May 4**  
+  **5:00 pm** Church Council Meeting
 
 
 
