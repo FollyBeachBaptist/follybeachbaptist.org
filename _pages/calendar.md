@@ -50,7 +50,17 @@ EASTER SUNDAY**
   **6:00 pm** National Day of Prayer in Folly River Park  
 
   **Sunday, May 4**  
-  **5:00 pm** Church Council Meeting
+  **5:00 pm** Church Council Meeting  
+
+  **Saturday, May 10**  
+  **2:00 pm to 4:00 pm**  
+  Richard and Debbie Summey Community Celebration  
+  In the Fellowship Hall  
+
+  **Sunday, May 25**  
+  **6:00 pm** Special Evening Worship in the Fellowship Hall  
+
+    
 
 
 
