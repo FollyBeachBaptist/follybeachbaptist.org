@@ -32,7 +32,8 @@ header:
 
 **Thursday, April 17**  
 **10:00 am** Women's Bible Study   
-**6:00 pm**  Maundy Thursday Service at Folly Beach Methodist Church
+**6:00 pm**   
+Maundy Thursday Service at Folly Beach Methodist Church
 
 **Friday, April 18**  
 **Good Friday** Church offices closed
