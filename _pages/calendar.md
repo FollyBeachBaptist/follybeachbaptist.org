@@ -58,7 +58,7 @@ EASTER SUNDAY**
   In the Fellowship Hall  
 
   **Sunday, May 25**  
-  **6:00 pm** Special Evening Worship in the Fellowship Hall  
+  **6:00 pm** Special Evening of Worship in the Fellowship Hall  
 
   **Monday, May 26**  
   **Last Soup and Soul before Summer Break**  
@@ -82,7 +82,7 @@ EASTER SUNDAY**
   **6:00 pm** Movie Night  
 
   **Sunday, August 24**  
-  **6:00 pm** Movie Night**  
+  **6:00 pm** Movie Night  
 
   **Sunday, September 14**  
   **Ministry Team Summit**  
@@ -90,7 +90,7 @@ EASTER SUNDAY**
   **Monday, October 6**  
   **12:00 pm Soup and Soul resumes**
 
-  **Monday, October 13-16**
+  **Monday, October 13-16**  
   **Celebrator's Conference, Pigeon Forge, TN**
 
   **Wednesday, October 22**  
