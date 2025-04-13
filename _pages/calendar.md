@@ -69,6 +69,10 @@ EASTER SUNDAY**
   **8:30 am**  
   **Very First SUMMER SONRISE SERVICE**  
 
+  **Sunday, June 15**  
+  Low Country Pregnancy Center  
+  Baby Bottles Collection Day
+
 
   **Sunday, June 22**  
   **6:00 pm** Movie Night "Unsung Hero"  
