@@ -74,7 +74,7 @@ EASTER SUNDAY**
   **6:00 pm** Movie Night "Unsung Hero"  
 
   **Sunday, June 29**  
-  **Patriotic Musical**  
+  **6:00 pm**  Patriotic Musical 
 
   **Wednesday, July 16**  
   **6:30 pm** Quarterly Business Meeting  
@@ -109,7 +109,7 @@ EASTER SUNDAY**
   Birthday Party For Jesus  
 
   **Sunday, December 14**  
-  Christmas Musical  
+  **6:00 pm** Christmas Musical  
 
   **Wednesday, December 24**  
   **CHRISTMAS EVE**  
