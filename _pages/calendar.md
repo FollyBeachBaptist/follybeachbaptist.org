@@ -12,7 +12,7 @@ header:
 -->
 **Sunday, April 20**  
 **Easter Sunday**  
-**7:00 am** Sunrise Service on the Pier
+**7:00 am** Sunrise Service on the Pier  
  **9:45 am** Sunday School  
 **11:00 am** Worship Service   
 **No Evening Activities**
