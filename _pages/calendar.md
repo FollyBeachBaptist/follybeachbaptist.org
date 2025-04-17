@@ -10,12 +10,14 @@ header:
 **Example Day**
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
-**Sunday, April 13**  
-**Palm Sunday**  
+**Sunday, April 20**  
+**Easter Sunday**  
+**7:00 am** Sunrise Service on the Pier
  **9:45 am** Sunday School  
-**11:00 am** Worship Service  
-**5:00 pm** Student Ministry  
- **6:00 pm** Discover FBBC
+**11:00 am** Worship Service   
+**No Evening Activities**
+  
+ 
 
 **Monday, April 14**  
 **10:30 am**  Moms in Prayer  
