@@ -19,32 +19,29 @@ header:
   
  
 
-**Monday, April 14**  
+**Monday, April 21**  
 **10:30 am**  Moms in Prayer  
 **12:00 pm**  Soup and Soul Ministry  
  **6:45 pm**  Men’s Bible Study  
 
-**Tuesday, April 15**   
+**Tuesday, April 22**   
  **9:30 am & 6:30 pm** Women’s Bible Study   
- **11:00am -2:00pm** Community Grocery Bus in Parking Lot
+  
  
-**Wednesday, April 16**   
- **6:30 pm** Quarterly Business Meeting  
+**Wednesday, April 23**   
+ **5:30 pm** Building and Grounds meeting  
+ **6:30 pm** Prayer Cottage   
  **7:30 pm** Choir Practice
 
-**Thursday, April 17**  
+**Thursday, April 24**  
 **10:00 am** Women's Bible Study   
-**6:00 pm**  
-Maundy Thursday Service at Folly Beach Methodist Church
-
-**Friday, April 18**  
-**Good Friday** Church offices closed
+**6:00 pm** Prayer Cottage  
+**6:30 pm** Recovery in Christ
  
-**Sunday, April 20   
-EASTER SUNDAY**    
-**7:00am** **Sunrise Service on the Pier**  
- **9:45 am** Sunday School  
-**11:00 am** Worship Service     
+**Sunday, April 27**   
+**9:45 am** Sunday School  
+**11:00 am** Worship Service  
+**5:00 pm** Student Ministry
 <hr>  
 
   **UPCOMING EVENTS**  
