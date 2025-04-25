@@ -10,38 +10,39 @@ header:
 **Example Day**
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
-**Sunday, April 20**  
-**Easter Sunday**  
-**7:00 am** Sunrise Service on the Pier  
+**Sunday, April 27**    
  **9:45 am** Sunday School  
 **11:00 am** Worship Service   
-**No Evening Activities**
+**5:00 pm** Student Ministry  
+**6:00 pm** Discover FBBC
   
  
 
-**Monday, April 21**  
+**Monday, April 28**  
 **10:30 am**  Moms in Prayer  
 **12:00 pm**  Soup and Soul Ministry  
  **6:45 pm**  Men’s Bible Study  
 
-**Tuesday, April 22**   
- **9:30 am & 6:30 pm** Women’s Bible Study   
+**Tuesday, April 29**   
+ **9:30 am & 6:30 pm**  
+ Women’s Bible Study   
   
  
-**Wednesday, April 23**   
+**Wednesday, April 30**   
  **5:30 pm** Building and Grounds meeting  
  **6:30 pm** Prayer Cottage   
  **7:30 pm** Choir Practice
 
-**Thursday, April 24**  
+**Thursday, May 1**  
 **10:00 am** Women's Bible Study   
-**6:00 pm** Prayer Cottage  
-**6:30 pm** Recovery in Christ
+**6:00 pm** National Day of Prayer  
+             At Folly River Park
+
  
-**Sunday, April 27**   
+**Sunday, May 4**   
 **9:45 am** Sunday School  
 **11:00 am** Worship Service  
-**5:00 pm** Student Ministry
+**5:00 pm** Church Council
 <hr>  
 
   **UPCOMING EVENTS**  
