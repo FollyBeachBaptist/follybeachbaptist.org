@@ -42,7 +42,8 @@ header:
 **Sunday, May 4**   
 **9:45 am** Sunday School  
 **11:00 am** Worship Service  
-**5:00 pm** Church Council
+**5:00 pm** Church Council  
+**NO YOUTH MEETING TONIGHT**
 <hr>  
 
   **UPCOMING EVENTS**  
@@ -78,7 +79,7 @@ header:
   **6:00 pm** Movie Night "Unsung Hero"  
 
   **Sunday, June 29**  
-  **6:00 pm**  Patriotic Musical 
+  **11:00 am**  Patriotic Musical 
 
   **Wednesday, July 16**  
   **6:30 pm** Quarterly Business Meeting  
