@@ -57,14 +57,18 @@ header:
   **Saturday, May 10**  
   **2:00 pm to 4:00 pm**  
   Richard and Debbie Summey Community Celebration  
-  In the Fellowship Hall  
+  In the Fellowship Hall   
+
+  **Monday, May 19**  
+  **12:00 pm** Last Soup and Soul of 2024-2025  
+  **Soup and Soul resumes October 6th**
 
   **Sunday, May 25**  
   **6:00 pm** Special Evening of Worship in the Fellowship Hall  
 
-  **Monday, May 26**  
-  **Last Soup and Soul before Summer Break**  
-  **Soup and Soul will resume Oct 6**
+  
+    
+  
 
   **Sunday, June 1**  
   **8:30 am**  
