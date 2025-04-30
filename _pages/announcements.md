@@ -19,7 +19,7 @@ Immediatly following the community-wide event, stay and enjoy free hotdogs, chip
 The community is invited to join us for Richard and Debbie Summey’s Celebration Week.  Below are descriptions of each event and links to register.    
 **To register online for this event you must have the Google Docs app**  **(This app is FREE)** .  
 
-**You may also call the Church Office at 843-460-7737 and leave  
+**You may also call the Church Office at 843-588-9414 and leave  
 a message with your name and how many will be in your party**.
 
 **Sunday, May 4, 11 a.m. - 12:30 p.m. in the Sanctuary**  
@@ -41,7 +41,9 @@ a message with your name and how many will be in your party**.
 Take a break and prepare for tomorrow!  
     
 **Saturday, May 10, 2 - 4 p.m. in the Fellowship Hall**  
-This wonderful couple has faithfully ministered to the Folly Beach Community for over a decade and a half.  Gifts, smiles, and hugs are welcomed and appreciated.  Plan to drop in to thank and bless the Summeys!  
+This wonderful couple has faithfully ministered to the Folly Beach Community for over a decade and a half.  Gifts, smiles, and hugs are welcomed and appreciated.  
+If you would like to bless Richard and Debbie with an honorarium, please make your checks directly payable to them, not the church.  
+Plan to drop in to thank Richard and Debbie and enjoy some sweet fellowship!  
 Register [HERE](https://docs.google.com/document/d/1v0g9V4zo0mivIr-P1HZ7SVwUb0r_ihR2rI0_SHBO3pk/edit?usp=sharing)
 <hr>   
 
