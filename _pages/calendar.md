@@ -10,22 +10,24 @@ header:
 **Example Day**
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
-**Sunday, April 27**    
+**Sunday, May 4**    
  **9:45 am** Sunday School  
 **11:00 am** Worship Service   
-**5:00 pm** Student Ministry  
-**6:00 pm** Discover FBBC
+**5:00 pm** Church Council Meeting  
+
   
  
 
-**Monday, April 28**  
+**Monday, May 5**  
 **10:30 am**  Moms in Prayer  
 **12:00 pm**  Soup and Soul Ministry  
  **6:45 pm**  Men’s Bible Study  
 
-**Tuesday, April 29**   
+**Tuesday, May 6**   
  **9:30 am & 6:30 pm**  
  Women’s Bible Study   
+ **10:00 am - 12:00 pm**  
+ **WMU Tea Luncheon for Debbie Summey**
   
  
 **Wednesday, April 30**   
