@@ -30,22 +30,26 @@ header:
  **WMU Tea Luncheon for Debbie Summey**
   
  
-**Wednesday, April 30**   
- **5:30 pm** Building and Grounds meeting  
- **6:30 pm** Prayer Cottage   
+**Wednesday, May 7**   
+ **6:00 pm - 7:00 pm** PotLuck Dinner for Richard and Debbie  
  **7:30 pm** Choir Practice
 
-**Thursday, May 1**  
+**Thursday, May 8**  
 **10:00 am** Women's Bible Study   
-**6:00 pm** National Day of Prayer  
-             At Folly River Park
+**6:30 pm - 7:30 pm**   
+Recovery In Christ Meeting   
+
+**Saturday, May 1o**  
+**2:00 pm - 4:00pm**  
+Richard and Debbie Summey Community Reception
 
  
-**Sunday, May 4**   
+**Sunday, May 11**   
+**MOTHER'S DAY**  
 **9:45 am** Sunday School  
 **11:00 am** Worship Service  
-**5:00 pm** Church Council  
-**NO YOUTH MEETING TONIGHT**
+**5:00 pm** On The Edge Youth Meeting 
+
 <hr>  
 
   **UPCOMING EVENTS**  
