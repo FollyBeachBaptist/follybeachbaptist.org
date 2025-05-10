@@ -26,5 +26,8 @@ beginning **Sunday, June 1st at 8:30am**
 in the **Original Sanctuary** building!  
 **Free coffee, Good People, Great God!**   
 Bring your family and start your day at the beach the right way.  
-Casual dress is welcome, ALL ARE INVITED!
+Casual dress is welcome, ALL ARE INVITED!  
+
+  <hr>  
+  For More Information, Check out "Upcoming Events" on the Calendar page
 
