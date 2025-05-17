@@ -10,48 +10,44 @@ header:
 **Example Day**
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
-**Sunday, May 11**   
-**Happy Mother's Day!!**  
+**Sunday, May 18**   
  **9:45 am** Sunday School  
 **11:00 am** Worship Service   
-**No evening activities** 
+**5:00 pm** Student Ministrty  
+**Discover FBBC Not Meeting**
 
   
  
 
-**Monday, May 12**  
+**Monday, May 19**  
 **10:30 am**  Moms in Prayer  
-**12:00 pm**  Soup and Soul Ministry  
+**12:00 pm**  Soup and Soul Ministry   
+**(Last one until October 6th)**  
  **6:45 pm**  Men’s Bible Study  
 
-**Tuesday, May 13**   
+**Tuesday, May 20**   
  **9:30 am & 6:30 pm**  
  Women’s Bible Study   
  
   
  
-**Wednesday, May 14**  
+**Wednesday, May 21**  
  **5:30 pm**  Building and Grounds meeting  
- **6:30 pm** Prayer Cottage  
+ **6:30 pm** Prayer Cottage in the Conference room  
  **7:30 pm**  Choir Practice
 
-**Thursday, May 15**  
+**Thursday, May 22**  
 **10:00 am** Women's Bible Study   
-**6:30 pm - 7:30 pm**   
+**6:00 pm - 7:00 pm (New Time)**   
 Recovery In Christ Meeting   
 
-**Sunday, May 18**  
+**Sunday, May 25**  
 **9:45 am** Sunday School  
 **11:00 am** Worship Service  
 **5:00 pm** Student Ministry  
 **6:00 pm** Discover FBBC
 
 
- 
-**Monday, May 19**    
-**12:00 pm -1:00 pm**
-Last Soup and Soul Meal of 2024-2025 season  
-Resumes October 6th 
 
 <hr>  
 
