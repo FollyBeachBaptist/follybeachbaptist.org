@@ -10,38 +10,38 @@ header:
 **Example Day**
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
-**Sunday, May 18**   
+**Sunday, May 25**   
  **9:45 am** Sunday School  
 **11:00 am** Worship Service   
 **5:00 pm** Student Ministrty  
-**Discover FBBC Not Meeting**
+**6:00 pm** Discover FBBC  
+**6:00 pm** Trial Run of Sonrise Serfice
 
   
  
 
-**Monday, May 19**  
-**10:30 am**  Moms in Prayer  
-**12:00 pm**  Soup and Soul Ministry   
-**(Last one until October 6th)**  
+**Monday, May 26**  
+**10:30 am**  Moms in Prayer   
  **6:45 pm**  Men’s Bible Study  
 
-**Tuesday, May 20**   
+**Tuesday, May 27**   
  **9:30 am & 6:30 pm**  
  Women’s Bible Study   
  
   
  
-**Wednesday, May 21**  
+**Wednesday, May 28**  
  **5:30 pm**  Building and Grounds meeting  
- **6:30 pm** Prayer Cottage in the Conference room  
+ **6:30 pm** Prayer Cottage  
  **7:30 pm**  Choir Practice
 
-**Thursday, May 22**  
+**Thursday, May 29**  
 **10:00 am** Women's Bible Study   
 **6:00 pm - 7:00 pm (New Time)**   
 Recovery In Christ Meeting   
 
-**Sunday, May 25**  
+**Sunday, June 1**   
+**8:30 am** Summer Sonrise Service  
 **9:45 am** Sunday School  
 **11:00 am** Worship Service  
 **5:00 pm** Student Ministry  
@@ -51,23 +51,10 @@ Recovery In Christ Meeting
 
 <hr>  
 
-  **UPCOMING EVENTS**  
-
-
-  **Monday, May 19**  
-  **12:00 pm** Last Soup and Soul of 2024-2025  
-  **Soup and Soul resumes October 6th**
+  **UPCOMING EVENTS**
 
   **Sunday, May 25**  
-  **6:00 pm** Special Evening of Worship in the Fellowship Hall  
-
-  
-    
-  
-
-  **Sunday, June 1**  
-  **8:30 am**  
-  **Very First SUMMER SONRISE SERVICE**  
+  **6:00 pm** Special Evening of Worship in the Fellowship Hall   
 
   **Sunday, June 15**  
   Low Country Pregnancy Center  
@@ -89,7 +76,7 @@ Recovery In Christ Meeting
   **Sunday, August 24**  
   **6:00 pm** Movie Night  
 
-  **Sunday, September 14**  
+  **Sunday, September 21**  
   **Ministry Team Summit**  
 
   **Monday, October 6**  
