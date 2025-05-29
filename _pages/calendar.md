@@ -10,37 +10,37 @@ header:
 **Example Day**
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
-**Sunday, May 25**   
+**Sunday, June 1**   
+**8:30 am** Summer Sonrise Service  
  **9:45 am** Sunday School  
 **11:00 am** Worship Service   
 **5:00 pm** Student Ministrty  
 **6:00 pm** Discover FBBC  
-**6:00 pm** Trial Run of Sonrise Serfice
+
 
   
  
 
-**Monday, May 26**  
-**10:30 am**  Moms in Prayer   
- **6:45 pm**  Men’s Bible Study  
+**Monday, June 2**  
+**6:45 pm**  Men’s Bible Study  
 
-**Tuesday, May 27**   
+**Tuesday, June 3**   
  **9:30 am & 6:30 pm**  
  Women’s Bible Study   
  
   
  
-**Wednesday, May 28**  
+**Wednesday, June 4**  
  **5:30 pm**  Building and Grounds meeting  
  **6:30 pm** Prayer Cottage  
  **7:30 pm**  Choir Practice
 
-**Thursday, May 29**  
+**Thursday, June 5**  
 **10:00 am** Women's Bible Study   
 **6:00 pm - 7:00 pm (New Time)**   
 Recovery In Christ Meeting   
 
-**Sunday, June 1**   
+**Sunday, June 8**   
 **8:30 am** Summer Sonrise Service  
 **9:45 am** Sunday School  
 **11:00 am** Worship Service  
@@ -52,9 +52,7 @@ Recovery In Christ Meeting
 <hr>  
 
   **UPCOMING EVENTS**
-
-  **Sunday, May 25**  
-  **6:00 pm** Special Evening of Worship in the Fellowship Hall   
+ 
 
   **Sunday, June 15**  
   Low Country Pregnancy Center  
@@ -75,6 +73,9 @@ Recovery In Christ Meeting
 
   **Sunday, August 24**  
   **6:00 pm** Movie Night  
+
+  **Monday, August 25**  
+  **10:30 am** Moms In Prayer resumes
 
   **Sunday, September 21**  
   **Ministry Team Summit**  
