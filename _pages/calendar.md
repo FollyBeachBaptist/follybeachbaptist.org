@@ -21,12 +21,14 @@ header:
   
  
 
-**Monday, June 2**  
+**Monday, June 2**    
+**First Baptist Church of Bristol, Tn Mission Team arrives**  
+
 **6:45 pm**  Men’s Bible Study  
 
 **Tuesday, June 3**   
  **9:30 am & 6:30 pm**  
- Women’s Bible Study   
+ Women’s Bible Study  
  
   
  
@@ -51,7 +53,12 @@ Recovery In Christ Meeting
 
 <hr>  
 
-  **UPCOMING EVENTS**
+  **UPCOMING EVENTS**  
+
+**Monday, June 2-3**  
+First Baptist Church of Bristol, Tn   
+Restoring Fellowship Hall Bathrooms  
+And other repairs at the Church and Parsonage
  
 
   **Sunday, June 15**  
