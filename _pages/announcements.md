@@ -10,7 +10,19 @@ header:
 
 <hr> 
   
+**Movie Night**
+Bring your entire family for some free movies this summer! Popcorn and drinks are provided for FREE!  The movies will be on the 4th Sunday night of June, July, and August and will begin at 6 p.m. in the Fellowship Hall.  
 
+Unsung Hero
+June 22
+
+
+TBA
+July 27
+
+TBA
+August 24
+<hr>
 
 
 **Worship Service Childcare Provided**  
