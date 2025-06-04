@@ -15,7 +15,7 @@ Bring your entire family for some free movies this summer! Popcorn and drinks ar
 
 Unsung Hero
 June 22
-![Church Announcement](assets/imagaes/unsung-hero.jpg) 
+![Alt text](/assets/images/unsung-hero.jpg)
 
 TBA
 July 27
