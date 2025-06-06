@@ -10,55 +10,45 @@ header:
 **Example Day**
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
-**Sunday, June 1**   
+**Sunday, June 8**   
 **8:30 am** Summer Sonrise Service  
  **9:45 am** Sunday School  
 **11:00 am** Worship Service   
 **5:00 pm** Student Ministrty  
-**6:00 pm** Discover FBBC  
+**6:00 pm** Discover FBBC   
 
 
-  
+
+**Monday, June 9**    
+ **6:45 pm**  Men’s Bible Study  
  
-
-**Monday, June 2**    
-**First Baptist Church of Bristol, Tn Mission Team arrives**  
-
-**6:45 pm**  Men’s Bible Study  
-
-**Tuesday, June 3**   
- **9:30 am & 6:30 pm**  
- Women’s Bible Study  
  
   
- 
-**Wednesday, June 4**  
+**Wednesday, June 11**  
  **5:30 pm**  Building and Grounds meeting  
  **6:30 pm** Prayer Cottage  
  **7:30 pm**  Choir Practice
 
-**Thursday, June 5**  
-**10:00 am** Women's Bible Study   
-**6:00 pm - 7:00 pm (New Time)**   
-Recovery In Christ Meeting   
+**Thursday, June 12**  
+**5:00 pm** Prayer at the Pier  
+**6:00 pm** Recovery In Christ Meeting   
 
-**Sunday, June 8**   
+**Sunday, June 15**  
+**Father's Day**   
+
+**LCPC Baby Bottles Due**  
+
 **8:30 am** Summer Sonrise Service  
 **9:45 am** Sunday School  
 **11:00 am** Worship Service  
 **5:00 pm** Student Ministry  
-**6:00 pm** Discover FBBC
+
 
 
 
 <hr>  
 
-  **UPCOMING EVENTS**  
-
-**Monday, June 2-3**  
-First Baptist Church of Bristol, Tn   
-Restoring Fellowship Hall Bathrooms  
-And other repairs at the Church and Parsonage
+  **UPCOMING EVENTS** 
  
 
   **Sunday, June 15**  
