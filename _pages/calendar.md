@@ -10,38 +10,36 @@ header:
 **Example Day**
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
-**Sunday, June 8**   
+**Sunday, June 15**   
+**Father's Day**  
+**LCPC Baby Bottles are Due**  
 **8:30 am** Summer Sonrise Service  
  **9:45 am** Sunday School  
 **11:00 am** Worship Service   
-**5:00 pm** Student Ministrty  
-**6:00 pm** Discover FBBC   
+**5:00 pm** Student Ministrty **Meeting at Demetre Park** 
+ 
 
 
 
-**Monday, June 9**    
+**Monday, June 16**    
  **6:45 pm**  Men’s Bible Study  
  
  
   
-**Wednesday, June 11**  
+**Wednesday, June 18**  
  **5:30 pm**  Building and Grounds meeting  
  **6:30 pm** Prayer Cottage  
  **7:30 pm**  Choir Practice
 
-**Thursday, June 12**  
-**5:00 pm** Prayer at the Pier  
+**Thursday, June 19**   
 **6:00 pm** Recovery In Christ Meeting   
 
-**Sunday, June 15**  
-**Father's Day**   
-
-**LCPC Baby Bottles Due**  
-
+**Sunday, June 22**  
 **8:30 am** Summer Sonrise Service  
 **9:45 am** Sunday School  
 **11:00 am** Worship Service  
-**5:00 pm** Student Ministry  
+**6:00 pm** MOVIE NIGHT  
+**"Unsung Hero"
 
 
 
@@ -49,11 +47,6 @@ header:
 <hr>  
 
   **UPCOMING EVENTS** 
- 
-
-  **Sunday, June 15**  
-  Low Country Pregnancy Center  
-  Baby Bottles Collection Day
 
 
   **Sunday, June 22**  
