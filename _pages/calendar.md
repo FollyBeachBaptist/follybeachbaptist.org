@@ -10,36 +10,34 @@ header:
 **Example Day**
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
-**Sunday, June 15**   
-**Father's Day**  
-**LCPC Baby Bottles are Due**  
+**Sunday, June 22**    
 **8:30 am** Summer Sonrise Service  
  **9:45 am** Sunday School  
 **11:00 am** Worship Service   
-**5:00 pm** Student Ministrty **Meeting at Demetre Park** 
+**6:00 pm** Movie Night  **"Unsung Hero"** 
  
 
 
 
-**Monday, June 16**    
+**Monday, June 23**    
  **6:45 pm**  Men’s Bible Study  
  
  
   
-**Wednesday, June 18**  
+**Wednesday, June 25**  
  **5:30 pm**  Building and Grounds meeting  
  **6:30 pm** Prayer Cottage  
  **7:30 pm**  Choir Practice
 
-**Thursday, June 19**   
+**Thursday, June 26**   
 **6:00 pm** Recovery In Christ Meeting   
 
-**Sunday, June 22**  
+**Sunday, June 29**  
 **8:30 am** Summer Sonrise Service  
 **9:45 am** Sunday School  
-**11:00 am** Worship Service  
-**6:00 pm** MOVIE NIGHT  
-**"Unsung Hero"
+**11:00 am** Patriotic Musical  
+**5:00 pm** Student Ministry  
+
 
 
 
