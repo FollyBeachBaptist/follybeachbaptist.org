@@ -47,11 +47,20 @@ header:
   **UPCOMING EVENTS** 
 
 
-  **Sunday, June 22**  
-  **6:00 pm** Movie Night "Unsung Hero"  
+  *
 
   **Sunday, June 29**  
-  **11:00 am**  Patriotic Musical 
+  **11:00 am**  Patriotic Musical   
+
+  **Sunday, July 13**  
+  **Operation Christmas Child** Presentaion by Jenny Hertzog   
+
+  **Friday, July 18 & Saturday July 19**  
+  **UNITE CHARLESTON** Evangelistic event at the Joe Riley Stadium  
+  **FREE ADMISSION** Register: UNITEMOVEMENT.ORG  
+  **Doors open at 5:30pm,  Event Begins at 6:30pm**
+
+  **Sunday, July 20** Gideon Presentation by Dr. George Williams
 
   **Wednesday, July 16**  
   **6:30 pm** Quarterly Business Meeting  
