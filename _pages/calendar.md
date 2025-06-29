@@ -9,34 +9,27 @@ header:
 <!--
 **Example Day**
 [10:00 am] Two Spaces At The End Of The Line ->
--->
-**Sunday, June 22**    
-**8:30 am** Summer Sonrise Service  
- **9:45 am** Sunday School  
-**11:00 am** Worship Service   
-**6:00 pm** Movie Night  **"Unsung Hero"** 
+--
  
-
-
-
-**Monday, June 23**    
+ **Monday, June 30**    
  **6:45 pm**  Men’s Bible Study  
  
  
   
-**Wednesday, June 25**  
+**Wednesday, July 2**  
  **5:30 pm**  Building and Grounds meeting  
- **6:30 pm** Prayer Cottage  
- **7:30 pm**  Choir Practice
+ 
 
-**Thursday, June 26**   
-**6:00 pm** Recovery In Christ Meeting   
+**Thursday, July 3**   
+**6:00 pm** NO Recovery In Christ Meeting    
 
-**Sunday, June 29**  
+  **Friday, July 4th**  
+  **Offices Closed, Happy Independence Day!**
+
+**Sunday, July 6**  
 **8:30 am** Summer Sonrise Service  
 **9:45 am** Sunday School  
-**11:00 am** Patriotic Musical  
-**5:00 pm** Student Ministry  
+**11:00 am** Sunday Service   
 
 
 
