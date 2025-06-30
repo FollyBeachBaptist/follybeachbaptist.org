@@ -64,6 +64,7 @@ Please call Pastor Billy at 843-460-7737 if you need to talk with someone
 
   **Sunday, July 27**  
   **6:00 pm** Movie Night  
+  **The Best Christmas Pageant Ever**
 
   **Sunday, August 24**  
   **6:00 pm** Movie Night  
