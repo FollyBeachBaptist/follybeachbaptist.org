@@ -21,6 +21,8 @@ The Best Christmas Pageant Ever - July 27
 
 ![Alt text](/assets/images/Best%20Christmas%20Ever.jpeg)
 
+![Alt text](/assets/images/Best%20Christmas%202.jpg)
+
 TBA - August 24
 <hr>
 
