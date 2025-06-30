@@ -17,7 +17,9 @@ Unsung Hero - June 22
 
 ![Alt text](/assets/images/unsung-hero.jpg)
 
-TBA - July 27
+The Best Christmas Pageant Ever - July 27
+
+![Alt text](/assets/images/Best%20Christmas%20Ever.jpeg)
 
 TBA - August 24
 <hr>
