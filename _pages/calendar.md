@@ -26,26 +26,34 @@ header:
 
 
 
-**Monday, June 30**    
+**Monday, July 7**    
  **6:45 pm**  Men’s Bible Study  
+ 
+ **Tuesday, July 8**  
+ **9:30 am** Women's Bible Study  
+ **11:00 am** WMU monthly Meeting  
+ **6:30 pm** Women's Bible Study
  
  
   
-**Wednesday, July 2**  
+**Wednesday, July 9**  
  **5:30 pm**  Building and Grounds meeting  
- **No Prayer Cottage or Choir Practice**
+ **6:30 pm** Prayer Cottage  
+ **7:30 pm** Choir Practice   
+ 
 
-**Thursday, July 3**   
-No Recovery In Christ Meeting   
-Please call Pastor Billy at 843-460-7737 if you need to talk with someone  
+**Thursday, July 10**   
+**10:00 am** Women's Bible Study  
+**5:00 pm** Prayer at the Pier  
+**6:00 pm** Recovery In Christ  
+**7:30 pm** Praise Team Practice
+  
 
-**Friday, July 4**  
-**Offices Closed for Independence Day**
-
-**Sunday, July 6**  
+**Sunday, July 13**  
 **8:30 am** Summer Sonrise Service  
 **9:45 am** Sunday School  
 **11:00 am** Worship service  
+**5:00 pm** Student Ministry
   
 
 
@@ -58,9 +66,16 @@ Please call Pastor Billy at 843-460-7737 if you need to talk with someone
 
 
  
+**Sunday, July 13**  
+**OCC Presentation to Folly Beach Baptist Church**  
 
   **Wednesday, July 16**  
-  **6:30 pm** Quarterly Business Meeting  
+  **6:30 pm** Quarterly Business Meeting   
+
+  **Friday, July 18, Saturday, July 19**  
+  **Unite Charleston Evangelism Event**  
+  At The Joe Riley Stadium  
+  Register at : UNITEMOVEMENT.ORG
 
   **Sunday, July 27**  
   **6:00 pm** Movie Night  
@@ -74,6 +89,10 @@ Please call Pastor Billy at 843-460-7737 if you need to talk with someone
 
   **Sunday, September 21**  
   **Ministry Team Summit**  
+
+  **Friday, October 3, Saturday, October 4**  
+  **DELIGHT** Women's CBA CONFERENCE  
+  For more info: **CBAwomen.org**
 
   **Monday, October 6**  
   **12:00 pm Soup and Soul resumes**
