@@ -5,8 +5,7 @@ author: default
 header:
 
 ---
-
-  
+![Alt text](/assets/images/IMG_3204.PNG)  
 
 <hr> 
   
