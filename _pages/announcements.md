@@ -37,7 +37,7 @@ on Sunday mornings from 9:45 a.m. until 10:45 a.m.
 Join us for **Summer Sonrise Service**,  
 beginning **Sunday, June 1st at 8:30am**  
 in the **Original Sanctuary** building!  
-**Great God, Good People, Free coffee**   
+**Great God, Good People, Free Coffee**   
 Bring your family and start your day at the beach the right way.  
 Casual dress is welcome, ALL ARE INVITED!  
 
