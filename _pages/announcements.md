@@ -6,7 +6,7 @@ header:
 
 ---
 ![Alt text](/assets/images/IMG_3204.PNG)  
-
+You are invited to this area wide gathering for two nights of incredible music and message.  Bring a friend!  Register for your free ticket by scanning the QR code.  
 <hr> 
   
 **Movie Night**
@@ -37,7 +37,7 @@ on Sunday mornings from 9:45 a.m. until 10:45 a.m.
 Join us for **Summer Sonrise Service**,  
 beginning **Sunday, June 1st at 8:30am**  
 in the **Original Sanctuary** building!  
-**Free coffee, Good People, Great God!**   
+**Great God, Good People, Free coffee**   
 Bring your family and start your day at the beach the right way.  
 Casual dress is welcome, ALL ARE INVITED!  
 
