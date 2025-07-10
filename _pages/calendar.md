@@ -26,24 +26,14 @@ header:
 
 
 
-**Monday, July 7**    
- **6:45 pm**  Men’s Bible Study  
- 
- **Tuesday, July 8**  
- **9:30 am** Women's Bible Study  
- **11:00 am** WMU monthly Meeting  
- **6:30 pm** Women's Bible Study
+
  
  
   
-**Wednesday, July 9**  
- **5:30 pm**  Building and Grounds meeting  
- **6:30 pm** Prayer Cottage  
- **7:30 pm** Choir Practice   
+
  
 
-**Thursday, July 10**   
-**10:00 am** Women's Bible Study  
+**Thursday, July 10**     
 **5:00 pm** Prayer at the Pier  
 **6:00 pm** Recovery In Christ  
 **7:30 pm** Praise Team Practice
@@ -53,7 +43,31 @@ header:
 **8:30 am** Summer Sonrise Service  
 **9:45 am** Sunday School  
 **11:00 am** Worship service  
-**5:00 pm** Student Ministry
+**5:00 pm** Student Ministry  
+
+
+**Monday, July 14**  
+**6:45 pm** Men's Bible study  
+
+**Tuesday, July 15**  
+**9:30 am** Women's Bible Study  
+**6:30 pm** Women's Bible Study  
+
+**Wednesday, July 16**  
+**6:30 pm** Quarterly Business Meeting  
+**7:30 pm** Choir Practice  
+
+  **Thursday, July 17**  
+  **6:00 pm** Recovery in Christ  
+  **7:30 pm** Praise Band Practice  
+
+  **Sunday, July 20**  
+  **8:30 am** Summer Sonrise Service  
+  **9:45 am** Sunday School  
+  **11:00 am** Worship Service  
+  **5:00 pm** Student ministry
+
+   
   
 
 
@@ -85,7 +99,11 @@ header:
   **6:00 pm** Movie Night  
 
   **Monday, August 25**  
-  **10:30 am** Moms In Prayer resumes
+  **10:30 am** Moms In Prayer resumes  
+
+  **Sunday, September 7th**  
+  **Baptism at the Beach**  
+  
 
   **Sunday, September 21**  
   **Ministry Team Summit**  
