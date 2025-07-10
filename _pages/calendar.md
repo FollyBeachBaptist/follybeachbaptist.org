@@ -69,7 +69,8 @@ header:
 
 
  
-**Sunday, July 13**  
+**Sunday, July 13**   
+**8:30 am** Summer Sonrise Service
 **OCC Presentation to Folly Beach Baptist Church**  
 
   **Wednesday, July 16**  
