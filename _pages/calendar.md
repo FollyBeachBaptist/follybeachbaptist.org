@@ -22,17 +22,6 @@ header:
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
 
- 
-
-
-
-
- 
- 
-  
-
- 
-
 **Thursday, July 10**     
 **5:00 pm** Prayer at the Pier  
 **6:00 pm** Recovery In Christ  
