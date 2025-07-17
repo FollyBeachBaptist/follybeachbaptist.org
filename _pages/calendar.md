@@ -22,39 +22,38 @@ header:
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
 
-**Thursday, July 10**     
-**5:00 pm** Prayer at the Pier  
-**6:00 pm** Recovery In Christ  
-**7:30 pm** Praise Team Practice
+
   
 
-**Sunday, July 13**  
+**Sunday, July 20**  
 **8:30 am** Summer Sonrise Service  
 **9:45 am** Sunday School  
 **11:00 am** Worship service  
 **5:00 pm** Student Ministry  
 
 
-**Monday, July 14**  
+**Monday, July 21**  
 **6:45 pm** Men's Bible study  
 
-**Tuesday, July 15**  
+**Tuesday, July 22**  
 **9:30 am** Women's Bible Study  
 **6:30 pm** Women's Bible Study  
 
-**Wednesday, July 16**  
-**6:30 pm** Quarterly Business Meeting  
+**Wednesday, July 23**  
+**5:30 pm** Building and Grounds Meeting
+**6:30 pm** Prayer Cottage  
 **7:30 pm** Choir Practice  
 
-  **Thursday, July 17**  
+  **Thursday, July 24**  
   **6:00 pm** Recovery in Christ  
   **7:30 pm** Praise Band Practice  
 
-  **Sunday, July 20**  
+  **Sunday, July 27**  
   **8:30 am** Summer Sonrise Service  
   **9:45 am** Sunday School  
   **11:00 am** Worship Service  
-  **5:00 pm** Student ministry
+  **6:00 pm** Movie Night  
+  **Youth going to Carowinds with Gracepoint Church**
 
    
   
@@ -69,20 +68,11 @@ header:
 
 
  
-**Sunday, July 13**   
+**Sundays in the Summer**   
 **8:30 am** Summer Sonrise Service  
 
-**OCC Presentation to Folly Beach Baptist Church**  
-
-  **Wednesday, July 16**  
-  **6:30 pm** Quarterly Business Meeting   
-
-  **Friday, July 18, Saturday, July 19**  
-  **Unite Charleston Evangelism Event**  
-  At The Joe Riley Stadium  
-  Register at : UNITEMOVEMENT.ORG
-
-  **Sunday, July 27**  
+  
+**Sunday, July 27**  
   **6:00 pm** Movie Night  
   **The Best Christmas Pageant Ever**
 
