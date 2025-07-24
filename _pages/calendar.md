@@ -25,35 +25,36 @@ header:
 
   
 
-**Sunday, July 20**  
+**Sunday, July 27**  
 **8:30 am** Summer Sonrise Service  
 **9:45 am** Sunday School  
 **11:00 am** Worship service  
-**5:00 pm** Student Ministry  
+**6:00 pm** Movie Night  
+"The Best Christmas Pageant Ever"
 
 
-**Monday, July 21**  
+**Monday, July 28**  
 **6:45 pm** Men's Bible study  
 
-**Tuesday, July 22**  
+**Tuesday, July 29**  
 **9:30 am** Women's Bible Study  
 **6:30 pm** Women's Bible Study  
 
-**Wednesday, July 23**  
-**5:30 pm** Building and Grounds Meeting
+**Wednesday, July 30**  
+**5:30 pm** Building and Grounds Meeting  
 **6:30 pm** Prayer Cottage  
 **7:30 pm** Choir Practice  
 
-  **Thursday, July 24**  
+  **Thursday, July 31**  
   **6:00 pm** Recovery in Christ  
   **7:30 pm** Praise Band Practice  
 
-  **Sunday, July 27**  
+  **Sunday, August 3**  
   **8:30 am** Summer Sonrise Service  
   **9:45 am** Sunday School  
   **11:00 am** Worship Service  
-  **6:00 pm** Movie Night  
-  **Youth going to Carowinds with Gracepoint Church**
+  **5:00 pm** Student Ministry  
+  
 
    
   
