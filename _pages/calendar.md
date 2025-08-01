@@ -25,31 +25,30 @@ header:
 
   
 
-**Sunday, July 27**  
+**Sunday, August 3**  
 **8:30 am** Summer Sonrise Service  
 **9:45 am** Sunday School  
 **11:00 am** Worship service  
-**6:00 pm** Movie Night  
-"The Best Christmas Pageant Ever"
+**5:00 pm** Student Ministry
 
 
-**Monday, July 28**  
+**Monday, August 4**  
 **6:45 pm** Men's Bible study  
 
-**Tuesday, July 29**  
+**Tuesday, August 5**  
 **9:30 am** Women's Bible Study  
 **6:30 pm** Women's Bible Study  
 
-**Wednesday, July 30**  
+**Wednesday, August 6**  
 **5:30 pm** Building and Grounds Meeting  
 **6:30 pm** Prayer Cottage  
 **7:30 pm** Choir Practice  
 
-  **Thursday, July 31**  
+  **Thursday, August 7**  
   **6:00 pm** Recovery in Christ  
   **7:30 pm** Praise Band Practice  
 
-  **Sunday, August 3**  
+  **Sunday, August 10**  
   **8:30 am** Summer Sonrise Service  
   **9:45 am** Sunday School  
   **11:00 am** Worship Service  
@@ -73,9 +72,8 @@ header:
 **8:30 am** Summer Sonrise Service  
 
   
-**Sunday, July 27**  
-  **6:00 pm** Movie Night  
-  **The Best Christmas Pageant Ever**
+ **Sunday, August 17**  
+ **5:00 pm** Church Council
 
   **Sunday, August 24**  
   **6:00 pm** Movie Night  
