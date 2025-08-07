@@ -25,34 +25,35 @@ header:
 
   
 
-**Sunday, August 3**  
+**Sunday, August 10**  
 **8:30 am** Summer Sonrise Service  
 **9:45 am** Sunday School  
 **11:00 am** Worship service  
 **5:00 pm** Student Ministry
 
 
-**Monday, August 4**  
+**Monday, August 11**  
 **6:45 pm** Men's Bible study  
 
-**Tuesday, August 5**  
+**Tuesday, August 12**  
 **9:30 am** Women's Bible Study  
 **6:30 pm** Women's Bible Study  
 
-**Wednesday, August 6**  
+**Wednesday, August 13**  
 **5:30 pm** Building and Grounds Meeting  
 **6:30 pm** Prayer Cottage  
 **7:30 pm** Choir Practice  
 
-  **Thursday, August 7**  
+  **Thursday, August 14**   
+  **5:00 pm** Pray at the Pier  
   **6:00 pm** Recovery in Christ  
   **7:30 pm** Praise Band Practice  
 
-  **Sunday, August 10**  
+  **Sunday, August 17**  
   **8:30 am** Summer Sonrise Service  
   **9:45 am** Sunday School  
   **11:00 am** Worship Service  
-  **5:00 pm** Student Ministry  
+  **5:00 pm** Church Council  
   
 
    
