@@ -83,11 +83,17 @@ header:
   **10:30 am** Moms In Prayer resumes  
 
   **Sunday, September 7th**  
-  **Baptism at the Beach**  
+  **Baptism at the Beach**   
+
+  **Sunday, September 14th**  
+  **5:00 pm** "Medicare 101" Information class
   
 
-  **Sunday, September 21**  
-  **Ministry Team Summit**  
+  **Sunday, September 28**  
+  **12:00 pm** Ministry Team Summit  
+  (Immediately Following the 11:00 Service)
+
+  
 
   **Friday, October 3, Saturday, October 4**  
   **DELIGHT** Women's CBA CONFERENCE  
