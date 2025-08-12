@@ -1,4 +1,3 @@
-
   
 **Movie Night**
 Bring your entire family for some free movies this summer! Popcorn and drinks are also provided for FREE!  The movies will be on the 4th Sunday night of June, July, and August and will begin at 6 p.m. in the Fellowship Hall.  
