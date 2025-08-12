@@ -12,8 +12,6 @@ The Best Christmas Pageant Ever - July 27
 
 ![Alt text](/assets/images/Best%20Christmas%202.jpg)
 
-<hr>
-
 August 24 - The Case for Christ
 
 ![Alt text](/assets/images/540x300.jpg)
