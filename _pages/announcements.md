@@ -1,6 +1,6 @@
 ---
 title: "Announcements"
-permalink: /Announcements/
+permalink: /announcements/
 author: default
 header:
   og_image: /assets/images/preview.jpg
