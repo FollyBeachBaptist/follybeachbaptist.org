@@ -5,9 +5,7 @@ author: default
 header:
 
 ---
-![Alt text](/assets/images/IMG_3204.PNG)  
-You are invited to this area wide gathering for two nights of incredible music and message.  Bring a friend!  Register for your free ticket by scanning the QR code.  
-<hr> 
+
 **Movie Night**
 Bring your entire family for some free movies this summer! Popcorn and drinks are also provided for FREE!  The movies will be on the 4th Sunday night of June, July, and August and will begin at 6 p.m. in the Fellowship Hall.  
 
