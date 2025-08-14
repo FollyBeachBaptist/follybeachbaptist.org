@@ -78,6 +78,7 @@ header:
 
   **Sunday, August 24**  
   **6:00 pm** Movie Night  
+  "The Case For Christ"
 
   **Monday, August 25**  
   **10:30 am** Moms In Prayer resumes  
