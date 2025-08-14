@@ -25,35 +25,38 @@ header:
 
   
 
-**Sunday, August 10**  
+**Sunday, August 17**  
 **8:30 am** Summer Sonrise Service  
 **9:45 am** Sunday School  
 **11:00 am** Worship service  
-**5:00 pm** Student Ministry
+**5:00 pm** Church Council
 
 
-**Monday, August 11**  
+**Monday, August 18**  
 **6:45 pm** Men's Bible study  
 
-**Tuesday, August 12**  
+**Tuesday, August 19**  
 **9:30 am** Women's Bible Study  
 **6:30 pm** Women's Bible Study  
 
-**Wednesday, August 13**  
+**Wednesday, August 20**  
 **5:30 pm** Building and Grounds Meeting  
 **6:30 pm** Prayer Cottage  
 **7:30 pm** Choir Practice  
 
-  **Thursday, August 14**   
-  **5:00 pm** Pray at the Pier  
+  **Thursday, August 21**     
   **6:00 pm** Recovery in Christ  
-  **7:30 pm** Praise Band Practice  
+  **7:30 pm** Praise Band Practice   
 
-  **Sunday, August 17**  
+**Saturday, August 23**  
+**10:00 am** Pricilla Shirer Live Simulcast
+
+  **Sunday, August 24**  
   **8:30 am** Summer Sonrise Service  
   **9:45 am** Sunday School  
   **11:00 am** Worship Service  
-  **5:00 pm** Church Council  
+  **6:00 pm** Movie Night  
+  "The Case For Christ"
   
 
    
