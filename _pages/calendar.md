@@ -74,7 +74,10 @@ header:
 
   
  **Sunday, August 17**  
- **5:00 pm** Church Council
+ **5:00 pm** Church Council  
+
+**Saturday, August 23**  
+**10:00 am** Priscilla Shirer Live Simulcast
 
   **Sunday, August 24**  
   **6:00 pm** Movie Night  
