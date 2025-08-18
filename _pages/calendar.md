@@ -121,7 +121,15 @@ header:
   **Operation Christmas Child Packing Party**  
 
   **Monday, November 17-24**  
-  Operation Christmas Child Collection Week  
+  Operation Christmas Child Collection Week   
+
+  **Sunday, November 23**  
+  Community Thanksgiving Service and Meal  
+  At FBBC  
+
+  **Sunday, November 30**  
+  Community Christmas Tree Lighting   
+  In Folly River Park
 
   **Saturday, December 13**  
   Birthday Party For Jesus  
