@@ -92,6 +92,9 @@ header:
   **Sunday, September 7th**  
   **Baptism at the Beach**   
 
+  **Monday, September 8th**  
+  **6:30 ppm** Women's Bible Study
+
   **Sunday, September 14th**  
   **5:00 pm** "Medicare 101" Information class
   
