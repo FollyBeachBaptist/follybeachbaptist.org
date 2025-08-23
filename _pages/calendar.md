@@ -76,8 +76,7 @@ In the Fellowship Hall
 **8:30 am** Summer Sonrise Service  
 
   
- **Sunday, August 17**  
- **5:00 pm** Church Council  
+ 
 
 **Saturday, August 23**  
 **10:00 am** Priscilla Shirer Live Simulcast
