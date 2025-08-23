@@ -23,40 +23,40 @@ header:
 -->
 
 
-  
+**Saturday, August 23**  
+**10:00 am** Pricilla Shirer Simulcast  
+In the Fellowship Hall
 
-**Sunday, August 17**  
+**Sunday, August 24**  
 **8:30 am** Summer Sonrise Service  
 **9:45 am** Sunday School  
 **11:00 am** Worship service  
-**5:00 pm** Church Council
+**6:00 pm** Movie Night  
+**THE CASE FOR CHRIST**
 
 
-**Monday, August 18**  
+**Monday, August 25**   
+**10:30 am**  Moms in Prayer  
 **6:45 pm** Men's Bible study  
 
-**Tuesday, August 19**  
+**Tuesday, August 26**  
 **9:30 am** Women's Bible Study  
-**6:30 pm** Women's Bible Study  
+  
 
-**Wednesday, August 20**  
-**5:30 pm** Building and Grounds Meeting  
-**6:30 pm** Prayer Cottage  
+**Wednesday, August 27**  
+**5:30 pm** Building and Grounds Meeting    
 **7:30 pm** Choir Practice  
 
-  **Thursday, August 21**     
+  **Thursday, August 28**     
   **6:00 pm** Recovery in Christ  
+  **6:30 pm** Prayer Cottage  
   **7:30 pm** Praise Band Practice   
 
-**Saturday, August 23**  
-**10:00 am** Pricilla Shirer Live Simulcast
-
-  **Sunday, August 24**  
+  **Sunday, August 31**  
   **8:30 am** Summer Sonrise Service  
   **9:45 am** Sunday School  
   **11:00 am** Worship Service  
-  **6:00 pm** Movie Night  
-  "The Case For Christ"
+  **5:00 pm**  Student Ministry 
   
 
    
