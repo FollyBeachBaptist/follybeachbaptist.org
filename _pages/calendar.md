@@ -23,16 +23,14 @@ header:
 -->
 
 
-**Saturday, August 23**  
-**10:00 am** Pricilla Shirer Simulcast  
-In the Fellowship Hall
 
-**Sunday, August 24**  
+
+**Sunday, August 31**  
 **8:30 am** Summer Sonrise Service  
 **9:45 am** Sunday School  
 **11:00 am** Worship service  
-**6:00 pm** Movie Night  
-**THE CASE FOR CHRIST**
+**5:00 pm** Youth Ministry Bible Study  
+"Making Decisions that Matter"
 
 
 **Monday, August 25**   
