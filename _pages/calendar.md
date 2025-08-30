@@ -33,28 +33,24 @@ header:
 "Making Decisions that Matter"
 
 
-**Monday, August 25**   
-**10:30 am**  Moms in Prayer  
-**6:45 pm** Men's Bible study  
-
-**Tuesday, August 26**  
-**9:30 am** Women's Bible Study  
+**Monday, September 1**   
+**Happy Labor Day!**  
   
 
-**Wednesday, August 27**  
+**Wednesday, September 3**  
 **5:30 pm** Building and Grounds Meeting    
 **7:30 pm** Choir Practice  
 
-  **Thursday, August 28**     
+  **Thursday, September 4**     
   **6:00 pm** Recovery in Christ  
   **6:30 pm** Prayer Cottage  
-  **7:30 pm** Praise Band Practice   
+     
 
-  **Sunday, August 31**  
-  **8:30 am** Summer Sonrise Service  
+  **Sunday, September 7**  
+  **Lord's Supper Observance**  
   **9:45 am** Sunday School  
   **11:00 am** Worship Service  
-  **5:00 pm**  Student Ministry 
+  **5:00 pm** Beach Baptism
   
 
    
@@ -66,34 +62,25 @@ header:
 
 <hr>  
 
-  **UPCOMING EVENTS** 
-
-
- 
-**Sundays in the Summer**   
-**8:30 am** Summer Sonrise Service  
+  **UPCOMING EVENTS**  
 
   
  
 
-**Saturday, August 23**  
-**10:00 am** Priscilla Shirer Live Simulcast
-
-  **Sunday, August 24**  
-  **6:00 pm** Movie Night  
-  "The Case For Christ"
-
-  **Monday, August 25**  
-  **10:30 am** Moms In Prayer resumes  
-
-  **Sunday, September 7th**  
-  **Baptism at the Beach**   
+**Sunday, September 7**  
+**5:00 pm** Beach Baptism  
+Contact Church office for location details  
+*843-588-9414*
 
   **Monday, September 8th**  
-  **6:30 ppm** Women's Bible Study
+  **6:30 pm** Women's Bible Study
 
   **Sunday, September 14th**  
-  **5:00 pm** "Medicare 101" Information class
+  **5:00 pm** "Medicare 101" Information class  
+
+**Friday, September 26th**  
+**6:00 pm** Recovery In Christ  
+**Movie "My Name is Bill W."**
   
 
   **Sunday, September 28**  
