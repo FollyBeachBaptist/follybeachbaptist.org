@@ -41,16 +41,37 @@ We have childcare provided during our morning worship service for ages birth thr
 We also have small group studies for all ages (preschool, children, youth, and adults)  
 on Sunday mornings from 9:45 a.m. until 10:45 a.m.      
 <hr>
+ 
+
+**Beach Baptism Service**  
+Join us for a wonderful time of fellowship in worship as we gather to Baptize this year's candidates.  
+We will have a fellowship meal at **5:00 pm, September 7th**, at a private beach front residence.   
+Contact our Church office **843-588-9414** for directions.   
+**All Are Welcome To Attend!!**
+**Bring a friend!!**  
+<hr>  
 
 
-**SUMMER SONRISE SERVICE**  
-Join us for **Summer Sonrise Service**,  
-beginning **Sunday, June 1st at 8:30am**  
-in the **Original Sanctuary** building!  
-**Great God, Good People, Free Coffee**   
-Bring your family and start your day at the beach the right way.  
-Casual dress is welcome, ALL ARE INVITED!  
+**Lord's Supper**  
+We will Celebrate corporate communion **Sunday, Sept 7th** at the 11:00 Service  
+<hr>  
 
+**Women's Bible Study Update**  
+Beginning Monday Sept 8th, our evening Women's Bible study will no longer meet Tuesday nights.  
+We will continue to meet on Monday evenings while the men's group is in the building.  
+
+
+  <hr>    
+
+  **Medicare Seminar**  
+  **Sunday, September 14th at 5:00 pm**  
+  This informal gathering is to help understand Medicare options available to participants.  
+  If you are on or considering Medicare, this is for you!  
   <hr>  
+
+  **Ministry Team Summit**  
+  **Sunday, September 28th at 1:00 pm**  
+  <hr>  
+  
   For More Information, Check out "Upcoming Events" on the Calendar page
 
