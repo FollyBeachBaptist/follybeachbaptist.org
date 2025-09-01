@@ -48,6 +48,8 @@ header:
 
   **Sunday, September 7**  
   **Lord's Supper Observance**  
+  ![Alt text](/assets/images/Lord's%20Supper%20Picture.jpg)  
+  
   **9:45 am** Sunday School  
   **11:00 am** Worship Service  
   **5:00 pm** Beach Baptism
@@ -93,7 +95,8 @@ Contact Church office for location details
   **DELIGHT** Women's CBA CONFERENCE  
   For more info: **CBAwomen.org**
 
-  **Monday, October 6**  
+  **Monday, October 6**    
+  ![Alt text](/assets/images/Soup%20and%20Soul%20Picture.jpg)
   **12:00 pm Soup and Soul resumes**
 
   **Monday, October 13-16**  
