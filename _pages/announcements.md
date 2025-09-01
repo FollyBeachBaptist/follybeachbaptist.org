@@ -38,6 +38,8 @@ telling of their compelling journey.
 
 **Worship Service Childcare Provided**    
 
+![Alt text](/assets/images/Childcare%20picture.jpeg)
+
   
 
 We have childcare provided during our morning worship service for ages birth through 4 years old!  
@@ -46,7 +48,9 @@ on Sunday mornings from 9:45 a.m. until 10:45 a.m.
 <hr>
  
 
-**Beach Baptism Service**  
+**Beach Baptism Service**   
+
+
 Join us for a wonderful time of fellowship in worship as we gather to Baptize this year's candidates.  
 We will have a fellowship meal at **5:00 pm, September 7th**, at a private beach front residence.   
 Contact our Church office **843-588-9414** for directions.   
@@ -55,7 +59,9 @@ Contact our Church office **843-588-9414** for directions.
 <hr>  
 
 
-**Lord's Supper**  
+**Lord's Supper**    
+![Alt text](/assets/images/Lord's%20Supper%20Picture.jpg)  
+
 We will Celebrate corporate communion **Sunday, Sept 7th** at the 11:00 Service  
 <hr>  
 
@@ -66,13 +72,17 @@ We will continue to meet on Monday evenings while the men's group is in the buil
 
   <hr>    
 
-  **Medicare Seminar**  
+  **Medicare Seminar**   
+  ![Alt text](/assets/images/Medicare%20Picture.png)  
+  
   **Sunday, September 14th at 5:00 pm**  
   This informal gathering is to help understand Medicare options available to participants.  
   If you are on or considering Medicare, this is for you!  
   <hr>    
 
- **GriefShare**  
+ **GriefShare**    
+ ![Alt text](/assets/images/GriefShare%20Picture.jpg)  
+ 
 GriefShare is a 13-week, Christ-centered program that helps people apply Biblical principles as they deal with the emotions and life stresses following the death of a loved one. If you’ve experienced the recent loss of a family member or friend, suffered a miscarriage, or are still processing grief from a loss that happened some time ago—GriefShare is for you.   
     
 Grief is a journey that shouldn’t be traveled alone. You may feel like no one understands and be tempted to isolate, but as counselor David Bueno Martin says, “Healing happens in the context of finding others who can help you.”  
