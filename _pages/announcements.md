@@ -36,7 +36,11 @@ telling of their compelling journey.
 <hr>
 
 
-**Worship Service Childcare Provided**  
+**Worship Service Childcare Provided**    
+
+  ![Alt text](/assets/images/Childcare picture.jpeg)
+ 
+
 We have childcare provided during our morning worship service for ages birth through 4 years old!  
 We also have small group studies for all ages (preschool, children, youth, and adults)  
 on Sunday mornings from 9:45 a.m. until 10:45 a.m.      
