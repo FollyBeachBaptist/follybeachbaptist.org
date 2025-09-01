@@ -70,14 +70,19 @@ header:
  
 
 **Sunday, September 7**  
-**5:00 pm** Beach Baptism  
+**5:00 pm** Beach Baptism   
+![Alt text](/assets/images/Beach%20Baptism%20Picture.jpg)  
+
 Contact Church office for location details  
 *843-588-9414*
 
   **Monday, September 8th**  
   **6:30 pm** Women's Bible Study
 
-  **Sunday, September 14th**  
+  **Sunday, September 14th**   
+  [Alt text](/assets/images/Medicare%20Picture.png)  
+  
+  
   **5:00 pm** "Medicare 101" Information class  
 
 **Friday, September 26th**  
