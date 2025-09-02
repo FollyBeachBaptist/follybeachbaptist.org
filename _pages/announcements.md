@@ -50,6 +50,8 @@ on Sunday mornings from 9:45 a.m. until 10:45 a.m.
 
 **Beach Baptism Service**   
 
+ 
+
 
 Join us for a wonderful time of fellowship in worship as we gather to Baptize this year's candidates.  
 We will have a fellowship meal at **5:00 pm, September 7th**, at a private beach front residence.   
