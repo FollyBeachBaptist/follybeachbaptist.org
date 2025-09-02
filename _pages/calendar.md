@@ -104,7 +104,8 @@ header:
 
   **Monday, October 13-16**  
   **Celebrator's Conference, Pigeon Forge, TN**  
-  <img width="1010" height="658" alt="image" src="https://github.com/user-attachments/assets/b0deae90-d8f2-487f-a1f4-1e9dcd25a16a" />
+  <img width="1000" height="562" alt="image" src="https://github.com/user-attachments/assets/b0a62bdb-bc54-4bdc-835a-18fd9a6b9214" />
+
 
 
   **Wednesday, October 22**  
