@@ -74,7 +74,8 @@ Please call our office at 843-588-9414 for more information.**
 
 
   **Ministry Team Summit**    
-  <img width="2000" height="1125" alt="Revelation Bible Study" src="https://github.com/user-attachments/assets/c1a2d7e2-f741-45a4-a5e2-164990a1f314" />
+  ![Team Summit](https://github.com/user-attachments/assets/c3dff9e7-7504-419c-b31e-0e79a6dd4807)
+
 
   **Sunday, September 28th at 1:00 pm**  
   <hr>  
