@@ -45,8 +45,14 @@ We will Celebrate corporate communion **Sunday, Sept 7th** at the 11:00 Service
 <img width="2000" height="1125" alt="Revelation Bible Study" src="https://github.com/user-attachments/assets/c1a2d7e2-f741-45a4-a5e2-164990a1f314" />
 
  
-Beginning Monday Sept 8th, our evening Women's Bible study will no longer meet Tuesday nights.  
-We will continue to meet on Monday evenings while the men's group is in the building.  
+**The Evening Women's Bible Study is Changing!!**  
+Starting **Monday, September 8th**, We will no longer meet on Tuesday evenings.   
+We will meet on Mondays instead. This change brings a greater security and safety to our Bible study group.  
+The Men's Bible study meets Tuesday nights as well. 
+
+**Tuesdays at 9:30am** and **Thursdays at 10:00am**  Women's Bible Study times will remain unchanged
+
+
 
 
   <hr>    
