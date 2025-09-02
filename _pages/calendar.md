@@ -103,7 +103,9 @@ header:
   **12:00 pm Soup and Soul resumes**
 
   **Monday, October 13-16**  
-  **Celebrator's Conference, Pigeon Forge, TN**
+  **Celebrator's Conference, Pigeon Forge, TN**  
+  <img width="1010" height="658" alt="image" src="https://github.com/user-attachments/assets/b0deae90-d8f2-487f-a1f4-1e9dcd25a16a" />
+
 
   **Wednesday, October 22**  
   **6:30 pm** Quarterly Business Meeting  
