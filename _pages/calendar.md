@@ -127,7 +127,9 @@ header:
 
   **Sunday, November 30**  
   Community Christmas Tree Lighting   
-  In Folly River Park
+  In Folly River Park  
+  <img width="1600" height="800" alt="image" src="https://github.com/user-attachments/assets/fb91d036-7e70-41a9-80bc-98f0887f5842" />
+
 
   **Saturday, December 13**  
   Birthday Party For Jesus  
