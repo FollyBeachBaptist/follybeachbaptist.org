@@ -83,7 +83,8 @@ header:
 **Friday, September 26th**  
 **6:00 pm** Recovery In Christ  
 **Movie "My Name is Bill W."**
-  
+ <img width="350" height="500" alt="image" src="https://github.com/user-attachments/assets/47943931-5e8b-4b8f-b48c-266929dd43bb" />
+ 
 
   **Sunday, September 28**  
   **12:00 pm** Ministry Team Summit  
