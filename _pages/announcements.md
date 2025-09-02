@@ -50,6 +50,8 @@ on Sunday mornings from 9:45 a.m. until 10:45 a.m.
 
 **Beach Baptism Service**   
 
+![Alt text](/assets/images/Beach%20Baptism%20Picture.jpg)  
+
  
 
 
