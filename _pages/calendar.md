@@ -69,9 +69,11 @@ header:
   **UPCOMING EVENTS**  
 
   
+**WOMEN'S BIBLE STUDY**  
 
-  **Monday, September 8th**    
-  **6:30 pm** Women's Bible Study  
+  **Monday, September 8th at 6:30pm**      
+  **Tuesday, Sept 9th at 9:30am**  
+   **Thursday, Sept 11th at 10:00am**
   <img width="2000" height="1125" alt="Revelation Bible Study" src="https://github.com/user-attachments/assets/d9b5a9d0-9427-4dc7-a653-03440c1a2c3c" />
 
 
@@ -120,6 +122,8 @@ header:
 
   **Monday, November 17-24**  
   Operation Christmas Child Collection Week   
+  <img width="316" height="159" alt="image" src="https://github.com/user-attachments/assets/c9afd55b-214b-4dc2-a5a6-3ac9cf8fe6ac" />
+
 
   **Sunday, November 23**  
   Community Thanksgiving Service and Meal  
