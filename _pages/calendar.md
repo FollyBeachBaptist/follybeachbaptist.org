@@ -52,7 +52,9 @@ header:
   
   **9:45 am** Sunday School  
   **11:00 am** Worship Service  
-  **5:00 pm** Beach Baptism
+  **5:00 pm** Beach Baptism  
+  ![Beach Baptism](https://github.com/user-attachments/assets/416d0d5b-3ffd-4958-b727-5dffaf53adc1)
+
   
 
    
@@ -67,22 +69,16 @@ header:
   **UPCOMING EVENTS**  
 
   
- 
 
-**Sunday, September 7**  
-**5:00 pm** Beach Baptism   
-![Alt text](/assets/images/Beach%20Baptism%20Picture.jpg)  
+  **Monday, September 8th**    
+  **6:30 pm** Women's Bible Study  
+  <img width="2000" height="1125" alt="Revelation Bible Study" src="https://github.com/user-attachments/assets/d9b5a9d0-9427-4dc7-a653-03440c1a2c3c" />
 
-Contact Church office for location details  
-*843-588-9414*
-
-  **Monday, September 8th**  
-  **6:30 pm** Women's Bible Study
 
   **Sunday, September 14th**     
-  
-  
-  **5:00 pm** "Medicare 101" Information class  
+   **5:00 pm** "Medicare 101" Information class   
+   <img width="310" height="162" alt="Medicare Picture" src="https://github.com/user-attachments/assets/6e305123-322b-469d-a87e-f84e9afbbe61" />
+
 
 **Friday, September 26th**  
 **6:00 pm** Recovery In Christ  
@@ -91,7 +87,9 @@ Contact Church office for location details
 
   **Sunday, September 28**  
   **12:00 pm** Ministry Team Summit  
-  (Immediately Following the 11:00 Service)
+  (Immediately Following the 11:00 Service)  
+  ![Team Summit](https://github.com/user-attachments/assets/af165b45-9c65-4318-a831-7ba0322cfe48)
+
 
   
 
