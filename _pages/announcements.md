@@ -70,6 +70,7 @@ We will Celebrate corporate communion **Sunday, Sept 7th** at the 11:00 Service
 <hr>  
 
 **Women's Bible Study Update**  
+ 
 Beginning Monday Sept 8th, our evening Women's Bible study will no longer meet Tuesday nights.  
 We will continue to meet on Monday evenings while the men's group is in the building.  
 
