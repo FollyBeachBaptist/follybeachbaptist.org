@@ -97,7 +97,10 @@ header:
   
 
   **Friday, October 3, Saturday, October 4**  
-  **DELIGHT** Women's CBA CONFERENCE  
+  **DELIGHT** Women's CBA CONFERENCE   
+  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/716b0c86-b61f-4b54-855d-5fc3b8cdf2d7" />
+
+  
   For more info: **CBAwomen.org**
 
   **Monday, October 6**    
@@ -111,7 +114,9 @@ header:
 
 
   **Wednesday, October 22**  
-  **6:30 pm** Quarterly Business Meeting  
+  **6:30 pm** Quarterly Business Meeting   
+  <img width="348" height="348" alt="image" src="https://github.com/user-attachments/assets/da6cc9cf-3141-4439-85e6-7564c2227cfe" />
+
 
   **Sunday, November 16**  
   **5:00 pm to 8:00 pm**  
