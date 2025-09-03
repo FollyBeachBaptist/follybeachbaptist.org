@@ -156,7 +156,9 @@ header:
 
 
   **Saturday, December 13**  
-  Birthday Party For Jesus    
+  Birthday Party For Jesus   
+  <img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/6aea5a91-31b1-4e5f-8dbf-4b32f4d4a9be" />
+
   <hr>
 
   **Sunday, December 14**  
