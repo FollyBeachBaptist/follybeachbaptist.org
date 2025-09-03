@@ -6,7 +6,7 @@ header:
 
 ---
 
-*
+
 
 **Worship Service Childcare Provided**    
 
