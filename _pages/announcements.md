@@ -53,7 +53,6 @@ We will Celebrate corporate communion **Sunday, Sept 7th** at the 11:00 Service
 Beginning **Monday, September 8th**,   
 
 Our Women's **Evening Bible Study Group** will meet on Mondays at 6:30.  
-    
 
 The Men's Bible study meets Monday nights at 6:45. 
 
