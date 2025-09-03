@@ -14,9 +14,10 @@ header:
 
   
 
-We have childcare provided during our morning worship service for ages birth through 4 years old!  
-We also have small group studies for all ages (preschool, children, youth, and adults)  
-on Sunday mornings from 9:45 a.m. until 10:45 a.m.      
+We have childcare provided during our morning worship service for ages **birth through 4 years old!** 
+
+We also have Bible studies for all ages (preschool, children, youth, and adults)  
+ **Sunday mornings from 9:45 a.m. until 10:45 a.m.**      
 <hr>
  
 
@@ -27,8 +28,10 @@ on Sunday mornings from 9:45 a.m. until 10:45 a.m.
  
 
 
-Join us for a wonderful time of fellowship in worship as we gather to Baptize this year's candidates.  
-We will have a fellowship meal at **5:00 pm, September 7th**, at a private beach front residence.   
+Join us for a wonderful time of fellowship in Worship and Baptism **September 7th**.    
+
+We will have a fellowship meal at **5:00 pm, followed by Baptisms at 6:00pm**  
+
 Contact our Church office **843-588-9414** for directions.   
 **All Are Welcome To Attend!!**
 **Bring a friend!!**  
@@ -48,8 +51,10 @@ We will Celebrate corporate communion **Sunday, Sept 7th** at the 11:00 Service
 **The Evening Women's Bible Study is Changing!!**    
 
 Beginning **Monday, September 8th**,   
+
 Our Women's **Evening Bible Study Group** will no longer meet on Tuesdays.   
-We will meet on Mondays instead.   
+We will meet on Mondays instead.  
+
 This change brings a greater security and safety to our Bible study group.    
 
 The Men's Bible study meets Tuesday nights as well. 
