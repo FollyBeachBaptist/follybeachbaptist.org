@@ -10,9 +10,14 @@ author: default
 **Operation Christmas Child**    
 <img width="1700" height="1133" alt="image" src="https://github.com/user-attachments/assets/8a735b08-31e3-461a-8994-bc593068baea" />
 
-Operation Christmas Child demonstrates God's love in a tangible way. Shoe boxes are packed and shipped to boys and girls ages 2 to 14 around the world who may have never heard the Gospel message or the Christmas Story. The boxes contain Toys, School supplies, and Hygiene items. Gifts for the boxes are collected March through October, and packed into the boxes at our annual **Christmas At The Beach** OCC Packing party. This year's packing party will be November 16th, 5:00pm to 8:00pm in the Fellowship hall. For additional information in contributing or volunteering, please
-contact Danielle Willis at 843-224-0873. Check
-[here](https://www.samaritanspurse.org/operation-christmas-child/what-goes-in-my-shoebox-suggestions/)
+Operation Christmas Child demonstrates God's love in a tangible way. Shoe boxes are packed and shipped to boys and girls ages 2 to 14 around the world who may have never heard the Gospel message or the Christmas Story.  
+
+The boxes contain Toys, School supplies, and Hygiene items. Gifts for the boxes are collected March through October, and packed into the boxes at our annual **Christmas At The Beach** OCC Packing party.  
+
+This year's packing party will be November 16th, 5:00pm to 8:00pm in the Fellowship hall.   
+  
+For additional information in contributing or volunteering,  please **contact Danielle Willis at 843-224-0873.**  
+Or Check here (https://www.samaritanspurse.org/operation-christmas-child/what-goes-in-my-shoebox-suggestions/)
 for suggested gifts and prohibited items.  
 <hr>
 
