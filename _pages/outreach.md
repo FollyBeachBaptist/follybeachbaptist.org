@@ -40,6 +40,17 @@ Access is through the office door located in the rear of the church on West Indi
 behold, the new has come."  
 <hr>
 
+**Kairos Prison Ministry**  
+<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/066584a3-4b14-4f52-82e1-37c618f4cae3" />
+
+**Kairos Prison Ministry – South Carolina**  
+Kairos is a Christ-centered ministry that brings hope and healing to incarcerated men and women across South Carolina. Through a powerful 3½-day weekend experience and ongoing support, Kairos volunteers share the love and forgiveness of Jesus Christ, helping build Christian communities inside correctional institutions. Rooted in Matthew 25:36—“I was in prison and you visited me”—Kairos transforms lives, encourages accountability, and fosters lasting change through prayer, fellowship, and grace.
+
+---
+
+Would you like a version that’s more youth-friendly or visually engaging for your teen ministry audience? I can help with that too.
+
+ 
 **Virtual Prayer Meeting**   
 
   <img width="750" height="422" alt="image" src="https://github.com/user-attachments/assets/f2498689-5265-4438-8bd4-53d969f8bd44" />  
