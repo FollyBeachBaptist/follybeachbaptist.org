@@ -53,6 +53,13 @@ This annual state missions offering supports church planting, disaster relief, e
 
   <hr>
 
+  **Kairos Prison Ministry**  
+<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/066584a3-4b14-4f52-82e1-37c618f4cae3" />
+
+**Kairos Prison Ministry – South Carolina**  
+Kairos is a Christ-centered ministry that brings hope and healing to incarcerated men and women across South Carolina. Through a powerful 3½-day weekend experience and ongoing support, Kairos volunteers share the love and forgiveness of Jesus Christ, helping build Christian communities inside correctional institutions. Rooted in Matthew 25:36—“I was in prison and you visited me”—Kairos transforms lives, encourages accountability, and fosters lasting change through prayer, fellowship, and grace.
+
+<hr>
 
 **Women's Bible Study Update**  
 <img width="2000" height="1125" alt="Revelation Bible Study" src="https://github.com/user-attachments/assets/c1a2d7e2-f741-45a4-a5e2-164990a1f314" />
