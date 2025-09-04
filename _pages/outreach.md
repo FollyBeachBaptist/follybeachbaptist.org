@@ -18,7 +18,8 @@ for suggested gifts and prohibited items.
 
 **Janie Chapman Offering for State Missions**   
 
-This annual state missions offering supports church planting, disaster relief, evangelism, and ministry across South Carolina. Every gift helps share the hope of Christ right here at home!
+This annual state missions offering supports church planting, disaster relief, evangelism, and ministry across South Carolina. Every gift helps share the hope of Christ right here at home!  
+**Folly Beach Baptist Church 2025 Goal: $2,800.00**
 
 <img width="3000" height="1784" alt="image" src="https://github.com/user-attachments/assets/b4ac13ac-f9df-420d-b22a-56b0347e9e8e" />  
 <hr>
