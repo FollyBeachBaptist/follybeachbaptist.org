@@ -44,8 +44,11 @@ Contact our Church office **843-588-9414** for directions.
 We will Celebrate corporate communion **Sunday, Sept 7th** at the 11:00 Service  
 <hr>  
 
-**Janie Chapman Offering for State Missions**    
-Folly Beach Baptist Church 2025 Goal: $2,800.00
+**Janie Chapman Offering for State Missions**   
+
+This annual state missions offering supports church planting, disaster relief, evangelism, and ministry across South Carolina. Every gift helps share the hope of Christ right here at home!
+
+Folly Beach Baptist Church 2025 Goal: $2,800.00  
 <img width="3000" height="1784" alt="image" src="https://github.com/user-attachments/assets/105166ba-f993-4fb0-97b3-96b463d6496f" />  
 
   <hr>
