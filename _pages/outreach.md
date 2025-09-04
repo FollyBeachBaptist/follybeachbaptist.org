@@ -53,9 +53,7 @@ behold, the new has come."
 **Kairos Prison Ministry – South Carolina**  
 Kairos is a Christ-centered ministry that brings hope and healing to incarcerated men and women across South Carolina. Through a powerful 3½-day weekend experience and ongoing support, Kairos volunteers share the love and forgiveness of Jesus Christ, helping build Christian communities inside correctional institutions. Rooted in Matthew 25:36—“I was in prison and you visited me”—Kairos transforms lives, encourages accountability, and fosters lasting change through prayer, fellowship, and grace.
 
----
 
-Would you like a version that’s more youth-friendly or visually engaging for your teen ministry audience? I can help with that too.
 
  
 **Virtual Prayer Meeting**   
