@@ -16,6 +16,10 @@ contact Danielle Willis at 843-224-0873. Check
 for suggested gifts and prohibited items.  
 <hr>
 
+**Janie Chapman Offering for State Missions**  
+<img width="3000" height="1784" alt="image" src="https://github.com/user-attachments/assets/b4ac13ac-f9df-420d-b22a-56b0347e9e8e" />  
+<hr>
+
 **Soup and Soul Ministry**    
 ![20240506_120712](https://github.com/user-attachments/assets/7be8a5be-b791-41c9-9911-c36a38a9db92)
 
