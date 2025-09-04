@@ -16,7 +16,10 @@ contact Danielle Willis at 843-224-0873. Check
 for suggested gifts and prohibited items.  
 <hr>
 
-**Janie Chapman Offering for State Missions**  
+**Janie Chapman Offering for State Missions**   
+
+This annual state missions offering supports church planting, disaster relief, evangelism, and ministry across South Carolina. Every gift helps share the hope of Christ right here at home!
+
 <img width="3000" height="1784" alt="image" src="https://github.com/user-attachments/assets/b4ac13ac-f9df-420d-b22a-56b0347e9e8e" />  
 <hr>
 
