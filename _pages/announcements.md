@@ -44,6 +44,12 @@ Contact our Church office **843-588-9414** for directions.
 We will Celebrate corporate communion **Sunday, Sept 7th** at the 11:00 Service  
 <hr>  
 
+**Janie Chapman Offering for State Missions**  
+<img width="3000" height="1784" alt="image" src="https://github.com/user-attachments/assets/105166ba-f993-4fb0-97b3-96b463d6496f" />  
+
+  <hr>
+
+
 **Women's Bible Study Update**  
 <img width="2000" height="1125" alt="Revelation Bible Study" src="https://github.com/user-attachments/assets/c1a2d7e2-f741-45a4-a5e2-164990a1f314" />
 
