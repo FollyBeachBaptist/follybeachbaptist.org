@@ -49,11 +49,11 @@ header:
  
   
 
-**Wednesday, September 3**  
+**Wednesday, September 10th**  
 **5:30 pm** Building and Grounds Meeting    
 **7:30 pm** Choir Practice  
 
-  **Thursday, September 4**  
+  **Thursday, September 11th**  
   **10:00 am** Women's Bible Study  
   **6:00 pm** Recovery in Christ  
   **6:30 pm** Prayer Cottage  
