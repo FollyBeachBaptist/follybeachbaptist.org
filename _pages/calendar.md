@@ -161,13 +161,14 @@ Enter through the office door in the back parking lot on West Indian ave
   **Operation Christmas Child Packing Party**  
   **Sunday, November 16**  
   **5:00 pm to 8:00 pm**  
-  *In the FEllowship Hall*  
+  *In the Fellowship Hall*  
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/31cab691-e5c3-44ea-b359-4b8425c734f8" />  
   <hr>
 
 
-  **Monday, November 17-24**  
-  Operation Christmas Child Collection Week   
+  **Operation Christmas Child Collection Week**  
+  **November 17-24**  
+    
   <img width="316" height="159" alt="image" src="https://github.com/user-attachments/assets/c9afd55b-214b-4dc2-a5a6-3ac9cf8fe6ac" />  
   <hr>
 
