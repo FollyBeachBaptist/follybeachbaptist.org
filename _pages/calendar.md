@@ -104,17 +104,21 @@ Enter through the office door in the back parking lot on West Indian ave
    <img width="310" height="162" alt="Medicare Picture" src="https://github.com/user-attachments/assets/6e305123-322b-469d-a87e-f84e9afbbe61" />  
    <hr>
 
+ 
+**Recovery In Christ Movie Night**   
+**Friday, September 26th 6:00 pm**  
 
-**Friday, September 26th**  
-**6:00 pm** Recovery In Christ  
-**Movie "My Name is Bill W."**
+"My Name is Bill W."  
+
  <img width="350" height="500" alt="image" src="https://github.com/user-attachments/assets/47943931-5e8b-4b8f-b48c-266929dd43bb" />  
  <hr>
  
-
-  **Sunday, September 28**  
-  **12:00 pm** Ministry Team Summit  
+ **Ministry Team Summit**  
+ 
+  **Sunday, September 28, 12:00 pm**   
   (Immediately Following the 11:00 Service)  
+  *In the Fellowship Hall*
+  
   ![Team Summit](https://github.com/user-attachments/assets/af165b45-9c65-4318-a831-7ba0322cfe48)  
   <hr>
 
