@@ -97,9 +97,9 @@ Enter through the office door in the back parking lot on West Indian ave
   <img width="2000" height="1125" alt="Revelation Bible Study" src="https://github.com/user-attachments/assets/d9b5a9d0-9427-4dc7-a653-03440c1a2c3c" />  
   <hr>
 
-
-  **Sunday, September 14th**     
-   **5:00 pm** "Medicare 101" Information class   
+ **"Medicare 101" Information class**
+  **Sunday, September 14th at 5:00pm**     
+  *In the Fellowship Hall*   
    <img width="310" height="162" alt="Medicare Picture" src="https://github.com/user-attachments/assets/6e305123-322b-469d-a87e-f84e9afbbe61" />  
    <hr>
 
