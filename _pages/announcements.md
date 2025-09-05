@@ -53,6 +53,12 @@ This annual state missions offering supports church planting, disaster relief, e
 
   <hr>
 
+  **Moms In Prayer**  
+  <img width="222" height="208" alt="image" src="https://github.com/user-attachments/assets/c4b6b8ee-2704-46c9-83b0-a791224c5724" />  
+  <hr>  
+  
+
+
   **Kairos Prison Ministry**  
 <img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/066584a3-4b14-4f52-82e1-37c618f4cae3" />
 
