@@ -28,7 +28,7 @@ header:
 **Sunday, September 7th**  
  
 **9:45 am** Sunday School  
-**11:00 am** Worship service  with
+**11:00 am** Worship service  with  
 **Lord's Supper Observance**  
 **5:00 pm** Beach Baptism 
 
