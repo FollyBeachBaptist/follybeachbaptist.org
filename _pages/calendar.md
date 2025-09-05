@@ -198,8 +198,9 @@ Enter through the office door in the back parking lot on West Indian ave
 
   <hr>
 
+  **Christmas Musical**
   **Sunday, December 14**  
-  **6:00 pm** Christmas Musical   
+  **6:00 pm**    
   <img width="402" height="600" alt="image" src="https://github.com/user-attachments/assets/93b17c8f-ffe3-4a36-a345-2e6357d88332" />
 
   <hr>
