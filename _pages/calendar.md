@@ -61,7 +61,8 @@ header:
   **Sunday, September 14th**  
  **9:45 am** Sunday School  
   **11:00 am** Worship Service  
-  **5:00 pm** Medicare 101 information meeting     *In the Fellowship Hall* 
+  **5:00 pm** Medicare 101 information meeting      
+  *In the Fellowship Hall* 
   
   
 
@@ -81,7 +82,7 @@ header:
 
 **Moms In Prayer**    
 **Mondays at 10:30 am**  
-In the Education Building.  
+*In the Education Building.*  
 Enter through the office door in the back parking lot on West Indian ave
 
 <img width="222" height="208" alt="image" src="https://github.com/user-attachments/assets/973bcd0f-5cc0-4246-94e7-4b3b9ce31913" />  
