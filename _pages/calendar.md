@@ -149,8 +149,10 @@ Enter through the office door in the back parking lot on West Indian ave
 
 
 
-  **Wednesday, October 22**  
-  **6:30 pm** Quarterly Business Meeting   
+  **Quarterly Business Meeting**  
+  
+  **Wednesday, October 22, 6:30 pm**  
+    
   <img width="348" height="348" alt="image" src="https://github.com/user-attachments/assets/da6cc9cf-3141-4439-85e6-7564c2227cfe" />  
   <hr>
 
