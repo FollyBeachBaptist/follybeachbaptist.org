@@ -35,8 +35,7 @@ header:
 
 **Monday, September 8th**   
 **10:30 am** Moms In Prayer  
-*In the Education Building*
-
+*In the Education Building*  
 **6:30 pm** Women's Bible Study  
 **6:45 pm** Men's Bible Study    
 
