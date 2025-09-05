@@ -134,13 +134,16 @@ Enter through the office door in the back parking lot on West Indian ave
   For more info: **CBAwomen.org**  
   <hr>
 
-  **Monday, October 6**    
+  **Soup and Soul resumes**   
+  **Monday, October 6 at 12:00**    
   ![Alt text](/assets/images/Soup%20and%20Soul%20Picture.jpg)
-  **12:00 pm Soup and Soul resumes**  
+   
   <hr>
 
-  **Monday, October 13-16**  
   **Celebrator's Conference, Pigeon Forge, TN**  
+  
+  **Monday, October 13-16**  
+    
   <img width="1000" height="562" alt="image" src="https://github.com/user-attachments/assets/b0a62bdb-bc54-4bdc-835a-18fd9a6b9214" />  
   <hr>
 
