@@ -54,7 +54,7 @@ header:
 **7:30 pm** Choir Practice  
 
   **Thursday, September 4**  
-  **10:00 am** Women's Bible Study
+  **10:00 am** Women's Bible Study  
   **6:00 pm** Recovery in Christ  
   **6:30 pm** Prayer Cottage  
      
