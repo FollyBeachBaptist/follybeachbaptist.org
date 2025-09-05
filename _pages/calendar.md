@@ -173,16 +173,18 @@ Enter through the office door in the back parking lot on West Indian ave
   <hr>
 
 
+  **Community Thanksgiving Service and Meal at FBBC**   
   **Sunday, November 23**  
-  Community Thanksgiving Service and Meal  
-  At FBBC    
+      
   <img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/ae2e8043-fac1-4385-9fc9-1b6ebb5f4e55" />
 
   <hr>
 
+  **Community Christmas Tree Lighting   
+  In Folly River Park**  
+  
   **Sunday, November 30**  
-  Community Christmas Tree Lighting   
-  In Folly River Park  
+   
   <img width="1600" height="800" alt="image" src="https://github.com/user-attachments/assets/fb91d036-7e70-41a9-80bc-98f0887f5842" />  
   <hr>
 
