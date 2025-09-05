@@ -25,35 +25,46 @@ header:
 
 
 
-**Sunday, August 31**  
-**8:30 am** Summer Sonrise Service  
+**Sunday, September 7th**  
+ 
 **9:45 am** Sunday School  
-**11:00 am** Worship service  
-**5:00 pm** Youth Ministry Bible Study  
-"Making Decisions that Matter"
+**11:00 am** Worship service  with
+**Lord's Supper Observance**  
+**5:00 pm** Beach Baptism 
 
 
-**Monday, September 1**   
-**Happy Labor Day!**  
+**Monday, September 8th**   
+**10:30 am** Moms In Prayer  
+*In the Education Building*
+
+**6:30 pm** Women's Bible Study  
+**6:45 pm** Men's Bible Study    
+
+*All Bible Studies are in the Education Building*  
+
+**Tuesday, September 9th**  
+**9:30 am** Women's Bible Study   
+**11:00 am**  WMU Monthly Meeting
+
+ 
   
 
 **Wednesday, September 3**  
 **5:30 pm** Building and Grounds Meeting    
 **7:30 pm** Choir Practice  
 
-  **Thursday, September 4**     
+  **Thursday, September 4**  
+  **10:00 am** Women's Bible Study
   **6:00 pm** Recovery in Christ  
   **6:30 pm** Prayer Cottage  
      
 
-  **Sunday, September 7**  
-  **Lord's Supper Observance**  
-  ![Alt text](/assets/images/Lord's%20Supper%20Picture.jpg)  
-  
+  **Sunday, September 14th**  
+ 
   **9:45 am** Sunday School  
   **11:00 am** Worship Service  
-  **5:00 pm** Beach Baptism  
-  ![Beach Baptism](https://github.com/user-attachments/assets/416d0d5b-3ffd-4958-b727-5dffaf53adc1)
+  **5:00 pm** Medicare 101 information meeting  
+  
 
   
 
@@ -68,6 +79,15 @@ header:
 
   **UPCOMING EVENTS**   
   <hr>
+
+**Moms In Prayer**    
+Meets **Mondays at 10:30 am**  
+In the Education Building.  
+Enter through the office door in the back parking lot on West Indian ave
+
+<img width="222" height="208" alt="image" src="https://github.com/user-attachments/assets/973bcd0f-5cc0-4246-94e7-4b3b9ce31913" />  
+
+  
 
   
 **WOMEN'S BIBLE STUDY**  
