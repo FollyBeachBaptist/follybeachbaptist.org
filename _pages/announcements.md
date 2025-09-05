@@ -56,7 +56,9 @@ This annual state missions offering supports church planting, disaster relief, e
   **Moms In Prayer**    
   This wonderful ministry unites women from Folly Beach and surrounding communities to pray for children and schools.  
   Through weekly gatherings rooted in Scripture, women support one another and seek god's guidance for students, parents,   
-  teachers, and coomunities.
+  teachers, and coomunities.  
+
+  See the *Upcoming Events* Section of our Calendar Page for meeting times and location
    
   
  <img width="222" height="208" alt="image" src="https://github.com/user-attachments/assets/c4b6b8ee-2704-46c9-83b0-a791224c5724" />  
