@@ -80,7 +80,7 @@ header:
   <hr>
 
 **Moms In Prayer**    
-Meets **Mondays at 10:30 am**  
+**Mondays at 10:30 am**  
 In the Education Building.  
 Enter through the office door in the back parking lot on West Indian ave
 
