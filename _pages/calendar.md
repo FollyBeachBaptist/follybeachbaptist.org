@@ -125,8 +125,9 @@ Enter through the office door in the back parking lot on West Indian ave
 
   
 
-  **Friday, October 3, Saturday, October 4**  
   **DELIGHT** Women's CBA CONFERENCE   
+  **Friday, October 3, Saturday, October 4**  
+    
   <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/716b0c86-b61f-4b54-855d-5fc3b8cdf2d7" />
 
   
