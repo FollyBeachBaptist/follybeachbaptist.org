@@ -63,7 +63,8 @@ header:
  
   **9:45 am** Sunday School  
   **11:00 am** Worship Service  
-  **5:00 pm** Medicare 101 information meeting  
+  **5:00 pm** Medicare 101 information meeting     *In the Fellowship Hall* 
+  
   
 
   
