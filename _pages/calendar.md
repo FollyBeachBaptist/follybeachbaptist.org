@@ -205,9 +205,11 @@ Enter through the office door in the back parking lot on West Indian ave
 
   <hr>
 
-  **Wednesday, December 24**  
-  **CHRISTMAS EVE**  
-  **5:00 pm Evening Service**  
+  **Christmas Eve Service**  
+  
+  **Wednesday, December 24 at 5:00 pm** 
+ 
+   
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c2a66317-f545-4d8f-9e6a-ff48309adf0a" />
 
 
