@@ -93,9 +93,9 @@ Enter through the office door in the back parking lot on West Indian ave
   
 **WOMEN'S BIBLE STUDY**  
 
-  **Monday, September 8th at 6:30pm**      
-  **Tuesday, Sept 9th at 9:30am**  
-   **Thursday, Sept 11th at 10:00am**
+  **Mondays at 6:30 pm**    
+  **Tuesdays at 9:30 am**   
+  **Thursdays at 10:00am**
   <img width="2000" height="1125" alt="Revelation Bible Study" src="https://github.com/user-attachments/assets/d9b5a9d0-9427-4dc7-a653-03440c1a2c3c" />  
   <hr>
 
