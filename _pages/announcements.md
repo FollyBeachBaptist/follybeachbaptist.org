@@ -21,28 +21,8 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 <hr>
  
 
-**Beach Baptism Service**   
-
-![Alt text](/assets/images/Beach%20Baptism%20Picture.jpg)  
-
- 
 
 
-Join us for a wonderful time of fellowship in Worship and Baptism **September 7th**.    
-
-We will have a fellowship meal at **5:00 pm, followed by Baptisms at 6:00pm**  
-
-Contact our Church office **843-588-9414** for directions.   
-**All Are Welcome To Attend!!**
-**Bring a friend!!**  
-<hr>  
-
-
-**Lord's Supper**    
-![Alt text](/assets/images/Lord's%20Supper%20Picture.jpg)  
-
-We will Celebrate corporate communion **Sunday, Sept 7th** at the 11:00 Service  
-<hr>  
 
 **Janie Chapman Offering for State Missions**   
 
