@@ -79,7 +79,14 @@ header:
 <hr>  
 
   **UPCOMING EVENTS**   
-  <hr>
+  <hr>  
+
+  **Pray at the Pier**  
+  **2nd Thursday Every Month at 5:00 pm**  
+  <img width="736" height="476" alt="image" src="https://github.com/user-attachments/assets/688cba71-8bbc-4c2a-b8bc-326dc9c8f5b7" />  
+  <hr>  
+  
+
 
 **Moms In Prayer**    
 **Mondays at 10:30 am**  
