@@ -53,8 +53,9 @@ header:
 **7:30 pm** Choir Practice  
 
   **Thursday, September 11th**  
-  **10:00 am** Women's Bible Study  
-  **6:00 pm** Recovery in Christ  
+  **10:00 am** Women's Bible Study   
+  **5:00 pm** Pray at the Pier  
+ **6:00 pm** Recovery in Christ  
   **6:30 pm** Prayer Cottage  
      
 
