@@ -93,7 +93,15 @@ header:
 *In the Education Building.*  
 Enter through the office door in the back parking lot on West Indian ave
 
-<img width="222" height="208" alt="image" src="https://github.com/user-attachments/assets/973bcd0f-5cc0-4246-94e7-4b3b9ce31913" />  
+<img width="222" height="208" alt="image" src="https://github.com/user-attachments/assets/973bcd0f-5cc0-4246-94e7-4b3b9ce31913" />    
+<hr>  
+
+**WMU Monthly Meeting**  
+**2nd Tuesday each month in the Education building**  
+<img width="409" height="123" alt="image" src="https://github.com/user-attachments/assets/a7525d91-7634-41a8-8ccd-0ef36bd3fe24" />  
+<hr>  
+
+
 
   
 
