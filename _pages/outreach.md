@@ -6,6 +6,11 @@ header:
   og_image: /assets/images/preview.jpg
 author: default
 ---
+**Pray at the Pier**  
+**We gather at 5:00 pm, 2nd Thursday of each month on the Folly Beach Pier to pray for our nation and governments.**  
+  <img width="736" height="476" alt="image" src="https://github.com/user-attachments/assets/688cba71-8bbc-4c2a-b8bc-326dc9c8f5b7" />  
+  <hr>  
+  
 
 **Operation Christmas Child**    
 <img width="1700" height="1133" alt="image" src="https://github.com/user-attachments/assets/8a735b08-31e3-461a-8994-bc593068baea" />
