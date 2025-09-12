@@ -32,7 +32,7 @@ header:
 **5:00 pm** **Medicare 101 Class**
 
 
-**Monday, September 8th**   
+**Monday, September 15th**   
 **10:30 am** Moms In Prayer  
 *In the Education Building*  
 **6:30 pm** Women's Bible Study  
@@ -40,28 +40,27 @@ header:
 
 *All Bible Studies are in the Education Building*  
 
-**Tuesday, September 9th**  
+**Tuesday, September 16th**  
 **9:30 am** Women's Bible Study   
-**11:00 am**  WMU Monthly Meeting
+
 
  
   
 
-**Wednesday, September 10th**  
+**Wednesday, September 17th**  
 **5:30 pm** Building and Grounds Meeting    
 **7:30 pm** Choir Practice  
 
-  **Thursday, September 11th**  
-  **10:00 am** Women's Bible Study   
-  **5:00 pm** Pray at the Pier  
+  **Thursday, September 18th**  
+  **10:00 am** Women's Bible Study    
  **6:00 pm** Recovery in Christ  
   **6:30 pm** Prayer Cottage  
      
 
-  **Sunday, September 14th**  
+  **Sunday, September 21st**  
  **9:45 am** Sunday School  
   **11:00 am** Worship Service  
-  **5:00 pm** Medicare 101 information meeting      
+  **5:00 pm** Student Ministry     
   *In the Fellowship Hall* 
   
   
@@ -123,7 +122,7 @@ Enter through the office door in the back parking lot on West Indian ave
  
 **Recovery In Christ Movie Night**   
 **Friday, September 26th 6:00 pm**  
-
+*In the Fellowship Hall*
 "My Name is Bill W."  
 
  <img width="350" height="500" alt="image" src="https://github.com/user-attachments/assets/47943931-5e8b-4b8f-b48c-266929dd43bb" />  
@@ -131,8 +130,8 @@ Enter through the office door in the back parking lot on West Indian ave
  
  **Ministry Team Summit**  
  
-  **Sunday, September 28, 12:00 pm**   
-  (Immediately Following the 11:00 Service)  
+  **Sunday, September 28, 1:00 pm**   
+  **Lunch Provided**  
   *In the Fellowship Hall*
   
   ![Team Summit](https://github.com/user-attachments/assets/af165b45-9c65-4318-a831-7ba0322cfe48)  
