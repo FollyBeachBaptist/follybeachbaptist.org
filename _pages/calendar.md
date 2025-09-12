@@ -25,12 +25,11 @@ header:
 
 
 
-**Sunday, September 7th**  
+**Sunday, September 14th**  
  
 **9:45 am** Sunday School  
-**11:00 am** Worship service  with  
-**Lord's Supper Observance**  
-**5:00 pm** Beach Baptism 
+**11:00 am** Worship service     
+**5:00 pm** **Medicare 101 Class**
 
 
 **Monday, September 8th**   
