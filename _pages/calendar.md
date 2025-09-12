@@ -112,6 +112,15 @@ Enter through the office door in the back parking lot on West Indian ave
   <img width="2000" height="1125" alt="Revelation Bible Study" src="https://github.com/user-attachments/assets/d9b5a9d0-9427-4dc7-a653-03440c1a2c3c" />  
   <hr>
 
+**Men's Bible Study**
+    
+**Mondays at 6:45pm**  
+  
+  
+  
+  <img width="500" height="334" alt="image" src="https://github.com/user-attachments/assets/1c398dd7-fefc-4486-8743-5739850836a7" />    
+  <hr>    
+  
  **"Medicare 101" Information class**  
  
 **Sunday, September 14th at 5:00pm**     
