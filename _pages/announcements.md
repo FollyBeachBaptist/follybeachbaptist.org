@@ -16,8 +16,13 @@ header:
 
 We have childcare provided during our morning worship service for ages **birth through 4 years old!** 
 
+ <hr>   
+
 We also have Bible studies for all ages (preschool, children, youth, and adults)  
- **Sunday mornings from 9:45 a.m. until 10:45 a.m.**      
+ **Sunday mornings from 9:45 a.m. until 10:45 a.m.**    
+ 
+ <img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/92fe1de0-f717-43e0-9f15-8790b2ae247e" />
+
 <hr>
  
 
@@ -44,16 +49,7 @@ This annual state missions offering supports church planting, disaster relief, e
  <img width="222" height="208" alt="image" src="https://github.com/user-attachments/assets/c4b6b8ee-2704-46c9-83b0-a791224c5724" />  
   <hr>  
 
-  **Kairos Prison Ministry**  
-<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/066584a3-4b14-4f52-82e1-37c618f4cae3" />
 
-**Kairos Prison Ministry – South Carolina**  
-Kairos is a Christ-centered ministry that brings hope and healing to incarcerated men and women across South Carolina. Through a powerful 3½-day weekend experience and ongoing support, Kairos volunteers share the love and forgiveness of Jesus Christ, helping build Christian communities inside correctional institutions. Rooted in Matthew 25:36—“I was in prison and you visited me”—Kairos transforms lives, encourages accountability, and fosters lasting change through prayer, fellowship, and grace.  
-
-**You can support this ministry by providing cookies. Bring Cookies to the church on Sunday, September 14th**  
-**If you wish to support financially, Make checks payable to: Kairos S.C.**
-
-<hr>
 
 **Women's Bible Study Update**  
 <img width="2000" height="1125" alt="Revelation Bible Study" src="https://github.com/user-attachments/assets/c1a2d7e2-f741-45a4-a5e2-164990a1f314" />
@@ -84,16 +80,7 @@ Women's Bible Study times will remain unchanged
   
 
     
-  
 
-
-  **Medicare Seminar**   
-  ![Alt text](/assets/images/Medicare%20Picture.png)  
-  
-  **Sunday, September 14th at 5:00 pm**  
-  This informal gathering is to help understand Medicare options available to participants.  
-  If you are on or considering Medicare, this is for you!  
-  <hr>    
 
  **GriefShare**    
  ![Alt text](/assets/images/GriefShare%20Picture.jpg)  
