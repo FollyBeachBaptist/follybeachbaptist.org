@@ -5,7 +5,22 @@ author: default
 header:
 
 ---
+<hr>    
 
+**Upcoming Sermons**  
+
+**September 21st**  
+"Stop Dating the Church--We are the Bride and the Body"  
+Ephesians 5:25-32 ; 1 Corinthians 12:12-27  
+
+**September 28th**  
+"Stop Dating the Church--We are the Building and the Billboard"  
+Ephesians 2:19-22 ; 3:8-13  
+
+**October 5th**  
+"Living Out Loud for Jesus--How to be a living Testimony"  
+Luke 12:8-9       
+*Pastor Billy Preaching*
 
 
 **Worship Service Childcare Provided**    
