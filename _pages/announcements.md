@@ -20,7 +20,10 @@ Ephesians 2:19-22 ; 3:8-13
 **October 5th**  
 "Living Out Loud for Jesus--How to be a living Testimony"  
 Luke 12:8-9       
-*Pastor Billy Preaching*
+*Pastor Billy Preaching*  
+
+<hr>  
+
 
 
 **Worship Service Childcare Provided**    
