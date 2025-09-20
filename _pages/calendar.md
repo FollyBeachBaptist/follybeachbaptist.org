@@ -25,43 +25,45 @@ header:
 
 
 
-**Sunday, September 14th**  
+**Sunday, September 21st**  
  
 **9:45 am** Sunday School  
 **11:00 am** Worship service     
-**5:00 pm** **Medicare 101 Class**
+**5:00 pm** **Student Ministry**
 
 
-**Monday, September 15th**   
-**10:30 am** Moms In Prayer  
-*In the Education Building*  
+**Monday, September 22nd**   
+**10:30 am** Moms In Prayer    
 **6:30 pm** Women's Bible Study  
 **6:45 pm** Men's Bible Study    
 
 *All Bible Studies are in the Education Building*  
 
-**Tuesday, September 16th**  
+**Tuesday, September 23rd**  
 **9:30 am** Women's Bible Study   
 
 
- 
-  
-
-**Wednesday, September 17th**  
+**Wednesday, September 24th**  
 **5:30 pm** Building and Grounds Meeting    
 **7:30 pm** Choir Practice  
 
-  **Thursday, September 18th**  
+  **Thursday, September 25th**  
   **10:00 am** Women's Bible Study    
- **6:00 pm** Recovery in Christ  
-  **6:30 pm** Prayer Cottage  
+   *Recovery in Christ  moved to Friday night this week only*  
+   **6:30 pm** Prayer Cottage   
+
+  **Friday, September 26th**  
+  **6:00 pm**  Recovery In Christ Movie Night  
+  **"My Name is Bill W."**  
+  **OPEN TO THE PUBLIC**
      
 
-  **Sunday, September 21st**  
+  **Sunday, September 28th**  
  **9:45 am** Sunday School  
-  **11:00 am** Worship Service  
+  **11:00 am** Worship Service   
+  **1:00 pm** **Ministry Team Summit**&nbsp;&nbsp;    *In the Fellowship Hall*  
   **5:00 pm** Student Ministry     
-  *In the Fellowship Hall* 
+  
   
   
 
