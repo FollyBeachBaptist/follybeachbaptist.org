@@ -19,7 +19,7 @@ Ephesians 2:19-22 ; 3:8-13
 
 **October 5th**  
 "Living Out Loud for Jesus--How to be a living Testimony"  
-Luke 12:8-9 , Rom 10:9, Mt 28:18-20, 2 Cor 2:15-3:3      
+Luke 12:8-9 , Mt 28:18-20, 2 Cor 2:15-3:3      
 *Pastor Billy Preaching*  
 
 <hr>  
