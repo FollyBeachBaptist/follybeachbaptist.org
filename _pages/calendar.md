@@ -61,7 +61,7 @@ header:
   **Sunday, September 28th**  
  **9:45 am** Sunday School  
   **11:00 am** Worship Service   
-  **1:00 pm** **Ministry Team Summit**&nbsp;&nbsp;    *In the Fellowship Hall*  
+  **1:00 pm** **Ministry Team Summit**&nbsp;&nbsp;   
   **5:00 pm** Student Ministry     
   
   
