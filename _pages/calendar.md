@@ -61,8 +61,11 @@ header:
   **Sunday, September 28th**  
  **9:45 am** Sunday School  
   **11:00 am** Worship Service   
-  **1:00 pm** **Ministry Team Summit**&nbsp;&nbsp;   
-  **5:00 pm** Student Ministry     
+**Ministry Team Summit After Service**&nbsp;&nbsp; **Lunch Provided**   
+  ![Team Summit](https://github.com/user-attachments/assets/af165b45-9c65-4318-a831-7ba0322cfe48)  
+  <hr>
+
+   
   
   
   
@@ -134,14 +137,6 @@ Enter through the office door in the back parking lot on West Indian ave
  <img width="350" height="500" alt="image" src="https://github.com/user-attachments/assets/47943931-5e8b-4b8f-b48c-266929dd43bb" />  
  <hr>
  
- **Ministry Team Summit**  
- 
-  **Sunday, September 28, 1:00 pm**   
-  **Lunch Provided**  
-  *In the Fellowship Hall*
-  
-  ![Team Summit](https://github.com/user-attachments/assets/af165b45-9c65-4318-a831-7ba0322cfe48)  
-  <hr>
 
 
   
