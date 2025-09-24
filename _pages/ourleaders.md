@@ -28,7 +28,7 @@ header:
 ---
 
 **Audio Visual Team**  
-Matt Beasley and Sandy Kisamore
+Matt Beasley 
 
 **Pianist**  
 Debbie Summey
