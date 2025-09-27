@@ -88,7 +88,8 @@ header:
  <hr>
 
   **Pray at the Pier**  
-  **2nd Thursday Every Month at 5:00 pm**  
+  **We meet the2nd Thursday Every Month at 5:00 pm to pray for our government and nation**  
+  
   <img width="736" height="476" alt="image" src="https://github.com/user-attachments/assets/688cba71-8bbc-4c2a-b8bc-326dc9c8f5b7" />  
   <hr>  
   
