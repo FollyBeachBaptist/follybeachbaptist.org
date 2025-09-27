@@ -77,7 +77,7 @@ header:
 <hr>  
 
   **UPCOMING EVENTS**   
-  <hr>  
+
 
   **Pray at the Pier**  
   **2nd Thursday Every Month at 5:00 pm**  
@@ -123,14 +123,7 @@ Enter through the office door in the back parking lot on West Indian ave
   
 
 
- 
-**Recovery In Christ Movie Night**   
-**Friday, September 26th 6:00 pm**  
-*In the Fellowship Hall*
-"My Name is Bill W."  
 
- <img width="350" height="500" alt="image" src="https://github.com/user-attachments/assets/47943931-5e8b-4b8f-b48c-266929dd43bb" />  
- <hr>
  
 
 
