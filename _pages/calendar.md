@@ -76,8 +76,16 @@ header:
 
 <hr>  
 
-  **UPCOMING EVENTS**   
-
+  **UPCOMING EVENTS**     
+  <hr>  
+  
+  **Ministry Team Summit**    
+  ![Team Summit](https://github.com/user-attachments/assets/c3dff9e7-7504-419c-b31e-0e79a6dd4807)  
+ **Sunday, September 28th at 1:00 pm**    
+ This is a special time of training for all ministry team leaders.  
+ All church members who are seeking to serve in a ministry are invited to attend this informative and transformative annual event.   
+ We will meet in the Fellowship after the Worship service for lunch and the meeting will beging at 1:00.  
+ <hr>
 
   **Pray at the Pier**  
   **2nd Thursday Every Month at 5:00 pm**  
