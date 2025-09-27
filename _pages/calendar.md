@@ -88,7 +88,7 @@ header:
  <hr>
 
   **Pray at the Pier**  
-  **We meet the2nd Thursday Every Month at 5:00 pm to pray for our government and nation**  
+  **We meet the 2nd Thursday Every Month at 5:00 pm to pray for our government and nation**  
   
   <img width="736" height="476" alt="image" src="https://github.com/user-attachments/assets/688cba71-8bbc-4c2a-b8bc-326dc9c8f5b7" />  
   <hr>  
@@ -96,7 +96,7 @@ header:
 
 
 **Moms In Prayer**    
-**Mondays at 10:30 am**  
+**All moms are welcome to join us Mondays at 10:30 am as we pray for our schools and children**  
 *In the Education Building.*  
 Enter through the office door in the back parking lot on West Indian ave
 
