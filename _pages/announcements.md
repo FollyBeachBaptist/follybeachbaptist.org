@@ -11,14 +11,31 @@ header:
 
  
 
-**September 28th**  
-"Stop Dating the Church--We are the Building and the Billboard"  
-Ephesians 2:19-22 ; 3:8-13  
-
 **October 5th**  
 "Living Out Loud for Jesus--How to be a living Testimony"  
 Luke 12:1-12     
-*Pastor Billy Preaching*  
+*Pastor Billy Preaching*    
+
+**October 12th**  
+Series on Jude begins  (Pt 1/5)  
+"Alarm-Sound It!"  Jude 1-4  
+
+**October 19th**    
+Jude series (Pt 2/5)  
+"Apostates from the Past"  Jude 5-11  
+
+**October 26th**  
+Jude series (Pt 3/5)  
+"Apostates in the Present"  Jude 12-16  
+
+**November 2nd**  
+Jude series (Pt4/5)  
+"Avoiding Apostacy"  Jude 17-23  
+
+**November 9th**  
+Jude series ends (Pt 4/5)  
+"Amen to The Almighty"  Jude 24-25
+
 
 <hr>  
 
