@@ -36,7 +36,13 @@ header:
 **Monday, September 29th**   
 **10:30 am** Moms In Prayer    
 **6:30 pm** Women's Bible Study  
-**6:45 pm** Men's Bible Study    
+**6:45 pm** Men's Bible Study   
+
+**7:00 pm** **Young Life Student Ministry**  Meeting in the Fellowship Hall  
+ <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/a3303155-7fa1-4f35-a174-21418703a55c" />  
+
+   <hr>
+
 
 *All Bible Studies are in the Education Building*  
 
@@ -79,13 +85,7 @@ header:
   **UPCOMING EVENTS**     
   <hr>  
   
-  **Ministry Team Summit**    
-  ![Team Summit](https://github.com/user-attachments/assets/c3dff9e7-7504-419c-b31e-0e79a6dd4807)  
- **Sunday, September 28th at 1:00 pm**    
- This is a special time of training for all ministry team leaders.  
- All church members who are seeking to serve in a ministry are invited to attend this informative and transformative annual event.   
- We will meet in the Fellowship after the Worship service for lunch and the meeting will beging at 1:00.  
- <hr>
+
 
   **Pray at the Pier**  
   **We meet the 2nd Thursday Every Month at 5:00 pm to pray for our government and nation**  
