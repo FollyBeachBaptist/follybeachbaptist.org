@@ -33,7 +33,7 @@ Jude series (Pt4/5)
 "Avoiding Apostacy"  Jude 17-23  
 
 **November 9th**  
-Jude series ends (Pt 4/5)  
+Jude series ends (Pt 5/5)  
 "Amen to The Almighty"  Jude 24-25
 
 
