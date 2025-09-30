@@ -88,16 +88,8 @@ This annual state missions offering supports church planting, disaster relief, e
 <img width="2000" height="1125" alt="Revelation Bible Study" src="https://github.com/user-attachments/assets/c1a2d7e2-f741-45a4-a5e2-164990a1f314" />
 
  
-**The Evening Women's Bible Study is Changing!!**    
-
-Beginning **Monday, September 8th**,   
-
-Our Women's **Evening Bible Study Group** will meet on Mondays at 6:30.  
-
-The Men's Bible study meets Monday nights at 6:45. 
-
-**Tuesdays at 9:30am** and **Thursdays at 10:00am**   
-Women's Bible Study times will remain unchanged
+**The Day For The Evening Women's Bible Study has Changed!!**    
+**Evening Women's Bible Study is Now on Mondays at 6:30 pm**
 
 
 
