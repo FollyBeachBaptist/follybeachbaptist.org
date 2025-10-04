@@ -25,16 +25,16 @@ header:
 
 
 
-**Sunday, September 28th**  
+**Sunday, October 5th**  
  
 **9:45 am** Sunday School  
-**11:00 am** Worship service    
-**1:00 pm** Ministry Team Summit  
+**11:00 am** Worship service      
 **5:00 pm** Student Ministry
 
 
-**Monday, September 29th**   
-**10:30 am** Moms In Prayer    
+**Monday, October 6th**   
+**10:30 am** Moms In Prayer   
+**12:00 pm** Soup and Soul  
 **6:30 pm** Women's Bible Study  
 **6:45 pm** Men's Bible Study   
 
@@ -46,21 +46,22 @@ header:
 
 *All Bible Studies are in the Education Building*  
 
-**Tuesday, September 30th**  
+**Tuesday, October 7th**  
 **9:30 am** Women's Bible Study   
 
 
-**Wednesday, October 1st**  
+**Wednesday, October 8th**  
 **5:30 pm** Building and Grounds Meeting  
 **6:30 pm** Prayer Meeting in Sanctuary  
 **7:30 pm** Choir Practice  
 
-  **Thursday, October 2nd**  
-  **10:00 am** Women's Bible Study    
+  **Thursday, October 9th**  
+  **10:00 am** Women's Bible Study  
+  **5:00 pm** Prayer at the Pier
   **6:00 pm** Recovery In Christ  
      
 
-  **Sunday, October 5th**    
+  **Sunday, October 12th**    
   **9:00 am** Deacon Meeting  
  **9:45 am** Sunday School  
   **11:00 am** Worship Service   
