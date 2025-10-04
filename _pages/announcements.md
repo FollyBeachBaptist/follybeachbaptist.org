@@ -37,8 +37,42 @@ Jude series ends (Pt 5/5)
 "Amen to The Almighty"  Jude 24-25
 
 
-<hr>  
+<hr>    
 
+**Folly Beach Baptist Church Is An Operation Christmas Child Collection Site**  
+
+**Collection Dates and Times:**  
+**•	Monday, Nov. 17 – 6-8 p.m.**  
+
+**•	Tuesday, Nov. 18 – 6-8 p.m.**  
+
+**•	Wednesday, Nov. 19 – 3-5 p.m.**  
+
+**•	Thursday, Nov. 20 – 11 a.m.-1 p.m.**  
+
+**•	Friday, Nov. 21 – 4:30-6:30 p.m.**  
+
+**•	Saturday, Nov. 22 – 11 a.m.-1 p.m.**  
+
+**•	Sunday, Nov. 23 – 2:30-4:30 p.m.**  
+
+**•	Monday, Nov. 24 – 10 a.m.-Noon**  
+
+  **Operation Christmas Child** demonstrates God's love in a tangible way. Shoe boxes are packed and shipped to boys and girls ages 2 to 14 around the world who may have never heard the Gospel message or the Christmas Story.  
+
+
+<img width="1700" height="1133" alt="image" src="https://github.com/user-attachments/assets/8a735b08-31e3-461a-8994-bc593068baea" />
+
+
+
+The boxes contain Toys, School supplies, and Hygiene items. Gifts for the boxes are collected March through October, and packed into the boxes at our annual **Christmas At The Beach** OCC Packing party.  
+
+This year's packing party will be November 16th, 5:00pm to 8:00pm in the Fellowship hall.   
+  
+For additional information in contributing or volunteering,  please **contact Danielle Willis at 843-224-0873.**  
+Or Check here (https://www.samaritanspurse.org/operation-christmas-child/what-goes-in-my-shoebox-suggestions/)
+for suggested gifts and prohibited items.  
+<hr>  
 
 
 **Worship Service Childcare Provided**    
