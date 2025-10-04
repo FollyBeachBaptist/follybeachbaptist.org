@@ -17,7 +17,8 @@ Luke 12:1-12
 *Pastor Billy Preaching*    
 
 **October 12th**  
-Series on Jude begins  (Pt 1/5)  
+Series on Jude "Jude - Contend For The Faith""  begins    
+ (Pt 1/5)  
 "Alarm-Sound It!"  Jude 1-4  
 
 **October 19th**    
@@ -29,7 +30,7 @@ Jude series (Pt 3/5)
 "Apostates in the Present"  Jude 12-16  
 
 **November 2nd**  
-Jude series (Pt4/5)  
+Jude series (Pt 4/5)  
 "Avoiding Apostacy"  Jude 17-23  
 
 **November 9th**  
