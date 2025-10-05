@@ -58,7 +58,7 @@ header:
 
   **Thursday, October 9th**  
   **10:00 am** Women's Bible Study  
-  **5:00 pm** Prayer at the Pier
+  **5:00 pm** Prayer at the Pier  
   **6:00 pm** Recovery In Christ  
      
 
