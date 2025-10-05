@@ -34,7 +34,8 @@ header:
 
 **Monday, October 6th**   
 **10:30 am** Moms In Prayer   
-**12:00 pm** Soup and Soul  
+**12:00 pm** Soup and Soul   
+
 **6:30 pm** Women's Bible Study  
 **6:45 pm** Men's Bible Study   
 
@@ -133,20 +134,6 @@ Enter through the office door in the back parking lot on West Indian ave
   
 
 
-
- 
-
-
-  
-
-  **DELIGHT** Women's CBA CONFERENCE   
-  **Friday, October 3, Saturday, October 4**  
-    
-  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/716b0c86-b61f-4b54-855d-5fc3b8cdf2d7" />
-
-  
-  For more info: **CBAwomen.org**  
-  <hr>
 
   **Soup and Soul resumes**   
   **Monday, October 6 at 12:00**    
