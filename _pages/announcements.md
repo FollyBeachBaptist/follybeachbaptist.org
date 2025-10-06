@@ -11,10 +11,7 @@ header:
 
  
 
-**October 5th**  
-"Living Out Loud for Jesus--How to be a living Testimony"  
-Luke 12:1-12     
-*Pastor Billy Preaching*    
+
 
 **October 12th**  
 Series on Jude "Jude - Contend For The Faith""  begins    
