@@ -155,8 +155,12 @@ Enter through the office door in the back parking lot on West Indian ave
   **Wednesday, October 22, 6:30 pm**  
     
   <img width="348" height="348" alt="image" src="https://github.com/user-attachments/assets/da6cc9cf-3141-4439-85e6-7564c2227cfe" />  
-  <hr>
+  <hr>  
 
+  **Sunday, November 2**  
+  **Daylight Saving Time Ends; Set Clocks Back 1 Hour**  
+  **OCC Pre-Packing Party** **5:00 pm**  
+  **Decorate Tree in Fellowship Hall**
 
    **"Christmas at the Beach"**  
   **Operation Christmas Child Packing Party**  
