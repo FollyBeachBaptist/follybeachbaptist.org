@@ -177,6 +177,21 @@ Enter through the office door in the back parking lot on West Indian ave
   <img width="316" height="159" alt="image" src="https://github.com/user-attachments/assets/c9afd55b-214b-4dc2-a5a6-3ac9cf8fe6ac" />  
   <hr>
 
+  **November 20th  
+  6:00 pm in the Fellowship Hall**  
+  
+  **The Exchange Club of Folly Beach**  
+  Is hosting their Annual **Golden-Age Dinner**  
+  For Seniors, Widows, and Widowers.  
+  <img width="2048" height="1636" alt="image" src="https://github.com/user-attachments/assets/d0c980ae-8cd7-4910-abbc-11d781bf89e7" />    
+
+
+  <hr>  
+    
+
+  
+
+  
 
   **Community Thanksgiving Service and Meal at FBBC**   
   **Sunday, November 23**  
