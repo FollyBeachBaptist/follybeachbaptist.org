@@ -25,19 +25,18 @@ header:
 
 
 
-**Sunday, October 5th**  
- 
+**Sunday, October 12th**  
+**9:00 am** Deacon Meeting   
 **9:45 am** Sunday School  
 **11:00 am** Worship service      
 **5:00 pm** Student Ministry
 
 
-**Monday, October 6th**   
+**Monday, October 13th**   
 **10:30 am** Moms In Prayer   
-**12:00 pm** Soup and Soul   
-
+**12:00 pm** No Soup and Soul / Federal Holiday  
 **6:30 pm** Women's Bible Study  
-**6:45 pm** Men's Bible Study   
+**6:45 pm** Men's Bible Study will not meet   
 
 **7:00 pm** **Young Life Student Ministry**  Meeting in the Fellowship Hall  
  <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/a3303155-7fa1-4f35-a174-21418703a55c" />  
@@ -47,23 +46,24 @@ header:
 
 *All Bible Studies are in the Education Building*  
 
-**Tuesday, October 7th**  
+**Tuesday, October 14th**  
 **9:30 am** Women's Bible Study   
+**11:00 am** WMU
 
 
-**Wednesday, October 8th**  
+**Wednesday, October 15th**  
 **5:30 pm** Building and Grounds Meeting  
 **6:30 pm** Prayer Meeting in Sanctuary  
 **7:30 pm** Choir Practice  
 
-  **Thursday, October 9th**  
+  **Thursday, October 16th**  
   **10:00 am** Women's Bible Study  
-  **5:00 pm** Prayer at the Pier  
-  **6:00 pm** Recovery In Christ  
+  
+  **6:00 pm** Recovery In Christ Not Meeting
      
 
-  **Sunday, October 12th**    
-  **9:00 am** Deacon Meeting  
+  **Sunday, October 19th**    
+ 
  **9:45 am** Sunday School  
   **11:00 am** Worship Service   
 **5:00 pm** Student Ministry
