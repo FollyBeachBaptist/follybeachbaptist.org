@@ -33,7 +33,7 @@ header:
 
 
 **Monday, October 13th**   
-**10:30 am** Moms In Prayer   
+**10:30 am** Moms In Prayer is **Not Meeting** this week 
 **12:00 pm** No Soup and Soul / Federal Holiday  
 **6:30 pm** Women's Bible Study  
 **6:45 pm** Men's Bible Study will not meet   
@@ -59,7 +59,7 @@ header:
   **Thursday, October 16th**  
   **10:00 am** Women's Bible Study  
   
-  **6:00 pm** Recovery In Christ Not Meeting
+  **6:00 pm** Recovery In Christ **Not Meeting**
      
 
   **Sunday, October 19th**    
