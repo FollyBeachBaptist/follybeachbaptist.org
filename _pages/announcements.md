@@ -13,10 +13,7 @@ header:
 
 
 
-**October 12th**  
-Series on Jude "Jude - Contend For The Faith""  begins    
- (Pt 1/5)  
-"Alarm-Sound It!"  Jude 1-4  
+
 
 **October 19th**    
 Jude series (Pt 2/5)  
