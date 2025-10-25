@@ -60,8 +60,8 @@ header:
   **6:00 pm** Recovery In Christ
      
 
-  **Sunday, November 2nd**    
- 
+  **Sunday, November 2nd**   
+  **Daylight Savings Time Ends**  
  **9:45 am** Sunday School  
   **11:00 am** Worship Service   
 **5:00 pm** OCC Pre-Packing Party and  
@@ -142,13 +142,7 @@ Enter through the office door in the back parking lot on West Indian ave
 
 
 
-  **Quarterly Business Meeting**  
-  
-  **Wednesday, October 22, 6:30 pm**  
-    
-  <img width="348" height="348" alt="image" src="https://github.com/user-attachments/assets/da6cc9cf-3141-4439-85e6-7564c2227cfe" />  
-  <hr>  
-
+ 
   **Sunday, November 2**  
   **Daylight Saving Time Ends; Set Clocks Back 1 Hour**  
   **OCC Pre-Packing Party** **5:00 pm**  
@@ -186,7 +180,7 @@ Enter through the office door in the back parking lot on West Indian ave
   
 
   **Community Thanksgiving Service and Meal at FBBC**   
-  **Sunday, November 23**  
+  **Sunday, November 23rd at 6:00 pm**  
       
   <img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/ae2e8043-fac1-4385-9fc9-1b6ebb5f4e55" />
 
