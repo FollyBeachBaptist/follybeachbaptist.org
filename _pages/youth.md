@@ -20,14 +20,18 @@ retreats! If you have any questions feel free to [contact](ourleaders.md) Youth 
   
   Check out these links listed below and contact Pastor Billy at 843-460-7737 or email: Superdad8586@yahoo.com  
 
-    At Charleston Southern University:   https://slulead.com/    
+    At Charleston Southern University:  
+    https://slulead.com/    
     
-    At Orlando Florida : https://www.universalorlando.com/web/en/us/things-to-do/events/rock-the-universe  
+    At Orlando Florida:  
+    https://www.universalorlando.com/web/en/us/things-to-do/events/rock-the-universe  
     
-    At the Charleston Riverdogs stadium and Locations in town : https://www.scottdawson.org/sts  
+    In Charleston:  
+    https://www.scottdawson.org/sts  
     
-    At Lifeway camps in the Southeast : https://www.lifeway.com/en/events/christian-summer-camps#student    
+    At Lifeway camps in the Southeast:   
+    https://www.lifeway.com/en/events/christian-summer-camps#student    
 
-      Please consider these for your student or yourself to join this year!!
+  Please consider these for your student or yourself to join this year!!
     
  
