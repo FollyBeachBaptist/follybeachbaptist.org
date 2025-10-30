@@ -25,47 +25,45 @@ header:
 
 
 
-**Sunday, October 26th**     
+**Sunday, November 2nd**     
 **9:45 am** Sunday School  
 **11:00 am** Worship service      
-**5:00 pm** Student Ministry
+**5:00 pm** OCC Pre-Packing Party
 
 
-**Monday, October 27th**   
+**Monday, November 3rd**   
 **10:30 am** Moms In Prayer  
 **12:00 pm** Soup and Soul   
 **6:30 pm** Women's Bible Study  
 **6:45 pm** Men's Bible Study    
 
-**7:00 pm** **Young Life Student Ministry**  Meeting in the Fellowship Hall  
- <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/a3303155-7fa1-4f35-a174-21418703a55c" />  
 
-   <hr>
+   
 
 
 *All Bible Studies are in the Education Building*  
 
-**Tuesday, October 28th**  
+**Tuesday, November 4th**   
+**Election Day**  
 **9:30 am** Women's Bible Study   
 
 
 
-**Wednesday, October 29th**  
+**Wednesday, November 5th**  
 **5:30 pm** Building and Grounds Meeting  
 **6:30 pm** Prayer Meeting  
 **7:30 pm** Choir Practice  
 
-  **Thursday, October 23rd**  
+  **Thursday, November 6th**  
   **10:00 am** Women's Bible Study  
   **6:00 pm** Recovery In Christ
      
 
-  **Sunday, November 2nd**   
+  **Sunday, November 9th**   
   **Daylight Savings Time Ends**  
  **9:45 am** Sunday School  
   **11:00 am** Worship Service   
-**5:00 pm** OCC Pre-Packing Party and  
-Fellowship Hall Decorating
+**5:00 pm** No Student Ministry Activities
 
    
   
