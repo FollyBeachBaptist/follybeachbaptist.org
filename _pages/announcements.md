@@ -11,18 +11,6 @@ header:
 
  
 
-
-
-
-
-**October 19th**    
-Jude series (Pt 2/5)  
-"Apostates from the Past"  Jude 5-11  
-
-**October 26th**  
-Jude series (Pt 3/5)  
-"Apostates in the Present"  Jude 12-16  
-
 **November 2nd**  
 Jude series (Pt 4/5)  
 "Avoiding Apostacy"  Jude 17-23  
