@@ -28,7 +28,9 @@ header:
 **Sunday, November 2nd**     
 **9:45 am** Sunday School  
 **11:00 am** Worship service      
-**5:00 pm** OCC Pre-Packing Party
+**5:00 pm** OCC Pre-Packing Party  
+<img width="246" height="205" alt="image" src="https://github.com/user-attachments/assets/5d3b1508-ce98-4642-8a6d-09f7b7bab67a" />
+
 
 
 **Monday, November 3rd**   
