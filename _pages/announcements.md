@@ -89,7 +89,23 @@ This year's packing party will be November 16th, 5:00pm to 8:00pm in the Fellows
 For additional information in contributing or volunteering,  please **contact Danielle Willis at 843-224-0873.**  
 Or Check here (https://www.samaritanspurse.org/operation-christmas-child/what-goes-in-my-shoebox-suggestions/)
 for suggested gifts and prohibited items.  
-<hr>  
+<hr>    
+
+  The **Annual Community Thanksgiving Service and Meal** will be   
+  **Sunday, November 23, 6pm at Folly Beach Baptist Church**     
+  <img width="500" height="423" alt="image" src="https://github.com/user-attachments/assets/8a302042-d0ff-4fff-993b-6504996072fc" />  
+
+ <hr>  
+
+ **The Folly Beach Exchange Club**  
+ Is hosting their annual **Golden Age Dinner**  
+ Thursday, November 20th at 6:00pm  
+ In the Folly Beach Baptist Church Fellowship Hall  
+
+ <hr>  
+ 
+
+  
 
 
 **Worship Service Childcare Provided**    
