@@ -9,15 +9,42 @@ header:
 
 **Upcoming Sermons**  
 
- 
 
-**November 2nd**  
-Jude series (Pt 4/5)  
-"Avoiding Apostacy"  Jude 17-23  
 
 **November 9th**  
 Jude series ends (Pt 5/5)  
-"Amen to The Almighty"  Jude 24-25
+"Amen to The Almighty"  Jude 24-25  
+
+**November 16th**  
+"Christmas Giving"  
+
+**November 23rd**  
+"Thanksgiving"  
+
+  **November 30th**  
+  **First Sunday of Advent**  
+  "The Prophets---HOPE"  
+  Genesis 3:15  
+
+   **December 7th**  
+   "Mary---FAITH"    
+   Luke 1:26-38   
+
+   **December 14th**  
+    "Shepherds---JOY"  
+    Luke 2:8, 15-20  
+
+   **December 21st**  
+   "The Angels---PEACE"  
+   Luke 2:9-14  
+
+   **December 24th**  
+   **Wednesday, Christmas Eve**  
+   "Christ---LIGHT"  
+   Luke2:1-7; John 1:1-14
+   
+
+     
 
 
 <hr>    
