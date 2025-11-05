@@ -49,7 +49,9 @@ Jude series ends (Pt 5/5)
 
 <hr>    
 
-**Folly Beach Baptist Church Is An Operation Christmas Child Collection Site**  
+**Folly Beach Baptist Church Is An Operation Christmas Child Collection Site**    
+<img width="246" height="205" alt="image" src="https://github.com/user-attachments/assets/6091b453-fa7d-4729-8b58-aab704e5fdda" />
+
 
 **Collection Dates and Times:**  
 **•	Monday, Nov. 17 – 6-8 p.m.**  
@@ -75,7 +77,12 @@ Jude series ends (Pt 5/5)
 
 
 
-The boxes contain Toys, School supplies, and Hygiene items. Gifts for the boxes are collected March through October, and packed into the boxes at our annual **Christmas At The Beach** OCC Packing party.  
+The boxes contain Toys, School supplies, and Hygiene items. Gifts for the boxes are collected March through October, and packed into the boxes at our annual **Christmas At The Beach** OCC Packing party.     
+<img width="720" height="960" alt="image" src="https://github.com/user-attachments/assets/373eaddd-7e9c-4b6a-904e-e30475577f08" />  
+
+<img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/98347e02-5d84-418d-8f7b-23cd95a99458" />
+
+
 
 This year's packing party will be November 16th, 5:00pm to 8:00pm in the Fellowship hall.   
   
@@ -103,17 +110,6 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 <hr>
  
 
-
-
-
-**Janie Chapman Offering for State Missions**   
-
-This annual state missions offering supports church planting, disaster relief, evangelism, and ministry across South Carolina. Every gift helps share the hope of Christ right here at home!
-
-**Folly Beach Baptist Church 2025 Goal: $2,800.00**  
-<img width="3000" height="1784" alt="image" src="https://github.com/user-attachments/assets/105166ba-f993-4fb0-97b3-96b463d6496f" />  
-
-  <hr>
 
   **Moms In Prayer**    
   This wonderful ministry unites women from Folly Beach and surrounding communities to pray for children and schools.  
