@@ -216,7 +216,14 @@ Enter through the office door in the back parking lot on West Indian ave
   **Wednesday, December 24 at 5:00 pm** 
  
    
-  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c2a66317-f545-4d8f-9e6a-ff48309adf0a" />
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c2a66317-f545-4d8f-9e6a-ff48309adf0a" />  
+
+  <hr>    
+  
+**Thursday, February 5th, 2026**  
+Senior Health and Wellness Fair  
+
+
 
 
     
