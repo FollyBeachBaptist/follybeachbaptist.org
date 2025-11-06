@@ -222,6 +222,8 @@ Enter through the office door in the back parking lot on West Indian ave
   
 **Thursday, February 5th, 2026**  
 Senior Health and Wellness Fair  
+<img width="1080" height="1398" alt="image" src="https://github.com/user-attachments/assets/ce51414b-57aa-4701-a9ac-e82589088e8a" />
+
 
 
 
