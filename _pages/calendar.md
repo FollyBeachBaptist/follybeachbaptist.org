@@ -25,15 +25,18 @@ header:
 
 
 
-**Sunday, November 2nd**     
+**Sunday, November 9th**     
 **9:45 am** Sunday School  
 **11:00 am** Worship service      
-**5:00 pm** OCC Pre-Packing Party  
-<img width="246" height="205" alt="image" src="https://github.com/user-attachments/assets/5d3b1508-ce98-4642-8a6d-09f7b7bab67a" />
+**6:00 pm** Youth Meets at Paisanos for Pizza!!   
+
+<img width="583" height="214" alt="image" src="https://github.com/user-attachments/assets/9485c00b-bcba-41bb-9b08-4fe075373ee9" />
 
 
 
-**Monday, November 3rd**   
+
+
+**Monday, November 10th**   
 **10:30 am** Moms In Prayer  
 **12:00 pm** Soup and Soul   
 **6:30 pm** Women's Bible Study  
@@ -45,27 +48,33 @@ header:
 
 *All Bible Studies are in the Education Building*  
 
-**Tuesday, November 4th**   
-**Election Day**  
-**9:30 am** Women's Bible Study   
+**Tuesday, November 11th**  
+**Veteran's Day**  
+  
+**9:30 am** Women's Bible Study  
+**11:00 am** WMU Monthly Meeting
 
 
 
-**Wednesday, November 5th**  
+**Wednesday, November 12th**  
 **5:30 pm** Building and Grounds Meeting  
 **6:30 pm** Prayer Meeting  
 **7:30 pm** Choir Practice  
 
-  **Thursday, November 6th**  
-  **10:00 am** Women's Bible Study  
+  **Thursday, November 13th**  
+  **10:00 am** Women's Bible Study   
+  **5:00 pm** Prayer at the Pier
   **6:00 pm** Recovery In Christ
      
 
-  **Sunday, November 9th**   
-  **Daylight Savings Time Ends**  
+  **Sunday, November 16th**   
  **9:45 am** Sunday School  
   **11:00 am** Worship Service   
-**5:00 pm** No Student Ministry Activities
+**5:00 pm** Christmas at the Beach   
+Operation Christmas Child Packing Party
+
+<img width="246" height="205" alt="image" src="https://github.com/user-attachments/assets/5d3b1508-ce98-4642-8a6d-09f7b7bab67a" />
+
 
    
   
@@ -140,13 +149,6 @@ Enter through the office door in the back parking lot on West Indian ave
    
   <hr>
 
-
-
- 
-  **Sunday, November 2**  
-  **Daylight Saving Time Ends; Set Clocks Back 1 Hour**  
-  **OCC Pre-Packing Party** **5:00 pm**  
-  **Decorate Tree in Fellowship Hall**
 
    **"Christmas at the Beach"**  
   **Operation Christmas Child Packing Party**  
