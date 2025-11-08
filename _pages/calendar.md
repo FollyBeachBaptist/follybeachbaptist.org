@@ -211,6 +211,11 @@ Enter through the office door in the back parking lot on West Indian ave
 
   <hr>
 
+
+  <img width="640" height="448" alt="image" src="https://github.com/user-attachments/assets/2783991c-bd17-4d55-8254-ce03fa368019" />  
+
+  <hr>
+
   **Christmas Eve Service**  
   
   **Wednesday, December 24 at 5:00 pm** 
