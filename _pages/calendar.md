@@ -50,7 +50,6 @@ header:
 
 **Tuesday, November 11th**  
 **Veteran's Day**  
-  
 **9:30 am** Women's Bible Study  
 **11:00 am** WMU Monthly Meeting
 
@@ -63,7 +62,7 @@ header:
 
   **Thursday, November 13th**  
   **10:00 am** Women's Bible Study   
-  **5:00 pm** Prayer at the Pier
+  **5:00 pm** Prayer at the Pier  
   **6:00 pm** Recovery In Christ
      
 
