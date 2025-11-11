@@ -68,7 +68,12 @@ Jude series ends (Pt 5/5)
 
 **•	Sunday, Nov. 23 – 2:30-4:30 p.m.**  
 
-**•	Monday, Nov. 24 – 10 a.m.-Noon**  
+**•	Monday, Nov. 24 – 10 a.m.-Noon**   
+
+
+ **Scan this QR Code for more locations in the Charleston area**  
+ <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/168357e2-9d85-44fd-8b0d-4b18e236c969" />
+
 
   **Operation Christmas Child** demonstrates God's love in a tangible way. Shoe boxes are packed and shipped to boys and girls ages 2 to 14 around the world who may have never heard the Gospel message or the Christmas Story.  
 
