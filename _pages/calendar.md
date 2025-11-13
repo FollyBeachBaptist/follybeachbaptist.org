@@ -166,7 +166,28 @@ Enter through the office door in the back parking lot on West Indian ave
   **Operation Christmas Child Collection Week**  
   **November 17-24**  
     
-  <img width="316" height="159" alt="image" src="https://github.com/user-attachments/assets/c9afd55b-214b-4dc2-a5a6-3ac9cf8fe6ac" />  
+  <img width="316" height="159" alt="image" src="https://github.com/user-attachments/assets/c9afd55b-214b-4dc2-a5a6-3ac9cf8fe6ac" />    
+
+**Collection Dates and Times:**  
+**•	Monday, Nov. 17 – 6-8 p.m.**  
+
+**•	Tuesday, Nov. 18 – 6-8 p.m.**  
+
+**•	Wednesday, Nov. 19 – 3-5 p.m.**  
+
+**•	Thursday, Nov. 20 – 11 a.m.-1 p.m.**  
+
+**•	Friday, Nov. 21 – 4:30-6:30 p.m.**  
+
+**•	Saturday, Nov. 22 – 11 a.m.-1 p.m.**  
+
+**•	Sunday, Nov. 23 – 2:30-4:30 p.m.**  
+
+**•	Monday, Nov. 24 – 10 a.m.-Noon**   
+
+
+ **Scan this QR Code for more locations in the Charleston area**  
+ <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/168357e2-9d85-44fd-8b0d-4b18e236c969" />
   <hr>
 
   **November 20th  
