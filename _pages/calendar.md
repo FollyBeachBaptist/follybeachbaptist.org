@@ -25,18 +25,24 @@ header:
 
 
 
-**Sunday, November 9th**     
+**Sunday, November 16th**     
 **9:45 am** Sunday School  
 **11:00 am** Worship service      
-**6:00 pm** Youth Meets at Paisanos for Pizza!!   
+**5:00 to 8:00pm** 
+Operation Christmas Child Packing Party  
+**Christmas at the Beach** 
 
-<img width="583" height="214" alt="image" src="https://github.com/user-attachments/assets/9485c00b-bcba-41bb-9b08-4fe075373ee9" />
+<img width="246" height="205" alt="image" src="https://github.com/user-attachments/assets/8da1a9f0-cea6-49ef-bb10-e053cbc59752" />  
+
+  
 
 
 
 
 
-**Monday, November 10th**   
+
+
+**Monday, November 17th**   
 **10:30 am** Moms In Prayer  
 **12:00 pm** Soup and Soul   
 **6:30 pm** Women's Bible Study  
@@ -48,31 +54,30 @@ header:
 
 *All Bible Studies are in the Education Building*  
 
-**Tuesday, November 11th**  
-**Veteran's Day**  
+**Tuesday, November 18th**  
+**Election Run-Off**  
 **9:30 am** Women's Bible Study  
-**11:00 am** WMU Monthly Meeting
 
 
 
-**Wednesday, November 12th**  
+
+**Wednesday, November 19th**  
 **5:30 pm** Building and Grounds Meeting  
 **6:30 pm** Prayer Meeting  
 **7:30 pm** Choir Practice  
 
-  **Thursday, November 13th**  
-  **10:00 am** Women's Bible Study   
-  **5:00 pm** Prayer at the Pier  
+  **Thursday, November 20th**  
+  **10:00 am** Women's Bible Study     
   **6:00 pm** Recovery In Christ
      
 
-  **Sunday, November 16th**   
+  **Sunday, November 23rd**   
  **9:45 am** Sunday School  
   **11:00 am** Worship Service   
-**5:00 pm** Christmas at the Beach   
-Operation Christmas Child Packing Party
+**6:00 pm** Community Thanksgiving Service
+<img width="1380" height="776" alt="image" src="https://github.com/user-attachments/assets/fef857e4-85b3-4efd-b682-815aab7ee39f" />
 
-<img width="246" height="205" alt="image" src="https://github.com/user-attachments/assets/5d3b1508-ce98-4642-8a6d-09f7b7bab67a" />
+
 
 
    
