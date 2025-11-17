@@ -9,10 +9,6 @@ header:
 
 **Upcoming Sermons**  
 
-
-
-
-
 **November 23rd**  
 "Thanksgiving"  
 
