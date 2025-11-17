@@ -28,7 +28,7 @@ header:
 ---
 
 **Audio Visual Team**  
-Matt Beasley 
+Matt Beasley , Sharon Setzer, Terri Smith
 
 **Pianist**  
 Debbie Summey
