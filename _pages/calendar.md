@@ -122,11 +122,6 @@ Enter through the office door in the back parking lot on West Indian ave
 <img width="409" height="123" alt="image" src="https://github.com/user-attachments/assets/a7525d91-7634-41a8-8ccd-0ef36bd3fe24" />  
 <hr>  
 
-
-
-  
-
-  
 **WOMEN'S BIBLE STUDY**  
 
   **Mondays at 6:30 pm**    
@@ -151,15 +146,6 @@ Enter through the office door in the back parking lot on West Indian ave
   **Mondays at 12:00**    
   ![Alt text](/assets/images/Soup%20and%20Soul%20Picture.jpg)
    
-  <hr>
-
-
-   **"Christmas at the Beach"**  
-  **Operation Christmas Child Packing Party**  
-  **Sunday, November 16**  
-  **5:00 pm to 8:00 pm**  
-  *In the Fellowship Hall*  
-  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/31cab691-e5c3-44ea-b359-4b8425c734f8" />  
   <hr>
 
 
