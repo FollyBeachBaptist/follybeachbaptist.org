@@ -11,12 +11,7 @@ header:
 
 
 
-**November 9th**  
-Jude series ends (Pt 5/5)  
-"Amen to The Almighty"  Jude 24-25  
 
-**November 16th**  
-"Christmas Giving"  
 
 **November 23rd**  
 "Thanksgiving"  
@@ -83,18 +78,9 @@ Jude series ends (Pt 5/5)
 
 
 The boxes contain Toys, School supplies, and Hygiene items. Gifts for the boxes are collected March through October, and packed into the boxes at our annual **Christmas At The Beach** OCC Packing party.     
-<img width="720" height="960" alt="image" src="https://github.com/user-attachments/assets/373eaddd-7e9c-4b6a-904e-e30475577f08" />  
 
-<img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/98347e02-5d84-418d-8f7b-23cd95a99458" />
-
-
-
-This year's packing party will be November 16th, 5:00pm to 8:00pm in the Fellowship hall.   
-  
-For additional information in contributing or volunteering,  please **contact Danielle Willis at 843-224-0873.**  
-Or Check here (https://www.samaritanspurse.org/operation-christmas-child/what-goes-in-my-shoebox-suggestions/)
-for suggested gifts and prohibited items.  
-<hr>    
+ <hr>  
+ 
 
   The **Annual Community Thanksgiving Service and Meal** will be   
   **Sunday, November 23, 6pm at Folly Beach Baptist Church**     
