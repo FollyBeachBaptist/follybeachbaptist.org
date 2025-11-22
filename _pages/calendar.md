@@ -94,7 +94,17 @@ Enter through the office door in the back parking lot on West Indian ave
 
   **Mondays at 6:30 pm**    
   **Tuesdays at 9:30 am**   
-  **Thursdays at 10:00am**
+  **Thursdays at 10:00am**  
+  <hr>  
+
+**Women's Bible Study Update**  
+ The Tuesday Morning Group is hosting a 4 week study on Advent  
+ By Christine Caine and Lisa Harper  
+ **Beginning Tuesday, December 2nd at 9:30 am**  
+ <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/74c6ff52-9ebe-4daf-b79f-7c3a2acb6e75" />
+
+<hr>  
+
   
 
 **Men's Bible Study**
