@@ -25,75 +25,40 @@ header:
 
 
 
-**Sunday, November 16th**     
+**Sunday, November 23rd**     
 **9:45 am** Sunday School  
 **11:00 am** Worship service      
-**5:00 to 8:00pm** 
-Operation Christmas Child Packing Party  
-**Christmas at the Beach** 
+**6:00 pm** Community Thanksgiving Service  
+ <img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/ae2e8043-fac1-4385-9fc9-1b6ebb5f4e55" />
 
-<img width="246" height="205" alt="image" src="https://github.com/user-attachments/assets/8da1a9f0-cea6-49ef-bb10-e053cbc59752" />  
 
   
 
-
-
-
-
-
-
-**Monday, November 17th**   
-**10:30 am** Moms In Prayer  
-**12:00 pm** Soup and Soul   
-**6:30 pm** Women's Bible Study  
+**Monday, November 24th**    
+**12:00 pm** Soup and Soul     
 **6:45 pm** Men's Bible Study    
-
-
-   
-
 
 *All Bible Studies are in the Education Building*  
 
-**Tuesday, November 18th**  
-**Election Run-Off**  
-**9:30 am** Women's Bible Study  
+**Tuesday, November 25th**  
+**No Activities**
 
+**Wednesday, November 26th**  
+**7:00 pm** Choir Practice  
 
+  **Thursday, November 27th**  
+  **Happy Thanksgiving!!**  
+  
 
-
-**Wednesday, November 19th**  
-**5:30 pm** Building and Grounds Meeting  
-**6:30 pm** Prayer Meeting  
-**7:30 pm** Choir Practice  
-
-  **Thursday, November 20th**  
-  **10:00 am** Women's Bible Study     
-  **6:00 pm** Recovery In Christ
-     
-
-  **Sunday, November 23rd**   
+  **Sunday, November 30th**   
  **9:45 am** Sunday School  
   **11:00 am** Worship Service   
-**6:00 pm** Community Thanksgiving Service
-<img width="1380" height="776" alt="image" src="https://github.com/user-attachments/assets/fef857e4-85b3-4efd-b682-815aab7ee39f" />
-
+**6:00 pm** Community Tree Lighting  
+  <img width="1600" height="800" alt="image" src="https://github.com/user-attachments/assets/fb91d036-7e70-41a9-80bc-98f0887f5842" />  
 
 
 
    
-  
-  
-  
-
-  
-
-   
-  
-
-
-
-
-
 <hr>  
 
   **UPCOMING EVENTS**     
@@ -124,11 +89,12 @@ Enter through the office door in the back parking lot on West Indian ave
 
 **WOMEN'S BIBLE STUDY**  
 
+**Finished for 2025 But will resume in January**
+
   **Mondays at 6:30 pm**    
   **Tuesdays at 9:30 am**   
   **Thursdays at 10:00am**
-  <img width="2000" height="1125" alt="Revelation Bible Study" src="https://github.com/user-attachments/assets/d9b5a9d0-9427-4dc7-a653-03440c1a2c3c" />  
-  <hr>
+  
 
 **Men's Bible Study**
     
@@ -155,15 +121,6 @@ Enter through the office door in the back parking lot on West Indian ave
   <img width="316" height="159" alt="image" src="https://github.com/user-attachments/assets/c9afd55b-214b-4dc2-a5a6-3ac9cf8fe6ac" />    
 
 **Collection Dates and Times:**  
-**•	Monday, Nov. 17 – 6-8 p.m.**  
-
-**•	Tuesday, Nov. 18 – 6-8 p.m.**  
-
-**•	Wednesday, Nov. 19 – 3-5 p.m.**  
-
-**•	Thursday, Nov. 20 – 11 a.m.-1 p.m.**  
-
-**•	Friday, Nov. 21 – 4:30-6:30 p.m.**  
 
 **•	Saturday, Nov. 22 – 11 a.m.-1 p.m.**  
 
@@ -176,13 +133,7 @@ Enter through the office door in the back parking lot on West Indian ave
  <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/168357e2-9d85-44fd-8b0d-4b18e236c969" />
   <hr>
 
-  **November 20th  
-  6:00 pm in the Fellowship Hall**  
-  
-  **The Exchange Club of Folly Beach**  
-  Is hosting their Annual **Golden-Age Dinner**  
-  For Seniors, Widows, and Widowers.  
-  <img width="2048" height="1636" alt="image" src="https://github.com/user-attachments/assets/d0c980ae-8cd7-4910-abbc-11d781bf89e7" />    
+
 
 
   <hr>  
@@ -192,20 +143,10 @@ Enter through the office door in the back parking lot on West Indian ave
 
   
 
-  **Community Thanksgiving Service and Meal at FBBC**   
-  **Sunday, November 23rd at 6:00 pm**  
-      
-  <img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/ae2e8043-fac1-4385-9fc9-1b6ebb5f4e55" />
 
   <hr>
 
-  **Community Christmas Tree Lighting   
-  In Folly River Park**  
-  
-  **Sunday, November 30**  
-   
-  <img width="1600" height="800" alt="image" src="https://github.com/user-attachments/assets/fb91d036-7e70-41a9-80bc-98f0887f5842" />  
-  <hr>
+
 
 
   **Birthday Party For Jesus     
