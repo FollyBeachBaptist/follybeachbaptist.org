@@ -28,7 +28,7 @@ header:
 **Sunday, November 23rd**     
 **9:45 am** Sunday School  
 **11:00 am** Worship service      
-**6:00 pm** Community Thanksgiving Service  
+**6:00 pm** Community Thanksgiving Service and Meal
  <img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/ae2e8043-fac1-4385-9fc9-1b6ebb5f4e55" />
 
 
