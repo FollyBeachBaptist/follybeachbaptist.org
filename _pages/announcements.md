@@ -79,15 +79,10 @@ The boxes contain Toys, School supplies, and Hygiene items. Gifts for the boxes 
  
 
   The **Annual Community Thanksgiving Service and Meal** will be   
-  **Sunday, November 23, 6pm at Folly Beach Baptist Church**     
+  **This Sunday, November 23, 6pm at Folly Beach Baptist Church**     
   <img width="500" height="423" alt="image" src="https://github.com/user-attachments/assets/8a302042-d0ff-4fff-993b-6504996072fc" />  
 
- <hr>  
 
- **The Folly Beach Exchange Club**  
- Is hosting their annual **Golden Age Dinner**  
- Thursday, November 20th at 6:00pm  
- In the Folly Beach Baptist Church Fellowship Hall  
 
  <hr>  
  
