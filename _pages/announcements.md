@@ -46,7 +46,7 @@ header:
 
 **Collection Dates and Times:**  
 
-**•	Saturday, Nov. 22 – 11 a.m.-1 p.m.**  
+ 
 
 **•	Sunday, Nov. 23 – 2:30-4:30 p.m.**  
 
