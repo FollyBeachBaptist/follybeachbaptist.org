@@ -113,13 +113,14 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 
 
 
-**Women's Bible Study Update**  
-<img width="2000" height="1125" alt="Revelation Bible Study" src="https://github.com/user-attachments/assets/c1a2d7e2-f741-45a4-a5e2-164990a1f314" />
+**Women's Bible Study Update**    
 
- 
-**The Day For The Evening Women's Bible Study has Changed!!**    
-**Evening Women's Bible Study is Now on Mondays at 6:30 pm**
+Weekly Women's Bible Study has finished for 2025  
+and will resume in January.  
 
+ The Tuesday Morning Group is hosting a 4 week study on Advent  
+ By Christine Caine and Lisa Harper  
+ **Beginning Tuesday, December 2nd at 9:30 am**
 
 
 
