@@ -45,15 +45,6 @@ header:
 
 
 **Collection Dates and Times:**  
-**•	Monday, Nov. 17 – 6-8 p.m.**  
-
-**•	Tuesday, Nov. 18 – 6-8 p.m.**  
-
-**•	Wednesday, Nov. 19 – 3-5 p.m.**  
-
-**•	Thursday, Nov. 20 – 11 a.m.-1 p.m.**  
-
-**•	Friday, Nov. 21 – 4:30-6:30 p.m.**  
 
 **•	Saturday, Nov. 22 – 11 a.m.-1 p.m.**  
 
