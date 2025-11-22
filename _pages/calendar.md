@@ -53,7 +53,8 @@ header:
   **Sunday, November 30th**   
  **9:45 am** Sunday School  
   **11:00 am** Worship Service   
-**6:00 pm** Community Tree Lighting  
+**6:00 pm** Community Tree Lighting    
+   In Folly River Park
   <img width="1600" height="800" alt="image" src="https://github.com/user-attachments/assets/fb91d036-7e70-41a9-80bc-98f0887f5842" />  
 
 
