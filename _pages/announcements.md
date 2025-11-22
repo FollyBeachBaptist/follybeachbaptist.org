@@ -115,12 +115,14 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 
 **Women's Bible Study Update**    
 
-Weekly Women's Bible Study has finished for 2025  
-and will resume in January.  
+**Weekly Women's Bible Study has finished for 2025  
+and will resume in January.**  
 
  The Tuesday Morning Group is hosting a 4 week study on Advent  
  By Christine Caine and Lisa Harper  
- **Beginning Tuesday, December 2nd at 9:30 am**
+ **Beginning Tuesday, December 2nd at 9:30 am**  
+ <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/fcc6e663-9382-4954-913a-6b2b01c524ac" />
+
 
 
 
