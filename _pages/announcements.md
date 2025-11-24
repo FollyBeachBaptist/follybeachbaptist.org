@@ -9,8 +9,7 @@ header:
 
 **Upcoming Sermons**  
 
-**November 23rd**  
-"Thanksgiving"  
+
 
   **November 30th**  
   **First Sunday of Advent**  
@@ -40,47 +39,8 @@ header:
 
 <hr>    
 
-**Folly Beach Baptist Church Is An Operation Christmas Child Collection Site**    
-<img width="246" height="205" alt="image" src="https://github.com/user-attachments/assets/6091b453-fa7d-4729-8b58-aab704e5fdda" />
-
-
-**Collection Dates and Times:**  
 
  
-
-**•	Sunday, Nov. 23 – 2:30-4:30 p.m.**  
-
-**•	Monday, Nov. 24 – 10 a.m.-Noon**   
-
-
- **Scan this QR Code for more locations in the Charleston area**  
- <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/168357e2-9d85-44fd-8b0d-4b18e236c969" />
-
-
-  **Operation Christmas Child** demonstrates God's love in a tangible way. Shoe boxes are packed and shipped to boys and girls ages 2 to 14 around the world who may have never heard the Gospel message or the Christmas Story.  
-
-
-<img width="1700" height="1133" alt="image" src="https://github.com/user-attachments/assets/8a735b08-31e3-461a-8994-bc593068baea" />
-
-
-
-The boxes contain Toys, School supplies, and Hygiene items. Gifts for the boxes are collected March through October, and packed into the boxes at our annual **Christmas At The Beach** OCC Packing party.     
-
- <hr>  
- 
-
-  The **Annual Community Thanksgiving Service and Meal** will be   
-  **This Sunday, November 23, 6pm at Folly Beach Baptist Church**     
-  <img width="500" height="423" alt="image" src="https://github.com/user-attachments/assets/8a302042-d0ff-4fff-993b-6504996072fc" />  
-
-
-
- <hr>  
- 
-
-  
-
-
 **Worship Service Childcare Provided**    
 
 ![Alt text](/assets/images/Childcare%20picture.jpeg)
