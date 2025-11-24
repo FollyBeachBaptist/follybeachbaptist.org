@@ -25,13 +25,6 @@ header:
 
 
 
-**Sunday, November 23rd**     
-**9:45 am** Sunday School  
-**11:00 am** Worship service      
-**6:00 pm** Community Thanksgiving Service and Meal
- <img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/ae2e8043-fac1-4385-9fc9-1b6ebb5f4e55" />
-
-
   
 
 **Monday, November 24th**    
@@ -124,41 +117,6 @@ Enter through the office door in the back parking lot on West Indian ave
   ![Alt text](/assets/images/Soup%20and%20Soul%20Picture.jpg)
    
   <hr>
-
-
-  **Operation Christmas Child Collection Week**  
-  **November 17-24**  
-    
-  <img width="316" height="159" alt="image" src="https://github.com/user-attachments/assets/c9afd55b-214b-4dc2-a5a6-3ac9cf8fe6ac" />    
-
-**Collection Dates and Times:**  
-
-
-
-**•	Sunday, Nov. 23 – 2:30-4:30 p.m.**  
-
-**•	Monday, Nov. 24 – 10 a.m.-Noon**   
-
-
- **Scan this QR Code for more locations in the Charleston area**  
- <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/168357e2-9d85-44fd-8b0d-4b18e236c969" />
-  <hr>
-
-
-
-
-  <hr>  
-    
-
-  
-
-  
-
-
-  <hr>
-
-
-
 
   **Birthday Party For Jesus     
   after Folly Christmas Parade**  
