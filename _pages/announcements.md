@@ -11,10 +11,7 @@ header:
 
 
 
-  **November 30th**  
-  **First Sunday of Advent**  
-  "The Prophets---HOPE"  
-  Genesis 3:15  
+ 
 
    **December 7th**  
    "Mary---FAITH"    
