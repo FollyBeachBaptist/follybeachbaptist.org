@@ -90,7 +90,16 @@ and will resume in January.**
   Join a brotherhood of faith as we dive into Scripture, share life's challenges, and grow together in Christ. Whether you're new to the Bible or a seasoned believer, this group offers a welcoming space for honest conversation, spiritual encouragement, and practical application. Come as you are----Leave strengthened.
   
   <img width="500" height="334" alt="image" src="https://github.com/user-attachments/assets/1c398dd7-fefc-4486-8743-5739850836a7" />    
+  <hr>    
+
+   **Our Goal this year for the Lottie Moon International Mission Offering is $5,000.00**
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d7c5f165-1e8b-4891-b9dc-19fa0cefbcc6" />  
+
   <hr>  
+
+    
+
+    
   
 
     
