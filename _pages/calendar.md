@@ -27,28 +27,32 @@ header:
 
   
 
-**Monday, November 24th**    
+**Monday, December 1st**   
+**10:30 am**  Moms in Prayer  
 **12:00 pm** Soup and Soul     
 **6:45 pm** Men's Bible Study    
 
 *All Bible Studies are in the Education Building*  
 
-**Tuesday, November 25th**  
-**No Activities**
+**Tuesday, December 2nd**   
+**9:30 am** Women's Advent Bible study
 
-**Wednesday, November 26th**  
-**7:00 pm** Choir Practice  
 
-  **Thursday, November 27th**  
-  **Happy Thanksgiving!!**  
+**Wednesday, December 3rd**  
+**5:30 pm** Building and Grounds  
+**6:30 pm** Prayer Meeting  
+**7:30 pm** Choir Practice
+ 
+
+  **Thursday, December 4th**  
+  
+  **6:00 pm** Recovery In Christ  
   
 
-  **Sunday, November 30th**   
+  **Sunday, December 7th**   
  **9:45 am** Sunday School  
   **11:00 am** Worship Service   
-**6:00 pm** Community Tree Lighting    
-   In Folly River Park
-  <img width="1600" height="800" alt="image" src="https://github.com/user-attachments/assets/fb91d036-7e70-41a9-80bc-98f0887f5842" />  
+**5:00 pm** Student Ministry
 
 
 
