@@ -95,7 +95,14 @@ and will resume in January.**
    **Our Goal this year for the Lottie Moon International Mission Offering is $5,000.00**
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d7c5f165-1e8b-4891-b9dc-19fa0cefbcc6" />  
 
-  <hr>  
+  <hr>   
+   
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/a3cd0944-6fee-40bf-8d82-11875603c0e2" />  
+You can call the church office at 843-588-9414 to place an order  
+  in honor or memory of a loved one.   
+
+   <hr>  
+   
 
     
 
