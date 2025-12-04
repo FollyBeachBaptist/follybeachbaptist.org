@@ -11,11 +11,11 @@ header:
 
 
 
- 
+ **December 7th**  
+ "Mary--FAITH"  
+ Luke 1:26-38
 
-   **December 7th**  
-   "Mary---FAITH"    
-   Luke 1:26-38   
+  
 
    **December 14th**  
     "Shepherds---JOY"  
@@ -102,7 +102,17 @@ You can call the church office at 843-588-9414 to place an order
   in honor or memory of a loved one.   
 
    <hr>  
-   
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/b7176d32-09a2-486c-9e0e-2f9a6dad1885" />  
+**Immediately following the Folly Christmas Parade at 1:00pm**  
+<hr>  
+
+ <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/470778da-b977-41c3-a764-ef594b297c5f" />  
+
+   <hr>
+ 
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/9c3a03a0-0919-4bf9-8b55-0b957c16016d" />
+
+     
 
     
 
