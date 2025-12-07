@@ -35,9 +35,6 @@ header:
 
 
 <hr>    
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/214f7350-486c-4a9a-b8a1-cfd784f75fe6" />  
-
- <hr>
 
 
  
