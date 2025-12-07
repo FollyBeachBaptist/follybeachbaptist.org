@@ -35,6 +35,9 @@ header:
 
 
 <hr>    
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/214f7350-486c-4a9a-b8a1-cfd784f75fe6" />  
+
+ <hr>
 
 
  
@@ -66,7 +69,12 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
    
   
  <img width="222" height="208" alt="image" src="https://github.com/user-attachments/assets/c4b6b8ee-2704-46c9-83b0-a791224c5724" />  
-  <hr>  
+  <hr>   
+
+  <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/a6fed026-deff-4c27-ac60-9108ec007630" />  
+
+    <hr>
+ 
 
 
 
