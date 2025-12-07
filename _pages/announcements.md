@@ -66,11 +66,11 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
    
   
  <img width="222" height="208" alt="image" src="https://github.com/user-attachments/assets/c4b6b8ee-2704-46c9-83b0-a791224c5724" />  
-  <hr>   
+ <hr>   
 
   <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/a6fed026-deff-4c27-ac60-9108ec007630" />  
 
-    <hr>
+ <hr>
  
 
 
@@ -85,10 +85,7 @@ and will resume in January.**
  **Beginning Tuesday, December 2nd at 9:30 am**  
  <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/fcc6e663-9382-4954-913a-6b2b01c524ac" />
 
-
-
-
-  <hr>     
+<hr>     
 
   **Men's Bible Study  
   Mondays at 6:45pm**  
