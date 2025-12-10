@@ -11,9 +11,7 @@ header:
 
 
 
- **December 7th**  
- "Mary--FAITH"  
- Luke 1:26-38
+
 
   
 
@@ -36,6 +34,9 @@ header:
 
 <hr>    
 
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/2e681555-dd7a-45b4-bb5e-762fe91d3a36" />  
+
+  <hr>
 
  
 **Worship Service Childcare Provided**    
@@ -68,9 +69,6 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
  <img width="222" height="208" alt="image" src="https://github.com/user-attachments/assets/c4b6b8ee-2704-46c9-83b0-a791224c5724" />  
  <hr>   
 
-  <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/a6fed026-deff-4c27-ac60-9108ec007630" />  
-
- <hr>
  
 
 
