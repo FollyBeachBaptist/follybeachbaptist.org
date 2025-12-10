@@ -70,7 +70,9 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
  <hr>   
 
  
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/b34dfd44-ae78-41dc-8674-1dccf677dfc7" />
 
+<hr>  
 
 
 **Women's Bible Study Update**    
