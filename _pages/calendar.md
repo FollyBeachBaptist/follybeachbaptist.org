@@ -21,7 +21,12 @@ header:
 **Example Day**
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
-
+**Saturday, December 13th**  
+ **Birthday Party For Jesus     
+  after Folly Christmas Parade**  
+   <img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/6aea5a91-31b1-4e5f-8dbf-4b32f4d4a9be" />  
+   <hr>  
+   
 **Sunday, December 14th**  
 **9:45 am** Sunday School  
 **11:00 am** Worship Service  
