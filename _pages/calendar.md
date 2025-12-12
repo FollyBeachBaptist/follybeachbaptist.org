@@ -22,43 +22,39 @@ header:
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
 
-**Sunday, December 7th**  
+**Sunday, December 14th**  
 **9:45 am** Sunday School  
 **11:00 am** Worship Service  
-**5:00 pm** Student Musical
+**6:00 pm** Christmas Musical
 
 
-**Monday, December 8th**   
+**Monday, December 15th**   
 **10:30 am**  Moms in Prayer  
 **12:00 pm** Soup and Soul     
 **6:45 pm** Men's Bible Study    
 
 *All Bible Studies are in the Education Building*  
 
-**Tuesday, December 9th**   
+**Tuesday, December 16th**   
 **9:30 am** Women's Advent study  
-**11:00 am** WMU Monthly Meeting
 
 
-**Wednesday, December 10th**  
+
+**Wednesday, December 17th**  
 **5:30 pm** Building and Grounds  
 **6:30 pm** Prayer Meeting  
 **7:30 pm** Choir Practice
  
 
-**Thursday, December 11th**  
-**5:00 pm** Prayer at the Pier  
+**Thursday, December 18th**  
+ 
   **6:00 pm** Recovery In Christ  
-  **7:00 pm** Worship Team practice  
-
-**Saturday, December 13th**  
-**1:00 pm** Birthday Party for Jesus
   
 
-  **Sunday, December 14th**   
+  **Sunday, December 21st**   
  **9:45 am** Sunday School  
   **11:00 am** Worship Service   
-**6:00 pm** Christmas Musical
+**5:00 pm** Student Ministry
 
 
 
