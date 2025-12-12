@@ -64,6 +64,9 @@ header:
   **UPCOMING EVENTS**     
   <hr>  
   
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/2e681555-dd7a-45b4-bb5e-762fe91d3a36" />  
+
+<hr>  
 
 
   **Pray at the Pier**  
