@@ -41,14 +41,15 @@ header:
 *All Bible Studies are in the Education Building*  
 
 **Tuesday, December 16th**   
-**9:30 am** Women's Advent study  
+**9:30 am** Women's Advent study   
+**7:00 pm** Worship Team
 
 
 
 **Wednesday, December 17th**  
 **5:30 pm** Building and Grounds  
 **6:30 pm** Prayer Meeting  
-**7:30 pm** Choir Practice
+
  
 
 **Thursday, December 18th**  
