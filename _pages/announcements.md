@@ -115,8 +115,7 @@ You can call the church office at 843-588-9414 to place an order
 <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/9c3a03a0-0919-4bf9-8b55-0b957c16016d" />  
 
  <hr>  
- <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/c063db6b-8846-446a-a8f2-74e335e6af8c" />
-
+ 
 
      
 
@@ -134,5 +133,5 @@ You can call the church office at 843-588-9414 to place an order
 
  
   
-  For More Information, Check out "Upcoming Events" on the Calendar page
+
 
