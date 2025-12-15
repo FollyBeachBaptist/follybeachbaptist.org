@@ -15,10 +15,7 @@ header:
 
   
 
-   **December 14th**  
-    "Shepherds---JOY"  
-    Luke 2:8, 15-20  
-
+  
    **December 21st**  
    "The Angels---PEACE"  
    Luke 2:9-14  
@@ -99,18 +96,8 @@ and will resume in January.**
 
   <hr>   
    
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/a3cd0944-6fee-40bf-8d82-11875603c0e2" />  
-You can call the church office at 843-588-9414 to place an order  
-  in honor or memory of a loved one.   
 
-   <hr>  
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/b7176d32-09a2-486c-9e0e-2f9a6dad1885" />  
-**Immediately following the Folly Christmas Parade at 1:00pm**  
-<hr>  
 
- <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/470778da-b977-41c3-a764-ef594b297c5f" />  
-
-   <hr>
  
 <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/9c3a03a0-0919-4bf9-8b55-0b957c16016d" />  
 
