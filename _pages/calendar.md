@@ -21,20 +21,11 @@ header:
 **Example Day**
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
-**Saturday, December 13th**  
- **Birthday Party For Jesus     
-  after Folly Christmas Parade**  
-   <img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/6aea5a91-31b1-4e5f-8dbf-4b32f4d4a9be" />  
-   <hr>  
-   
-**Sunday, December 14th**  
-**9:45 am** Sunday School  
-**11:00 am** Worship Service  
-**6:00 pm** Christmas Musical
+
 
 
 **Monday, December 15th**   
-**10:30 am**  Moms in Prayer  
+**10:30 am**  **Moms in Prayer is Not Meeting today due to weather*   
 **12:00 pm** Soup and Soul     
 **6:45 pm** Men's Bible Study    
 
@@ -133,20 +124,9 @@ Enter through the office door in the back parking lot on West Indian ave
    
   <hr>
 
-  **Birthday Party For Jesus     
-  after Folly Christmas Parade**  
-  
-  **Saturday, December 13**  
-    
-  <img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/6aea5a91-31b1-4e5f-8dbf-4b32f4d4a9be" />
-
-  <hr>
-
-  **Christmas Musical**  
-  
-  **Sunday, December 14 at 6:00 pm**    
-  <img width="402" height="600" alt="image" src="https://github.com/user-attachments/assets/93b17c8f-ffe3-4a36-a345-2e6357d88332" />
-
+ 
+ 
+ 
   <hr>
 
 
