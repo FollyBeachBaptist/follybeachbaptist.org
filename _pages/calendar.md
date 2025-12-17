@@ -91,12 +91,15 @@ Enter through the office door in the back parking lot on West Indian ave
 
 **WOMEN'S BIBLE STUDY**  
 
-**Finished for 2025 But will resume in January**
+**Has Finished for 2025 But will resume January 12th**  
+**With a new study by Beth Moore**  
+**"Jesus, the One and Only"**
 
   **Mondays at 6:30 pm**    
   **Tuesdays at 9:30 am**   
   **Thursdays at 10:00am**    
-  <img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/dac2abf9-5312-40a1-922b-ecb09b8f5450" />
+<img width="769" height="1000" alt="image" src="https://github.com/user-attachments/assets/a2adc624-3087-4203-8e49-435a312114a1" />
+
 
   <hr>  
 
