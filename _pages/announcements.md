@@ -77,15 +77,13 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 **Weekly Women's Bible Study has finished for 2025  
 and will resume in January.**  
 
- The Tuesday Morning Group is hosting a 4 week study on Advent  
- By Christine Caine and Lisa Harper  
- **Beginning Tuesday, December 2nd at 9:30 am**  
- <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/fcc6e663-9382-4954-913a-6b2b01c524ac" />
+
 
 <hr>     
 
   **Men's Bible Study  
-  Mondays at 6:45pm**  
+  Mondays at 6:45pm**    
+  **Has finished for 2025 and will resume January 5th, 2026**  
   Join a brotherhood of faith as we dive into Scripture, share life's challenges, and grow together in Christ. Whether you're new to the Bible or a seasoned believer, this group offers a welcoming space for honest conversation, spiritual encouragement, and practical application. Come as you are----Leave strengthened.
   
   <img width="500" height="334" alt="image" src="https://github.com/user-attachments/assets/1c398dd7-fefc-4486-8743-5739850836a7" />    
@@ -98,8 +96,11 @@ and will resume in January.**
    
 
 
- 
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/9c3a03a0-0919-4bf9-8b55-0b957c16016d" />  
+ <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/b148a626-b4cf-41cc-befb-7ef39672f769" />
+
+
+
+
 
  <hr>  
  
