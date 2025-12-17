@@ -72,13 +72,13 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
  
 <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/b34dfd44-ae78-41dc-8674-1dccf677dfc7" />
 
-<hr>  
-
-
-**Women's Bible Study Update**    
+<hr>   
 
 **Weekly Women's Bible Study has finished for 2025  
-and will resume in January.**  
+and will resume in January.**   
+<img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/c0c4c4c1-c0c9-477a-95d9-8936b8aaf933" />
+
+  
 
 
 
