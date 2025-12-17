@@ -75,8 +75,10 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 <hr>   
 
 **Weekly Women's Bible Study has finished for 2025  
-and will resume in January.**   
-<img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/c0c4c4c1-c0c9-477a-95d9-8936b8aaf933" />
+and will resume January 12th with the Beth Moore**   
+**Study "Jesus, the One and Only"**
+<img width="769" height="1000" alt="image" src="https://github.com/user-attachments/assets/1a915f86-93fb-4715-ae8b-d205f11105ee" />
+
 
   
 
