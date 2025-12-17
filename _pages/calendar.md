@@ -96,19 +96,17 @@ Enter through the office door in the back parking lot on West Indian ave
   **Thursdays at 10:00am**  
   <hr>  
 
-**Women's Bible Study Update**  
- The Tuesday Morning Group is hosting a 4 week study on Advent  
- By Christine Caine and Lisa Harper  
- **Beginning Tuesday, December 2nd at 9:30 am**  
- <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/74c6ff52-9ebe-4daf-b79f-7c3a2acb6e75" />
 
-<hr>  
+
+
 
   
 
 **Men's Bible Study**
     
-**Mondays at 6:45pm**  
+**Mondays at 6:45pm**   
+**Has Concluded for 2025**  
+**And will resume Monday, January 5th at 6:45pm**
   
   
   
@@ -119,7 +117,9 @@ Enter through the office door in the back parking lot on West Indian ave
 
 
   **Soup and Soul**   
-  **Mondays at 12:00**    
+  **Mondays at 12:00**   
+  **Will not meet Monday December 29th for Holiday Break**  
+  **We will resume Monday, January 5th at noon**
   ![Alt text](/assets/images/Soup%20and%20Soul%20Picture.jpg)
    
   <hr>
@@ -127,13 +127,10 @@ Enter through the office door in the back parking lot on West Indian ave
  
  
  
-  <hr>
+ 
 
 
-  <img width="640" height="448" alt="image" src="https://github.com/user-attachments/assets/2783991c-bd17-4d55-8254-ce03fa368019" />  
-
-  <hr>
-
+ 
   **Christmas Eve Service**  
   
   **Wednesday, December 24 at 5:00 pm** 
