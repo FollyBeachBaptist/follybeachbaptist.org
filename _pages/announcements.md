@@ -107,6 +107,9 @@ and will resume in January.**
 
  <hr>  
  
+**Recovery in Christ is on Holiday break**  
+**Meetings will resume January 8th, at 6:00pm**  
+<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/91f98826-faee-4b23-8a4c-a297a76c9b89" />
 
      
 
