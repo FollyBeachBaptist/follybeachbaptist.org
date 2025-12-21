@@ -24,34 +24,31 @@ header:
 
 
 
-**Monday, December 15th**   
-**10:30 am**  **Moms in Prayer is Not Meeting today due to weather*   
+**Monday, December 22nd**   
+**Moms in Prayer is Not Meeting again until Monday, January 5th**   
 **12:00 pm** Soup and Soul     
-**6:45 pm** Men's Bible Study    
+**Men's Bible Study is not meeting again until Monday, January 5th**   
 
 *All Bible Studies are in the Education Building*  
 
-**Tuesday, December 16th**   
-**9:30 am** Women's Advent study   
-**7:00 pm** Worship Team
+**Tuesday, December 23rd**      
+**6:30 pm** Worship Team
 
 
 
-**Wednesday, December 17th**  
-**5:30 pm** Building and Grounds  
-**6:30 pm** Prayer Meeting  
-
+**Wednesday, December 24th**  
+**5:00 pm** Christmas Eve Service
  
 
-**Thursday, December 18th**  
+**Thursday, December 25th**  
  
-  **6:00 pm** Recovery In Christ  
+**Merry Christmas!!**  
   
 
-  **Sunday, December 21st**   
+  **Sunday, December 28th**   
  **9:45 am** Sunday School  
   **11:00 am** Worship Service   
-**5:00 pm** Student Ministry
+**No Student Ministry**
 
 
 
