@@ -15,16 +15,15 @@ header:
 
   
 
+  **Sunday, December 28th**  
+  **"Out with the Old, In with the New"**  
+  Ephesians 4:17-24  
+  Colossians 3:1-17
   
-   **December 21st**  
-   "The Angels---PEACE"  
-   Luke 2:9-14  
-
-   **December 24th**  
-   **Wednesday, Christmas Eve**  
-   "Christ---LIGHT"  
-   Luke2:1-7; John 1:1-14
-   
+**Sunday, January 4th**  
+**"The Heart of a King"**  
+1 Sam 10-13; 16:1-13; 17:55-18:4  
+*Pastor Billy Preaching*
 
      
 
@@ -100,8 +99,6 @@ and will resume January 12th with the Beth Moore**
   <hr>   
    
 
-
- <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/b148a626-b4cf-41cc-befb-7ef39672f769" />
 
 
 
