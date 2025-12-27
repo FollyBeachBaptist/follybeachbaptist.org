@@ -24,31 +24,29 @@ header:
 
 
 
-**Monday, December 22nd**   
-**Moms in Prayer is Not Meeting again until Monday, January 5th**   
-**12:00 pm** Soup and Soul     
-**Men's Bible Study is not meeting again until Monday, January 5th**   
+**Monday, December 29th**   
+No Church Activities
 
 *All Bible Studies are in the Education Building*  
 
-**Tuesday, December 23rd**      
-**6:30 pm** Worship Team
+**Tuesday, December 30th**      
+**6:30 pm** Worship Team Practice
 
 
 
-**Wednesday, December 24th**  
-**5:00 pm** Christmas Eve Service
+**Wednesday, December 31st**  
+New Year's Eve
  
 
-**Thursday, December 25th**  
+**Thursday, January 1st, 2026**  
  
-**Merry Christmas!!**  
+**Happy New Year!!**  
   
 
-  **Sunday, December 28th**   
+  **Sunday, January 4th**   
  **9:45 am** Sunday School  
   **11:00 am** Worship Service   
-**No Student Ministry**
+**5:00 pm Student Ministry**
 
 
 
@@ -58,9 +56,7 @@ header:
   **UPCOMING EVENTS**     
   <hr>  
   
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/2e681555-dd7a-45b4-bb5e-762fe91d3a36" />  
-
-<hr>  
+  
 
 
   **Pray at the Pier**  
@@ -126,22 +122,6 @@ Enter through the office door in the back parking lot on West Indian ave
   **We will resume Monday, January 5th at noon**
   ![Alt text](/assets/images/Soup%20and%20Soul%20Picture.jpg)
    
-  <hr>
-
- 
- 
- 
- 
-
-
- 
-  **Christmas Eve Service**  
-  
-  **Wednesday, December 24 at 5:00 pm** 
- 
-   
-  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c2a66317-f545-4d8f-9e6a-ff48309adf0a" />  
-
   <hr>    
   
 **Thursday, February 5th, 2026**  
