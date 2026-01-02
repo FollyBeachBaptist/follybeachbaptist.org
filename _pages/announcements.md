@@ -10,28 +10,13 @@ header:
 **Upcoming Sermons**  
 
 
-
-
-
-  
-
-  **Sunday, December 28th**  
-  **"Out with the Old, In with the New"**  
-  Ephesians 4:17-24  
-  Colossians 3:1-17
   
 **Sunday, January 4th**  
 **"The Heart of a King"**  
-1 Sam 10-13; 16:1-13; 17:55-18:4  
+**1 Sam 16:1-13; 16:21-23; 18:1-4; 2 Sam Chapters 11&12**  
 *Pastor Billy Preaching*
 
      
-
-
-<hr>    
-
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/2e681555-dd7a-45b4-bb5e-762fe91d3a36" />  
-
   <hr>
 
  
@@ -58,11 +43,8 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
   This wonderful ministry unites women from Folly Beach and surrounding communities to pray for children and schools.  
   Through weekly gatherings rooted in Scripture, women support one another and seek God's guidance for students, parents,   
   teachers, and communities.  
-
-  See the *Upcoming Events* Section of our Calendar Page for meeting times and location  
-  **We are on break for the Holidays.**  
-  **We will resume meeting January 5th at 10:30**  
-  **Merry Christmas and Happy New Year!!**
+**We meet Monday mornings at 10:30 in the Education Building**
+ 
    
   
  <img width="222" height="208" alt="image" src="https://github.com/user-attachments/assets/c4b6b8ee-2704-46c9-83b0-a791224c5724" />  
@@ -73,9 +55,12 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 
 <hr>   
 
-**Weekly Women's Bible Study has finished for 2025  
-and will resume January 12th with the Beth Moore**   
-**Study "Jesus, the One and Only"**
+**A new Women's Bible study begins January 12th with the Beth Moore Study "Jesus, the One and Only"**  
+**Meeting days and times are:**   
+**Monday 6:30pm**   
+'**Tuesday 9:30am**   
+**Thursday 10:00am**  
+
 <img width="769" height="1000" alt="image" src="https://github.com/user-attachments/assets/1a915f86-93fb-4715-ae8b-d205f11105ee" />
 
 
@@ -87,16 +72,13 @@ and will resume January 12th with the Beth Moore**
 
   **Men's Bible Study  
   Mondays at 6:45pm**    
-  **Has finished for 2025 and will resume January 5th, 2026**  
+   
   Join a brotherhood of faith as we dive into Scripture, share life's challenges, and grow together in Christ. Whether you're new to the Bible or a seasoned believer, this group offers a welcoming space for honest conversation, spiritual encouragement, and practical application. Come as you are----Leave strengthened.
   
   <img width="500" height="334" alt="image" src="https://github.com/user-attachments/assets/1c398dd7-fefc-4486-8743-5739850836a7" />    
   <hr>    
 
-   **Our Goal this year for the Lottie Moon International Mission Offering is $5,000.00**
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d7c5f165-1e8b-4891-b9dc-19fa0cefbcc6" />  
-
-  <hr>   
+ 
    
 
 
@@ -106,8 +88,7 @@ and will resume January 12th with the Beth Moore**
 
  <hr>  
  
-**Recovery in Christ is on Holiday break**  
-**Meetings will resume January 8th, at 6:00pm**  
+**Recovery in Christ meets Thursday evenings at 6:00pm**  
 <img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/91f98826-faee-4b23-8a4c-a297a76c9b89" />
 
      
