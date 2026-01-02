@@ -25,18 +25,17 @@ header:
 
 
 **Monday, January 5th**   
+**10:30am** Moms in Prayer  
 **12:00** Soup and Soul  
 **6:45pm** Men's Bible Study
 
 *All Bible Studies are in the Education Building*  
 
-**Tuesday, January 6th**      
-**6:30 pm** Worship Team Practice
 
-
-
-**Wednesday, January 7th**  
-**6:30pm** Prayer meeting  
+**Wednesday, January 7th**   
+**5:30pm** Building and Grounds meeting  
+**6:30pm** Prayer meeting   
+**6:30pm** Musician Practice  
 **7:30pm** Choir Practice
  
 
