@@ -24,26 +24,27 @@ header:
 
 
 
-**Monday, December 29th**   
-No Church Activities
+**Monday, January 5th**   
+**12:00** Soup and Soul  
+**6:45pm** Men's Bible Study
 
 *All Bible Studies are in the Education Building*  
 
-**Tuesday, December 30th**      
+**Tuesday, January 6th**      
 **6:30 pm** Worship Team Practice
 
 
 
-**Wednesday, December 31st**  
-New Year's Eve
+**Wednesday, January 7th**  
+**6:30pm** Prayer meeting  
+**7:30pm** Choir Practice
  
 
-**Thursday, January 1st, 2026**  
- 
-**Happy New Year!!**  
+**Thursday, January 8th**  
+**6:00pm** Recovery in Christ  
   
 
-  **Sunday, January 4th**   
+  **Sunday, January 11th**   
  **9:45 am** Sunday School  
   **11:00 am** Worship Service   
 **5:00 pm Student Ministry**
@@ -71,8 +72,6 @@ New Year's Eve
 **All moms are welcome to join us Mondays at 10:30 am as we pray for our schools and children**  
 *In the Education Building.*  
 Enter through the office door in the back parking lot on West Indian ave  
-**We are on holiday break and will resume meeting Monday, January 5th**  
-**Merry Christmas and Happy New Year!!**
 
 <img width="222" height="208" alt="image" src="https://github.com/user-attachments/assets/973bcd0f-5cc0-4246-94e7-4b3b9ce31913" />    
 <hr>  
@@ -84,8 +83,7 @@ Enter through the office door in the back parking lot on West Indian ave
 
 **WOMEN'S BIBLE STUDY**  
 
-**Has Finished for 2025 But will resume January 12th**  
-**With a new study by Beth Moore**  
+**We will begin a new 11 week study by Beth Moore starting January 12th**    
 **"Jesus, the One and Only"**
 
   **Mondays at 6:30 pm**    
@@ -105,9 +103,7 @@ Enter through the office door in the back parking lot on West Indian ave
 **Men's Bible Study**
     
 **Mondays at 6:45pm**   
-**Has Concluded for 2025**  
-**And will resume Monday, January 5th at 6:45pm**
-  
+
   
   
   <img width="500" height="334" alt="image" src="https://github.com/user-attachments/assets/1c398dd7-fefc-4486-8743-5739850836a7" />    
@@ -118,8 +114,7 @@ Enter through the office door in the back parking lot on West Indian ave
 
   **Soup and Soul**   
   **Mondays at 12:00**   
-  **Will not meet Monday December 29th for Holiday Break**  
-  **We will resume Monday, January 5th at noon**
+ **We do not meet on Federal Holidays**
   ![Alt text](/assets/images/Soup%20and%20Soul%20Picture.jpg)
    
   <hr>    
