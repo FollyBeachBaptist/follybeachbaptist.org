@@ -24,10 +24,7 @@ header:
 
 
 
-**Monday, January 5th**   
-**10:30am** Moms in Prayer  
-**12:00** Soup and Soul  
-**6:45pm** Men's Bible Study
+
 
 *All Bible Studies are in the Education Building*  
 
