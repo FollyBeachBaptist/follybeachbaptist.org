@@ -24,7 +24,21 @@ header:
 
 <img width="488" height="668" alt="image" src="https://github.com/user-attachments/assets/73941feb-cb7e-4437-9ba1-b2e24335d97e" />  
 
+  <hr>    
+
+  **Sunday, January 18th at 3:00pm**  
+  **Woship Team Planning Meeting**  
+  <img width="1808" height="1356" alt="image" src="https://github.com/user-attachments/assets/19146655-6712-42a1-998b-8cc6f40a36d8" />  
+
   <hr>  
+
+  **Sunday, January 25th**  
+  **3:00pm** Church Council Meeting    
+<img width="2048" height="1152" alt="image" src="https://github.com/user-attachments/assets/bcbc42d9-b10e-4128-9c2e-d13b5ff0f34b" />
+
+  
+  
+
 
     
 
