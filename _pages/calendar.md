@@ -37,12 +37,16 @@ header:
  
 
 **Thursday, January 8th**  
+**5:00pm** Prayer at the Pier  
 **6:00pm** Recovery in Christ  
   
 
   **Sunday, January 11th**   
  **9:45 am** Sunday School  
   **11:00 am** Worship Service   
+**New Sermon Series**   
+**"That You May Know", 1John Begins** 
+
 **5:00 pm Student Ministry**
 
 
@@ -51,10 +55,23 @@ header:
 <hr>  
 
   **UPCOMING EVENTS**     
-  <hr>  
+  <hr>   
   
-  
+  **Tuesday, January 13th**  
+  **11:00am** WMU Monthly Meeting
 
+  **Saturday, January 17th**  
+  **1:00pm** Celebration of Life Service for Judy Young  
+
+  **Sunday, January 18th**  
+  **3:00pm** Worship Team Leadership Meeting  
+
+  **Saturday, January 24th**  
+  CSU Students using Fellowship Hall
+  For Polar Plunge Event
+
+  **Sunday, January 25th**  
+  **3:00pm** Church Council Meeting
 
   **Pray at the Pier**  
   **We meet the 2nd Thursday Every Month at 5:00 pm to pray for our government and nation**  
