@@ -11,13 +11,24 @@ header:
 
 
   
-**Sunday, January 4th**  
-**"The Heart of a King"**  
-**1 Sam 16:1-13; 16:21-23; 18:1-4; 2 Sam Chapters 11&12**  
-*Pastor Billy Preaching*
+**Sunday, January 11th**  
+**"That You May Know"**  
+**1John 1:1-4; 5:13**  
+
 
      
-  <hr>
+  <hr>  
+
+**Tuesday, January 13th**  
+**11:00am** WMU Monthly Meeting  
+
+<img width="488" height="668" alt="image" src="https://github.com/user-attachments/assets/73941feb-cb7e-4437-9ba1-b2e24335d97e" />  
+
+  <hr>  
+
+    
+
+    
 
  
 **Worship Service Childcare Provided**    
