@@ -45,7 +45,7 @@ header:
  **9:45 am** Sunday School  
   **11:00 am** Worship Service   
 **New Sermon Series**   
-**"That You May Know", 1John Begins** 
+"That You May Know", a study of 1John Begins 
 
 **5:00 pm Student Ministry**
 
