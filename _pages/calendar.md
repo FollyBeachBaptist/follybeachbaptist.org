@@ -71,7 +71,12 @@ header:
   For Polar Plunge Event
 
   **Sunday, January 25th**  
-  **3:00pm** Church Council Meeting
+  **3:00pm** Church Council Meeting  
+
+  **Saturday, January 31st**  
+  **9:00am - 12:00pm**  
+  Ocean Front Villas H.O.A.  
+  Meeting in the Fellowship Hall
 
   **Pray at the Pier**  
   **We meet the 2nd Thursday Every Month at 5:00 pm to pray for our government and nation**  
