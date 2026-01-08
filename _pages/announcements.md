@@ -13,7 +13,9 @@ header:
   
 **Sunday, January 11th**  
 **"That You May Know"**  
-**1John 1:1-4; 5:13**  
+**1John 1:1-4; 5:13**   
+<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/8d3d1c42-5753-469f-9773-0c9d5230cdc8" />
+
 
 
      
