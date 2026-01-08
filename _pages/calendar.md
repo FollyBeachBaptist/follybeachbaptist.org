@@ -45,6 +45,8 @@ header:
   **11:00 am** Worship Service   
 **New Sermon Series**   
 "That You May Know", a study of 1John Begins    
+<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/ea7785c6-f14c-4dc7-94b1-9d5d61bb921b" />
+
 
 **2:00 pm** Memorial Service For Bethany Sturgeon
 
@@ -151,9 +153,7 @@ Enter through the office door in the back parking lot on West Indian ave
    
   <hr>    
   
-**Thursday, February 5th, 2026**  
-Senior Health and Wellness Fair  
-<img width="1080" height="1398" alt="image" src="https://github.com/user-attachments/assets/ce51414b-57aa-4701-a9ac-e82589088e8a" />
+
 
 
 
