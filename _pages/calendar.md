@@ -32,13 +32,14 @@ header:
 **Wednesday, January 7th**   
 **5:30pm** Building and Grounds meeting  
 **6:30pm** Prayer meeting   
-**6:30pm** Musician Practice  
-**7:30pm** Choir Practice
- 
+
 
 **Thursday, January 8th**  
 **5:00pm** Prayer at the Pier  
-**6:00pm** Recovery in Christ  
+**6:00pm** Recovery in Christ   
+**6:30pm** Musician Practice  
+**7:30pm** Choir Practice
+ 
   
 
   **Sunday, January 11th**   
@@ -76,7 +77,19 @@ header:
   **Saturday, January 31st**  
   **9:00am - 12:00pm**  
   Ocean Front Villas H.O.A.  
-  Meeting in the Fellowship Hall
+  Meeting in the Fellowship Hall    
+
+**Thursday, February 5th, 2026**  
+Senior Health and Wellness Fair  
+<img width="1080" height="1398" alt="image" src="https://github.com/user-attachments/assets/ce51414b-57aa-4701-a9ac-e82589088e8a" />
+
+**Sunday, February 8th**  
+**11:00 Worship Service**  
+**Guest Speaker Megan Almon**  
+From **Stand To Reason** Ministries   
+<img width="225" height="150" alt="image" src="https://github.com/user-attachments/assets/1452f3fd-93f7-4d76-97ed-755d1dbf6f8e" />
+
+
 
   **Pray at the Pier**  
   **We meet the 2nd Thursday Every Month at 5:00 pm to pray for our government and nation**  
