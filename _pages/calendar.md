@@ -29,9 +29,7 @@ header:
 *All Bible Studies are in the Education Building*  
 
 
-**Wednesday, January 7th**   
-**5:30pm** Building and Grounds meeting  
-**6:30pm** Prayer meeting   
+
 
 
 **Thursday, January 8th**  
@@ -46,7 +44,9 @@ header:
  **9:45 am** Sunday School  
   **11:00 am** Worship Service   
 **New Sermon Series**   
-"That You May Know", a study of 1John Begins 
+"That You May Know", a study of 1John Begins    
+
+**2:00 pm** Memorial Service For Bethany Sturgeon
 
 **5:00 pm Student Ministry**
 
