@@ -80,7 +80,8 @@ header:
   Meeting in the Fellowship Hall    
 
 **Thursday, February 5th, 2026**  
-Senior Health and Wellness Fair  
+Senior Health and Wellness Fair   
+**Located in The Community Center AND Folly Beach Baptist Fellowship Hall**
 <img width="1080" height="1398" alt="image" src="https://github.com/user-attachments/assets/ce51414b-57aa-4701-a9ac-e82589088e8a" />
 
 **Sunday, February 8th**  
