@@ -21,36 +21,26 @@ header:
 **Example Day**
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
-
-
-
-
-
-*All Bible Studies are in the Education Building*  
-
-
-
-
-
-**Thursday, January 8th**  
-**5:00pm** Prayer at the Pier  
-**6:00pm** Recovery in Christ   
-**6:30pm** Musician Practice  
-**7:30pm** Choir Practice
- 
   
-
   **Sunday, January 11th**   
+**9:00 am** Deacons meeting
  **9:45 am** Sunday School  
   **11:00 am** Worship Service   
 **New Sermon Series**   
 "That You May Know", a study of 1John Begins    
 <img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/ea7785c6-f14c-4dc7-94b1-9d5d61bb921b" />
 
+**5:00 pm Student Ministry**   
 
-**2:00 pm** Memorial Service For Bethany Sturgeon
+**Monday, January 12th**  
+**10:30 am** Moms in Prayer  
+**12:00 pm** Soup and Soul  
+**6:30 pm** Women's Bible Study  
+**6:45 pm** Moen's Bible Study  
 
-**5:00 pm Student Ministry**
+*All Bible Study Groups are in the Education Bldg*  
+
+
 
 
 
