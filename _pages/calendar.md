@@ -22,13 +22,12 @@ header:
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
   
-  **Sunday, January 11th**   
-**9:00 am** Deacons meeting
- **9:45 am** Sunday School  
+  **Sunday, January 11th**  
+**9:00 am** Deacons meeting  
+**9:45 am** Sunday School  
   **11:00 am** Worship Service   
 **New Sermon Series**   
 "That You May Know", a study of 1John Begins    
-<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/ea7785c6-f14c-4dc7-94b1-9d5d61bb921b" />
 
 **5:00 pm Student Ministry**   
 
@@ -36,35 +35,44 @@ header:
 **10:30 am** Moms in Prayer  
 **12:00 pm** Soup and Soul  
 **6:30 pm** Women's Bible Study  
-**6:45 pm** Moen's Bible Study  
+**6:45 pm** Men's Bible Study  
 
 *All Bible Study Groups are in the Education Bldg*  
 
+ **Tuesday, January 13th**  
+ **9:30 am** Women's Bible Study  
+**11:00am** WMU Monthly Meeting  
 
+**Wednesday, January 14th**  
+**5:30 pm** Building and Grounds Meeting  
+**6:30 pm** Prayer Metting  
+**6:30 pm** Musician Practice  
+**7:30 pm** Choir Practice  
 
+**Thursday, January 15th**  
+**10:00 am** Women's Bible Study  
+**6:00 pm** Recovery In Christ Meeting  
 
-
-   
-<hr>  
-
-  **UPCOMING EVENTS**     
-  <hr>   
-  
-  **Tuesday, January 13th**  
-  **11:00am** WMU Monthly Meeting
-
-  **Saturday, January 17th**  
+**Saturday, January 17th**  
   **1:00pm** Celebration of Life Service for Judy Young  
 
   **Sunday, January 18th**  
-  **3:00pm** Worship Team Leadership Meeting  
+  **9:45 am** Sunday School  
+  **11:00 am** Worship Service  
+  **"That You May Know"** Sermon series on 1 John part 2  
+  **3:00 pm** Worship Team Leadership Meeting  
+  **5:00 pm** Student Ministry
 
   **Saturday, January 24th**  
   CSU Students using Fellowship Hall
   For Polar Plunge Event
 
   **Sunday, January 25th**  
-  **3:00pm** Church Council Meeting  
+  **9:45 am** Sunday School  
+  **11:00 am** Worship Service  
+  **"That You May Know** Sermon series on 1 John part 3  
+  **3:00 pm** Church Council Meeting   
+  **5:00 pm** Student Ministry
 
   **Saturday, January 31st**  
   **9:00am - 12:00pm**  
@@ -80,7 +88,13 @@ Senior Health and Wellness Fair
 **11:00 Worship Service**  
 **Guest Speaker Megan Almon**  
 From **Stand To Reason** Ministries   
-<img width="225" height="150" alt="image" src="https://github.com/user-attachments/assets/1452f3fd-93f7-4d76-97ed-755d1dbf6f8e" />
+<img width="225" height="150" alt="image" src="https://github.com/user-attachments/assets/1452f3fd-93f7-4d76-97ed-755d1dbf6f8e" />  
+<hr>  
+
+**Sunday, February 15th**  
+**Lucy Beasley Baptism Celebration**  
+<img width="291" height="173" alt="image" src="https://github.com/user-attachments/assets/9ed52717-e66c-4c88-8ba9-3cc8064778a4" />
+
 
 
 
