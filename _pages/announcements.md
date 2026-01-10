@@ -39,14 +39,6 @@ header:
 <img width="2048" height="1152" alt="image" src="https://github.com/user-attachments/assets/bcbc42d9-b10e-4128-9c2e-d13b5ff0f34b" />
 
   
-  
-
-
-    
-
-    
-
- 
 **Worship Service Childcare Provided**    
 
 ![Alt text](/assets/images/Childcare%20picture.jpeg)
@@ -116,7 +108,13 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/c565726c-f924-4ca9-a0d6-dc6e6663a48f" />  
 <hr>  
 
-<img width="1080" height="1398" alt="image" src="https://github.com/user-attachments/assets/68191248-4a61-40de-92ab-34f5b95b2d10" />
+<img width="1080" height="1398" alt="image" src="https://github.com/user-attachments/assets/68191248-4a61-40de-92ab-34f5b95b2d10" />  
+<hr>  
+
+**Sunday, February 15th**
+**Baptism Celebration for Lucy Beasley**  
+
+<img width="291" height="173" alt="image" src="https://github.com/user-attachments/assets/d14cc81a-b1cb-4670-8e8f-817230d43ebd" />
 
 
 
