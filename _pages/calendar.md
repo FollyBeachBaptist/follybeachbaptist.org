@@ -22,57 +22,42 @@ header:
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
   
-  **Sunday, January 11th**  
-**9:00 am** Deacons meeting  
+  **Sunday, January 18th**    
 **9:45 am** Sunday School  
-  **11:00 am** Worship Service   
-**New Sermon Series**   
-"That You May Know", a study of 1John Begins    
+  **11:00 am** Worship Service  
+  **3:00 pm** Worship Team Leaders Meeting  
+  **5:00 pm Student Ministry**   
 
-**5:00 pm Student Ministry**   
-
-**Monday, January 12th**  
+**Monday, January 19th**  
 **10:30 am** Moms in Prayer  
-**12:00 pm** Soup and Soul  
+**No Soup and Soul, Federal Holiday**  
 **6:30 pm** Women's Bible Study  
 **6:45 pm** Men's Bible Study  
 
 *All Bible Study Groups are in the Education Bldg*  
 
- **Tuesday, January 13th**  
+ **Tuesday, January 20th**  
  **9:30 am** Women's Bible Study  
-**11:00am** WMU Monthly Meeting  
+  
 
-**Wednesday, January 14th**  
+**Wednesday, January 21st**  
 **5:30 pm** Building and Grounds Meeting  
 **6:30 pm** Prayer Metting  
 **6:30 pm** Musician Practice  
 **7:30 pm** Choir Practice  
 
-**Thursday, January 15th**  
+**Thursday, January 22nd**  
 **10:00 am** Women's Bible Study  
 **6:00 pm** Recovery In Christ Meeting  
 
-**Saturday, January 17th**  
-  **1:00pm** Celebration of Life Service for Judy Young  
 
-  **Sunday, January 18th**  
-  **9:45 am** Sunday School  
-  **11:00 am** Worship Service  
-  **"That You May Know"** Sermon series on 1 John part 2  
-  **3:00 pm** Worship Team Leadership Meeting  
-  **5:00 pm** Student Ministry
-
-  **Saturday, January 24th**  
-  CSU Students using Fellowship Hall
-  For Polar Plunge Event
 
   **Sunday, January 25th**  
   **9:45 am** Sunday School  
-  **11:00 am** Worship Service  
-  **"That You May Know** Sermon series on 1 John part 3  
-  **3:00 pm** Church Council Meeting   
+  **11:00 am** Worship Service    
+  **3:00 pm** Church Council Meeting  
   **5:00 pm** Student Ministry
+
 
   **Saturday, January 31st**  
   **9:00am - 12:00pm**  
@@ -120,9 +105,6 @@ Enter through the office door in the back parking lot on West Indian ave
 <hr>  
 
 **WOMEN'S BIBLE STUDY**  
-
-**We will begin a new 11 week study by Beth Moore starting January 12th**    
-**"Jesus, the One and Only"**
 
   **Mondays at 6:30 pm**    
   **Tuesdays at 9:30 am**   
