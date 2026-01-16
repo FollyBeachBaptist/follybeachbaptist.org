@@ -11,9 +11,10 @@ header:
 
 
   
-**Sunday, January 11th**  
+**Sunday, January 18th**  
 **"That You May Know"**  
-**1John 1:1-4; 5:13**   
+**Part 2, "Walking in The Light"**  
+**1 John 1:5-10**
 <img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/8d3d1c42-5753-469f-9773-0c9d5230cdc8" />
 
 
@@ -21,12 +22,6 @@ header:
      
   <hr>  
 
-**Tuesday, January 13th**  
-**11:00am** WMU Monthly Meeting  
-
-<img width="488" height="668" alt="image" src="https://github.com/user-attachments/assets/73941feb-cb7e-4437-9ba1-b2e24335d97e" />  
-
-  <hr>    
 
   **Sunday, January 18th at 3:00pm**  
   **Woship Team Planning Meeting**  
@@ -36,7 +31,9 @@ header:
 
   **Sunday, January 25th**  
   **3:00pm** Church Council Meeting    
-<img width="2048" height="1152" alt="image" src="https://github.com/user-attachments/assets/bcbc42d9-b10e-4128-9c2e-d13b5ff0f34b" />
+<img width="2048" height="1152" alt="image" src="https://github.com/user-attachments/assets/bcbc42d9-b10e-4128-9c2e-d13b5ff0f34b" />  
+<hr>  
+
 
   
 **Worship Service Childcare Provided**    
@@ -74,7 +71,7 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 
 <hr>   
 
-**A new Women's Bible study begins January 12th with the Beth Moore Study "Jesus, the One and Only"**  
+**Women's Bible study**  
 **Meeting days and times are:**   
 **Monday 6:30pm**   
 '**Tuesday 9:30am**   
