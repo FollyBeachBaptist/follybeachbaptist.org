@@ -5,7 +5,16 @@ author: default
 header:
 
 ---
-<hr>    
+<hr>  
+The Folly Beach Historical Society and its Board of Directors has decided to open the Folly Beach Museum on Sunday, January 25th, from 10:00am to 2:00pm to make it convenient for our congregation to visit before or after our church services.  
+
+The current exhibit is "Surfing on The Edge".  
+
+This is a wonderful opportunity to see the collection of artifacts, photographs, documents, and personal stories about the history of surfing on Folly Beach.  
+We at Folly Beach Baptist Church would like to thank Dave Miller, the Historical society and Board of Directors fpr this gracious invitation.
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/028a230a-fb33-4780-a1f4-a0f9115e495f" />
+
+
 
 **Upcoming Sermons**  
 
