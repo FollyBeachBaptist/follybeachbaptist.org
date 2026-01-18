@@ -11,7 +11,7 @@ The Folly Beach Historical Society and its Board of Directors has decided to ope
 The current exhibit is "Surfing on The Edge".  
 
 This is a wonderful opportunity to see the collection of artifacts, photographs, documents, and personal stories about the history of surfing on Folly Beach.  
-We at Folly Beach Baptist Church would like to thank Dave Miller, the Historical society and Board of Directors fpr this gracious invitation.
+We at Folly Beach Baptist Church would like to thank Dave Miller, the Historical society and Board of Directors for this gracious invitation.
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/028a230a-fb33-4780-a1f4-a0f9115e495f" />
 
 
