@@ -22,7 +22,7 @@ We at Folly Beach Baptist Church would like to thank Dave Miller, the Historical
   
 **Sunday, January 18th**  
 **"That You May Know"**  
-**Part 3, "Christ our Advocate"**  
+**Part 3, "Triple A"**  
 **1 John 2:1-6**
 <img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/8d3d1c42-5753-469f-9773-0c9d5230cdc8" />
 
