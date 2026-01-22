@@ -22,17 +22,7 @@ header:
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
   
-  **Sunday, January 18th**    
-**9:45 am** Sunday School  
-  **11:00 am** Worship Service  
-  **3:00 pm** Worship Team Leaders Meeting  
-  **5:00 pm Student Ministry**   
-
-**Monday, January 19th**  
-**10:30 am** Moms in Prayer  
-**No Soup and Soul, Federal Holiday**  
-**6:30 pm** Women's Bible Study  
-**6:45 pm** Men's Bible Study  
+ 
 
 *All Bible Study Groups are in the Education Bldg*  
 
