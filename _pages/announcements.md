@@ -22,8 +22,8 @@ We at Folly Beach Baptist Church would like to thank Dave Miller, the Historical
   
 **Sunday, January 18th**  
 **"That You May Know"**  
-**Part 2, "Walking in The Light"**  
-**1 John 1:5-10**
+**Part 3, "Christ our Advocate"**  
+**1 John 2:1-6**
 <img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/8d3d1c42-5753-469f-9773-0c9d5230cdc8" />
 
 
@@ -32,11 +32,7 @@ We at Folly Beach Baptist Church would like to thank Dave Miller, the Historical
   <hr>  
 
 
-  **Sunday, January 18th at 3:00pm**  
-  **Woship Team Planning Meeting**  
-  <img width="1808" height="1356" alt="image" src="https://github.com/user-attachments/assets/19146655-6712-42a1-998b-8cc6f40a36d8" />  
-
-  <hr>  
+ 
 
   **Sunday, January 25th**  
   **3:00pm** Church Council Meeting    
@@ -111,8 +107,7 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
  <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/f61dc78c-c2ac-4146-987a-96318407f70e" />
 
 
-<hr>  
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/c565726c-f924-4ca9-a0d6-dc6e6663a48f" />  
+ 
 <hr>  
 
 <img width="1080" height="1398" alt="image" src="https://github.com/user-attachments/assets/68191248-4a61-40de-92ab-34f5b95b2d10" />  
