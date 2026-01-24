@@ -21,38 +21,49 @@ header:
 **Example Day**
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
+**Sunday, January 25th**  
+**9:45 am** Bible Study  
+**11:00 am** Worship Service  
+**3:00 pm** Church Council  
+**5:00 pm** Student Ministry  
   
+**Monday, January 26th**  
+  **10:30 am** Moms in Prayer  
+**12:00 pm** Soup and Soul  
+**6:30 pm** Women's Bible study  
+**6:45 pm** Men's Bible Study
+
  
 
 *All Bible Study Groups are in the Education Bldg*  
 
- **Tuesday, January 20th**  
+ **Tuesday, January 27th**  
  **9:30 am** Women's Bible Study  
   
 
-**Wednesday, January 21st**  
+**Wednesday, January 28th**  
 **5:30 pm** Building and Grounds Meeting  
 **6:30 pm** Prayer Metting  
 **6:30 pm** Musician Practice  
 **7:30 pm** Choir Practice  
 
-**Thursday, January 22nd**  
+**Thursday, January 29th**  
 **10:00 am** Women's Bible Study  
 **6:00 pm** Recovery In Christ Meeting  
-
-
-
-  **Sunday, January 25th**  
-  **9:45 am** Sunday School  
-  **11:00 am** Worship Service    
-  **3:00 pm** Church Council Meeting  
-  **5:00 pm** Student Ministry
-
 
   **Saturday, January 31st**  
   **9:00am - 12:00pm**  
   Ocean Front Villas H.O.A.  
   Meeting in the Fellowship Hall    
+
+
+  **Sunday, February 1st**  
+  **9:45 am** Sunday School  
+  **11:00 am** Worship Service     
+  **5:00 pm** Student Ministry
+
+
+ 
 
 **Thursday, February 5th, 2026**  
 Senior Health and Wellness Fair   
