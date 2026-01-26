@@ -21,11 +21,7 @@ header:
 **Example Day**
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
-**Sunday, January 25th**  
-**9:45 am** Bible Study  
-**11:00 am** Worship Service  
-**3:00 pm** Church Council  
-**5:00 pm** Student Ministry  
+
   
 **Monday, January 26th**  
   **10:30 am** Moms in Prayer  
@@ -74,7 +70,8 @@ Senior Health and Wellness Fair
 **11:00 Worship Service**  
 **Guest Speaker Megan Almon**  
 From **Stand To Reason** Ministries   
-<img width="225" height="150" alt="image" src="https://github.com/user-attachments/assets/1452f3fd-93f7-4d76-97ed-755d1dbf6f8e" />  
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/4d1a49cb-1a99-45da-aa2c-1da8a7792540" />
+
 <hr>  
 
 **Sunday, February 15th**  
