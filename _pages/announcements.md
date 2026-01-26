@@ -40,9 +40,7 @@ Visit www.coastalfamilyvacation.org for more information.
 
 
   
-  **3:00pm This Sunday, January 25th** Church Council Meeting    
-<img width="2048" height="1152" alt="image" src="https://github.com/user-attachments/assets/bcbc42d9-b10e-4128-9c2e-d13b5ff0f34b" />  
-<hr>  
+
 
 
   
@@ -105,8 +103,10 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
   <hr>    
  
  
-**Recovery in Christ meets Thursday evenings at 6:00pm**  
-<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/91f98826-faee-4b23-8a4c-a297a76c9b89" />  
+**Recovery in Christ meets Thursday evenings at 6:00pm**    
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/f48d4714-f214-4c95-ac9c-48e2c39c4f4c" />
+
+ 
 
 <hr>  
  <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/f61dc78c-c2ac-4146-987a-96318407f70e" />
