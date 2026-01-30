@@ -6,6 +6,13 @@ header:
 
 ---
 <hr>    
+
+**We will not have Soup and Soul this Monday, February 2nd**  
+<img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/6c89f743-75d4-4ce6-9689-a16b7b6256f6" />  
+
+  <hr>
+
+
 The Coastal Family Vacation Foundation  
 is a Cancer Respite Program that provides South Carolina Residents fighting cancer  
 
