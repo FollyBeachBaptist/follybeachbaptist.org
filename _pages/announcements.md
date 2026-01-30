@@ -34,9 +34,7 @@ Visit www.coastalfamilyvacation.org for more information.
 
 
   
-**Sunday, January 25th**    
-**"AAA Faith"**  
-**1 John 2:1-6**
+
 <img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/8d3d1c42-5753-469f-9773-0c9d5230cdc8" />  
 
 
