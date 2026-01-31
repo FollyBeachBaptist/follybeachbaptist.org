@@ -21,49 +21,29 @@ header:
 **Example Day**
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
-
+**Sunday, February 1st**  
+**No Service or Activities due to weather conditions**
   
-**Monday, January 26th**  
-  **10:30 am** Moms in Prayer  
-**12:00 pm** Soup and Soul  
-**6:30 pm** Women's Bible study  
-**6:45 pm** Men's Bible Study
-
+**Monday, February 2nd**  
+ **No activities due to weather conditions**
  
 
 *All Bible Study Groups are in the Education Bldg*  
 
- **Tuesday, January 27th**  
+ **Tuesday, February 3rd**  
  **9:30 am** Women's Bible Study  
   
 
-**Wednesday, January 28th**  
+**Wednesday, February 4th**  
 **5:30 pm** Building and Grounds Meeting  
 **6:30 pm** Prayer Metting  
 **6:30 pm** Musician Practice  
 **7:30 pm** Choir Practice  
 
-**Thursday, January 29th**  
+**Thursday, February 5th**  
 **10:00 am** Women's Bible Study  
 **6:00 pm** Recovery In Christ Meeting  
 
-  **Saturday, January 31st**  
-  **9:00am - 12:00pm**  
-  Ocean Front Villas H.O.A.  
-  Meeting in the Fellowship Hall    
-
-
-  **Sunday, February 1st**  
-  **9:45 am** Sunday School  
-  **11:00 am** Worship Service     
-  **5:00 pm** Student Ministry
-
-
- 
-
-**Thursday, February 5th, 2026**  
-Senior Health and Wellness Fair   
-**Located in The Community Center AND Folly Beach Baptist Fellowship Hall**
 <img width="1080" height="1398" alt="image" src="https://github.com/user-attachments/assets/ce51414b-57aa-4701-a9ac-e82589088e8a" />
 
 **Sunday, February 8th**  
