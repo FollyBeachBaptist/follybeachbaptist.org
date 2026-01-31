@@ -6,6 +6,14 @@ header:
 
 ---
 <hr>    
+Church family and friends, due to the weather, we will not be gathering at the church tomorrow for our usual 11:00 service.   
+We will be streaming a short message on our Facebook page at 11:00 instead.  
+Stay safe and warm. Let us know if you need anything.  
+
+<img width="526" height="526" alt="image" src="https://github.com/user-attachments/assets/2ddcba8d-0616-4afc-8bd5-21854317fc76" />  
+
+  <hr>
+
 
 **We will not have Soup and Soul this Monday, February 2nd**  
 <img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/6c89f743-75d4-4ce6-9689-a16b7b6256f6" />  
