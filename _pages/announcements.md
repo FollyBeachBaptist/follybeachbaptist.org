@@ -5,12 +5,7 @@ author: default
 header:
 
 ---
-<hr>    
-Church family and friends, due to the weather, we will not be gathering at the church tomorrow for our usual 11:00 service.   
-We will be streaming a short message on our Facebook page at 11:00 instead.  
-Stay safe and warm. Let us know if you need anything.  
 
-<img width="526" height="526" alt="image" src="https://github.com/user-attachments/assets/2ddcba8d-0616-4afc-8bd5-21854317fc76" />  
 
   <hr>
 
@@ -18,7 +13,20 @@ Stay safe and warm. Let us know if you need anything.
 **We will not have Soup and Soul this Monday, February 2nd**  
 <img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/6c89f743-75d4-4ce6-9689-a16b7b6256f6" />  
 
-  <hr>
+  <hr>  
+
+  **Moms in prayer will not meet this week, Feb 2nd**  
+  
+<img width="222" height="208" alt="image" src="https://github.com/user-attachments/assets/cfe1a093-1992-4a1a-bf10-7a6a55a5bf2d" />  
+<hr>   
+
+**The Tuesday Morning Women's Bible study will not meet this Tuesday, Feb 3rd**  
+<hr>   
+
+ <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/f61dc78c-c2ac-4146-987a-96318407f70e" />  
+
+   <hr>
+
 
 
 The Coastal Family Vacation Foundation  
