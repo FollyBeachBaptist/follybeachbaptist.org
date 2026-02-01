@@ -20,7 +20,9 @@ header:
 <img width="222" height="208" alt="image" src="https://github.com/user-attachments/assets/cfe1a093-1992-4a1a-bf10-7a6a55a5bf2d" />  
 <hr>     
 
-**Men's Bible study will not meet Monday , February 2nd**
+**Men's Bible study will not meet Monday , February 2nd**  
+<hr>  
+
 
 **The Tuesday Morning Women's Bible study will not meet this Tuesday, Feb 3rd**  
 <hr>   
