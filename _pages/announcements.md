@@ -140,7 +140,13 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
  
  
 **Recovery in Christ meets Thursday evenings at 6:00pm**    
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/f48d4714-f214-4c95-ac9c-48e2c39c4f4c" />
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/f48d4714-f214-4c95-ac9c-48e2c39c4f4c" />  
+
+<hr>  
+
+**The Youth Ministry team from 1st Baptist Church in Bristol, Tn is Coming May 2nd!!**  
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/026d6959-0c3f-4040-949c-587e349c0738" />
+
 
  
 
