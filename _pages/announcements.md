@@ -18,15 +18,28 @@ header:
   **Moms in prayer will not meet this week, Feb 2nd**  
   
 <img width="222" height="208" alt="image" src="https://github.com/user-attachments/assets/cfe1a093-1992-4a1a-bf10-7a6a55a5bf2d" />  
-<hr>   
+<hr>     
+
+**Men's Bible study will not meet Monday , February 2nd**
 
 **The Tuesday Morning Women's Bible study will not meet this Tuesday, Feb 3rd**  
 <hr>   
+  <img width="1080" height="1398" alt="image" src="https://github.com/user-attachments/assets/68191248-4a61-40de-92ab-34f5b95b2d10" />  
+<hr>    
+  
 
  <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/f61dc78c-c2ac-4146-987a-96318407f70e" />  
 
-   <hr>
+   <hr>  
+   
+**Sunday, February 15th**
+**Baptism Celebration for Lucy Beasley**  
 
+<img width="291" height="173" alt="image" src="https://github.com/user-attachments/assets/d14cc81a-b1cb-4670-8e8f-817230d43ebd" />
+
+
+
+  
 
 
 The Coastal Family Vacation Foundation  
@@ -135,13 +148,7 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
  
 <hr>  
 
-<img width="1080" height="1398" alt="image" src="https://github.com/user-attachments/assets/68191248-4a61-40de-92ab-34f5b95b2d10" />  
-<hr>  
 
-**Sunday, February 15th**
-**Baptism Celebration for Lucy Beasley**  
-
-<img width="291" height="173" alt="image" src="https://github.com/user-attachments/assets/d14cc81a-b1cb-4670-8e8f-817230d43ebd" />
 
 
 
