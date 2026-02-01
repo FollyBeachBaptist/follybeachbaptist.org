@@ -25,7 +25,9 @@ header:
 **No Service or Activities due to weather conditions**
   
 **Monday, February 2nd**  
- **No activities due to weather conditions**
+ **No Soup and Soul lunch**  
+ **Men and Women Bible Studies may be cancelled**  
+ **Contact your group leaders**
  
 
 *All Bible Study Groups are in the Education Bldg*  
