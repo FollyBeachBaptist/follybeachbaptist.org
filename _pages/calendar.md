@@ -21,44 +21,55 @@ header:
 **Example Day**
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
-**Sunday, February 1st**  
-**No Service or Activities due to weather conditions**
+**Sunday, February 8th**  
+**Guest Speaker from Stand To Reason Ministries**  
+**At our 11:00 Service**  
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/35c0c2be-f4a8-4605-b1fe-f0aae993546a" />
+
   
-**Monday, February 2nd**  
- **No Soup and Soul lunch**  
- **Men and Women Bible Studies may be cancelled**  
- **Contact your group leaders**
+**Monday, February 9th**  
+**10:30 am Moms in Prayer**  
+ **12:00 pm Soup and Soul lunch**  
+ **6:30 pm Women's Bible Study**  
+ **6:45 pm Men's Bible Study**
  
 
 *All Bible Study Groups are in the Education Bldg*  
 
- **Tuesday, February 3rd**  
- **9:30 am** Women's Bible Study  
+ **Tuesday, February 10th**  
+ **9:30 am Women's Bible Study**  
+ **11:00 am Monthly WMU Meeting**
   
 
-**Wednesday, February 4th**  
+**Wednesday, February 11th**   
 **5:30 pm** Building and Grounds Meeting  
 **6:30 pm** Prayer Metting  
 **6:30 pm** Musician Practice  
 **7:30 pm** Choir Practice  
 
-**Thursday, February 5th**  
-**10:00 am** Women's Bible Study  
-**6:00 pm** Recovery In Christ Meeting  
+**Thursday, February 12th**  
+**10:00 am Women's Bible Study**  
+**5:00 pm Prayer at the Pier**  
+**6:00 pm Recovery In Christ Meeting**  
 
-<img width="1080" height="1398" alt="image" src="https://github.com/user-attachments/assets/ce51414b-57aa-4701-a9ac-e82589088e8a" />
 
-**Sunday, February 8th**  
-**11:00 Worship Service**  
-**Guest Speaker Megan Almon**  
-From **Stand To Reason** Ministries   
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/4d1a49cb-1a99-45da-aa2c-1da8a7792540" />
 
+**Sunday, February 15th**  
+**9:45 am Bible Study**  
+**11:00 am Worship Service**  
+**5:00 pm Student Ministry**
 <hr>  
 
 **Sunday, February 15th**  
 **Lucy Beasley Baptism Celebration**  
-<img width="291" height="173" alt="image" src="https://github.com/user-attachments/assets/9ed52717-e66c-4c88-8ba9-3cc8064778a4" />
+<img width="291" height="173" alt="image" src="https://github.com/user-attachments/assets/9ed52717-e66c-4c88-8ba9-3cc8064778a4" />  
+
+<hr>   
+
+**Saturday February 28th Noon till 2pm Church Family Oyster Roast**  
+<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/561299b5-2ea4-460c-bcf5-25581dc3987a" />
+
+
 
 
 
