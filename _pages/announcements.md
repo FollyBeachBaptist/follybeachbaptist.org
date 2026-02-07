@@ -21,6 +21,13 @@ header:
 <img width="291" height="173" alt="image" src="https://github.com/user-attachments/assets/d14cc81a-b1cb-4670-8e8f-817230d43ebd" />
   
   <hr>  
+
+  **Sunday, Feb 28th, 12-2pm Men's Oyster Roast**  
+  <img width="206" height="206" alt="image" src="https://github.com/user-attachments/assets/b1ac4d1e-4732-476b-a078-45278d938953" />  
+
+  <hr>  
+  
+
     
   The Coastal Family Vacation Foundation  
 is a Cancer Respite Program that provides South Carolina Residents fighting cancer  
