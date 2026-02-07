@@ -67,7 +67,14 @@ header:
 <hr>   
 
 **Saturday February 28th Noon till 2pm Church Family Oyster Roast**  
-<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/561299b5-2ea4-460c-bcf5-25581dc3987a" />
+<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/561299b5-2ea4-460c-bcf5-25581dc3987a" />  
+
+<hr>  
+
+**Youth Ministry Team From Bristol Tn**   
+**Is coming once again May 22nd - 29th**
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/76d2ed50-1c99-4dc5-bc78-c4de8dd7568a" />
+
 
 
 
