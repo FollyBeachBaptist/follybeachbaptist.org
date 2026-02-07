@@ -10,22 +10,6 @@ header:
   <hr>
 
 
-**We will not have Soup and Soul this Monday, February 2nd**  
-<img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/6c89f743-75d4-4ce6-9689-a16b7b6256f6" />  
-
-  <hr>  
-
-  **Moms in prayer will not meet this week, Feb 2nd**  
-  
-<img width="222" height="208" alt="image" src="https://github.com/user-attachments/assets/cfe1a093-1992-4a1a-bf10-7a6a55a5bf2d" />  
-<hr>     
-
-**Men's Bible study will not meet Monday , February 2nd**  
-<hr>  
-
-**The Tuesday Morning Women's Bible study will not meet this Tuesday, Feb 3rd**  
-<hr>   
-  <img width="1080" height="1398" alt="image" src="https://github.com/user-attachments/assets/68191248-4a61-40de-92ab-34f5b95b2d10" />  
 <hr>    
  <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/f61dc78c-c2ac-4146-987a-96318407f70e" />  
 
