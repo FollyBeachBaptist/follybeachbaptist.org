@@ -21,10 +21,6 @@ header:
 **Example Day**
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
-**Sunday, February 8th**  
-**Guest Speaker from Stand To Reason Ministries**  
-**At our 11:00 Service**  
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/35c0c2be-f4a8-4605-b1fe-f0aae993546a" />
 
   
 **Monday, February 9th**  
