@@ -10,8 +10,7 @@ header:
   <hr>
 
 
-<hr>    
- <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/f61dc78c-c2ac-4146-987a-96318407f70e" />  
+
 
    <hr>    
    
@@ -22,10 +21,7 @@ header:
   
   <hr>  
 
-  **Sunday, Feb 28th, 12-2pm Men's Oyster Roast**  
-  <img width="206" height="206" alt="image" src="https://github.com/user-attachments/assets/b1ac4d1e-4732-476b-a078-45278d938953" />  
 
-  <hr>  
   
 
     
