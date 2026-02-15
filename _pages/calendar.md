@@ -22,50 +22,45 @@ header:
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
 
+**Sunday, February 15th**  
+**9:45am Bible Study**  
+**11:00am Worship Service**  
+**Baptism of Lucy Beasley**   
+<img width="291" height="173" alt="image" src="https://github.com/user-attachments/assets/9ed52717-e66c-4c88-8ba9-3cc8064778a4" />  
+
   
-**Monday, February 9th**  
+**Monday, February 16th**  
 **10:30 am Moms in Prayer**  
- **12:00 pm Soup and Soul lunch**  
+ **No Soup and Soul lunch, Federal Holiday**  
  **6:30 pm Women's Bible Study**  
  **6:45 pm Men's Bible Study**
  
 
 *All Bible Study Groups are in the Education Bldg*  
 
- **Tuesday, February 10th**  
+ **Tuesday, February 17th**  
  **9:30 am Women's Bible Study**  
- **11:00 am Monthly WMU Meeting**
-  
+ 
 
-**Wednesday, February 11th**   
+**Wednesday, February 18th**   
 **5:30 pm** Building and Grounds Meeting  
 **6:30 pm** Prayer Metting  
 **6:30 pm** Musician Practice  
 **7:30 pm** Choir Practice  
 
-**Thursday, February 12th**  
-**10:00 am Women's Bible Study**  
-**5:00 pm Prayer at the Pier**  
+**Thursday, February 19th**  
+**10:00 am Women's Bible Study**    
 **6:00 pm Recovery In Christ Meeting**  
 
 
 
-**Sunday, February 15th**  
+**Sunday, February 22nd**  
 **9:45 am Bible Study**  
 **11:00 am Worship Service**  
 **5:00 pm Student Ministry**
 <hr>  
 
-**Sunday, February 15th**  
-**Lucy Beasley Baptism Celebration**  
-<img width="291" height="173" alt="image" src="https://github.com/user-attachments/assets/9ed52717-e66c-4c88-8ba9-3cc8064778a4" />  
 
-<hr>   
-
-**Saturday February 28th Noon till 2pm Church Family Oyster Roast**  
-<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/561299b5-2ea4-460c-bcf5-25581dc3987a" />  
-
-<hr>  
 
 **Youth Ministry Team From Bristol Tn**   
 **Is coming once again May 22nd - 29th**
