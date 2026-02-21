@@ -22,43 +22,49 @@ header:
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
 
-**Sunday, February 15th**  
+**Sunday, February 22nd**  
 **9:45am Bible Study**  
 **11:00am Worship Service**  
-**Baptism of Lucy Beasley**   
-<img width="291" height="173" alt="image" src="https://github.com/user-attachments/assets/9ed52717-e66c-4c88-8ba9-3cc8064778a4" />  
 
   
-**Monday, February 16th**  
+**Monday, February 23rd**  
 **10:30 am Moms in Prayer**  
- **No Soup and Soul lunch, Federal Holiday**  
+ **12:00 Soup and Soul**  
  **6:30 pm Women's Bible Study**  
  **6:45 pm Men's Bible Study**
  
 
 *All Bible Study Groups are in the Education Bldg*  
 
- **Tuesday, February 17th**  
+ **Tuesday, February 24th**  
  **9:30 am Women's Bible Study**  
  
 
-**Wednesday, February 18th**   
+**Wednesday, February 25th**   
 **5:30 pm** Building and Grounds Meeting  
 **6:30 pm** Prayer Metting  
 **6:30 pm** Musician Practice  
 **7:30 pm** Choir Practice  
 
-**Thursday, February 19th**  
+**Thursday, February 26th**  
 **10:00 am Women's Bible Study**    
 **6:00 pm Recovery In Christ Meeting**  
 
 
 
-**Sunday, February 22nd**  
+**Sunday, March 1st**  
 **9:45 am Bible Study**  
 **11:00 am Worship Service**  
-**5:00 pm Student Ministry**
-<hr>  
+
+<hr>    
+
+**Men's Oyster Roast is Saturday March 14th, 12:00 till 2:00pm**  
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/b04bfd2d-54ee-488c-9a5f-9e1717ceea31" />  
+
+  <hr>  
+  
+
+
 
 
 
