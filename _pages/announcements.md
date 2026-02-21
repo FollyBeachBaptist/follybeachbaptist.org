@@ -14,12 +14,11 @@ header:
 
    <hr>    
    
-**Sunday, February 15th**
-**Baptism Celebration for Lucy Beasley**  
+**The Men's Oyster Roast will be Saturday March 14th, !2:00 till 2:00pm**
 
-<img width="291" height="173" alt="image" src="https://github.com/user-attachments/assets/d14cc81a-b1cb-4670-8e8f-817230d43ebd" />
-  
-  <hr>  
+<img width="206" height="206" alt="image" src="https://github.com/user-attachments/assets/67e704cf-2ac3-4203-9184-bd4a6fd7494e" />  
+
+<hr>  
 
 
   
