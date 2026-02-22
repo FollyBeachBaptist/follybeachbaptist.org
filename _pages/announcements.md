@@ -14,7 +14,7 @@ header:
 
    <hr>    
    
-**The Men's Oyster Roast will be Saturday March 14th, !2:00 till 2:00pm**
+**The Men's Oyster Roast will be Saturday March 14th, 12:00 till 2:00pm**
 
 <img width="206" height="206" alt="image" src="https://github.com/user-attachments/assets/67e704cf-2ac3-4203-9184-bd4a6fd7494e" />  
 
