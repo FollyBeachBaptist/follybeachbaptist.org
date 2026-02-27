@@ -18,7 +18,30 @@ header:
 
 <img width="206" height="206" alt="image" src="https://github.com/user-attachments/assets/67e704cf-2ac3-4203-9184-bd4a6fd7494e" />  
 
+<hr>    
+  
+**Dates to Remember**
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/ae46b546-d4d1-48ca-8b98-b911a71dbe03" />  
 <hr>  
+
+  **Help Needed**
+  <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/3b3c94ce-a50a-4c98-bb29-1972332c5c7a" />  
+  <hr>  
+
+  **Easter Services**  
+  
+  <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/483a000a-e2cf-4cc9-b7ed-ce7a81bbf479" />
+
+  <hr>  
+  
+  **New Sunday Small Group for teens**  
+  <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/af45d0ca-fa89-468f-9b68-f94895415eb4" />  
+
+  <hr>  
+  
+
+     
+
 
 
   
@@ -72,9 +95,12 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 **Meeting days and times are:**   
 **Monday 6:30pm**   
 '**Tuesday 9:30am**   
-**Thursday 10:00am**  
+**Thursday 10:00am**   
 
-<img width="769" height="1000" alt="image" src="https://github.com/user-attachments/assets/1a915f86-93fb-4715-ae8b-d205f11105ee" />
+<img width="833" height="500" alt="image" src="https://github.com/user-attachments/assets/8baad932-fd95-4dc5-91be-0a895cc0d03a" />
+
+
+
 
 <hr>     
 
