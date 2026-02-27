@@ -22,12 +22,12 @@ header:
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
 
-**Sunday, February 22nd**  
+**Sunday, March 1st**  
 **9:45am Bible Study**  
 **11:00am Worship Service**  
 
   
-**Monday, February 23rd**  
+**Monday, March 2nd**  
 **10:30 am Moms in Prayer**  
  **12:00 Soup and Soul**  
  **6:30 pm Women's Bible Study**  
@@ -36,25 +36,26 @@ header:
 
 *All Bible Study Groups are in the Education Bldg*  
 
- **Tuesday, February 24th**  
+ **Tuesday, March 3rd**  
  **9:30 am Women's Bible Study**  
  
 
-**Wednesday, February 25th**   
-**5:30 pm** Building and Grounds Meeting  
+**Wednesday, March 4th**   
+**5:30 pm**  No Building and Grounds Meeting  
 **6:30 pm** Prayer Metting  
 **6:30 pm** Musician Practice  
 **7:30 pm** Choir Practice  
 
-**Thursday, February 26th**  
+**Thursday, March 5th**  
 **10:00 am Women's Bible Study**    
 **6:00 pm Recovery In Christ Meeting**  
 
 
 
-**Sunday, March 1st**  
+**Sunday, March 8th**  
 **9:45 am Bible Study**  
 **11:00 am Worship Service**  
+
 
 <hr>    
 
@@ -63,6 +64,28 @@ header:
 
   <hr>  
   
+**Important Dates**  
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/e034a8f6-5a12-4b92-827d-e789aee220ea" />  
+
+<hr> 
+
+**Help Wanted**  
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/4ae05860-2836-4a60-b59b-a6dfcb4c0b3b" />  
+
+<hr>  
+
+**Easter Sunday**  
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/4254e964-7753-4d1c-b42c-6289fca43b74" />  
+<hr>  
+
+**Youth Kick-Off**  
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/885c9b4a-894a-425e-be1a-3741d5adc255" />  
+
+<hr>  
+
+
+
+
 
 
 
