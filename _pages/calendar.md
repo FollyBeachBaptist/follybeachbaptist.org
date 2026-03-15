@@ -22,12 +22,12 @@ header:
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
 
-**Sunday, March 1st**  
+**Sunday, March 15th**  
 **9:45am Bible Study**  
 **11:00am Worship Service**  
 
   
-**Monday, March 2nd**  
+**Monday, March 16th**  
 **10:30 am Moms in Prayer**  
  **12:00 Soup and Soul**  
  **6:30 pm Women's Bible Study**  
@@ -36,34 +36,29 @@ header:
 
 *All Bible Study Groups are in the Education Bldg*  
 
- **Tuesday, March 3rd**  
+ **Tuesday, March 17th**  
  **9:30 am Women's Bible Study**  
  
 
-**Wednesday, March 4th**   
-**5:30 pm**  No Building and Grounds Meeting  
-**6:30 pm** Prayer Metting  
-**6:30 pm** Musician Practice  
+**Wednesday, March 18th**   
+**5:30 pm** Building and Grounds Meeting  
+**6:30 pm** Church ByLaws Discussion  
 **7:30 pm** Choir Practice  
 
-**Thursday, March 5th**  
+**Thursday, March 19th**  
 **10:00 am Women's Bible Study**    
 **6:00 pm Recovery In Christ Meeting**  
+**6:30 pm Musician Practice**
 
-
-
-**Sunday, March 8th**  
+**Sunday, March 22nd**  
 **9:45 am Bible Study**  
 **11:00 am Worship Service**  
+**3:00 pm Fanyastic Four Estate Planning**
 
 
 <hr>    
 
-**Men's Oyster Roast is Saturday March 14th, 12:00 till 2:00pm**  
-<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/b04bfd2d-54ee-488c-9a5f-9e1717ceea31" />  
 
-  <hr>  
-  
 **Important Dates**  
 <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/e034a8f6-5a12-4b92-827d-e789aee220ea" />  
 
