@@ -22,12 +22,15 @@ header:
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
 
-**Sunday, March 15th**  
+**Sunday, March 22nd**  
 **9:45am Bible Study**  
 **11:00am Worship Service**  
+**3:00pm "Fantastic Four"**  
+**Estate Planning**  
+**5:30pm Student Ministry**
 
   
-**Monday, March 16th**  
+**Monday, March 23rd**  
 **10:30 am Moms in Prayer**  
  **12:00 Soup and Soul**  
  **6:30 pm Women's Bible Study**  
@@ -36,24 +39,25 @@ header:
 
 *All Bible Study Groups are in the Education Bldg*  
 
- **Tuesday, March 17th**  
+ **Tuesday, March 24th**  
  **9:30 am Women's Bible Study**  
  
 
-**Wednesday, March 18th**   
+**Wednesday, March 25th**   
 **5:30 pm** Building and Grounds Meeting  
 **6:30 pm** Church ByLaws Discussion  
-**7:30 pm** Choir Practice  
+  
 
-**Thursday, March 19th**  
+**Thursday, March 26th**  
 **10:00 am Women's Bible Study**    
 **6:00 pm Recovery In Christ Meeting**  
-**6:30 pm Musician Practice**
+**6:30 pm Musician Practice**  
+**7:30 pm Choir Practice**
 
-**Sunday, March 22nd**  
+**Sunday, March 29th**  
 **9:45 am Bible Study**  
 **11:00 am Worship Service**  
-**3:00 pm Fanyastic Four Estate Planning**
+**5:30 pm Student Ministry**
 
 
 <hr>    
@@ -64,19 +68,12 @@ header:
 
 <hr> 
 
-**Help Wanted**  
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/4ae05860-2836-4a60-b59b-a6dfcb4c0b3b" />  
-
-<hr>  
 
 **Easter Sunday**  
 <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/4254e964-7753-4d1c-b42c-6289fca43b74" />  
 <hr>  
 
-**Youth Kick-Off**  
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/885c9b4a-894a-425e-be1a-3741d5adc255" />  
 
-<hr>  
 
 
 
