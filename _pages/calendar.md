@@ -55,6 +55,7 @@ header:
 **7:30 pm Choir Practice**
 
 **Sunday, March 29th**  
+**Palm Sunday**  
 **9:45 am Bible Study**  
 **11:00 am Worship Service**  
 **5:30 pm Student Ministry**
