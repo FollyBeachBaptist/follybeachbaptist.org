@@ -20,20 +20,14 @@ header:
 <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/ae46b546-d4d1-48ca-8b98-b911a71dbe03" />  
 <hr>  
 
-  **Help Needed**
-  <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/3b3c94ce-a50a-4c98-bb29-1972332c5c7a" />  
-  <hr>  
+
 
   **Easter Services**  
   
   <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/483a000a-e2cf-4cc9-b7ed-ce7a81bbf479" />
 
   <hr>  
-  
-  **New Sunday Small Group for teens**  
-  <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/af45d0ca-fa89-468f-9b68-f94895415eb4" />  
 
-  <hr>  
   
 
      
