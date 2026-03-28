@@ -99,6 +99,8 @@ Enter through the office door in the back parking lot on West Indian ave
   **Mondays at 6:30 pm**    
   **Tuesdays at 9:30 am**   
   **Thursdays at 10:00am**    
+  <img width="833" height="500" alt="image" src="https://github.com/user-attachments/assets/241be825-6bc7-4952-b478-5c43a98adafb" />
+
 
   <hr>  
 
@@ -125,8 +127,8 @@ Enter through the office door in the back parking lot on West Indian ave
   <hr>  
   
 
-**Fellowship cookout with YoungLife Student Ministries**  
-**The Church leadership in conjunction with our student ministry is sponsoring a Fellowship Cookout withYoungLife Monday, April 27th at 6pm**  
+ 
+**The Church leadership in conjunction with our student ministry is sponsoring a Fellowship Cookout with YoungLife Student Ministries Monday, April 27th at 6pm**  
 <img width="231" height="218" alt="image" src="https://github.com/user-attachments/assets/edb2ae97-4792-4d69-bcd8-3ac0e38b851e" />  
 <hr>    
 
