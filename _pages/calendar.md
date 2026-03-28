@@ -171,9 +171,8 @@ Enter through the office door in the back parking lot on West Indian ave
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/0788a9f4-c6ed-4bb1-a2ae-8cc1d132270a" />  
 <hr>  
 
-**Saturday, Aust 22nd 5:15pm**  
-**FREE!!**  
-**Faith anf Family Night at the Riverdogs Stadium**  
+**Saturday, Aust 22nd 5:15pm**    
+**Faith and Family Night at the Riverdogs Stadium**  
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/93ca4af6-817c-4e16-ac13-9a1c4ce80f3b" />
 
 
