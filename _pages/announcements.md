@@ -17,7 +17,8 @@ header:
 
   
 **Dates to Remember**
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/ae46b546-d4d1-48ca-8b98-b911a71dbe03" />  
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/329ec337-cd13-464d-a4c1-10c096ebf7e7" />
+
 <hr>  
 
 
@@ -110,14 +111,19 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 **The Youth Ministry team from 1st Baptist Church in Bristol, Tn is Coming May 22nd!!**  
 <img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/026d6959-0c3f-4040-949c-587e349c0738" />
 
+<hr>   
 
- 
+**The Youth Ministry Team from Booneville Mississippi is coming May 23rd**  
+**And will be leading our 11:00am Worship service on Sunday, May 234th**  
+<hr>
 
+**Central Baptist Church from Dunn, N.C. is bringing "Family Palooza" to Folly River Park June 14th**  
 
+  <img width="1382" height="1813" alt="image" src="https://github.com/user-attachments/assets/4849404e-324b-42ad-9f53-e56b2a8bf5cb" />  
 
+  <hr>
 
- 
-<hr>  
+  
 
 
 
