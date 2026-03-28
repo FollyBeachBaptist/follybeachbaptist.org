@@ -114,7 +114,7 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 <hr>   
 
 **The Youth Ministry Team from Booneville Mississippi is coming May 23rd**  
-**And will be leading our 11:00am Worship service on Sunday, May 234th**  
+**And will be leading our 11:00am Worship service on Sunday, May 24th**  
 <hr>
 
 **Central Baptist Church from Dunn, N.C. is bringing "Family Palooza" to Folly River Park June 14th**  
