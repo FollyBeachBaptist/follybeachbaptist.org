@@ -88,7 +88,10 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 '**Tuesday 9:30am**   
 **Thursday 10:00am**   
 
-<img width="833" height="500" alt="image" src="https://github.com/user-attachments/assets/8baad932-fd95-4dc5-91be-0a895cc0d03a" />
+<img width="833" height="500" alt="image" src="https://github.com/user-attachments/assets/8baad932-fd95-4dc5-91be-0a895cc0d03a" />  
+
+  <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/9fb4fff2-76b9-4622-8a4f-4111fbd84cb6" />
+
 
 
 
