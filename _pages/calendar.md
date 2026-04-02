@@ -62,7 +62,8 @@ header:
 <hr>    
 
 **Important Dates**   
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/cbe3feb0-b03a-4046-bda9-30be2b423d60" />
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/fe615c9d-ed84-4414-ba0e-8d65cfeb1870" />
+
 
 <hr> 
 
