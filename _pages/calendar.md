@@ -127,10 +127,6 @@ Enter through the office door in the back parking lot on West Indian ave
    
   <hr>    
 
-  **On The Edge Student Ministries Baseball trip**  
-  <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/6aa9062f-6f99-4243-910e-a7246b290e60" />  
-  <hr>  
-  
 
  
 **The Church leadership in conjunction with our student ministry is sponsoring a Fellowship Cookout with YoungLife Student Ministries Monday, April 27th at 6pm**  
@@ -138,7 +134,8 @@ Enter through the office door in the back parking lot on West Indian ave
 <hr>    
 
 **Mother's Day, Sunday May 10th**  
-<img width="194" height="259" alt="image" src="https://github.com/user-attachments/assets/60d6a1a8-438f-4c96-8986-30559f9c6852" />  
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/c1f3e931-9b1e-4337-bbda-71e9327e8591" />
+ 
 <hr>  
 
 **Friday, May 22nd Bristol Tn Youth Ministry Team Arrives**  
