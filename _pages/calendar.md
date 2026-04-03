@@ -22,40 +22,41 @@ header:
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
 
-**Sunday, March 29th**  
+**Sunday, April 5th**  
+**Easter Sunday**  
+**7:00 am Sunrise Service**  
 **9:45am Bible Study**  
 **11:00am Worship Service**  
 
 
   
-**Monday, March 30th**  
+**Monday, April 6th**  
 **10:30 am Moms in Prayer**  
  **12:00 Soup and Soul**  
- **6:30 pm Women's Bible Study**  
+ **No Women's Bible Study**  
  **6:45 pm Men's Bible Study**
  
 
 *All Bible Study Groups are in the Education Bldg*  
 
- **Tuesday, March 31st**  
- **9:30 am Women's Bible Study**  
- **6:30 Constitution and ByLaws Mtg**
+ **Tuesday, April 7th**  
+**No Scheduled Activities**  
+**Church offices Open**
  
 
-**Wednesday, April 1st**   
+**Wednesday, April 8th**   
 **5:30 pm** Building and Grounds Meeting  
 **6:30 pm** Prayer Meeting  
 **6:30 pm** Musician Practice  
 **7:30 pm** Choir Practice
   
 
-**Thursday, April 2nd**  
-**10:00 am Women's Bible Study**    
+**Thursday, April 9th**  
+**No Women's Bible Study**    
 **6:00 pm Recovery In Christ Meeting**  
 
-**Sunday, April 5th**  
-**Resurrection Sunday**  
-**7:00 am Sunrise service on the Pier**  
+**Sunday, April 12th**  
+
 **9:45 am Bible Study**  
 **11:00 am Worship Service**  
 
