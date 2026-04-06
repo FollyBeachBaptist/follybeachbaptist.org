@@ -24,12 +24,7 @@ header:
 
 
 
-  **Easter Services**  
-  
-  <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/483a000a-e2cf-4cc9-b7ed-ce7a81bbf479" />
-
-  <hr>  
-
+ 
   
 
      
