@@ -68,9 +68,6 @@ header:
 
 <hr> 
 
-**Easter Sunday**  
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/4254e964-7753-4d1c-b42c-6289fca43b74" />  
-<hr>  
 
 **Youth Ministry Team From Bristol Tn**   
 **Is coming once again May 22nd - 29th**
