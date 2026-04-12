@@ -22,41 +22,35 @@ header:
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
 
-**Sunday, April 5th**  
-**Easter Sunday**  
-**7:00 am Sunrise Service**  
+**Sunday, April 12th**  
 **9:45am Bible Study**  
 **11:00am Worship Service**  
 
 
   
-**Monday, April 6th**  
+**Monday, April 13th**  
 **10:30 am Moms in Prayer**  
  **12:00 Soup and Soul**  
- **No Women's Bible Study**  
+ **6:30 pm Women's Bible Study**  
  **6:45 pm Men's Bible Study**
  
 
 *All Bible Study Groups are in the Education Bldg*  
 
- **Tuesday, April 7th**  
-**No Scheduled Activities**  
-**Church offices Open**
- 
+ **Tuesday, April 14th**  
+**11:00 am WMU Monthly meeting**
 
-**Wednesday, April 8th**   
+**Wednesday, April 15th**   
 **5:30 pm** Building and Grounds Meeting  
-**6:30 pm** Prayer Meeting  
-**6:30 pm** Musician Practice  
+**6:30 pm** Quarterly Business Meeting  
 **7:30 pm** Choir Practice
   
 
-**Thursday, April 9th**  
-**No Women's Bible Study**    
+**Thursday, April 16th**  
+**10:00 am Women's Bible Study**    
 **6:00 pm Recovery In Christ Meeting**  
 
-**Sunday, April 12th**  
-
+**Sunday, April 19th**  
 **9:45 am Bible Study**  
 **11:00 am Worship Service**  
 
