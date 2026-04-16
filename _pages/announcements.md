@@ -18,10 +18,19 @@ header:
   
 **Dates to Remember**
 
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/d94c4a9a-4eaa-4354-a0dc-ceeb288e3abf" />
+**The Next By-Laws Discussion will be Tuesday, April 21st at 6:30 pm**
 
-<hr>  
+<hr>    
 
+**Parent and Child Dedication**  
+
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/00e8d005-b0e8-4ea2-bc2f-163f64ee93db" />    
+
+**National Day Of Prayer**  
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/b3605ae0-0a3e-4346-bdce-fa99ac8bb4b9" />
+
+
+  
 
 
  
