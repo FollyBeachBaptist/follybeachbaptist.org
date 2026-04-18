@@ -131,11 +131,7 @@ Enter through the office door in the back parking lot on West Indian ave
  
 <hr>  
 
-**Friday, May 22nd Bristol Tn Youth Ministry Team Arrives**  
 
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/22d81696-2884-4852-b875-3fd4d52b82eb" />
-
-<hr>  
 
 **Saturday, May 23rd Booneville Ms Youth Ministry Team Arrives**   
 <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/ebe107b4-927f-4d7a-9278-ee03cd92f5a7" />
