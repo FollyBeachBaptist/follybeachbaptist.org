@@ -22,13 +22,13 @@ header:
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
 
-**Sunday, April 12th**  
+**Sunday, April 19th**  
 **9:45am Bible Study**  
 **11:00am Worship Service**  
 
 
   
-**Monday, April 13th**  
+**Monday, April 20th**  
 **10:30 am Moms in Prayer**  
  **12:00 Soup and Soul**  
  **6:30 pm Women's Bible Study**  
@@ -37,27 +37,30 @@ header:
 
 *All Bible Study Groups are in the Education Bldg*  
 
- **Tuesday, April 14th**  
-**11:00 am WMU Monthly meeting**
+ **Tuesday, April 21st**  
+**11:00 am WMU Monthly meeting**  
+**6:30 pm By-Laws discussion meeting**
 
-**Wednesday, April 15th**   
+**Wednesday, April 22nd**   
 **5:30 pm** Building and Grounds Meeting  
-**6:30 pm** Quarterly Business Meeting  
+**6:30 pm** Musician Practice  
+**6:30 pm** Online Prayer Meeting
 **7:30 pm** Choir Practice
   
 
-**Thursday, April 16th**  
+**Thursday, April 23rd**  
 **10:00 am Women's Bible Study**    
 **6:00 pm Recovery In Christ Meeting**  
 
-**Sunday, April 19th**  
+**Sunday, April 26th**  
 **9:45 am Bible Study**  
 **11:00 am Worship Service**  
 
 <hr>    
 
 **Important Dates**   
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/fe615c9d-ed84-4414-ba0e-8d65cfeb1870" />
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/b45f1661-8282-4adc-be98-e558b85cfc7d" />
+
 
 
 <hr> 
@@ -94,7 +97,7 @@ Enter through the office door in the back parking lot on West Indian ave
   **Thursdays at 10:00am**    
   <img width="833" height="500" alt="image" src="https://github.com/user-attachments/assets/241be825-6bc7-4952-b478-5c43a98adafb" />  
 
-  <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/0a21e494-bf30-4545-9c8e-17c685c6a5b2" />
+ 
 
 
 
@@ -112,10 +115,9 @@ Enter through the office door in the back parking lot on West Indian ave
 
 
   **Soup and Soul**   
-  **Mondays at 12:00**   
- **We do not meet on Federal Holidays**
-  ![Alt text](/assets/images/Soup%20and%20Soul%20Picture.jpg)
-   
+  <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/f521da8c-85f2-4b0f-a3d6-632c16f7ea4f" />
+
+
   <hr>    
 
 
@@ -130,9 +132,14 @@ Enter through the office door in the back parking lot on West Indian ave
 <hr>  
 
 **Friday, May 22nd Bristol Tn Youth Ministry Team Arrives**  
+
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/22d81696-2884-4852-b875-3fd4d52b82eb" />
+
 <hr>  
 
-**Saturday, May 23rd Booneville Ms Youth Ministry Team Arrives**  
+**Saturday, May 23rd Booneville Ms Youth Ministry Team Arrives**   
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/ebe107b4-927f-4d7a-9278-ee03cd92f5a7" />
+
 <hr>    
 
 **Sunday, May 24th First Baptist Church of Booneville Youth Ministry will Lead Worship at FBBC**    
