@@ -16,15 +16,19 @@ header:
    
 
   
-**Dates to Remember**
+**Dates to Remember**  
 
-**The Next By-Laws Discussion will be Tuesday, April 21st at 6:30 pm**
+  <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/662e458c-61e6-49ea-a3d5-2ba5683a8a12" />
+
+
+
 
 <hr>    
 
 **Parent and Child Dedication**  
 
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/00e8d005-b0e8-4ea2-bc2f-163f64ee93db" />    
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/c69f036b-aff4-432e-9e9a-392c597b36b6" />
+
 
 **National Day Of Prayer**  
 <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/b3605ae0-0a3e-4346-bdce-fa99ac8bb4b9" />
@@ -104,7 +108,7 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 
 <img width="833" height="500" alt="image" src="https://github.com/user-attachments/assets/8baad932-fd95-4dc5-91be-0a895cc0d03a" />  
 
-  <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/9fb4fff2-76b9-4622-8a4f-4111fbd84cb6" />
+  
 
 
 
@@ -131,14 +135,28 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 <hr>   
 
 **The Youth Ministry Team from Booneville Mississippi is coming May 23rd**  
-**And will be leading our 11:00am Worship service on Sunday, May 24th**  
+**And will be leading our 11:00am Worship service on Sunday, May 24th**   
+
+  <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/f7507b12-640d-4dd1-8019-16b6680a7dac" />
+
 <hr>
 
 **Central Baptist Church from Dunn, N.C. is bringing "Family Palooza" to Folly River Park June 14th**  
 
   <img width="1382" height="1813" alt="image" src="https://github.com/user-attachments/assets/4849404e-324b-42ad-9f53-e56b2a8bf5cb" />  
 
-  <hr>
+  <hr>   
+  
+  **Summer SON rise 8:30 am service begins May 31st**   
+  <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/499489f3-2162-4ad0-9b47-fb2b2a5055a2" />  
+
+  <hr>  
+
+**April 27th is the Last Soup and Soul Lunch for the 2025-2026 season**    
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/21cb55a0-3c09-4ae5-9f59-d869cc30dd56" />
+
+
+
 
   
 
