@@ -65,7 +65,8 @@ Visit www.coastalfamilyvacation.org for more information.
 **7:00 pm Worship Service and Mini Sermon Series**  
 **"Jesus Lives On The Edge"**  
 **Sunday May 24th Through Wednesday May 27th**    
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/35a45667-9272-475e-8745-66fb244824d2" />  
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a0f99369-ffa9-4176-982a-8070e6422861" />
+
 
 <hr>
 
