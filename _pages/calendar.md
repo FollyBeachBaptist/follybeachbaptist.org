@@ -59,7 +59,8 @@ header:
 <hr>    
 
 **Important Dates**   
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/b45f1661-8282-4adc-be98-e558b85cfc7d" />
+
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/3abce7d9-de42-486c-ad29-dd8b9e8b5841" />
 
 
 
@@ -68,7 +69,16 @@ header:
 
 **Youth Ministry Team From Bristol Tn**   
 **Is coming once again May 22nd - 29th**
-<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/76d2ed50-1c99-4dc5-bc78-c4de8dd7568a" />
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/76d2ed50-1c99-4dc5-bc78-c4de8dd7568a" />  
+
+<hr>  
+
+  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/224e452f-da8f-4e87-a52f-6abf3dd0827d" />  
+
+  <hr>  
+
+    
+
 
  **Pray at the Pier**  
   **We meet the 2nd Thursday Every Month at 5:00 pm to pray for our government and nation**  
