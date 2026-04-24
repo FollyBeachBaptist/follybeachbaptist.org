@@ -22,13 +22,13 @@ header:
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
 
-**Sunday, April 19th**  
+**Sunday, April 26th**  
 **9:45am Bible Study**  
 **11:00am Worship Service**  
 
 
   
-**Monday, April 20th**  
+**Monday, April 27th**  
 **10:30 am Moms in Prayer**  
  **12:00 Soup and Soul**  
  **6:30 pm Women's Bible Study**  
@@ -37,22 +37,22 @@ header:
 
 *All Bible Study Groups are in the Education Bldg*  
 
- **Tuesday, April 21st**  
-**11:00 am WMU Monthly meeting**  
+ **Tuesday, April 28th**  
+**9:30 am Women's Bible Study**  
 **6:30 pm By-Laws discussion meeting**
 
-**Wednesday, April 22nd**   
+**Wednesday, April 29th**   
 **5:30 pm** Building and Grounds Meeting  
 **6:30 pm** Musician Practice  
 **6:30 pm** Online Prayer Meeting
 **7:30 pm** Choir Practice
   
 
-**Thursday, April 23rd**  
+**Thursday, April 30th**  
 **10:00 am Women's Bible Study**    
 **6:00 pm Recovery In Christ Meeting**  
 
-**Sunday, April 26th**  
+**Sunday, May 3rd**  
 **9:45 am Bible Study**  
 **11:00 am Worship Service**  
 
