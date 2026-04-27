@@ -23,7 +23,14 @@ header:
 
 
 
-<hr>    
+<hr>   
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/44215ef9-f49d-40b5-b6b4-e630bc1ba5e4" />  
+
+<hr>  
+
+  
+
 
 **Parent and Child Dedication**  
 
