@@ -27,24 +27,18 @@ header:
 
 **Parent and Child Dedication**  
 
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/c69f036b-aff4-432e-9e9a-392c597b36b6" />
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/c69f036b-aff4-432e-9e9a-392c597b36b6" />  
+
+<hr>  
+
+  
 
 
 **National Day Of Prayer**  
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/b3605ae0-0a3e-4346-bdce-fa99ac8bb4b9" />
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/b3605ae0-0a3e-4346-bdce-fa99ac8bb4b9" />  
 
+<hr>  
 
-  
-
-
- 
-  
-
-     
-
-
-
-  
 
     
   The Coastal Family Vacation Foundation  
@@ -56,9 +50,7 @@ Visit www.coastalfamilyvacation.org for more information.
 
   <hr>  
   
-**Upcoming Sermons**  
-
-<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/8d3d1c42-5753-469f-9773-0c9d5230cdc8" />  
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/45b4fa45-5ced-4753-8310-59822847a9b8" />
 
  <hr>    
 
