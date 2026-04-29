@@ -17,7 +17,7 @@ header:
 
   
 **Dates to Remember**  
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/87084f9b-baac-44fb-ae66-4185a75d142a" />
+
 
 
 
