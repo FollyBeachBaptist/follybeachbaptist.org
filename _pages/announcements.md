@@ -152,8 +152,6 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 
   <hr>  
 
-**April 27th is the Last Soup and Soul Lunch for the 2025-2026 season**    
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/21cb55a0-3c09-4ae5-9f59-d869cc30dd56" />
 
 
 
