@@ -22,45 +22,48 @@ header:
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
 
-**Sunday, April 26th**  
+**Sunday, May 3**  
 **9:45am Bible Study**  
 **11:00am Worship Service**  
 
 
   
-**Monday, April 27th**  
+**Monday, May 4th**  
 **10:30 am Moms in Prayer**  
- **12:00 Soup and Soul**  
  **6:30 pm Women's Bible Study**  
  **6:45 pm Men's Bible Study**
  
 
 *All Bible Study Groups are in the Education Bldg*  
 
- **Tuesday, April 28th**  
+ **Tuesday, May 5th**  
 **9:30 am Women's Bible Study**  
-**6:30 pm By-Laws discussion meeting**
 
-**Wednesday, April 29th**   
+**Wednesday, May 6th**   
 **5:30 pm** Building and Grounds Meeting  
 **6:30 pm** Musician Practice  
-**6:30 pm** Online Prayer Meeting
+**6:30 pm** Online Prayer Meeting  
 **7:30 pm** Choir Practice
   
 
-**Thursday, April 30th**  
-**10:00 am Women's Bible Study**    
-**6:00 pm Recovery In Christ Meeting**  
+**Thursday, May 7th**   
+**NATIONAL DAY OF PRAYER**  
+**10:00 am Women's Bible Study**   
+**6:00pm National Day of Prayer Celebration**  
+**At Folly River Park**  
 
-**Sunday, May 3rd**  
+**Friday, May 8th**  
+**Celebration of Life for Ginny Pruitt**  
+**1:00pm visitation**  
+**2:00pm Service**
+
+**Sunday, May 10th**   
+**Mother's Day**  
 **9:45 am Bible Study**  
 **11:00 am Worship Service**  
+**Parent / Child Dedication**
 
-<hr>    
 
-**Important Dates**   
-
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/3abce7d9-de42-486c-ad29-dd8b9e8b5841" />
 
 
 
@@ -124,17 +127,14 @@ Enter through the office door in the back parking lot on West Indian ave
   
 
 
-  **Soup and Soul**   
-  <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/f521da8c-85f2-4b0f-a3d6-632c16f7ea4f" />
+ 
 
 
   <hr>    
 
 
  
-**The Church leadership in conjunction with our student ministry is sponsoring a Fellowship Cookout with YoungLife Student Ministries Monday, April 27th at 6pm**  
-<img width="231" height="218" alt="image" src="https://github.com/user-attachments/assets/edb2ae97-4792-4d69-bcd8-3ac0e38b851e" />  
-<hr>    
+
 
 **Mother's Day, Sunday May 10th**  
 <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/c1f3e931-9b1e-4337-bbda-71e9327e8591" />
