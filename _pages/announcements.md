@@ -19,15 +19,14 @@ header:
 **Dates to Remember**  
 <hr>  
 
-**WMU MONTHLY MEETING THIS TUESDAY, May 12th at 11:00am**
+**WMU MONTHLY MEETING THIS TUESDAY, May 12th at 11:00am**  
+<img width="409" height="123" alt="image" src="https://github.com/user-attachments/assets/3d301b65-8f5e-484f-9108-48073380e6f3" />
 
+<hr>  
 
+**Pray at the Pier This Thursday, May 14th at 5:00pm**
 
-
-
-
-<hr>   
-
+**Celebrators Conference**
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/44215ef9-f49d-40b5-b6b4-e630bc1ba5e4" />  
 
 <hr>  
