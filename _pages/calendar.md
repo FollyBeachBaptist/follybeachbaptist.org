@@ -159,9 +159,11 @@ Enter through the office door in the back parking lot on West Indian ave
 **Saturday, May 30th Booneville Team departs**  
 <hr>  
 
-**Sunday, May 31st**  
-**8:30am Summer SONRISE Service begins**   
-<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/8490e2c9-c2d6-404b-9518-77d94bb5c234" />  
+**Summer Son-rise Service**  
+
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/75a30bea-4582-4b39-a010-f7432b0e2c03" />
+
+
 <hr>  
 
 **Wednesday, June 10th**  
