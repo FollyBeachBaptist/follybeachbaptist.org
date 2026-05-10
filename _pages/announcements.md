@@ -17,6 +17,9 @@ header:
 
   
 **Dates to Remember**  
+<hr>  
+
+**WMU MONTHLY MEETING THIS TUESDAY, May 12th at 11:00am**
 
 
 
@@ -32,19 +35,12 @@ header:
   
 
 
-**Parent and Child Dedication**  
 
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/c69f036b-aff4-432e-9e9a-392c597b36b6" />  
-
-<hr>  
 
   
 
 
-**National Day Of Prayer**  
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/b3605ae0-0a3e-4346-bdce-fa99ac8bb4b9" />  
 
-<hr>  
 
 
     
