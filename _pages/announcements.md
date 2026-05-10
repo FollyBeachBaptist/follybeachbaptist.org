@@ -12,19 +12,22 @@ header:
 
 
 
-   <hr>    
+   
    
 
   
-**Dates to Remember**  
-<hr>  
+
 
 **WMU MONTHLY MEETING THIS TUESDAY, May 12th at 11:00am**  
 <img width="409" height="123" alt="image" src="https://github.com/user-attachments/assets/3d301b65-8f5e-484f-9108-48073380e6f3" />
 
 <hr>  
 
-**Pray at the Pier This Thursday, May 14th at 5:00pm**
+**Pray at the Pier This Thursday, May 14th at 5:00pm**  
+<img width="736" height="476" alt="image" src="https://github.com/user-attachments/assets/9232204d-feef-4f26-9ca2-a8db316deab1" />  
+
+<hr>
+
 
 **Celebrators Conference**
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/44215ef9-f49d-40b5-b6b4-e630bc1ba5e4" />  
@@ -143,7 +146,7 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
   <hr>   
   
   **Summer SON rise 8:30 am service begins May 31st**   
-  <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/499489f3-2162-4ad0-9b47-fb2b2a5055a2" />  
+ <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/e4dbda92-efd7-4119-ad0c-63b8ce0da26a" />
 
   <hr>  
 
