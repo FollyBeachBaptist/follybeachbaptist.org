@@ -24,6 +24,8 @@ header:
 
 **Sunday, May 10th**  
 **HAPPY MOTHER'S DAY**  
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2f1af1ab-1140-4ce1-b1d4-ed794f8aacec" />
+
 **9:45am Bible Study**  
 **11:00am Worship Service**  
 **Parent and Child Dedication**
