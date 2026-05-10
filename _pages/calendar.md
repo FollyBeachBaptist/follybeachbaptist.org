@@ -22,46 +22,45 @@ header:
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
 
-**Sunday, May 3**  
+**Sunday, May 10th**  
+**HAPPY MOTHER'S DAY**  
 **9:45am Bible Study**  
 **11:00am Worship Service**  
+**Parent and Child Dedication**
 
 
   
-**Monday, May 4th**  
-**10:30 am Moms in Prayer**  
- **6:30 pm Women's Bible Study**  
- **6:45 pm Men's Bible Study**
+**Monday, May 11th**  
+**10:30am Moms in Prayer**  
+ **6:30pm Women's Bible Study**  
+ **6:45pm Men's Bible Study**
  
 
 *All Bible Study Groups are in the Education Bldg*  
 
- **Tuesday, May 5th**  
-**9:30 am Women's Bible Study**  
+ **Tuesday, May 12th**  
+**9:30am Women's Bible Study**  
+**11:00am Monthly WMU Meeting**
 
-**Wednesday, May 6th**   
-**5:30 pm** Building and Grounds Meeting  
-**6:30 pm** Musician Practice  
-**6:30 pm** Online Prayer Meeting  
-**7:30 pm** Choir Practice
+**Wednesday, May 13th**     
+**6:30pm Musician Practice**  
+**6:30pm Online Prayer Meeting**  
+**7:30pm Choir Practice**
   
 
-**Thursday, May 7th**   
-**NATIONAL DAY OF PRAYER**  
-**10:00 am Women's Bible Study**   
-**6:00pm National Day of Prayer Celebration**  
-**At Folly River Park**  
+**Thursday, May 14th**    
+**10:00am Women's Bible Study**  
+**5:00pm Prayer at the Pier**  
+**6:00pm Recovery In Christ**
 
-**Friday, May 8th**  
-**Celebration of Life for Ginny Pruitt**  
-**1:00pm visitation**  
-**2:00pm Service**
 
-**Sunday, May 10th**   
-**Mother's Day**  
+
+**Sunday, May 17th**   
+
 **9:45 am Bible Study**  
 **11:00 am Worship Service**  
-**Parent / Child Dedication**
+**Pastor Billy Preaching**
+
 
 
 
