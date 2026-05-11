@@ -137,10 +137,7 @@ Enter through the office door in the back parking lot on West Indian ave
  
 
 
-**Mother's Day, Sunday May 10th**  
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/c1f3e931-9b1e-4337-bbda-71e9327e8591" />
- 
-<hr>  
+
 
 
 
