@@ -7,9 +7,7 @@ header:
 ---
 
 
-  <hr>  
-  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4fdb583f-caa9-4c6a-800c-50702d3104ff" />  
-
+ 
 <hr>
 
 
