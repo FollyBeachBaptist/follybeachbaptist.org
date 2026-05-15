@@ -20,13 +20,8 @@ header:
   
 
 
-**WMU MONTHLY MEETING THIS TUESDAY, May 12th at 11:00am**  
-<img width="409" height="123" alt="image" src="https://github.com/user-attachments/assets/3d301b65-8f5e-484f-9108-48073380e6f3" />
 
-<hr>  
 
-**Pray at the Pier This Thursday, May 14th at 5:00pm**  
-<img width="736" height="476" alt="image" src="https://github.com/user-attachments/assets/9232204d-feef-4f26-9ca2-a8db316deab1" />  
 
 <hr>
 
@@ -64,10 +59,9 @@ Visit www.coastalfamilyvacation.org for more information.
 **7:00 pm Worship Service and Mini Sermon Series**  
 **"Jesus Lives On The Edge"**  
 **Sunday May 24th Through Wednesday May 27th**    
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a0f99369-ffa9-4176-982a-8070e6422861" />  
 
- <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/0dd1688c-6c36-439a-a8ac-b367837ed492" />
 
+ <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/6522b1a0-19f8-4704-a69f-d7206242a96d" />
 
 
 <hr>
