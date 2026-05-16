@@ -7,22 +7,11 @@ header:
 ---
 
 
- 
-<hr>
-
 
 
 
 
    
-   
-
-  
-
-
-
-
-
 <hr>
 
 
@@ -31,18 +20,13 @@ header:
 
 <hr>  
 
-  
+ **Church Council**  
+ <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/09a77192-7174-4460-ad46-3e92c69fa2e4" />  
 
+   <hr>  
+   
 
-
-
-  
-
-
-
-
-
-    
+   
   The Coastal Family Vacation Foundation  
 is a Cancer Respite Program that provides South Carolina Residents fighting cancer  
 an ALL INCLUSIVE FAMILY VACATION on the South Carolina Coast.
