@@ -22,17 +22,15 @@ header:
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
 
-**Sunday, May 10th**  
-**HAPPY MOTHER'S DAY**  
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2f1af1ab-1140-4ce1-b1d4-ed794f8aacec" />
-
+**Sunday, May 17th**  
 **9:45am Bible Study**  
 **11:00am Worship Service**  
-**Parent and Child Dedication**
+**Pastor Billy Preaching**
+
 
 
   
-**Monday, May 11th**  
+**Monday, May 18th**  
 **10:30am Moms in Prayer**  
  **6:30pm Women's Bible Study**  
  **6:45pm Men's Bible Study**
@@ -40,28 +38,36 @@ header:
 
 *All Bible Study Groups are in the Education Bldg*  
 
- **Tuesday, May 12th**  
+ **Tuesday, May 19th**  
 **9:30am Women's Bible Study**  
-**11:00am Monthly WMU Meeting**
 
-**Wednesday, May 13th**     
+
+**Wednesday, May 20th**     
 **6:30pm Musician Practice**  
 **6:30pm Online Prayer Meeting**  
 **7:30pm Choir Practice**
   
 
-**Thursday, May 14th**    
+**Thursday, May 21st**    
 **10:00am Women's Bible Study**  
-**5:00pm Prayer at the Pier**  
-**6:00pm Recovery In Christ**
+**6:00pm Recovery In Christ**  
 
+**Friday, May 22nd**  
+Bristol Team Arrives  
 
+**Saturday, May 23rd**  
+Booneville Team arrives
 
-**Sunday, May 17th**   
+**Sunday, May 24th**   
 
 **9:45 am Bible Study**  
-**11:00 am Worship Service**  
-**Pastor Billy Preaching**
+**11:00 am 1st Baptist Church of Booneville Leads Worship**   
+**7:00 pm "Jesus Lives"  Sermon Series Begins**  
+**Pastor Billy Preaching**  
+
+
+
+
 
 
 
@@ -160,7 +166,13 @@ Enter through the office door in the back parking lot on West Indian ave
 
 **Summer Son-rise Service**  
 
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/75a30bea-4582-4b39-a010-f7432b0e2c03" />
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/75a30bea-4582-4b39-a010-f7432b0e2c03" />  
+
+<hr>  
+
+**Church Council**  
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/00eadaff-b422-4766-af53-635d4fa9af78" />
+
 
 
 <hr>  
