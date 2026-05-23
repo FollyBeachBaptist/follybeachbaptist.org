@@ -33,7 +33,7 @@ header:
 
   
 **Monday, May 25th**   
-**Memorial Day**
+**Memorial Day**  
 **7:00pm Jesus Lives Series**   
 **Pastor Carter Smith Leading**
 
@@ -50,7 +50,7 @@ header:
 **Wednesday, May 27th**     
 **7:00pm Jesus Lives Series**  
 **Pastor Clark Carter Leading**
-**7:30pm Choir Practice**
+
   
 
 **Thursday, May 28th**    
