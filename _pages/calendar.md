@@ -22,48 +22,49 @@ header:
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
 
-**Sunday, May 17th**  
+**Sunday, May 24th**  
 **9:45am Bible Study**  
 **11:00am Worship Service**  
-**Pastor Billy Preaching**
+**1st Baptist Church of Booneville Leading Worship**  
+**7:00pm** **"Jesus Lives" Sermon Series Begins**  
+**Pastor Billy Smith Lesding**
 
 
 
   
-**Monday, May 18th**  
-**10:30am Moms in Prayer**  
- **6:30pm Women's Bible Study**  
- **6:45pm Men's Bible Study**
+**Monday, May 25th**   
+**Memorial Day**
+**7:00pm Jesus Lives Series**   
+**Pastor Carter Smith Leading**
+
  
 
 *All Bible Study Groups are in the Education Bldg*  
 
- **Tuesday, May 19th**  
-**9:30am Women's Bible Study**  
+ **Tuesday, May 26th**  
+**9:30am Women's Bible Study**   
+**7:00pm Jesus Lives Series**  
+**Craven Sykles (Young Life) Leading**
 
 
-**Wednesday, May 20th**     
-**6:30pm Musician Practice**  
-**6:30pm Online Prayer Meeting**  
+**Wednesday, May 27th**     
+**7:00pm Jesus Lives Series**  
+**Pastor Clark Carter Leading**
 **7:30pm Choir Practice**
   
 
-**Thursday, May 21st**    
+**Thursday, May 28th**    
 **10:00am Women's Bible Study**  
 **6:00pm Recovery In Christ**  
 
-**Friday, May 22nd**  
-Bristol Team Arrives  
 
-**Saturday, May 23rd**  
-Booneville Team arrives
 
-**Sunday, May 24th**   
+**Sunday, May 31st**   
+**8:30am Summer Sonrise Service Begins**
 
 **9:45 am Bible Study**  
-**11:00 am 1st Baptist Church of Booneville Leads Worship**   
-**7:00 pm "Jesus Lives"  Sermon Series Begins**  
-**Pastor Billy Preaching**  
+**11:00 am Worship Service**   
+
 
 
 
@@ -116,7 +117,7 @@ Enter through the office door in the back parking lot on West Indian ave
   **Mondays at 6:30 pm**    
   **Tuesdays at 9:30 am**   
   **Thursdays at 10:00am**    
-  <img width="833" height="500" alt="image" src="https://github.com/user-attachments/assets/241be825-6bc7-4952-b478-5c43a98adafb" />  
+ <img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/403f6646-2f3f-4f6c-84cf-a97142528d9a" />
 
  
 
