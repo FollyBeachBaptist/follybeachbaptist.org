@@ -100,7 +100,8 @@ Booneville Team arrives
 **Moms In Prayer**    
 **All moms are welcome to join us Mondays at 10:30 am as we pray for our schools and children**  
 *In the Education Building.*  
-Enter through the office door in the back parking lot on West Indian ave  
+Enter through the office door in the back parking lot on West Indian ave   
+**We are not meeting through the summer, but wiil resume meeting Monday mornings at 10:30 in the Education Building when the school year starts.**
 
 <img width="222" height="208" alt="image" src="https://github.com/user-attachments/assets/973bcd0f-5cc0-4246-94e7-4b3b9ce31913" />    
 <hr>  
