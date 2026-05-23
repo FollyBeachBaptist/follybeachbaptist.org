@@ -12,7 +12,18 @@ header:
 
 
    
-<hr>
+<hr>  
+
+**First Baptist Booneville**
+<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/30c69ce0-f817-450d-8056-d0727ccd64a5" />  
+
+  <hr>   
+  
+**First Baptist Bristol**  
+<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/35ba67ae-489b-4b53-b9df-dea7a3df5274" />
+
+
+
 
 
 **Celebrators Conference**
@@ -71,7 +82,7 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
   This wonderful ministry unites women from Folly Beach and surrounding communities to pray for children and schools.  
   Through weekly gatherings rooted in Scripture, women support one another and seek God's guidance for students, parents,   
   teachers, and communities.  
-**We meet Monday mornings at 10:30 in the Education Building**
+**We are not meeting through the summer, but wiil resume meeting Monday mornings at 10:30 in the Education Building when the school year starts.**
  
   <img width="222" height="208" alt="image" src="https://github.com/user-attachments/assets/c4b6b8ee-2704-46c9-83b0-a791224c5724" />  
  <hr>   
