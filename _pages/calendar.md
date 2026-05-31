@@ -22,46 +22,38 @@ header:
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
 
-**Sunday, May 24th**  
+**Sunday, May 31st**  
+**8:30am Summer Son-rise Service**  
 **9:45am Bible Study**  
 **11:00am Worship Service**  
-**1st Baptist Church of Booneville Leading Worship**  
-**7:00pm** **"Jesus Lives" Sermon Series Begins**  
-**Pastor Billy Smith Lesding**
 
 
 
   
-**Monday, May 25th**   
-**Memorial Day**  
-**7:00pm Jesus Lives Series**   
-**Pastor Carter Smith Leading**
-
+**Monday, June 1st**   
+**6:45pm Men's Bible Study**
  
 
 *All Bible Study Groups are in the Education Bldg*  
 
- **Tuesday, May 26th**  
-**9:30am Women's Bible Study**   
-**7:00pm Jesus Lives Series**  
-**Craven Sykles (Young Life) Leading**
+ **Tuesday, June 2nd**  
+**6:30pm Church Council meeting**
 
 
-**Wednesday, May 27th**     
-**7:00pm Jesus Lives Series**  
-**Pastor Clark Carter Leading**
+**Wednesday, June 3rd**     
+**6:30pm Prayer Meeting**  
+**6:30pm Musician practice**  
+**7:30pm Choir Practice**
 
   
 
-**Thursday, May 28th**    
-**10:00am Women's Bible Study**  
-**6:00pm Recovery In Christ**  
+**Thursday, June 4th**    
+**6:00pm Recovery in Christ**
 
 
 
-**Sunday, May 31st**   
-**8:30am Summer Sonrise Service Begins**
-
+**Sunday, June 7th**   
+**8:30am Summer Son-rise Service**  
 **9:45 am Bible Study**  
 **11:00 am Worship Service**   
 
@@ -78,15 +70,7 @@ header:
 <hr> 
 
 
-**Youth Ministry Team From Bristol Tn**   
-**Is coming once again May 22nd - 29th**
-<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/76d2ed50-1c99-4dc5-bc78-c4de8dd7568a" />  
 
-<hr>  
-
-  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/224e452f-da8f-4e87-a52f-6abf3dd0827d" />  
-
-  <hr>  
 
     
 
@@ -149,26 +133,15 @@ Enter through the office door in the back parking lot on West Indian ave
 
 
 
-**Saturday, May 23rd Booneville Ms Youth Ministry Team Arrives**   
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/ebe107b4-927f-4d7a-9278-ee03cd92f5a7" />
-
-<hr>    
-
-**Sunday, May 24th First Baptist Church of Booneville Youth Ministry will Lead Worship at FBBC**    
-<hr>  
-
-  
 
 
-**Friday, May 29th Bristol Team departs**  
-<hr>  
-
-**Saturday, May 30th Booneville Team departs**  
+ 
 <hr>  
 
 **Summer Son-rise Service**  
+<img width="1447" height="1087" alt="image" src="https://github.com/user-attachments/assets/f626f5b8-7a35-46fe-bccc-0d01b27349a6" />
 
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/75a30bea-4582-4b39-a010-f7432b0e2c03" />  
+
 
 <hr>  
 
