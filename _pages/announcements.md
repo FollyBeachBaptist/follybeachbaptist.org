@@ -14,13 +14,9 @@ header:
    
 <hr>  
 
-**First Baptist Booneville**
-<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/30c69ce0-f817-450d-8056-d0727ccd64a5" />  
 
-  <hr>   
   
-**First Baptist Bristol**  
-<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/35ba67ae-489b-4b53-b9df-dea7a3df5274" />
+
 
 
 
@@ -49,14 +45,7 @@ Visit www.coastalfamilyvacation.org for more information.
   
 <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/45b4fa45-5ced-4753-8310-59822847a9b8" />
 
- <hr>    
 
-**7:00 pm Worship Service and Mini Sermon Series**  
-**"Jesus Lives On The Edge"**  
-**Sunday May 24th Through Wednesday May 27th**    
-
-
- <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/6522b1a0-19f8-4704-a69f-d7206242a96d" />
 
 
 <hr>
@@ -134,7 +123,7 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 
   <hr>   
   
-  **Summer SON rise 8:30 am service begins May 31st**   
+  **Summer SON rise 8:30 am service May 31st through August 30th**   
  <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/e4dbda92-efd7-4119-ad0c-63b8ce0da26a" />
 
   <hr>  
