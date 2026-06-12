@@ -17,7 +17,11 @@ header:
 **Central Baptist Church from Dunn, N.C. is here with  
 "Family Palooza" at Folly River Park This Sunday June 14th**  
 
-  <img width="1382" height="1813" alt="image" src="https://github.com/user-attachments/assets/4849404e-324b-42ad-9f53-e56b2a8bf5cb" />  
+  <img width="1382" height="1813" alt="image" src="https://github.com/user-attachments/assets/4849404e-324b-42ad-9f53-e56b2a8bf5cb" />    
+
+<hr>  
+
+  
 
 
 
