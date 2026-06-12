@@ -12,7 +12,13 @@ header:
 
 
    
-<hr>  
+<hr>    
+
+**Central Baptist Church from Dunn, N.C. is here with  
+"Family Palooza" at Folly River Park This Sunday June 14th**  
+
+  <img width="1382" height="1813" alt="image" src="https://github.com/user-attachments/assets/4849404e-324b-42ad-9f53-e56b2a8bf5cb" />  
+
 
 
   
@@ -25,10 +31,7 @@ header:
 **Celebrators Conference**
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/44215ef9-f49d-40b5-b6b4-e630bc1ba5e4" />  
 
-<hr>  
 
- **Church Council**  
- <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/09a77192-7174-4460-ad46-3e92c69fa2e4" />  
 
    <hr>  
    
@@ -41,8 +44,9 @@ Visit www.coastalfamilyvacation.org for more information.
 
   <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/80b1cf34-d4a7-4a08-a250-26c01924592e" />  
 
-  <hr>  
+  <hr>   
   
+**Lowcountry Pregnancy Center Baby Bottles Due Father's Day**  
 <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/45b4fa45-5ced-4753-8310-59822847a9b8" />
 
 
@@ -117,11 +121,7 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 
  
 
-**Central Baptist Church from Dunn, N.C. is bringing "Family Palooza" to Folly River Park June 14th**  
 
-  <img width="1382" height="1813" alt="image" src="https://github.com/user-attachments/assets/4849404e-324b-42ad-9f53-e56b2a8bf5cb" />  
-
-  <hr>   
   
   **Summer SON rise 8:30 am service May 31st through August 30th**   
 <img width="1447" height="1087" alt="image" src="https://github.com/user-attachments/assets/1b6b7529-85c2-4dc9-aabd-2f8acee3346e" />
