@@ -1,11 +1,11 @@
----
+
 title: "Our Leaders"
 permalink: /ourleaders/
 author: default
 header:
   image: /assets/images/ourleaders.jpg
   og_image: /assets/images/preview.jpg
----
+
 
 **Senior Pastor | Rev. Clark Carter**  
 <i class="fas fa-mobile-alt fa-fw"></i> 843-478-6779  
@@ -18,17 +18,17 @@ header:
 **Pastor Emeritus | Rev. Richard Summey**  
 <i class="fas fa-mobile-alt fa-fw"></i> 843-793-8623
 
-**Deacon Chair | George Willis**  
-<i class="fas fa-mobile-alt fa-fw"></i> 843-906-4175
 
 **Office Administrator | Donna Bolus**  
 <i class="fas fa-mobile-alt fa-fw"></i> 843-588-9414  
 <i class="far fa-envelope fa-fw"></i> info@follybeachbaptist.org
 
----
 
-**Audio Visual Team**  
-Matt Beasley , Sharon Setzer, Terri Smith
+
+**Audio Visual Team**   
+Sharon Setzer *Team Leader*  
+Terri Smith  
+Matt beasley
 
 **Pianist**  
 Debbie Summey
@@ -36,15 +36,12 @@ Debbie Summey
 **Treasurer**  
 Marie Schultz
 
----
 
-# Deacons
 
-George Willis, Chairman  
-Travis Rogers    
+**Deacons**  
 Robert Follin    
 Jerry Ulmer    
 Marty Wright  
-Richard Harriss  
+
 
 
