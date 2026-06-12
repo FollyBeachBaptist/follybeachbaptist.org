@@ -22,57 +22,44 @@ header:
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
 
-**Sunday, May 31st**  
+**Sunday, June 14th**  
 **8:30am Summer Son-rise Service**  
 **9:45am Bible Study**  
-**11:00am Worship Service**  
+**11:00am Worship Service**     
+**6:00 - 9:00pm**   
+**Family Palooza at Folly River park**
 
 
 
   
-**Monday, June 1st**   
+**Monday, June 15th**   
 **6:45pm Men's Bible Study**
  
 
 *All Bible Study Groups are in the Education Bldg*  
 
- **Tuesday, June 2nd**  
-**6:30pm Church Council meeting**
 
 
-**Wednesday, June 3rd**     
+
+**Wednesday, June 17th**     
 **6:30pm Prayer Meeting**  
 **6:30pm Musician practice**  
-**7:30pm Choir Practice**
+**7:00pm Choir Practice**
 
   
 
-**Thursday, June 4th**    
+**Thursday, June 18th**    
 **6:00pm Recovery in Christ**
 
 
 
-**Sunday, June 7th**   
+**Sunday, June 21st**  
+**Father's Day**
 **8:30am Summer Son-rise Service**  
 **9:45 am Bible Study**  
 **11:00 am Worship Service**   
 
-
-
-
-
-
-
-
-
-
-
 <hr> 
-
-
-
-
-    
 
 
  **Pray at the Pier**  
@@ -117,26 +104,7 @@ Enter through the office door in the back parking lot on West Indian ave
     
   <img width="500" height="334" alt="image" src="https://github.com/user-attachments/assets/1c398dd7-fefc-4486-8743-5739850836a7" />    
   <hr>    
-  
-
-
  
-
-
-  <hr>    
-
-
- 
-
-
-
-
-
-
-
-
- 
-<hr>  
 
 **Summer Son-rise Service**  
 <img width="1447" height="1087" alt="image" src="https://github.com/user-attachments/assets/f626f5b8-7a35-46fe-bccc-0d01b27349a6" />
@@ -145,19 +113,6 @@ Enter through the office door in the back parking lot on West Indian ave
 
 <hr>  
 
-**Church Council**  
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/00eadaff-b422-4766-af53-635d4fa9af78" />
-
-
-
-<hr>  
-
-**Wednesday, June 10th**  
-**Central Baptist Church from Dunn,N.C. Arrives**  
-<hr>  
-
-<img width="1384" height="1810" alt="image" src="https://github.com/user-attachments/assets/bebd6ec0-16a6-469b-8286-51417b34f7ab" />  
-<hr>   
 
 **Sunday, June 28th Patriotic Worship Service**  
 **And Family Cookout**  
