@@ -12,12 +12,7 @@ header:
 
 
    
-<hr>    
-
-**Central Baptist Church from Dunn, N.C. is here with  
-"Family Palooza" at Folly River Park This Sunday June 14th**  
-
-  <img width="1382" height="1813" alt="image" src="https://github.com/user-attachments/assets/4849404e-324b-42ad-9f53-e56b2a8bf5cb" />    
+ 
 
 <hr>  
 
@@ -33,11 +28,33 @@ header:
 
 
 **Celebrators Conference**
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/44215ef9-f49d-40b5-b6b4-e630bc1ba5e4" />  
+
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/e78a0fea-36bb-4c17-8acc-9606c7e9570e" />
+
+
+   <hr>   
+
+**Patriotic Worship Service**
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/53eabfe0-9f28-4d9e-b4bb-a54116eab076" />  
+
+<hr>  
+
+**Our Food Pantry Needs Your Help**  
+
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/e7b6d8b9-fe8f-4788-b115-6cfb0518631d" />  
+
+<hr>  
+
+**Faith and Family Night At The Joe**   
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/010cf103-eff8-4091-a515-f458947fc8ef" />  
+
+<hr>  
+
+  
 
 
 
-   <hr>  
+     
    
 
    
