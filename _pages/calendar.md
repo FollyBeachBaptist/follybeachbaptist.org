@@ -22,17 +22,18 @@ header:
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
 
-**Sunday, June 14th**  
+**Sunday, June 21st**  
+**Happy Father's Day!!**  
 **8:30am Summer Son-rise Service**  
+**9:00am Deacon Meeting**  
 **9:45am Bible Study**  
 **11:00am Worship Service**     
-**6:00 - 9:00pm**   
-**Family Palooza at Folly River park**
+
 
 
 
   
-**Monday, June 15th**   
+**Monday, June 22nd**   
 **6:45pm Men's Bible Study**
  
 
@@ -41,25 +42,34 @@ header:
 
 
 
-**Wednesday, June 17th**     
+**Wednesday, June 24th**   
+**5:30pm Builing and Grounds Meeting**  
 **6:30pm Prayer Meeting**  
 **6:30pm Musician practice**  
 **7:00pm Choir Practice**
 
   
 
-**Thursday, June 18th**    
+**Thursday, June 25th**    
 **6:00pm Recovery in Christ**
 
 
 
-**Sunday, June 21st**  
-**Father's Day**
+**Sunday, June 28th**  
 **8:30am Summer Son-rise Service**  
 **9:45 am Bible Study**  
-**11:00 am Worship Service**   
+**11:00 am Worship Service**  
+**12:00pm Church Family Picnic**
 
-<hr> 
+<hr>   
+
+**Celebrators Conference**  
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/33e3fb58-806a-40d0-a32d-f6775e5d00d2" />  
+
+<hr>  
+
+
+
 
 
  **Pray at the Pier**  
@@ -116,12 +126,21 @@ Enter through the office door in the back parking lot on West Indian ave
 
 **Sunday, June 28th Patriotic Worship Service**  
 **And Family Cookout**  
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/0788a9f4-c6ed-4bb1-a2ae-8cc1d132270a" />  
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/5dca4b50-bedb-4312-92aa-a62031128ed9" />
+
 <hr>  
 
 **Saturday, Aust 22nd 5:15pm**    
 **Faith and Family Night at the Riverdogs Stadium**  
-<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/93ca4af6-817c-4e16-ac13-9a1c4ce80f3b" />
+
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/ccd5f5b1-850d-4bf7-bf97-79df7a37187c" />  
+
+<hr>  
+
+**Church Pantry**  
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/914a9321-4da2-43b1-b7ff-fb22422a7bf4" />
+
+  
 
 
 
