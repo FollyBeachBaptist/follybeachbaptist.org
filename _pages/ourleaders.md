@@ -1,11 +1,11 @@
-
+---
 title: "Our Leaders"
 permalink: /ourleaders/
 author: default
 header:
   image: /assets/images/ourleaders.jpg
   og_image: /assets/images/preview.jpg
-
+---
 
 **Senior Pastor | Rev. Clark Carter**  
 <i class="fas fa-mobile-alt fa-fw"></i> 843-478-6779  
@@ -41,7 +41,4 @@ Marie Schultz
 **Deacons**  
 Robert Follin    
 Jerry Ulmer    
-Marty Wright  
-
-
-
+Marty Wright
