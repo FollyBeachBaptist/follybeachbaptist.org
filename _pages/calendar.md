@@ -22,18 +22,17 @@ header:
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
 
-**Sunday, June 21st**  
-**Happy Father's Day!!**  
-**8:30am Summer Son-rise Service**  
-**9:00am Deacon Meeting**  
+**Sunday, June 28th**    
+**8:30am Summer Son-rise Service**    
 **9:45am Bible Study**  
-**11:00am Worship Service**     
+**11:00am Worship Service**  
+**12:00pm Church Family Cook-Out**
 
 
 
 
   
-**Monday, June 22nd**   
+**Monday, June 29th**   
 **6:45pm Men's Bible Study**
  
 
@@ -42,7 +41,7 @@ header:
 
 
 
-**Wednesday, June 24th**   
+**Wednesday, July 1st**   
 **5:30pm Builing and Grounds Meeting**  
 **6:30pm Prayer Meeting**  
 **6:30pm Musician practice**  
@@ -50,16 +49,19 @@ header:
 
   
 
-**Thursday, June 25th**    
-**6:00pm Recovery in Christ**
+**Thursday, July 2nd**    
+**6:00pm Recovery in Christ**  
+
+**Saturday, July 4th**  
+**Independence Day 250th Anniversary!!**
 
 
 
-**Sunday, June 28th**  
+**Sunday, July 5th**  
 **8:30am Summer Son-rise Service**  
 **9:45 am Bible Study**  
 **11:00 am Worship Service**  
-**12:00pm Church Family Picnic**
+
 
 <hr>   
 
