@@ -65,6 +65,14 @@ header:
 
 <hr>   
 
+**July 26th Movie Night**  
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/86681305-53a0-4a32-8fe1-577960fde88f" />  
+
+<hr>  
+
+  
+
+
 **Celebrators Conference**  
 <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/33e3fb58-806a-40d0-a32d-f6775e5d00d2" />  
 
