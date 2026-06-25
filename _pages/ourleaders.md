@@ -1,6 +1,8 @@
 ---
 title: "Our Leaders"
 permalink: /ourleaders/
+layout: single
+author_profile: true
 author: default
 header:
   image: /assets/images/ourleaders.jpg
