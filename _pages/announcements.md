@@ -14,7 +14,24 @@ header:
    
  
 
+<hr>   
+
+**July 26th Movie Night**  
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/733261d0-d7ca-46fe-bec2-88d4c97026b1" />  
+
+<hr>    
+
+**Pantry**  
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/6b05280d-f5f6-470b-8d9a-4678c47dbb5e" />  
+
 <hr>  
+
+  
+
+
+  
+
+
 
   
 
