@@ -21,10 +21,7 @@ header:
 
 <hr>    
 
-**Pantry**  
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/6b05280d-f5f6-470b-8d9a-4678c47dbb5e" />  
 
-<hr>  
 
   
 
@@ -84,19 +81,13 @@ Visit www.coastalfamilyvacation.org for more information.
 
   <hr>   
   
-**Lowcountry Pregnancy Center Baby Bottles Due Father's Day**  
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/45b4fa45-5ced-4753-8310-59822847a9b8" />
-
-
-
-
-<hr>
 
 
 
 **Worship Service Childcare Provided**    
 
-![Alt text](/assets/images/Childcare%20picture.jpeg)
+<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/00747780-f10f-4b42-bac5-dc81bdc180e3" />
+
 
   We have childcare provided during our morning worship service for ages **birth through 4 years old!** 
 
@@ -105,7 +96,8 @@ Visit www.coastalfamilyvacation.org for more information.
 We also have Bible studies for all ages (preschool, children, youth, and adults)  
  **Sunday mornings from 9:45 a.m. until 10:45 a.m.**    
  
- <img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/92fe1de0-f717-43e0-9f15-8790b2ae247e" />
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/aa753eba-1463-4366-bea7-fa4a366f5ac3" />
+
 
 <hr>
  
@@ -119,7 +111,9 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
  <hr>   
 
  
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/b34dfd44-ae78-41dc-8674-1dccf677dfc7" />
+**Contact Us!!**  
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/622178ff-176f-49f5-9851-7e0d97ae7bcc" />
+
 
 <hr>   
 
@@ -150,7 +144,8 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
   <hr>    
  
  **Recovery in Christ meets Thursday evenings at 6:00pm**    
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/f48d4714-f214-4c95-ac9c-48e2c39c4f4c" />  
+
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/2201bcbe-8a28-4b04-9a3a-fe2d5bc836d3" />
 
 <hr>  
 
