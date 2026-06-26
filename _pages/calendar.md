@@ -84,8 +84,9 @@ header:
 
  **Pray at the Pier**  
   **We meet the 2nd Thursday Every Month at 5:00 pm to pray for our government and nation**  
-  
-  <img width="736" height="476" alt="image" src="https://github.com/user-attachments/assets/688cba71-8bbc-4c2a-b8bc-326dc9c8f5b7" />  
+  <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/7d766909-dd77-4053-b6d3-b4101b4c518e" />
+
+
   <hr>  
   
 
@@ -100,7 +101,8 @@ Enter through the office door in the back parking lot on West Indian ave
 
 **WMU Monthly Meeting**  
 **2nd Tuesday each month in the Education building**  
-<img width="409" height="123" alt="image" src="https://github.com/user-attachments/assets/a7525d91-7634-41a8-8ccd-0ef36bd3fe24" />  
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/ee0af554-4652-4fbb-a1c9-b27148e46413" />
+
 <hr>  
 
 **WOMEN'S BIBLE STUDY**  
