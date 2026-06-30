@@ -53,10 +53,6 @@ header:
 
    <hr>   
 
-**Patriotic Worship Service**
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/53eabfe0-9f28-4d9e-b4bb-a54116eab076" />  
-
-<hr>  
 
 **Our Food Pantry Needs Your Help**  
 
