@@ -84,8 +84,8 @@ header:
 
  **Pray at the Pier**  
   **We meet the 2nd Thursday Every Month at 5:00 pm to pray for our government and nation**  
-  <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/7d766909-dd77-4053-b6d3-b4101b4c518e" />
 
+<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/504b7aa6-2841-4db5-8141-de9d2a092111" />
 
   <hr>  
   
@@ -136,11 +136,7 @@ Enter through the office door in the back parking lot on West Indian ave
 <hr>  
 
 
-**Sunday, June 28th Patriotic Worship Service**  
-**And Family Cookout**  
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/5dca4b50-bedb-4312-92aa-a62031128ed9" />
 
-<hr>  
 
 **Saturday, Aust 22nd 5:15pm**    
 **Faith and Family Night at the Riverdogs Stadium**  
