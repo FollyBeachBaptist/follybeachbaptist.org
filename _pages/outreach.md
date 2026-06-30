@@ -35,7 +35,8 @@ or soup and friendship. Access is through the church parking lot on Indian Ave.
 <hr>
 
 **Recovery in Christ**    
-<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/390aed60-c616-40bb-98d4-ce618237ec99" />
+<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/6022d154-cb32-4dae-8a1e-9217aa9cdecb" />
+
 
 What is Christ-centered Recovery? Christ-centered recovery involves turning from our hurts, habits,
 and hang-ups to the One Who gives abundant life----Jesus Christ.
@@ -51,18 +52,9 @@ Access is through the office door located in the rear of the church on West Indi
 behold, the new has come."  
 <hr>
 
-**Kairos Prison Ministry**  
-<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/066584a3-4b14-4f52-82e1-37c618f4cae3" />
-
-**Kairos Prison Ministry – South Carolina**  
-Kairos is a Christ-centered ministry that brings hope and healing to incarcerated men and women across South Carolina. Through a powerful 3½-day weekend experience and ongoing support, Kairos volunteers share the love and forgiveness of Jesus Christ, helping build Christian communities inside correctional institutions. Rooted in Matthew 25:36—“I was in prison and you visited me”—Kairos transforms lives, encourages accountability, and fosters lasting change through prayer, fellowship, and grace.
 
 
 
- 
-**Virtual Prayer Meeting**   
-
-  <img width="750" height="422" alt="image" src="https://github.com/user-attachments/assets/f2498689-5265-4438-8bd4-53d969f8bd44" />  
   
 
 
@@ -90,7 +82,7 @@ within the year.
 <img width="195" height="258" alt="image" src="https://github.com/user-attachments/assets/fe71daa1-67cf-4dd9-804d-591897813da6" />  
 <hr>
 **Pantry Closet**    
-<img width="1244" height="1721" alt="image" src="https://github.com/user-attachments/assets/834b8883-ff96-4c9f-8798-3d55d7b2a4cc" />
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/72090f07-0326-4dda-b16f-295e14111fa6" />
 
 FBBC believes in ministering to the body as well as the soul. To this end, we have a Pantry Closet
 for those in need. Please contact **Pastor Clark Carter at 843-478-6779** or the church office at
