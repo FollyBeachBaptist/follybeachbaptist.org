@@ -48,7 +48,8 @@ header:
 
   
 
-**Thursday, July 9th**    
+**Thursday, July 9th**  
+**5:00pm Prayer at the Pier**  
 **6:00pm Recovery in Christ**  
 
 
