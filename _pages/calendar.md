@@ -108,8 +108,9 @@ Enter through the office door in the back parking lot on West Indian ave
   **Mondays at 6:30 pm**    
   **Tuesdays at 9:30 am**   
   **Thursdays at 10:00am**    
+ <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/192d2284-ed53-4cbf-af48-7212e71bb632" />
+
  
- <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/df64f94c-53f5-4286-81f0-86c6c4929af4" />
 
 
 
