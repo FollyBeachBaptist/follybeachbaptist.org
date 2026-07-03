@@ -22,18 +22,18 @@ header:
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
 
-**Sunday, June 28th**    
+**Sunday, July 5th**    
 **8:30am Summer Son-rise Service**    
 **9:45am Bible Study**  
 **11:00am Worship Service**  
-**12:00pm Church Family Cook-Out**
 
 
 
 
   
-**Monday, June 29th**   
-**6:45pm Men's Bible Study**
+**Monday, July 6th**  
+**6:45pm Men's Bible Study is NOT MEETING**  
+**WE will meet *NEXT MONDAY, July 13th at 6:45***
  
 
 *All Bible Study Groups are in the Education Bldg*  
@@ -41,23 +41,20 @@ header:
 
 
 
-**Wednesday, July 1st**   
+**Wednesday, July 8th**   
 **5:30pm Builing and Grounds Meeting**  
-**6:30pm Prayer Meeting**  
-**6:30pm Musician practice**  
+**6:30pm Prayer Meeting**   
 **7:00pm Choir Practice**
 
   
 
-**Thursday, July 2nd**    
+**Thursday, July 9th**    
 **6:00pm Recovery in Christ**  
 
-**Saturday, July 4th**  
-**Independence Day 250th Anniversary!!**
 
 
 
-**Sunday, July 5th**  
+**Sunday, July 12th**  
 **8:30am Summer Son-rise Service**  
 **9:45 am Bible Study**  
 **11:00 am Worship Service**  
