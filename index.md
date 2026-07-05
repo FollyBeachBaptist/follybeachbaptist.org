@@ -31,8 +31,6 @@ or You Tube by Clicking this link:
   
 https://www.youtube.com/@FollyBeachBaptist    
 
-
-
 We hope to see you soon!
 
 **He Is Able,**  
