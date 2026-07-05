@@ -27,9 +27,11 @@ southern hospitality. Come just like you are. You do not have to get dressed up.
 here! It would be a blessing to us to have you join us in person. If you cannot be here in person,
 you can watch us online on [Facebook](https://www.facebook.com/FollyBeachBaptistChurch/) 
 
-or You Tube by Clicking this link:  
+ 
   
-https://www.youtube.com/@FollyBeachBaptist    
+<a href="https://www.youtube.com/@FollyBeachBaptist" target="_blank"> 
+Visit our You Tube Channel  
+</a>
 
 We hope to see you soon!
 
