@@ -26,7 +26,9 @@ for many Lowcountry locals. The church here, like the surrounding area, is relax
 southern hospitality. Come just like you are. You do not have to get dressed up. Everyone is welcome
 here! It would be a blessing to us to have you join us in person. If you cannot be here in person,
 you can watch us online on [Facebook](https://www.facebook.com/FollyBeachBaptistChurch/) 
-or You Tube by Clicking this link: https://www.youtube.com/@FollyBeachBaptist
+
+or You Tube by Clicking this link: https://www.youtube.com/@FollyBeachBaptist  
+
 We hope to see you soon!
 
 **He Is Able,**  
