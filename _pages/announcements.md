@@ -54,8 +54,9 @@ header:
 
 
 **Celebrators Conference**
+<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/9cf24735-dd60-4338-bfdc-a05e3a7d405c" />
 
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/e78a0fea-36bb-4c17-8acc-9606c7e9570e" />
+
 
 
    <hr>   
