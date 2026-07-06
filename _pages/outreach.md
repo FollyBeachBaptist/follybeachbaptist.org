@@ -9,8 +9,13 @@ author: default
 **Pray at the Pier**  
 **We gather at 5:00 pm, 2nd Thursday of each month on the Folly Beach Pier to pray for our nation and governments.**  
   <img width="736" height="476" alt="image" src="https://github.com/user-attachments/assets/688cba71-8bbc-4c2a-b8bc-326dc9c8f5b7" />  
-  <hr>  
+  <hr>   
   
+  **You Tube Channel**  
+  <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/2a95fd48-36db-4f92-a10e-cefc9cba4407" />  
+
+  <hr>
+
 
 **Operation Christmas Child**    
 <img width="1700" height="1133" alt="image" src="https://github.com/user-attachments/assets/8a735b08-31e3-461a-8994-bc593068baea" />
