@@ -124,8 +124,9 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 
 <hr>   
 
-**Women's Bible study**  
-**Meeting days and times are:**   
+**New Women's Bible study Begins**  
+**MEETING TIMES AND DAYS:**
+  
 **Monday 6:30pm**   
 '**Tuesday 9:30am**   
 **THE THURSDAY MORNING GROUP WILL NOT MEET FOR THIS STUDY**   
