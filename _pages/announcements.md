@@ -64,11 +64,7 @@ header:
    <hr>   
 
 
-**Our Food Pantry Needs Your Help**  
 
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/e7b6d8b9-fe8f-4788-b115-6cfb0518631d" />  
-
-<hr>  
 
 **Faith and Family Night At The Joe**   
 <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/010cf103-eff8-4091-a515-f458947fc8ef" />  
@@ -132,7 +128,7 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 **Meeting days and times are:**   
 **Monday 6:30pm**   
 '**Tuesday 9:30am**   
-**Thursday 10:00am**   
+**THE THURSDAY MORNING GROUP WILL NOT MEET FOR THIS STUDY**   
 
 <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/1aef58c5-827f-456e-a43e-ce816e33911c" />
 
