@@ -22,7 +22,7 @@ header:
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
 
-**Sunday, July 5th**    
+**Sunday, July 12th**    
 **8:30am Summer Son-rise Service**    
 **9:45am Bible Study**  
 **11:00am Worship Service**  
@@ -31,34 +31,40 @@ header:
 
 
   
-**Monday, July 6th**  
-**6:45pm Men's Bible Study is NOT MEETING**  
-**WE will meet *NEXT MONDAY, July 13th at 6:45***
+**Monday, July 13th**  
+**6:30pm Women's Bible Study**  
+**6:45pm Men's Bible Study**  
+
  
 
-*All Bible Study Groups are in the Education Bldg*  
+*All Bible Study Groups are in the Education Bldg*    
+
+**Tuesday, July 14th**  
+**9:30am Women's Bible Study**
+
+ 
 
 
 
 
-**Wednesday, July 8th**   
+**Wednesday, July 15th**   
 **5:30pm Builing and Grounds Meeting**  
-**6:30pm Prayer Meeting**   
-**7:00pm Choir Practice**
+**6:30pm Business Meeting**   
+**7:30pm Choir Practice**
 
   
 
-**Thursday, July 9th**  
-**5:00pm Prayer at the Pier**  
+**Thursday, July 16th**    
 **6:00pm Recovery in Christ**  
 
 
 
 
-**Sunday, July 12th**  
+**Sunday, July 19th**  
 **8:30am Summer Son-rise Service**  
 **9:45 am Bible Study**  
 **11:00 am Worship Service**  
+***Pastor Billy Preaching***
 
 
 <hr>   
@@ -108,7 +114,7 @@ Enter through the office door in the back parking lot on West Indian ave
 
   **Mondays at 6:30 pm**    
   **Tuesdays at 9:30 am**   
-  **Thursdays at 10:00am**    
+     
  <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/192d2284-ed53-4cbf-af48-7212e71bb632" />
 
  
@@ -129,7 +135,8 @@ Enter through the office door in the back parking lot on West Indian ave
  
 
 **Summer Son-rise Service**  
-<img width="1447" height="1087" alt="image" src="https://github.com/user-attachments/assets/f626f5b8-7a35-46fe-bccc-0d01b27349a6" />
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/d41d9ebb-633f-49aa-a0c2-a5307e8f2619" />
+
 
 
 
@@ -145,8 +152,6 @@ Enter through the office door in the back parking lot on West Indian ave
 
 <hr>  
 
-**Church Pantry**  
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/914a9321-4da2-43b1-b7ff-fb22422a7bf4" />
 
   
 
