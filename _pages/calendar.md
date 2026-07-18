@@ -22,7 +22,7 @@ header:
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
 
-**Sunday, July 12th**    
+**Sunday, July 19th**    
 **8:30am Summer Son-rise Service**    
 **9:45am Bible Study**  
 **11:00am Worship Service**  
@@ -31,45 +31,39 @@ header:
 
 
   
-**Monday, July 13th**  
+**Monday, July 20th**  
 **6:30pm Women's Bible Study**  
-**6:45pm Men's Bible Study**  
+**6:45pm Men's Bible Study**   
 
  
 
 *All Bible Study Groups are in the Education Bldg*    
 
-**Tuesday, July 14th**  
+**Tuesday, July 21st**  
 **9:30am Women's Bible Study**
 
  
-
-
-
-
-**Wednesday, July 15th**   
+**Wednesday, July 22nd**   
 **5:30pm Builing and Grounds Meeting**  
 **6:30pm Business Meeting**   
 **7:30pm Choir Practice**
 
   
 
-**Thursday, July 16th**    
+**Thursday, July 23rd**    
 **6:00pm Recovery in Christ**  
 
 
 
 
-**Sunday, July 19th**  
+**Sunday, July 26th**  
 **8:30am Summer Son-rise Service**  
 **9:45 am Bible Study**  
 **11:00 am Worship Service**  
-***Pastor Billy Preaching***
-
-
-<hr>   
-
-**July 26th Movie Night**  
+**6:00pm Movie Night**  
+***In the Fellowship Hall***   
+**A Great Awakening"**
+ 
 <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/86681305-53a0-4a32-8fe1-577960fde88f" />  
 
 <hr>  
@@ -89,8 +83,8 @@ header:
 
  **Pray at the Pier**  
   **We meet the 2nd Thursday Every Month at 5:00 pm to pray for our government and nation**  
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/234f6397-9f4f-4365-877f-74153ec0a358" />
 
-<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/504b7aa6-2841-4db5-8141-de9d2a092111" />
 
   <hr>  
   
