@@ -28,7 +28,8 @@ header:
 **11:00am Worship Service**   
 **6:00pm Movie Night**  
 ***In the Fellowship Hall***   
-**A Great Awakening"**
+**A Great Awakening"**  
+
 
 
 
@@ -81,6 +82,7 @@ By meeting practical needs such as beds, clothing, food, and other essentials, c
 
 To learn more, join us for a **CarePortal Training & Information Session** on **Sunday, August 9**, immediately following the 11:00 a.m. worship service. The session will begin at **1:00 p.m.**, last approximately **1½ hours**, and **lunch will be provided**.  
 
+Sign up Here:  
 
 https://github.com/FollyBeachBaptist/follybeachbaptist.org/blob/main/careportal
 
