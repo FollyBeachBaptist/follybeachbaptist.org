@@ -14,7 +14,9 @@ header:
 
 <hr>  
 
-## CarePortal Partnership & Information Session
+## CarePortal Partnership & Information Session  
+<img width="4501" height="1002" alt="CarePortal__Logo_Orange" src="https://github.com/user-attachments/assets/1c2e0c09-6407-4eab-b16c-3ec6966bbd7b" />
+
 
 Folly Beach Baptist Church is partnering with CarePortal to help meet practical needs of local children and families in crisis.
 
