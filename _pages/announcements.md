@@ -192,7 +192,9 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 
 
 
-  <hr>  
+  <hr>   
+
+  
 
 
 
