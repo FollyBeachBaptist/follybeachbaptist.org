@@ -22,16 +22,19 @@ header:
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
 
-**Sunday, July 19th**    
+**Sunday, July 26th**    
 **8:30am Summer Son-rise Service**    
 **9:45am Bible Study**  
-**11:00am Worship Service**  
+**11:00am Worship Service**   
+**6:00pm Movie Night**  
+***In the Fellowship Hall***   
+**A Great Awakening"**
 
 
 
 
   
-**Monday, July 20th**  
+**Monday, July 27th**  
 **6:30pm Women's Bible Study**  
 **6:45pm Men's Bible Study**   
 
@@ -39,32 +42,30 @@ header:
 
 *All Bible Study Groups are in the Education Bldg*    
 
-**Tuesday, July 21st**  
+**Tuesday, July 28th**  
 **9:30am Women's Bible Study**
 
  
-**Wednesday, July 22nd**   
+**Wednesday, July 29th**   
 **5:30pm Builing and Grounds Meeting**  
-**6:30pm Business Meeting**   
-**7:30pm Choir Practice**
+**6:30pm Online Prayer Meeting**   
+**7:00pm Choir Practice**
 
   
 
-**Thursday, July 23rd**    
+**Thursday, July 30th**    
 **6:00pm Recovery in Christ**  
 
 
 
 
-**Sunday, July 26th**  
+**Sunday, August 2nd**  
 **8:30am Summer Son-rise Service**  
 **9:45 am Bible Study**  
 **11:00 am Worship Service**  
-**6:00pm Movie Night**  
-***In the Fellowship Hall***   
-**A Great Awakening"**
+
  
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/86681305-53a0-4a32-8fe1-577960fde88f" />  
+
 
 <hr> 
 
