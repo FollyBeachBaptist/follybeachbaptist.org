@@ -81,7 +81,7 @@ By meeting practical needs such as beds, clothing, food, and other essentials, c
 
 To learn more, join us for a **CarePortal Training & Information Session** on **Sunday, August 9**, immediately following the 11:00 a.m. worship service. The session will begin at **1:00 p.m.**, last approximately **1½ hours**, and **lunch will be provided**.  
 
-Go to the link on the "Announcements" Tab to sign up 
+https://github.com/FollyBeachBaptist/follybeachbaptist.org/blob/main/careportal
 
 Whether you're interested in volunteering or simply learning more about this ministry, we encourage you to attend!  
 
