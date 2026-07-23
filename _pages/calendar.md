@@ -79,7 +79,9 @@ Folly Beach Baptist Church is partnering with **CarePortal**, a ministry that co
 
 By meeting practical needs such as beds, clothing, food, and other essentials, churches have the opportunity to share the love of Christ in tangible ways and help strengthen families.
 
-To learn more, join us for a **CarePortal Training & Information Session** on **Sunday, August 9**, immediately following the 11:00 a.m. worship service. The session will begin at **1:00 p.m.**, last approximately **1½ hours**, and **lunch will be provided**.
+To learn more, join us for a **CarePortal Training & Information Session** on **Sunday, August 9**, immediately following the 11:00 a.m. worship service. The session will begin at **1:00 p.m.**, last approximately **1½ hours**, and **lunch will be provided**.  
+
+Go to the link on the "Announcements" Tab to sign up 
 
 Whether you're interested in volunteering or simply learning more about this ministry, we encourage you to attend!  
 
