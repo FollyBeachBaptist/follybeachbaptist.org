@@ -24,7 +24,8 @@ Join us **Sunday, August 9**, immediately following the **11:00 a.m. worship ser
 
 <hr>  
 
-  
+<hr>  
+
 
 
 
