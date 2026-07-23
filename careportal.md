@@ -27,20 +27,3 @@ Whether you are interested in volunteering or simply learning more about this mi
     Register Here
   </a>
 </div>
-Before you delete the old file...
-
-I noticed something very important in your screenshot.
-
-GitHub says:
-
-"We've detected the file has mixed line endings. When you commit changes we will normalize them to Windows style."
-
-That message makes me think we may not have to delete the file after all.
-
-I have one question:
-
-Did you create careportal.md by uploading a file from your computer, or did you create it directly in GitHub?
-
-The reason I ask is that the page saying "Binary file content is not editable" is unusual for a Markdown (.md) file. That suggests the file itself may have been uploaded incorrectly or corrupted, and I want to avoid losing anything unnecessarily.
-
-Once you tell me how that file was created, I'll recommend the safest next step. I think we're very close to getting the site working again.
