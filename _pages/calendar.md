@@ -70,21 +70,7 @@ header:
 
 <hr> 
 
-**CarePortal**   
-<img width="4501" height="1002" alt="CarePortal__Logo_Orange" src="https://github.com/user-attachments/assets/00db5ab6-c379-4525-930d-f89ae3aed4ea" />
 
-
-**CarePortal Partnership & Information Session**
-
-Folly Beach Baptist Church is partnering with **CarePortal**, a ministry that connects local churches with real-time needs of children and families in our community.  
-
-By meeting practical needs such as beds, clothing, food, and other essentials, churches have the opportunity to share the love of Christ in tangible ways and help strengthen families.
-
-To learn more, join us for a **CarePortal Training & Information Session** on **Sunday, August 9**, immediately following the 11:00 a.m. worship service. The session will begin at **1:00 p.m.**, last approximately **1½ hours**, and **lunch will be provided**.  
-
-Go to Our Announcements Tab to register
-
-Whether you're interested in volunteering or simply learning more about this ministry, we encourage you to attend!  
 
 <hr>  
 
