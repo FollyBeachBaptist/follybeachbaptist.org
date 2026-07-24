@@ -16,7 +16,7 @@ By meeting practical needs such as beds, clothing, food, and other essentials, c
 
 Immediately following the 11:00 a.m. worship service
 
-**Training begins at 1:00 p.m.**
+
 
 **Lunch will be provided**
 
