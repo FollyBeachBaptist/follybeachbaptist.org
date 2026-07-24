@@ -101,8 +101,7 @@ id="comments"
 name="Comments"
 rows="5"
 style="width:100%; padding:12px; margin-top:6px; border:2px solid #174a7e; border-radius:6px; box-sizing:border-box;"></textarea>
-<br><br>  
-
+<br><br>
 
 <div style="text-align:center;">
 <button
@@ -110,4 +109,12 @@ type="submit"
 style="background:#d99a18; color:#0b1f33; border:3px solid #0b1f33; padding:15px 40px; font-size:21px; font-weight:bold; border-radius:8px; cursor:pointer; box-shadow:0 3px 6px rgba(0,0,0,0.25);">
 REGISTER NOW
 </button>
+</div>
+
+</form>
+
+<p style="text-align:center; margin-top:24px; font-size:15px;">
+After submitting the form, you will receive an on-screen confirmation that your registration was received.
+</p>
+
 </div>
