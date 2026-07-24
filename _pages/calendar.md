@@ -98,7 +98,11 @@ Join us **Sunday, August 9**, immediately following the **11:00 a.m. worship ser
             font-weight:bold;">
     ⚾ SIGN UP HERE
   </a>
-</div>
+</div>  
+
+<hr>  
+
+  
 
 
 
