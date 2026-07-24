@@ -28,9 +28,16 @@ Please complete the form below.
 <label>Number Attending</label><br>
 <input type="number" name="Number Attending" min="1" required><br><br>
 
-<label>Comments</label><br>
-<textarea name="Comments"></textarea><br><br>
+<label>Would you like to sit with the Folly Beach Baptist Church group?</label><br>
 
+<input type="radio" id="yes" name="Church Seating" value="Yes">
+<label for="yes">Yes</label><br>
+
+<input type="radio" id="no" name="Church Seating" value="No">
+<label for="no">No</label><br><br>
+
+<label>Comments (Optional)</label><br>
+<textarea name="Comments"></textarea><br><br>
 <button type="submit">Register</button>
 
 </form>
