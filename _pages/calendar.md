@@ -159,10 +159,7 @@ Enter through the office door in the back parking lot on West Indian ave
 
 
 
-**Saturday, Aust 22nd 5:15pm**    
-**Faith and Family Night at the Riverdogs Stadium**  
 
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/ccd5f5b1-850d-4bf7-bf97-79df7a37187c" />  
 
 <hr>  
 
