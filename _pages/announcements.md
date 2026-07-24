@@ -91,7 +91,22 @@ Join us **Sunday, August 9**, immediately following the **11:00 a.m. worship ser
 
 
 **Faith and Family Night At The Joe**   
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/010cf103-eff8-4091-a515-f458947fc8ef" />  
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/010cf103-eff8-4091-a515-f458947fc8ef" />    
+<div style="text-align:center; margin:20px 0 35px 0;">
+  <a href="/riverdogs-signup/"
+     style="display:inline-block;
+            background-color:#d99a18;
+            color:#0b1f33;
+            padding:16px 34px;
+            border:3px solid #0b1f33;
+            border-radius:8px;
+            text-decoration:none;
+            font-size:22px;
+            font-weight:bold;">
+    ⚾ SIGN UP HERE
+  </a>
+</div>
+
 
 <hr>  
 
