@@ -76,10 +76,13 @@ Join us **Sunday, August 9**, immediately following the **11:00 a.m. worship ser
   
 
 
-**July 26th Movie Night**  
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/733261d0-d7ca-46fe-bec2-88d4c97026b1" />  
 
-<hr>    
+
+**Movie Night August 23rd at 6:00pm**  
+<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/b1592681-3b38-463b-a353-f9a214c03120" />    
+
+  <hr>  
+  
 
 
 
@@ -211,7 +214,8 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
   
   **Summer SON rise 8:30 am service through August 30th**   
 
-  <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/e379064c-2a11-41b2-baf4-730bfe2c2a88" />
+ <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/7abe3f34-c219-46a8-bd3a-e8c1367942fa" />
+
 
 
 
