@@ -102,7 +102,11 @@ Join us **Sunday, August 9**, immediately following the **11:00 a.m. worship ser
 
 <hr>  
 
-  
+**Movie Night August 23rd at 6:00pm**  
+<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/b1592681-3b38-463b-a353-f9a214c03120" />  
+
+<hr>
+
 
 
 
