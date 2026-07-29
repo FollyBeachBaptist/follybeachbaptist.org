@@ -81,7 +81,25 @@ Join us **Sunday, August 9**, immediately following the **11:00 a.m. worship ser
 <a href="/careportal/" style="display:inline-block;background:#f04b16;color:#ffffff;padding:14px 26px;border-radius:7px;text-decoration:none;font-weight:800;font-size:1.1rem;">REGISTER FOR CAREPORTAL TRAINING</a>  
 
 
+<hr>   
+
+**WMU Monthly Meeting**  
+**2nd Tuesday each month in the Education building**  
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/ee0af554-4652-4fbb-a1c9-b27148e46413" />
+
 <hr>  
+
+  
+
+  
+
+ **Pray at the Pier**  
+  **We meet the 2nd Thursday Every Month at 5:00 pm to pray for our government and nation**  
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/c058e043-6604-4382-bf0b-1056dca731c2" />  
+
+<hr> 
+
+
 
 **Faith and Family Night At The Joe**   
 <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/010cf103-eff8-4091-a515-f458947fc8ef" />    
@@ -124,10 +142,7 @@ Join us **Sunday, August 9**, immediately following the **11:00 a.m. worship ser
 
 
 
- **Pray at the Pier**  
-  **We meet the 2nd Thursday Every Month at 5:00 pm to pray for our government and nation**  
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/c058e043-6604-4382-bf0b-1056dca731c2" />
-
+ 
 
 
   <hr>  
@@ -142,11 +157,6 @@ Enter through the office door in the back parking lot on West Indian ave
 <img width="222" height="208" alt="image" src="https://github.com/user-attachments/assets/973bcd0f-5cc0-4246-94e7-4b3b9ce31913" />    
 <hr>  
 
-**WMU Monthly Meeting**  
-**2nd Tuesday each month in the Education building**  
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/ee0af554-4652-4fbb-a1c9-b27148e46413" />
-
-<hr>  
 
 **WOMEN'S BIBLE STUDY**  
 
