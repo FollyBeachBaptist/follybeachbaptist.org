@@ -3,7 +3,9 @@ main:
   - title: "Announcements"
     url: /announcements/
   - title: "Calendar"
-    url: /calendar/
+    url: /calendar/  
+  - title: "Live-Stream"  
+    url: https://www.youtube.com/@FollyBeachBaptist/Live
   - title: "Outreach"
     url: /outreach/
   - title: "Students"
@@ -11,5 +13,7 @@ main:
   - title: "Our Leaders"
     url: /ourleaders/
   - title: "About Us"
-    url: /aboutus/
+    url: /aboutus/  
+
+  Add Live-Stream navigation tab
     
