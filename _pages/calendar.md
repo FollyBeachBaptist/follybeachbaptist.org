@@ -22,10 +22,13 @@ header:
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
 
-**Sunday, August 2nd**    
+**Sunday, August 9th**    
 **8:30am Summer Son-rise Service**    
 **9:45am Bible Study**  
-**11:00am Worship Service**   
+**11:00am Worship Service**  
+
+**CarePortal Training After Service**  
+**Lunch Provided**
 
 
 
@@ -33,7 +36,7 @@ header:
 
 
   
-**Monday, August 3rd**  
+**Monday, August 10th**  
 **6:30pm Women's Bible Study**  
 **6:45pm Men's Bible Study**   
 
@@ -41,31 +44,29 @@ header:
 
 *All Bible Study Groups are in the Education Bldg*    
 
-**Tuesday, August 4th**  
+**Tuesday, August 11th**  
 **9:30am Women's Bible Study**
 
  
-**Wednesday, August 5th**   
+**Wednesday, August 12th**   
 **5:30pm Builing and Grounds Meeting**  
 **6:30pm Online Prayer Meeting**   
 **7:00pm Choir Practice**
 
   
 
-**Thursday, August 6th**    
+**Thursday, August 13th**    
 **6:00pm Recovery in Christ**  
 
 
 
 
-**Sunday, August 9th**  
+**Sunday, August 16th**  
 **8:30am Summer Son-rise Service**  
 **9:45 am Bible Study**  
 **11:00 am Worship Service**  
 
-**CarePortal Meeting immediately after 11:00 Service**  
-**In the Fellowship Hall**  
-**Lunch Provided**
+
 
  
 
@@ -87,7 +88,8 @@ Join us **Sunday, August 9**, immediately following the **11:00 a.m. worship ser
 
 **WMU Monthly Meeting**  
 **2nd Tuesday each month in the Education building**  
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/ee0af554-4652-4fbb-a1c9-b27148e46413" />
+><img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/5a10c0e3-2855-4e1e-9852-1c12fa0ac48e" />
+
 
 <hr>  
 
