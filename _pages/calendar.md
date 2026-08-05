@@ -107,7 +107,8 @@ Join us **Sunday, August 9**, immediately following the **11:00 a.m. worship ser
 
 
 **Faith and Family Night At The Joe**   
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/5a07c80f-3e33-4138-a60a-091f5e0a97e0" />
+<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/4587c991-81f2-4249-9138-f185bbe8434c" />
+
 
 
 <div style="text-align:center; margin:20px 0 35px 0;">
