@@ -27,6 +27,7 @@ header:
 **9:45am Bible Study**  
 **11:00am Worship Service**  
 
+
 **CarePortal Training After Service**  
 **Lunch Provided**
 
