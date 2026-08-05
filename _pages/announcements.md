@@ -179,8 +179,8 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 **Monday 6:30pm**   
 '**Tuesday 9:30am**   
 **THE THURSDAY MORNING GROUP WILL NOT MEET FOR THIS STUDY**   
-
 <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/1aef58c5-827f-456e-a43e-ce816e33911c" />
+
 
 
 
