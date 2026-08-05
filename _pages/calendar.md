@@ -99,7 +99,7 @@ Join us **Sunday, August 9**, immediately following the **11:00 a.m. worship ser
 
  **Pray at the Pier**  
   **We meet the 2nd Thursday Every Month at 5:00 pm to pray for our government and nation**  
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/c058e043-6604-4382-bf0b-1056dca731c2" />  
+<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/08ac53d9-0b92-4955-a105-99735028a71c" />
 
 <hr> 
 
