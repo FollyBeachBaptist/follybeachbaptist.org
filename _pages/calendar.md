@@ -122,8 +122,9 @@ header:
 
 <hr>  
 
-**Movie Night August 23rd at 6:00pm**  
-<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/b1592681-3b38-463b-a353-f9a214c03120" />  
+**Movie Night August 30th at 6:00pm**  
+ <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/362d482f-cde1-4ab2-8477-762aa6f8324a" />
+
 
 <hr>
 
