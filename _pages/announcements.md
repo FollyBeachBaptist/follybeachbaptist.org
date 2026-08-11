@@ -41,7 +41,7 @@ header:
     ⚾ SIGN UP HERE
   </a>
 </div>  
-AA
+Tickets will be emailed to the address provide on the sign up sheet Monday, August 17th
 
 
 <hr>  
