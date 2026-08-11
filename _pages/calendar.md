@@ -118,7 +118,8 @@ header:
             font-weight:bold;">
     ⚾ SIGN UP HERE
   </a>
-</div>  
+</div>    
+Tickets will be emailed to the address provided on the sign-up sheet Monday, August 17th
 
 <hr>  
 
