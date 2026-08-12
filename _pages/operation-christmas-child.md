@@ -20,4 +20,99 @@ The boxes contain Toys, School supplies, and Hygiene items. Gifts for the boxes 
 
 For additional information in contributing or volunteering, please contact Danielle Willis at 843-224-0873.
 
-[Click Here for Suggested Gifts and Prohibited Items](https://www.samaritanspurse.org/operation-christmas-child/what-goes-in-my-shoebox-suggestions/)
+[Click Here for Suggested Gifts and Prohibited Items](https://www.samaritanspurse.org/operation-christmas-child/what-goes-in-my-shoebox-suggestions/)  
+
+<h2 style="text-align:center;">This Month’s Collection</h2>
+
+<div style="max-width:700px; margin:0 auto 25px auto; padding:20px; border:1px solid #ddd; border-radius:8px; text-align:center;">
+
+  <h3>August Collection Focus</h3>
+
+  <p>
+    Help us prepare shoebox gifts for children around the world by donating items for this month’s collection.
+  </p>
+
+  <p><strong>Suggested Items:</strong><br>
+  School Supplies • Small Toys • Hygiene Items • Clothing Accessories
+  </p>
+
+  <p>
+    Please place donated items in the designated Operation Christmas Child collection area at the church.
+  </p>
+
+</div>  
+
+<h2 style="text-align:center;">🎄 Christmas At The Beach OCC Packing Party 🎁</h2>
+
+<div style="max-width:700px; margin:0 auto 25px auto; padding:20px; border:1px solid #ddd; border-radius:8px; text-align:center;">
+
+  <h3>Come Pack Shoeboxes With Us!</h3>
+
+  <p>
+    Join our church family as we pack Operation Christmas Child shoeboxes
+    filled with gifts, love, and the message of Jesus Christ for children
+    around the world.
+  </p>
+
+  <p>
+    <strong>Everyone is welcome to participate!</strong>
+  </p>
+
+  <p>
+    📅 <strong>Date:</strong> Sunday, November 15, 2026<br>
+    🕒 <strong>Time:</strong> 5:00pm<br>
+    📍 <strong>Folly Beach Baptist Church</strong>
+  </p>
+
+</div>  
+
+Excellent. Now let’s add the final section. Since your Packing Party is Sunday, November 15 at 5:00 PM, I think that should effectively serve as the church’s collection deadline—people should have their donated items in before the packing begins.
+
+Immediately below the Packing Party box and above the <hr>, paste:
+
+<div style="max-width:700px; margin:25px auto; padding:20px; border:2px solid #c62828; border-radius:8px; text-align:center;">
+
+  <h2 style="margin-top:0;">2026 Collection Deadline</h2>
+
+  <p style="font-size:18px;">
+    Please have all donated Operation Christmas Child items at the church
+    <strong>by Sunday, November 15, 2026.</strong>
+  </p>
+
+  <p>
+    Then join us that evening at <strong>5:00 PM</strong> for our
+    Christmas At The Beach OCC Packing Party!
+  </p>
+
+</div>
+<hr>
+
+<div style="text-align:center; margin-top:30px; margin-bottom:30px;">
+
+  <a href="https://www.samaritanspurse.org/operation-christmas-child/buildonline/"
+     target="_blank"
+     style="display:inline-block;
+            background:#c62828;
+            color:white;
+            padding:14px 24px;
+            margin:8px;
+            text-decoration:none;
+            font-weight:bold;
+            border-radius:6px;">
+    BUILD A SHOEBOX ONLINE
+  </a>
+
+  <a href="https://www.samaritanspurse.org/operation-christmas-child/what-goes-in-my-shoebox-suggestions/"
+     target="_blank"
+     style="display:inline-block;
+            background:#1f4f7a;
+            color:white;
+            padding:14px 24px;
+            margin:8px;
+            text-decoration:none;
+            font-weight:bold;
+            border-radius:6px;">
+    WHAT CAN I PACK?
+  </a>
+
+</div>
