@@ -20,7 +20,10 @@ Operation Christmas Child demonstrates God's love in a tangible way. Shoe boxes 
 
 The boxes contain Toys, School supplies, and Hygiene items. Gifts for the boxes are collected March through October, and packed into the boxes at our annual Christmas At The Beach OCC Packing party.
 
-For additional information in contributing or volunteering, please contact Charlotte Culpepper at 843-908-5858, or Mary Hedley at 207-319-5597.
+For additional information in contributing or volunteering, please contact  
+**Charlotte Culpepper at 843-908-5858,**  
+or  
+**Mary Hedley at 207-319-5597.**
 
 [Click Here for Suggested Gifts and Prohibited Items](https://www.samaritanspurse.org/operation-christmas-child/what-goes-in-my-shoebox-suggestions/)  
 
