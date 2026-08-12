@@ -12,7 +12,8 @@ author: default
   <hr>   
   
   **You Tube Channel**  
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/92e3ede6-0df4-4b8f-bdd6-8595b9e44c89" />
+<img width="1500" height="1125" alt="YouTube PPT" src="https://github.com/user-attachments/assets/ff6cf807-63ba-4cd9-9db2-841af079c064" />
+
 
   <hr>
 
