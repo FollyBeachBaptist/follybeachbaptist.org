@@ -73,7 +73,9 @@ Tickets will be emailed to the address provide on the sign up sheet Monday, Augu
 <hr>   
 
  **You Tube**  
-<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/759958ae-df24-43b4-8006-c31970c5a819" />
+<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/759958ae-df24-43b4-8006-c31970c5a819" />    
+
+ **Watch Here:**  https://www.youtube.com/@FollyBeachBaptist
 
 
 
