@@ -1,13 +1,18 @@
 ---
 permalink: /operation-christmas-child/
 title: Operation Christmas Child
-header:
-  image: /assets/images/outreach.jpg
-  og_image: /assets/images/preview.jpg
-author: default
----
+author_profile: false
+---    
+<p style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/8a735b08-31e3-461a-8994-bc593068baea"
+       alt="Operation Christmas Child"
+       style="max-width: 700px; width: 100%; height: auto;">
+</p>
 
-# Operation Christmas Child
+
+
+
+
 
 Operation Christmas Child demonstrates God's love in a tangible way. Shoe boxes are packed and shipped to boys and girls ages 2 to 14 around the world who may have never heard the Gospel message or the Christmas Story.
 
