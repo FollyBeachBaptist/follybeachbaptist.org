@@ -14,17 +14,18 @@ header:
   
  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1056a555-d095-45ff-a126-8e37abe0a0ee" />
 
-  
-
  
- 
+<hr>      
 
+ **Pray at the Pier**  
+ <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/0b5366ef-0400-48ff-a036-234035c0be74" />  
+
+  <hr>  
+
+    
 
 
   
-
-
-<hr>  
 
 **CarePortal**  
 <img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/b733d1b8-b42a-468a-bb33-e5b6ed4daf50" />
