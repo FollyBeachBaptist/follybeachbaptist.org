@@ -1,7 +1,10 @@
 ---
 permalink: /operation-christmas-child/
 title: Operation Christmas Child
+layout: single
 author_profile: false
+header:
+  image:
 ---    
 <p style="text-align: center;">
   <img src="https://github.com/user-attachments/assets/8a735b08-31e3-461a-8994-bc593068baea"
