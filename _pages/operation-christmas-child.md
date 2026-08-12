@@ -7,7 +7,7 @@ header:
   image:
 ---    
 <p style="text-align: center;">
-  <img src="/assets/images/operation-christmas-child.jpg"
+  <img src="/assets/images/OCC%20Children.png"
        alt="Operation Christmas Child"
        style="max-width: 700px; width: 100%; height: auto;">
 </p>
