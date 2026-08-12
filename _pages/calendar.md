@@ -74,9 +74,7 @@ header:
 
 <hr>   
 
-**CarePortal**  
 
-<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/542cf91a-54ce-49a6-b264-3999a31298ba" />
 
 
 <hr>   
