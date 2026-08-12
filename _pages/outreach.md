@@ -28,7 +28,14 @@ The boxes contain Toys, School supplies, and Hygiene items. Gifts for the boxes 
 For additional information in contributing or volunteering,  please **contact Danielle Willis at 843-224-0873.**  
 Or Check here (https://www.samaritanspurse.org/operation-christmas-child/what-goes-in-my-shoebox-suggestions/)
 for suggested gifts and prohibited items.  
-<hr>
+<hr>  
+
+**CarePortal**  
+
+<img width="1500" height="1125" alt="CarePortal" src="https://github.com/user-attachments/assets/1e1d7d15-def1-4b7c-98c6-163129a8b36c" />  
+
+<hr>  
+
 
 
 
