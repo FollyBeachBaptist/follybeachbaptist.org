@@ -7,11 +7,10 @@ header:
   image:
 ---    
 <p style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/8a735b08-31e3-461a-8994-bc593068baea"
+  <img src="/assets/images/operation-christmas-child.jpg"
        alt="Operation Christmas Child"
        style="max-width: 700px; width: 100%; height: auto;">
 </p>
-
 
 
 
