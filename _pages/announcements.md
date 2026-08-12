@@ -8,7 +8,18 @@ header:
 
 <hr>  
 
+  **Moms In Prayer**   
+  **Monday Mornings at 11:00am**  
+  **Beginning September 21st, 2026**
   
+  This wonderful ministry unites women from Folly Beach and surrounding communities to pray for children and schools.  
+  Through weekly gatherings rooted in Scripture, women support one another and seek God's guidance for students, parents,   
+  teachers, and communities.  
+
+  
+
+ 
+  <img width="222" height="208" alt="image" src="https://github.com/user-attachments/assets/c4b6b8ee-2704-46c9-83b0-a791224c5724" />  
 
 
 
@@ -152,15 +163,7 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 
 
 <hr>
- 
-**Moms In Prayer**    
-  This wonderful ministry unites women from Folly Beach and surrounding communities to pray for children and schools.  
-  Through weekly gatherings rooted in Scripture, women support one another and seek God's guidance for students, parents,   
-  teachers, and communities.  
-**We are not meeting through the summer, but wiil resume meeting Monday mornings at 10:30 in the Education Building when the school year starts.**
- 
-  <img width="222" height="208" alt="image" src="https://github.com/user-attachments/assets/c4b6b8ee-2704-46c9-83b0-a791224c5724" />  
- <hr>   
+   
 
  
 **Contact Us!!**  
