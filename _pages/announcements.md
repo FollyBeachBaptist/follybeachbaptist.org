@@ -12,15 +12,12 @@ header:
   **Monday Mornings at 11:00am**  
   **Beginning September 21st, 2026**
   
-  This wonderful ministry unites women from Folly Beach and surrounding communities to pray for children and schools.  
-  Through weekly gatherings rooted in Scripture, women support one another and seek God's guidance for students, parents,   
-  teachers, and communities.  
+ <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1056a555-d095-45ff-a126-8e37abe0a0ee" />
 
   
 
  
-  <img width="222" height="208" alt="image" src="https://github.com/user-attachments/assets/c4b6b8ee-2704-46c9-83b0-a791224c5724" />  
-
+ 
 
 
 
