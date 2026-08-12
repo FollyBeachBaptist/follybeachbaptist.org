@@ -7,8 +7,8 @@ header:
 author: default
 ---
 **Pray at the Pier**  
-**We gather at 5:00 pm, 2nd Thursday of each month on the Folly Beach Pier to pray for our nation and governments.**  
-  <img width="736" height="476" alt="image" src="https://github.com/user-attachments/assets/688cba71-8bbc-4c2a-b8bc-326dc9c8f5b7" />  
+<img width="1560" height="1008" alt="image" src="https://github.com/user-attachments/assets/67a75c8b-dcf2-41e3-adc4-750137524f6a" />
+
   <hr>   
   
   **You Tube Channel**  
