@@ -66,9 +66,7 @@ For additional information in contributing or volunteering, please contact Danie
 
 </div>  
 
-Excellent. Now let’s add the final section. Since your Packing Party is Sunday, November 15 at 5:00 PM, I think that should effectively serve as the church’s collection deadline—people should have their donated items in before the packing begins.
 
-Immediately below the Packing Party box and above the <hr>, paste:
 
 <div style="max-width:700px; margin:25px auto; padding:20px; border:2px solid #c62828; border-radius:8px; text-align:center;">
 
