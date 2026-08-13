@@ -23,7 +23,7 @@ The boxes contain Toys, School supplies, and Hygiene items. Gifts for the boxes 
 For additional information in contributing or volunteering, please contact  
 **Charlotte Culpepper at 843-908-5858,**  
 or  
-**Mary Hedley at 207-319-5597.**
+**Mary Hadley at 207-319-5597.**
 
 [Click Here for Suggested Gifts and Prohibited Items](https://www.samaritanspurse.org/operation-christmas-child/what-goes-in-my-shoebox-suggestions/)  
 
