@@ -215,7 +215,14 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
   
   **Summer SON rise 8:30 am service through August 30th**   
 
- <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/7abe3f34-c219-46a8-bd3a-e8c1367942fa" />
+ <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/7abe3f34-c219-46a8-bd3a-e8c1367942fa" />  
+
+  <hr>  
+
+ <img width="1189" height="892" alt="image" src="https://github.com/user-attachments/assets/1997f4c7-8b44-45b0-ab32-9b6e8ac9cb46" />  
+
+  <hr>
+  
 
 
 
