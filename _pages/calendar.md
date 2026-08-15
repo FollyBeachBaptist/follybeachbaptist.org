@@ -22,14 +22,13 @@ header:
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
 
-**Sunday, August 9th**    
+**Sunday, August 16th**    
 **8:30am Summer Son-rise Service**    
 **9:45am Bible Study**  
 **11:00am Worship Service**  
 
 
-**CarePortal Training After Service**  
-**Lunch Provided**
+
 
 
 
@@ -37,7 +36,7 @@ header:
 
 
   
-**Monday, August 10th**  
+**Monday, August 17th**  
 **6:30pm Women's Bible Study**  
 **6:45pm Men's Bible Study**   
 
