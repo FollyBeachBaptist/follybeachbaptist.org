@@ -86,8 +86,8 @@ Tickets will be emailed to the address provide on the sign up sheet Monday, Augu
 
 
 **Movie Night August 30th at 6:00pm**  
- <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/6e5ddd0c-9b70-4b47-af5a-b498f45eb9c7" />
- 
+<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/baa515d8-f4ec-4550-8099-a97c2b313330" />
+
 
   <hr>  
   
