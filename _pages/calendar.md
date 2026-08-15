@@ -44,20 +44,20 @@ header:
 
 *All Bible Study Groups are in the Education Bldg*    
 
-**Tuesday, August 11th**  
+**Tuesday, August 18th**  
 **9:30am Women's Bible Study**
 
  
-**Wednesday, August 12th**   
+**Wednesday, August 19th**   
 **5:30pm Builing and Grounds Meeting**  
 **6:30pm Online Prayer Meeting**   
 **7:00pm Choir Practice**
 
   
-**Thursday, August 13th**    
+**Thursday, August 20th**    
 **6:00pm Recovery in Christ**  
 
-**Sunday, August 16th**  
+**Sunday, August 23rd**  
 **8:30am Summer Son-rise Service**  
 **9:45 am Bible Study**  
 **11:00 am Worship Service**  
