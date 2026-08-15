@@ -55,52 +55,18 @@ header:
 **7:00pm Choir Practice**
 
   
-
 **Thursday, August 13th**    
 **6:00pm Recovery in Christ**  
-
-
-
 
 **Sunday, August 16th**  
 **8:30am Summer Son-rise Service**  
 **9:45 am Bible Study**  
 **11:00 am Worship Service**  
 
-
-
- 
-
-
 <hr>   
-
-
-
-
-<hr>   
-
-**WMU Monthly Meeting**  
-**2nd Tuesday each month in the Education building**  
-><img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/5a10c0e3-2855-4e1e-9852-1c12fa0ac48e" />
-
-
-<hr>  
-
-  
-
-  
-
- **Pray at the Pier**  
-  **We meet the 2nd Thursday Every Month at 5:00 pm to pray for our government and nation**  
-<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/08ac53d9-0b92-4955-a105-99735028a71c" />
-
-<hr> 
-
-
 
 **Faith and Family Night At The Joe**   
 <img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/4587c991-81f2-4249-9138-f185bbe8434c" />
-
 
 
 <div style="text-align:center; margin:20px 0 35px 0;">
@@ -122,41 +88,18 @@ Tickets will be emailed to the address provided on the sign-up sheet Monday, Aug
 <hr>  
 
 **Movie Night August 30th at 6:00pm**  
- <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/362d482f-cde1-4ab2-8477-762aa6f8324a" />
+<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/8fcddea1-f07c-4048-9fe5-cb25e130fed6" />
 
 
 <hr>
 
-
-
-
-
-  
-
-
-**Celebrators Conference**  
-<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/36c50684-7cd6-465e-8715-e8351410f177" />
-
-
-<hr>  
-
-
-
-
-
- 
-
-
-  <hr>  
-  
-
 **Moms In Prayer**    
-**All moms are welcome to join us Mondays at 10:30 am as we pray for our schools and children**  
+**All moms are welcome to join us beginning Monday, September 21st at 10:30 am as we pray for our schools and children**  
 *In the Education Building.*  
-Enter through the office door in the back parking lot on West Indian ave   
-**We are not meeting through the summer, but wiil resume meeting Monday mornings at 10:30 in the Education Building when the school year starts.**
+Enter through the office door in the back parking lot on West Indian ave    
 
-<img width="222" height="208" alt="image" src="https://github.com/user-attachments/assets/973bcd0f-5cc0-4246-94e7-4b3b9ce31913" />    
+<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/e915798c-ffd8-4951-a308-7c60927f6c2a" />
+
 <hr>  
 
 
