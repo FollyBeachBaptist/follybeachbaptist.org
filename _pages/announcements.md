@@ -34,23 +34,9 @@ header:
 <hr>  
 
 **Faith and Family Night At The Joe**   
-<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/647716cc-f4af-42ef-bfa1-7cfb3ad0988a" />
 
-<div style="text-align:center; margin:20px 0 35px 0;">
-  <a href="/riverdogs-signup/"
-     style="display:inline-block;
-            background-color:#d99a18;
-            color:#0b1f33;
-            padding:16px 34px;
-            border:3px solid #0b1f33;
-            border-radius:8px;
-            text-decoration:none;
-            font-size:22px;
-            font-weight:bold;">
-    ⚾ SIGN UP HERE
-  </a>
-</div>  
-Tickets will be emailed to the address provide on the sign up sheet Monday, August 17th
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/a7b64418-79cc-4523-b74e-c969a37d7991" />
+
 
 
 <hr>  
