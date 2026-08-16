@@ -64,26 +64,9 @@ header:
 
 <hr>   
 
-**Faith and Family Night At The Joe**   
-<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/4587c991-81f2-4249-9138-f185bbe8434c" />
 
-
-<div style="text-align:center; margin:20px 0 35px 0;">
-  <a href="/riverdogs-signup/"
-     style="display:inline-block;
-            background-color:#d99a18;
-            color:#0b1f33;
-            padding:16px 34px;
-            border:3px solid #0b1f33;
-            border-radius:8px;
-            text-decoration:none;
-            font-size:22px;
-            font-weight:bold;">
-    ⚾ SIGN UP HERE
-  </a>
-</div>    
-Tickets will be emailed to the address provided on the sign-up sheet Monday, August 17th
-
+        
+ 
 <hr>  
 
 **Movie Night August 30th at 6:00pm**  
