@@ -135,7 +135,10 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 
  <img width="1189" height="892" alt="image" src="https://github.com/user-attachments/assets/1997f4c7-8b44-45b0-ab32-9b6e8ac9cb46" />  
 
-  <hr>
+  <hr>  
+
+
+   
   
 
 
