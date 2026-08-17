@@ -26,34 +26,21 @@ header:
 **8:30am Summer Son-rise Service**    
 **9:45am Bible Study**  
 **11:00am Worship Service**  
-
-
-
-
-
-
-
-
-
   
 **Monday, August 17th**  
 **6:30pm Women's Bible Study**  
 **6:45pm Men's Bible Study**   
-
- 
 
 *All Bible Study Groups are in the Education Bldg*    
 
 **Tuesday, August 18th**  
 **9:30am Women's Bible Study**
 
- 
 **Wednesday, August 19th**   
 **5:30pm Builing and Grounds Meeting**  
 **6:30pm Online Prayer Meeting**   
 **7:00pm Choir Practice**
 
-  
 **Thursday, August 20th**    
 **6:00pm Recovery in Christ**  
 
@@ -64,14 +51,8 @@ header:
 
 <hr>   
 
-
-        
- 
-<hr>  
-
 **Movie Night August 30th at 6:00pm**  
 <img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/8fcddea1-f07c-4048-9fe5-cb25e130fed6" />
-
 
 <hr>
 
@@ -91,38 +72,17 @@ Enter through the office door in the back parking lot on West Indian ave
   **Tuesdays at 9:30 am**   
     <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/3d1750ba-1e34-46a0-b9d2-cd92ff89b651" />
 
- 
-
- 
-
-
-
-
   <hr>  
 
 **Men's Bible Study**
-    
 **Mondays at 6:45pm**   
-
   
-    
   <img width="500" height="334" alt="image" src="https://github.com/user-attachments/assets/1c398dd7-fefc-4486-8743-5739850836a7" />    
   <hr>    
  
-
 **Summer Son-rise Service**  
 
 <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/2a983a65-5a0a-4d32-8594-d25e9c59be59" />
-
-
-
-
-<hr>  
-
-
-
-
-
 
 <hr>  
 
