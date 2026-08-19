@@ -120,9 +120,10 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
   
   <hr>    
  
- **Recovery in Christ meets Thursday evenings at 6:00pm**    
+ **Recovery in Christ**    
 
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/2201bcbe-8a28-4b04-9a3a-fe2d5bc836d3" />
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/1c35d2e8-ca22-4dc5-b73a-7dbc642d3679" />
+
 
 <hr>  
   
