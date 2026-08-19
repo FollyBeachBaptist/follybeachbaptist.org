@@ -48,16 +48,14 @@ or soup and friendship. Access is through the church parking lot on Indian Ave.
 <hr>
 
 **Recovery in Christ**    
-<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/6022d154-cb32-4dae-8a1e-9217aa9cdecb" />
 
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/b9ba4b68-0570-4d2b-a64c-caa9ac6f7151" />
 
 What is Christ-centered Recovery? Christ-centered recovery involves turning from our hurts, habits,
 and hang-ups to the One Who gives abundant life----Jesus Christ.
 Who needs recovery? Anyone whose relationship with God, family and others falls short of God's 
 standards for our lives. In other words, we all do to some degree.   
-We meet **Thursdays at 6:00pm** in the education building at Folly Beach Baptist Church.  
 
-Access is through the office door located in the rear of the church on West Indian avenue.   
 
 **Contact Pastor Billy Smith at 843-460-7737 or Superdad8586@yahoo.com** if you would like more information.  
 
