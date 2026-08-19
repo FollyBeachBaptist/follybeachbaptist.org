@@ -3,7 +3,7 @@ author_profile: true
 author: default
 layout: single
 header:
-  image: /assets/images/welcome.jpg
+  image: /assets/images/welcome-new.jpg
   og_image: /assets/images/preview.jpg
 title: "Welcome"
 header_title: ""
