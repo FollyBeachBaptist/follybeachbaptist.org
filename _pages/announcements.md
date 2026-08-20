@@ -92,8 +92,8 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 **Women's Bible study**    
 **Monday 6:30pm**   
 '**Tuesday 9:30am**   
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/c792d4af-1ec9-454a-8708-a368ff0b01d7" />
 
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/2adf41b4-67fa-4450-b6bf-9cc6d9982bd8" />
 
 <hr>     
 
