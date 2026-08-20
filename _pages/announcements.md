@@ -36,11 +36,7 @@ header:
 
 **Check Out Our Facebook Page**    
 
- <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/e579eadf-4271-448b-bf32-bcb6aab57baf" />
- 
-
-   
- 
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/8b95342a-4c1d-40f0-a9b3-a9ac1131e9f5" />
 
 <hr>   
 
