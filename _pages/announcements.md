@@ -9,7 +9,7 @@ header:
 <hr>  
 
   **Moms In Prayer**   
-  **Monday Mornings at 11:00am**  
+  **Monday Mornings at 10:30am**  
   **Beginning September 21st, 2026**
   
 <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/ff885dac-abaa-4c6e-9c5b-845b7f7daab0" />
@@ -33,21 +33,6 @@ header:
 
 
 <hr>  
-
-**Faith and Family Night At The Joe**   
-
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/a7b64418-79cc-4523-b74e-c969a37d7991" />
-
-
-
-<hr>  
-
-
-
-
-
-
- 
 
 **Check Out Our Facebook Page**    
 
@@ -122,7 +107,8 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
  
  **Recovery in Christ**    
 
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/1c35d2e8-ca22-4dc5-b73a-7dbc642d3679" />
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/c9259a3c-4205-4bc8-b749-266bdb7f745b" />
+
 
 
 <hr>  
