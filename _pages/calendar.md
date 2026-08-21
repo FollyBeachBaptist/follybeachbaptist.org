@@ -54,7 +54,32 @@ header:
 **Movie Night August 30th at 6:00pm**  
 <img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/8fcddea1-f07c-4048-9fe5-cb25e130fed6" />
 
-<hr>
+<hr>   
+
+**Summer Son-rise Service**  
+
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/82bbe95e-b843-4538-94f0-693f40ef8ed6" />
+
+<hr>    
+
+**WMU**  
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/ef0328e7-9dbc-4c54-9730-15647107d763" />  
+
+<hr>    
+
+**Pray at the Pier**  
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/64006345-6025-4e91-b505-e33679ed4b75" />  
+
+<hr>    
+
+**WOMEN'S BIBLE STUDY**  
+
+  **Mondays at 6:30 pm**    
+  **Tuesdays at 9:30 am**   
+    <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/9c592090-949b-4007-9c69-03e672de810b" />
+
+
+
 
 **Moms In Prayer**    
 **All moms are welcome to join us beginning Monday, September 21st at 10:30 am as we pray for our schools and children**  
@@ -65,39 +90,7 @@ Enter through the office door in the back parking lot on West Indian ave
 
 
 
-<hr>  
-
-
-**WOMEN'S BIBLE STUDY**  
-
-  **Mondays at 6:30 pm**    
-  **Tuesdays at 9:30 am**   
-    <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/9c592090-949b-4007-9c69-03e672de810b" />
-
-  <hr>  
-
-**Men's Bible Study**
-**Mondays at 6:45pm**   
-  
-  <img width="500" height="334" alt="image" src="https://github.com/user-attachments/assets/1c398dd7-fefc-4486-8743-5739850836a7" />    
-  <hr>    
- 
-**Summer Son-rise Service**  
-
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/82bbe95e-b843-4538-94f0-693f40ef8ed6" />
-
-
-<hr>    
-
-**WMU**  
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/ef0328e7-9dbc-4c54-9730-15647107d763" />  
-
-<hr>  
-
-**Pray at the Pier**  
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/64006345-6025-4e91-b505-e33679ed4b75" />  
-
-<hr>  
+<hr>   
 
 **Ministry Team Summit**  
 
@@ -105,13 +98,20 @@ Enter through the office door in the back parking lot on West Indian ave
 
 <hr>  
 
+ 
 **Christmas at the Beach**  
 <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/fcf840e2-79ff-43af-986f-93b6206d640f" />  
 
 **Operation Christmas Child Collections Week**  
 <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/209c8b78-6291-418c-9294-5d74d27a1eb6" />  
 
-<hr>
+<hr>  
+
+
+**Men's Bible Study**
+**Mondays at 6:45pm**   
+  
+  <img width="500" height="334" alt="image" src="https://github.com/user-attachments/assets/1c398dd7-fefc-4486-8743-5739850836a7" />    
 
 
 
