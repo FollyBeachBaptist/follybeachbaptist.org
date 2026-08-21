@@ -108,10 +108,6 @@ Enter through the office door in the back parking lot on West Indian ave
 <hr>  
 
 
-**Men's Bible Study**
-**Mondays at 6:45pm**   
-  
-  <img width="500" height="334" alt="image" src="https://github.com/user-attachments/assets/1c398dd7-fefc-4486-8743-5739850836a7" />    
 
 
 
