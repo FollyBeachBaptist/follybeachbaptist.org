@@ -85,7 +85,35 @@ Enter through the office door in the back parking lot on West Indian ave
 
 <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/2a983a65-5a0a-4d32-8594-d25e9c59be59" />
 
+<hr>    
+
+**WMU**  
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/ef0328e7-9dbc-4c54-9730-15647107d763" />  
+
 <hr>  
+
+**Pray at the Pier**  
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/64006345-6025-4e91-b505-e33679ed4b75" />  
+
+<hr>  
+
+**Ministry Team Summit**  
+
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/f4109337-afeb-4f7e-9f71-53b977babfda" />  
+
+<hr>  
+
+**Christmas at the Beach**  
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/fcf840e2-79ff-43af-986f-93b6206d640f" />  
+
+**Operation Christmas Child Collections Week**  
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/209c8b78-6291-418c-9294-5d74d27a1eb6" />  
+
+<hr>
+
+
+
+
 
    
 
