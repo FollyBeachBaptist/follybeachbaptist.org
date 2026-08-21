@@ -108,7 +108,13 @@ Enter through the office door in the back parking lot on West Indian ave
 <hr>  
 
 **Birthday Party For Jesus**  
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/dcf59089-c798-4afe-9f4c-e0d3a15aa96a" />  
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/dcf59089-c798-4afe-9f4c-e0d3a15aa96a" />    
+
+<hr>  
+
+**Live Nativity Scene**  
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/053e5fa6-e01f-45c7-a127-6384dc94dc86" />
+
 
   
 
