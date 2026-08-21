@@ -114,8 +114,7 @@ Enter through the office door in the back parking lot on West Indian ave
 
 **Live Nativity Scene**  
 
-  <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/47944a76-5414-45b7-bc1d-e3e0b7f544ab" />
-
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/2a3ac87b-1a0a-4544-b04c-f4ef869e5cd7" />
 
 
 
