@@ -61,7 +61,8 @@ header:
 *In the Education Building.*  
 Enter through the office door in the back parking lot on West Indian ave    
 
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/e2dd5272-04cc-4dcd-9dd8-6e7e6f812fdf" />
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/e70e5851-0361-4989-8c7b-6505debed449" />
+
 
 
 <hr>  
