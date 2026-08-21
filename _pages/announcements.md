@@ -19,9 +19,13 @@ header:
 <hr>      
 
  **Pray at the Pier**  
- <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/0b5366ef-0400-48ff-a036-234035c0be74" />  
+ <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/3e8dda0e-2356-4515-9ae6-555b556ba06e" />
+
 
   <hr>  
+
+ **WMU**  
+ <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/47b78681-d177-4659-840a-decc189e5d02" />
 
     
 
@@ -121,6 +125,23 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 
   <hr>  
 
+ **Ministry Team Summit**  
+ <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/adad7d37-c15f-4ad2-92a5-6a8c737a9c41" />  
+
+  <hr>  
+
+   **Christmas at the Beach**  
+   <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/08b033c1-cf94-417e-b69b-148e17383116" />  
+
+    <hr>  
+
+   **Operation Christmas Child Collection Week**   
+   <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/32753f6f-406b-4842-b199-8a64f929f209" />
+
+     
+
+
+ 
 
    
   
