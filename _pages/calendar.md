@@ -84,7 +84,8 @@ Enter through the office door in the back parking lot on West Indian ave
  
 **Summer Son-rise Service**  
 
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/2a983a65-5a0a-4d32-8594-d25e9c59be59" />
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/82bbe95e-b843-4538-94f0-693f40ef8ed6" />
+
 
 <hr>    
 
