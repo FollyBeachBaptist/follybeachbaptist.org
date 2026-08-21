@@ -99,7 +99,7 @@ Enter through the office door in the back parking lot on West Indian ave
 
 **Ministry Team Summit**  
 
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/f4109337-afeb-4f7e-9f71-53b977babfda" />  
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/8adffbb8-45ce-4e10-bf7d-6299c846b1b5" />
 
 <hr>  
 
