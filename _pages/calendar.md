@@ -76,8 +76,7 @@ header:
 
   **Mondays at 6:30 pm**    
   **Tuesdays at 9:30 am**   
-    <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/9c592090-949b-4007-9c69-03e672de810b" />
-
+   <img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/ebb2232e-6b89-43a5-90c6-a45242ab13c6" />
 
 
 
@@ -86,15 +85,14 @@ header:
 *In the Education Building.*  
 Enter through the office door in the back parking lot on West Indian ave    
 
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/e70e5851-0361-4989-8c7b-6505debed449" />
-
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/482a7638-a323-4f29-9a61-0397a5585d84" />
 
 
 <hr>   
 
 **Ministry Team Summit**  
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/b07869cb-4d5c-43b5-9553-7960ddbab197" />
 
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/8adffbb8-45ce-4e10-bf7d-6299c846b1b5" />
 
 <hr>  
 
