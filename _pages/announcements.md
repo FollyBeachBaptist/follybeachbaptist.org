@@ -12,7 +12,8 @@ header:
   **Monday Mornings at 10:30am**  
   **Beginning September 21st, 2026**
   
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/48295307-b217-4f1c-96d6-41c1f6c8bbde" />
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/9ea10c63-6efc-4e00-9fa3-9b6c7981422f" />
+
 
 
  
@@ -92,7 +93,7 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 **Women's Bible study**    
 **Monday 6:30pm**   
 '**Tuesday 9:30am**   
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/c792d4af-1ec9-454a-8708-a368ff0b01d7" />
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/698ef3b5-9fd0-4703-8fa6-6705dfeb1b1a" />
 
 
 <hr>     
