@@ -128,7 +128,8 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
   <hr>  
 
  **Ministry Team Summit**  
- <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/1c936d02-5d2b-461d-9155-bfc726fdc380" />
+
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/f579f704-f101-4a7f-a9fc-2827dae793e8" />
 
 
   <hr>  
