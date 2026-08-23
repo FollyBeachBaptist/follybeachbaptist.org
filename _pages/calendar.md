@@ -22,30 +22,29 @@ header:
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
 
-**Sunday, August 16th**    
+**Sunday, August 23rd**    
 **8:30am Summer Son-rise Service**    
 **9:45am Bible Study**  
 **11:00am Worship Service**  
   
-**Monday, August 17th**  
+**Monday, August 24th**  
 **6:30pm Women's Bible Study**  
 **6:45pm Men's Bible Study**   
 
 *All Bible Study Groups are in the Education Bldg*    
 
-**Tuesday, August 18th**  
+**Tuesday, August 25th**  
 **9:30am Women's Bible Study**
 
-**Wednesday, August 19th**   
+**Wednesday, August 26th**   
 **5:30pm Builing and Grounds Meeting**  
 **6:30pm Online Prayer Meeting**   
 **7:00pm Choir Practice**
 
-**Thursday, August 20th**    
-**6:00pm Recovery in Christ**  
+  
 
-**Sunday, August 23rd**  
-**8:30am Summer Son-rise Service**  
+**Sunday, August 30th**  
+**8:30am Final Summer Son-rise Service**  
 **9:45 am Bible Study**  
 **11:00 am Worship Service**  
 
