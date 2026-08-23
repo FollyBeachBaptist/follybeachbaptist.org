@@ -122,7 +122,8 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 
    **Janie Chapman State Missions Offering**
 
- <img width="1189" height="892" alt="image" src="https://github.com/user-attachments/assets/1997f4c7-8b44-45b0-ab32-9b6e8ac9cb46" />  
+ <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/6253996e-0f08-4d40-b3d8-0384c02e12f3" />
+
 
   <hr>  
 
