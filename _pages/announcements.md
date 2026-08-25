@@ -11,7 +11,14 @@ header:
 **SERVICE BROADCAST CHANGE**  
 <img width="960" height="720" alt="Slide3" src="https://github.com/user-attachments/assets/d81c3d15-2433-4b46-a23c-7afcdfa7fe54" />  
 
- <hr>
+ <hr>  
+
+  **We are on Instagram!!**  
+  <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/c40a0a0f-6e93-45ab-9510-39a701bf13c9" />  
+
+  <hr>  
+  
+
 
   **Moms In Prayer**   
   **Monday Mornings at 10:30am**  
