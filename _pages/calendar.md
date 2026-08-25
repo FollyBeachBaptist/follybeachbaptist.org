@@ -81,7 +81,9 @@ header:
 
   **Mondays at 6:30 pm**    
   **Tuesdays at 9:30 am**   
-   <img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/ebb2232e-6b89-43a5-90c6-a45242ab13c6" />
+  **Thursdays at 10:00am**  
+  
+  <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/d776a3a9-4cd3-4bc0-945a-f472fe5d7dea" />
 
 
 
