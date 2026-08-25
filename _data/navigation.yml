@@ -5,7 +5,9 @@ main:
   - title: "Calendar"
     url: /calendar/  
   - title: "Live-Stream"  
-    url: https://www.youtube.com/@FollyBeachBaptist/Live
+    url: https://www.youtube.com/@FollyBeachBaptist/Live  
+  - title: "Instagram"   
+    url: /Instagram?
   - title: "Outreach"
     url: /outreach/  
   - title: "Operation Christmas Child"  
