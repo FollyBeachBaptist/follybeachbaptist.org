@@ -26,6 +26,8 @@ header:
 **8:30am Summer Son-rise Service**    
 **9:45am Bible Study**  
 **11:00am Worship Service**  
+**Sermon Title "Sign of the Fig Tree"**  
+**Mark 13:28-31"**
   
 **Monday, August 24th**  
 **6:30pm Women's Bible Study**  
