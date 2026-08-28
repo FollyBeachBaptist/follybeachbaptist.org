@@ -22,31 +22,32 @@ header:
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
 
-**Sunday, August 23rd**    
-**8:30am Summer Son-rise Service**    
+**Sunday, August 30th**    
+**8:30am Last Summer Son-rise Service**    
 **9:45am Bible Study**  
 **11:00am Worship Service**  
-**Sermon Title "Sign of the Fig Tree"**  
-**Mark 13:28-31"**
+<img width="960" height="720" alt="Slide3" src="https://github.com/user-attachments/assets/3bd11628-f5bf-4601-a2dd-47472e82cbe9" />
+
+
+
   
-**Monday, August 24th**  
-**6:30pm Women's Bible Study**  
+**Monday, August 31st**  
 **6:45pm Men's Bible Study**   
+<img width="960" height="720" alt="Slide15" src="https://github.com/user-attachments/assets/c11016f3-6094-4d5b-be47-93250699b181" />
+
 
 *All Bible Study Groups are in the Education Bldg*    
 
-**Tuesday, August 25th**  
-**9:30am Women's Bible Study**
 
-**Wednesday, August 26th**   
-**5:30pm Builing and Grounds Meeting**  
+**Wednesday, September 2nd**   
+**5:30pm Building and Grounds Meeting**  
 **6:30pm Online Prayer Meeting**   
 **7:00pm Choir Practice**
 
   
 
-**Sunday, August 30th**  
-**8:30am Final Summer Son-rise Service**  
+**Sunday, September 6th**  
+
 **9:45 am Bible Study**  
 **11:00 am Worship Service**  
 
@@ -57,11 +58,7 @@ header:
 
 <hr>   
 
-**Summer Son-rise Service**  
 
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/82bbe95e-b843-4538-94f0-693f40ef8ed6" />
-
-<hr>    
 
 **Service Broadcast Change**  
 <img width="960" height="720" alt="Slide3" src="https://github.com/user-attachments/assets/98088429-4a8f-454d-ac86-2c976518a67d" />  
@@ -79,13 +76,17 @@ header:
 
 <hr>    
 
-**WOMEN'S BIBLE STUDY**  
+**WOMEN'S BIBLE STUDY Resumes September 14th**  
 
   **Mondays at 6:30 pm**    
   **Tuesdays at 9:30 am**   
   **Thursdays at 10:00am**  
   
-  <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/d776a3a9-4cd3-4bc0-945a-f472fe5d7dea" />
+  <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/d776a3a9-4cd3-4bc0-945a-f472fe5d7dea" />  
+
+  <hr>  
+
+    
 
 
 
@@ -94,13 +95,14 @@ header:
 *In the Education Building.*  
 Enter through the office door in the back parking lot on West Indian ave    
 
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/482a7638-a323-4f29-9a61-0397a5585d84" />
+<img width="960" height="720" alt="Slide21" src="https://github.com/user-attachments/assets/06e56c76-1fcf-4da7-8ee8-926823123695" />
 
 
 <hr>   
 
 **Ministry Team Summit**  
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/b07869cb-4d5c-43b5-9553-7960ddbab197" />
+
+<img width="960" height="720" alt="Slide22" src="https://github.com/user-attachments/assets/d931573f-4801-46e6-9466-51bb74f17727" />
 
 
 <hr>  
@@ -115,13 +117,13 @@ Enter through the office door in the back parking lot on West Indian ave
 <hr>  
 
 **Birthday Party For Jesus**  
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/f1f7c54c-97b2-4b89-b833-00d350067729" />
+<img width="960" height="720" alt="Slide25" src="https://github.com/user-attachments/assets/1d92d8b2-7601-4121-b2cc-664dd9a21b54" />
 
 <hr>  
 
 **Live Nativity Scene**  
+<img width="960" height="720" alt="Slide26" src="https://github.com/user-attachments/assets/2df75c92-bca2-4504-a863-b79d22145efc" />
 
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/2a3ac87b-1a0a-4544-b04c-f4ef869e5cd7" />
 
 
 
