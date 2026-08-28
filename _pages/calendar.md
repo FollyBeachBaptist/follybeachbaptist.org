@@ -72,7 +72,8 @@ header:
 <hr>    
 
 **Pray at the Pier**  
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/64006345-6025-4e91-b505-e33679ed4b75" />  
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/5459bee1-88e2-43b3-b2fd-7336afc58537" />
+
 
 <hr>    
 
