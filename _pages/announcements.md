@@ -95,7 +95,8 @@ Visit www.coastalfamilyvacation.org for more information.
 We also have Bible studies for all ages (preschool, children, youth, and adults)  
  **Sunday mornings from 9:45 a.m. until 10:45 a.m.**    
  
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/aa753eba-1463-4366-bea7-fa4a366f5ac3" />
+<img width="960" height="720" alt="Slide14" src="https://github.com/user-attachments/assets/e28270d3-395c-46d3-b119-8a90b57bb0f1" />
+
 
 <hr>
     
@@ -108,8 +109,8 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 **Monday 6:30pm**   
 '**Tuesday 9:30am**  
 **Thursday 10:00am**  
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/b254533e-59ec-49c0-82e9-4d4fe2eeda14" />
 
+<img width="960" height="720" alt="Slide19" src="https://github.com/user-attachments/assets/3abb0356-40d1-42fe-82f2-f57eb075d61e" />
 
 
 <hr>     
@@ -118,13 +119,13 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
   Mondays at 6:45pm**       
   Join a brotherhood of faith as we dive into Scripture, share life's challenges, and grow together in Christ. Whether you're new to the Bible or a seasoned believer, this group offers a welcoming space for honest conversation, spiritual encouragement, and practical application. Come as you are----Leave strengthened.
   
-  <img width="500" height="334" alt="image" src="https://github.com/user-attachments/assets/1c398dd7-fefc-4486-8743-5739850836a7" />    
-  
+  <img width="960" height="720" alt="Slide15" src="https://github.com/user-attachments/assets/024fe515-740f-4fb1-88bf-4153103494e2" />
+
   <hr>    
  
  **Recovery in Christ**    
 
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/c9259a3c-4205-4bc8-b749-266bdb7f745b" />
+<img width="960" height="720" alt="Slide5" src="https://github.com/user-attachments/assets/f0d9772a-06b2-47b6-9d59-e156504b800e" />
 
 
 
