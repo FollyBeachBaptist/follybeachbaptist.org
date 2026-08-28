@@ -24,7 +24,8 @@ header:
   **Monday Mornings at 10:30am**  
   **Beginning September 21st, 2026**
   
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/9ea10c63-6efc-4e00-9fa3-9b6c7981422f" />
+<img width="960" height="720" alt="Slide21" src="https://github.com/user-attachments/assets/1900503d-0445-4330-9b15-b8b7f1ea6e44" />
+
 
 
 
@@ -46,14 +47,15 @@ header:
   
 
 **CarePortal**  
-<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/b733d1b8-b42a-468a-bb33-e5b6ed4daf50" />
 
+<img width="960" height="720" alt="Slide6" src="https://github.com/user-attachments/assets/e3c0472d-8863-464f-99c2-f565a43cbc18" />
 
 <hr>  
 
 **Check Out Our Facebook Page**    
 
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/8b95342a-4c1d-40f0-a9b3-a9ac1131e9f5" />
+<img width="1448" height="1086" alt="ea3201bf-dad0-4251-adfd-aac806c4fca6" src="https://github.com/user-attachments/assets/8622174c-3cef-4c08-8629-32f489a5633c" />
+
 
 <hr>   
 
