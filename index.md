@@ -25,9 +25,7 @@ We are blessed to be located at Folly Beach - a popular vacation destination and
 for many Lowcountry locals. The church here, like the surrounding area, is relaxed and full of
 southern hospitality. Come just like you are. You do not have to get dressed up. Everyone is welcome
 here! It would be a blessing to us to have you join us in person. If you cannot be here in person,
-you can watch us online on [Facebook](https://www.facebook.com/FollyBeachBaptistChurch/) 
 
-  
 <a href="https://www.youtube.com/@FollyBeachBaptist" target="_blank"> 
 Visit our You Tube Channel  
 </a>
