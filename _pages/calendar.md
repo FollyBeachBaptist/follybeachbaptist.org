@@ -22,41 +22,51 @@ header:
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
 
-**Sunday, August 30th**    
-**8:30am Last Summer Son-rise Service**    
+**Sunday, September 6th**    
+    
 **9:45am Bible Study**  
 **11:00am Worship Service**  
-<img width="960" height="720" alt="Slide3" src="https://github.com/user-attachments/assets/3bd11628-f5bf-4601-a2dd-47472e82cbe9" />
+**Sermon Title: "Table Manners"**  
+**1 Cor 11:17-33**  
+**Lord's Supper**  
+
 
 
 
   
-**Monday, August 31st**  
+**Monday, September 7th**  
 **6:45pm Men's Bible Study**   
 <img width="960" height="720" alt="Slide15" src="https://github.com/user-attachments/assets/c11016f3-6094-4d5b-be47-93250699b181" />
-
+ 
 
 *All Bible Study Groups are in the Education Bldg*    
+
+**Tuesday, September 8th**  
+**11:00am WMU Monthly Meeting**  
 
 
 **Wednesday, September 2nd**   
 **5:30pm Building and Grounds Meeting**  
 **6:30pm Online Prayer Meeting**   
-**7:00pm Choir Practice**
+**7:00pm Choir Practice**   
+
+**Thursday, September 10th**  
+**5:00pm Prayer at the Pier**
+
+
 
   
 
-**Sunday, September 6th**  
+**Sunday, September 13th**  
 
 **9:45 am Bible Study**  
-**11:00 am Worship Service**  
+**11:00 am Worship Service**   
+**Sermon Title: "The Basics"**  
+**1 Corinthians 12:1-7, 11-27**
 
 <hr>   
 
-**Movie Night August 30th at 6:00pm**  
-<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/8fcddea1-f07c-4048-9fe5-cb25e130fed6" />
 
-<hr>   
 
 
 
