@@ -22,6 +22,11 @@ header:
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
 
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/cc1d2fb0-22a1-47b9-a943-ae7af98c103f" />  
+
+<hr>  
+
+
 **Sunday, September 6th**    
     
 **9:45am Bible Study**  
