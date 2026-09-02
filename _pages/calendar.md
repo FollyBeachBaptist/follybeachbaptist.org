@@ -45,7 +45,7 @@ header:
 **11:00am WMU Monthly Meeting**  
 
 
-**Wednesday, September 2nd**   
+**Wednesday, September 9th**   
 **5:30pm Building and Grounds Meeting**  
 **6:30pm Online Prayer Meeting**   
 **7:00pm Choir Practice**   
@@ -62,7 +62,8 @@ header:
 **9:45 am Bible Study**  
 **11:00 am Worship Service**   
 **Sermon Title: "The Basics"**  
-**1 Corinthians 12:1-7, 11-27**
+**1 Corinthians 12:1-7, 11-27**  
+**Spiritual Gifts (1 of 6)**
 
 <hr>   
 
@@ -70,10 +71,6 @@ header:
 
 
 
-**Service Broadcast Change**  
-<img width="960" height="720" alt="Slide3" src="https://github.com/user-attachments/assets/98088429-4a8f-454d-ac86-2c976518a67d" />  
-
-<hr>
 
 
 **WMU**  
@@ -93,7 +90,8 @@ header:
   **Tuesdays at 9:30 am**   
   **Thursdays at 10:00am**  
   
-  <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/d776a3a9-4cd3-4bc0-945a-f472fe5d7dea" />  
+ <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/08c54288-bb42-4f3f-b1f6-6b0b2d8ea36a" />
+
 
   <hr>  
 
