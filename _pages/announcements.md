@@ -6,10 +6,9 @@ header:
 
 ---  
 
-<hr>  
 
-**SERVICE BROADCAST CHANGE**  
-<img width="960" height="720" alt="Slide3" src="https://github.com/user-attachments/assets/d81c3d15-2433-4b46-a23c-7afcdfa7fe54" />  
+
+
 
  <hr>  
 
@@ -66,22 +65,10 @@ header:
 
 
 
-  <hr>  
-  
-**Movie Night August 30th at 6:00pm**  
-<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/baa515d8-f4ec-4550-8099-a97c2b313330" />
+ 
 
 
-  <hr>  
-  
-    
-  The Coastal Family Vacation Foundation  
-is a Cancer Respite Program that provides South Carolina Residents fighting cancer  
-an ALL INCLUSIVE FAMILY VACATION on the South Carolina Coast.
-Visit www.coastalfamilyvacation.org for more information.  
-
-  <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/80b1cf34-d4a7-4a08-a250-26c01924592e" />  
-
+ 
   <hr>   
   
 **Worship Service Childcare Provided**    
@@ -110,7 +97,8 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 '**Tuesday 9:30am**  
 **Thursday 10:00am**  
 
-<img width="960" height="720" alt="Slide19" src="https://github.com/user-attachments/assets/3abb0356-40d1-42fe-82f2-f57eb075d61e" />
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/50171022-8cfd-4295-970b-5f68fb7bf8b9" />
+
 
 
 <hr>     
@@ -129,11 +117,7 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 
 
 
-<hr>  
-  
-  **Summer SON rise 8:30 am service through August 30th**   
 
- <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/7abe3f34-c219-46a8-bd3a-e8c1367942fa" />  
 
   <hr>    
 
