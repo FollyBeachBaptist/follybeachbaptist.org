@@ -93,7 +93,14 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 
    **Janie Chapman State Missions Offering**
 
-<img width="960" height="720" alt="Slide16" src="https://github.com/user-attachments/assets/741a4f79-af85-46a2-8c0d-10f9fc467aa2" />
+<img width="960" height="720" alt="Slide16" src="https://github.com/user-attachments/assets/741a4f79-af85-46a2-8c0d-10f9fc467aa2" />  
+
+  <hr>  
+
+ **Special Called Business Meeting!!**  
+
+  <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/efaefdde-b02d-4a3d-98ca-3bffb0ecc657" />
+
 
 
 
@@ -111,7 +118,20 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
     <hr>  
 
    **Operation Christmas Child Collection Week**   
-   <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/32753f6f-406b-4842-b199-8a64f929f209" />
+   <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/32753f6f-406b-4842-b199-8a64f929f209" />  
+
+   <hr>  
+
+ **Birthday Party For Jesus!!**  
+ <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/116928ed-84ee-465b-8b0b-a6de76c35182" />  
+
+ <hr>    
+
+ **Living Nativity**  
+ 
+ <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/9895fe89-0d5e-4922-8485-cf128a86a0ed" />
+
+
 
      
 
