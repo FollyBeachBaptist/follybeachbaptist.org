@@ -22,18 +22,15 @@ header:
 [10:00 am] Two Spaces At The End Of The Line ->
 -->
 
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/cc1d2fb0-22a1-47b9-a943-ae7af98c103f" />  
 
-<hr>  
 
 
 **Sunday, September 6th**    
     
 **9:45am Bible Study**  
 **11:00am Worship Service**  
-**Sermon Title: "Table Manners"**  
-**1 Cor 11:17-33**  
-**Lord's Supper**  
+
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/b4c0f982-287c-4250-a5d5-9f7de9f50e9a" />
 
 
 
@@ -47,7 +44,7 @@ header:
 *All Bible Study Groups are in the Education Bldg*    
 
 **Tuesday, September 8th**  
-**11:00am WMU Monthly Meeting**  
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/94de425f-e698-4a33-9f2b-c9a05c6b9fab" />
 
 
 **Wednesday, September 9th**   
@@ -56,7 +53,9 @@ header:
 **7:00pm Choir Practice**   
 
 **Thursday, September 10th**  
-**5:00pm Prayer at the Pier**
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/4d69905e-78b6-4a44-a29a-f366795fe22a" />
+
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/261f33ac-61ab-4354-9458-f0f130883801" />
 
 
 
