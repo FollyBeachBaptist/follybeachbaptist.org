@@ -30,7 +30,10 @@ header:
 **9:45am Bible Study**  
 **11:00am Worship Service**  
 
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/b4c0f982-287c-4250-a5d5-9f7de9f50e9a" />
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/b4c0f982-287c-4250-a5d5-9f7de9f50e9a" />  
+
+<hr>  
+
 
 
 
@@ -38,24 +41,34 @@ header:
   
 **Monday, September 7th**  
 **6:45pm Men's Bible Study**   
-<img width="960" height="720" alt="Slide15" src="https://github.com/user-attachments/assets/c11016f3-6094-4d5b-be47-93250699b181" />
+<img width="960" height="720" alt="Slide15" src="https://github.com/user-attachments/assets/c11016f3-6094-4d5b-be47-93250699b181" />  
+
+<hr>  
+
  
 
 *All Bible Study Groups are in the Education Bldg*    
 
 **Tuesday, September 8th**  
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/94de425f-e698-4a33-9f2b-c9a05c6b9fab" />
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/94de425f-e698-4a33-9f2b-c9a05c6b9fab" />  
+
+<hr?  
+
+  
 
 
 **Wednesday, September 9th**   
 **5:30pm Building and Grounds Meeting**  
 **6:30pm Online Prayer Meeting**   
-**7:00pm Choir Practice**   
+**7:00pm Choir Practice**    
+
 
 **Thursday, September 10th**  
 <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/4d69905e-78b6-4a44-a29a-f366795fe22a" />
 
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/261f33ac-61ab-4354-9458-f0f130883801" />
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/261f33ac-61ab-4354-9458-f0f130883801" />  
+
+<hr>
 
 
 
