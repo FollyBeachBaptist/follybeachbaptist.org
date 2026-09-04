@@ -128,7 +128,13 @@ Enter through the office door in the back parking lot on West Indian ave
 
 **Ministry Team Summit**  
 
-<img width="960" height="720" alt="Slide22" src="https://github.com/user-attachments/assets/d931573f-4801-46e6-9466-51bb74f17727" />
+<img width="960" height="720" alt="Slide22" src="https://github.com/user-attachments/assets/d931573f-4801-46e6-9466-51bb74f17727" />  
+
+<hr>    
+  
+**Soup and Soul**  
+<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/fb33cb81-52d1-4c77-898a-f1ac6e62544b" />
+
 
 
 <hr>  
