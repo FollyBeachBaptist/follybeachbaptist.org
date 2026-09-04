@@ -97,14 +97,7 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 
   <hr>  
 
- **Special Called Business Meeting!!**  
-
-  <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/efaefdde-b02d-4a3d-98ca-3bffb0ecc657" />
-
-
-
-
-  <hr>  
+ 
 
  **Ministry Team Summit**  
 <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/4a628693-1cb9-47bc-8057-7732091204ca" />
