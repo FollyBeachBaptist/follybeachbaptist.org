@@ -7,14 +7,13 @@ header:
 ---  
 
 
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/fc698470-73ed-4b00-9a7f-69e1793117b6" />
 
 
 
  <hr>  
 
-  **We are on Instagram!!**  
-  <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/c40a0a0f-6e93-45ab-9510-39a701bf13c9" />  
+  **Social Platforms**  
+  <img width="1600" height="1200" alt="Folly_Beach_Baptist_Exact_Beach_Banner_LOCKED_PHOTOS_4x3" src="https://github.com/user-attachments/assets/30d47c8a-9ed5-413c-becc-767e55e678b1" />
 
   <hr>  
   
@@ -27,9 +26,6 @@ header:
 <img width="960" height="720" alt="Slide21" src="https://github.com/user-attachments/assets/1900503d-0445-4330-9b15-b8b7f1ea6e44" />
 
 
-
-
- 
 <hr>      
 
  **Pray at the Pier**  
@@ -42,35 +38,12 @@ header:
  <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/47b78681-d177-4659-840a-decc189e5d02" />
 
     
-
-
-  
-
 **CarePortal**  
 
 <img width="960" height="720" alt="Slide6" src="https://github.com/user-attachments/assets/e3c0472d-8863-464f-99c2-f565a43cbc18" />
 
 <hr>  
-
-**Check Out Our Facebook Page**    
-
-<img width="1448" height="1086" alt="ea3201bf-dad0-4251-adfd-aac806c4fca6" src="https://github.com/user-attachments/assets/8622174c-3cef-4c08-8629-32f489a5633c" />
-
-
-<hr>   
-
- **You Tube**  
-<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/759958ae-df24-43b4-8006-c31970c5a819" />    
-
- **Watch Here:**  https://www.youtube.com/@FollyBeachBaptist
-
-
-
  
-
-
- 
-  <hr>   
   
 **Worship Service Childcare Provided**    
 
@@ -114,11 +87,7 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
  
  **Recovery in Christ**    
 
-<img width="960" height="720" alt="Slide5" src="https://github.com/user-attachments/assets/f0d9772a-06b2-47b6-9d59-e156504b800e" />
-
-
-
-
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/61ed7307-e079-4449-9a33-7f46428ac663" />
 
   <hr>    
 
