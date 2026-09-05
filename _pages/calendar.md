@@ -90,16 +90,9 @@ header:
 
 
 
-**WMU**  
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/ef0328e7-9dbc-4c54-9730-15647107d763" />  
-
-<hr>    
-
-**Pray at the Pier**  
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/5459bee1-88e2-43b3-b2fd-7336afc58537" />
 
 
-<hr>    
+
 
 **WOMEN'S BIBLE STUDY Resumes September 14th**  
 
