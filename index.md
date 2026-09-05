@@ -25,9 +25,6 @@ We are blessed to be located at Folly Beach - a popular vacation destination and
 for many Lowcountry locals. The church here, like the surrounding area, is relaxed and full of
 southern hospitality. Come just like you are. You do not have to get dressed up. Everyone is welcome
 here! It would be a blessing to us to have you join us in person. If you cannot be here in person, please join us online.
-
-
-
 We hope to see you soon!
 
 **He Is Able,**  
