@@ -9,7 +9,7 @@ default:
       url: "https://secure.myvanco.com/L-Z0TS/home"
     - label: "Watch Online"
       icon: "fas fa-laptop-house fa-fw"
-      url: "https://www.facebook.com/FollyBeachBaptistChurch/videos"
+      url: "https://www.youtube.com/@FollyBeachBaptist/Live"
     - label: "Email Us"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:info@follybeachbaptist.org"
