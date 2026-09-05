@@ -136,7 +136,10 @@ Enter through the office door in the back parking lot on West Indian ave
 
  
 **Christmas at the Beach**  
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/fcf840e2-79ff-43af-986f-93b6206d640f" />  
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/fcf840e2-79ff-43af-986f-93b6206d640f" />   
+
+<hr>  
+
 
 **Operation Christmas Child Collections Week**  
 <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/209c8b78-6291-418c-9294-5d74d27a1eb6" />  
