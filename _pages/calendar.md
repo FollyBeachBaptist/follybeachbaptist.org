@@ -52,7 +52,7 @@ header:
 **Tuesday, September 8th**  
 <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/94de425f-e698-4a33-9f2b-c9a05c6b9fab" />  
 
-<hr?  
+<hr>  
 
   
 
@@ -60,7 +60,9 @@ header:
 **Wednesday, September 9th**   
 **5:30pm Building and Grounds Meeting**  
 **6:30pm Online Prayer Meeting**   
-**7:00pm Choir Practice**    
+**7:00pm Choir Practice**   
+
+<hr>
 
 
 **Thursday, September 10th**  
@@ -121,7 +123,7 @@ Enter through the office door in the back parking lot on West Indian ave
 
 **Ministry Team Summit**  
 
-<img width="960" height="720" alt="Slide22" src="https://github.com/user-attachments/assets/d931573f-4801-46e6-9466-51bb74f17727" />  
+<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/d9b22eab-76ee-4aa5-ab14-fa065ab3be63" />
 
 <hr>    
   
