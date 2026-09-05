@@ -11,8 +11,9 @@ author: default
 
   <hr>   
   
-  **You Tube Channel**  
-<img width="1500" height="1125" alt="YouTube PPT" src="https://github.com/user-attachments/assets/ff6cf807-63ba-4cd9-9db2-841af079c064" />
+  **Social Media Reach**  
+
+<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/ec16c652-a6b0-4ca7-bcc6-8b4bdd1d61d8" />
 
 
   <hr>
@@ -26,7 +27,7 @@ Operation Christmas Child demonstrates God's love in a tangible way. Shoe boxes 
 The boxes contain Toys, School supplies, and Hygiene items. Gifts for the boxes are collected March through October, and packed into the boxes at our annual **Christmas At The Beach** OCC Packing party.  
   
   
-For additional information in contributing or volunteering,  please **contact Danielle Willis at 843-224-0873.**  
+For additional information in contributing or volunteering,  please **contact Charlotte Culpepper at 843-908-5858 or Mary Hadley Knapp at 207-319-5597**  
 Or Check here (https://www.samaritanspurse.org/operation-christmas-child/what-goes-in-my-shoebox-suggestions/)
 for suggested gifts and prohibited items.  
 <hr>  
@@ -41,7 +42,8 @@ for suggested gifts and prohibited items.
 
 
 **Soup and Soul Ministry**    
-![20240506_120712](https://github.com/user-attachments/assets/7be8a5be-b791-41c9-9911-c36a38a9db92)
+<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/624a856e-7ce4-4bb6-b4f3-0e927e11f071" />
+
 
 Join us every Monday from October through May at noon in the Church Fellowship Hall for a hot bowl
 or soup and friendship. Access is through the church parking lot on Indian Ave.  
@@ -49,7 +51,8 @@ or soup and friendship. Access is through the church parking lot on Indian Ave.
 
 **Recovery in Christ**    
 
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/47646b40-ec7f-4618-90da-8c499f11ef03" />
+<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/8e06d990-09a9-4524-a4d6-efabe9b8a6c5" />
+
 
 
 What is Christ-centered Recovery? Christ-centered recovery involves turning from our hurts, habits,
@@ -70,7 +73,8 @@ behold, the new has come."
   
 
 
-**Wednesday Night Hour of Power** is a virtual prayer service broadcasting Wednesdays at 6:30pm on
+**Wednesday Night Hour of Power**   
+is a virtual prayer service broadcasting Wednesdays at 6:30pm on
 [Facebook Live](https://www.facebook.com/FollyBeachBaptistChurch/). To pray with us simply go to our page Wednesdays at 6:30. You can text or private message
 **Pastor Clark Carter** before Wednesday with your prayer requests at **843-478-6779**. Or you may leave a
 message with your prayer request at **843-588-9414**.   
