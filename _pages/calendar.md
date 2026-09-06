@@ -40,8 +40,8 @@ header:
 
   
 **Monday, September 7th**  
-**6:45pm Men's Bible Study**   
-<img width="960" height="720" alt="Slide15" src="https://github.com/user-attachments/assets/c11016f3-6094-4d5b-be47-93250699b181" />  
+**6:45pm Men's Bible Study Is Not Meeting**   
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/2f9a6764-e272-4d7d-aed2-c9b1ea5e9a4c" />
 
 <hr>  
 
