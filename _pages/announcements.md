@@ -114,7 +114,7 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
    **Christmas at the Beach**  
    <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/08b033c1-cf94-417e-b69b-148e17383116" />  
 
-    <hr>  
+   <hr>  
 
    **Operation Christmas Child Collection Week**   
    <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/32753f6f-406b-4842-b199-8a64f929f209" />  
