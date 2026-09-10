@@ -55,6 +55,8 @@ header:
 
 *All Bible Study Groups are in the Education Bldg*    
 
+<hr>
+
 **Tuesday, September 15th**  
 **9:30am Women's Bible Study**
 <hr>  
@@ -71,10 +73,11 @@ header:
 <hr>
 
 
-**Thursday, September 10th**  
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/4d69905e-78b6-4a44-a29a-f366795fe22a" />
+**Thursday, September 17th**   
+**10:00am Women's Bible Study**
+**6:00pm Recovery In Christ** 
+<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/1fa9ce5c-277f-4660-8f64-d69315f30e59" />
 
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/261f33ac-61ab-4354-9458-f0f130883801" />  
 
 <hr>
 
@@ -82,13 +85,12 @@ header:
 
   
 
-**Sunday, September 13th**  
+**Sunday, September 20th**  
 
 **9:45 am Bible Study**  
 **11:00 am Worship Service**   
-**Sermon Title: "The Basics"**  
-**1 Corinthians 12:1-7, 11-27**  
-**Spiritual Gifts (1 of 6)**
+<img width="960" height="720" alt="Slide4" src="https://github.com/user-attachments/assets/3081a586-83de-4717-9f4a-5bafc40adc8e" />
+
 
 <hr>   
 
@@ -102,16 +104,6 @@ header:
 
 
 
-**WOMEN'S BIBLE STUDY Resumes September 14th**  
-
-  **Mondays at 6:30 pm**    
-  **Tuesdays at 9:30 am**   
-  **Thursdays at 10:00am**  
-  
- <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/08c54288-bb42-4f3f-b1f6-6b0b2d8ea36a" />
-
-
-  <hr>  
 
     
 
