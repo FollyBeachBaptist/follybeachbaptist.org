@@ -29,13 +29,15 @@ header:
 <hr>      
 
  **Pray at the Pier**  
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/6dbc0e3d-227f-4563-98fa-a2c2c73fa704" />
+
+<img width="1448" height="1086" alt="Pray at Pier 4 3 format" src="https://github.com/user-attachments/assets/799e4409-0930-44d6-9103-16b1e5c98dd7" />
 
 
   <hr>  
 
  **WMU**  
- <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/47b78681-d177-4659-840a-decc189e5d02" />
+ 
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/7783ea66-8016-41eb-9a6a-a4d03c30f429" />
 
     
 **CarePortal**  
