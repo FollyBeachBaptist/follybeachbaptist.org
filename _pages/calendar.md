@@ -25,12 +25,13 @@ header:
 
 
 
-**Sunday, September 6th**    
+**Sunday, September 13th**    
     
 **9:45am Bible Study**  
 **11:00am Worship Service**  
 
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/b4c0f982-287c-4250-a5d5-9f7de9f50e9a" />  
+<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/ec12b7ba-01d1-4abb-8bf3-1cb7b02d09fe" />
+
 
 <hr>  
 
@@ -39,9 +40,14 @@ header:
 
 
   
-**Monday, September 7th**  
-**6:45pm Men's Bible Study Is Not Meeting**   
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/2f9a6764-e272-4d7d-aed2-c9b1ea5e9a4c" />
+**Monday, September 14th**  
+**6:30 pm Women's Bible Study**   
+<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/de2a8e32-9647-4505-924b-48cfc378514b" />  
+
+**6:45 pm Men's Bible Study**  
+<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/ceb915e3-10b8-4e15-8592-784bea5f566d" />
+
+
 
 <hr>  
 
@@ -49,17 +55,17 @@ header:
 
 *All Bible Study Groups are in the Education Bldg*    
 
-**Tuesday, September 8th**  
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/94de425f-e698-4a33-9f2b-c9a05c6b9fab" />  
-
+**Tuesday, September 15th**  
+**9:30am Women's Bible Study**
 <hr>  
 
   
 
 
-**Wednesday, September 9th**   
-**5:30pm Building and Grounds Meeting**  
-**6:30pm Online Prayer Meeting**   
+**Wednesday, September 16th**    
+**6:30pm Special Called Business Meeting**  
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/32e0a701-349e-4cf2-9475-298e8750b64d" />
+
 **7:00pm Choir Practice**   
 
 <hr>
