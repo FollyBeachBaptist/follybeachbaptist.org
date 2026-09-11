@@ -40,9 +40,7 @@ header:
 <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/7783ea66-8016-41eb-9a6a-a4d03c30f429" />
 
     
-**CarePortal**  
 
-<img width="960" height="720" alt="Slide6" src="https://github.com/user-attachments/assets/e3c0472d-8863-464f-99c2-f565a43cbc18" />
 
 <hr>  
  
