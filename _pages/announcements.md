@@ -83,7 +83,7 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
   Mondays at 6:45pm**       
   Join a brotherhood of faith as we dive into Scripture, share life's challenges, and grow together in Christ. Whether you're new to the Bible or a seasoned believer, this group offers a welcoming space for honest conversation, spiritual encouragement, and practical application. Come as you are----Leave strengthened.
   
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/a18abce9-9771-4641-a61f-7828749f8686" />
+<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/6eb4d5a6-c671-475c-b7d9-000ac7156297" />
 
 
   <hr>    
