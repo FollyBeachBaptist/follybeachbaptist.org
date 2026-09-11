@@ -32,11 +32,7 @@ Or Check here (https://www.samaritanspurse.org/operation-christmas-child/what-go
 for suggested gifts and prohibited items.  
 <hr>  
 
-**CarePortal**  
 
-<img width="1500" height="1125" alt="CarePortal" src="https://github.com/user-attachments/assets/1e1d7d15-def1-4b7c-98c6-163129a8b36c" />  
-
-<hr>  
 
 
 
