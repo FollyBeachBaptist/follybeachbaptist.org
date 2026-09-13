@@ -135,7 +135,7 @@ Enter through the office door in the back parking lot on West Indian ave
 
  
 **Christmas at the Beach**  
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/fcf840e2-79ff-43af-986f-93b6206d640f" />   
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/c3d74929-2ce1-4b42-9513-15d6de427270" />
 
 <hr>  
 
