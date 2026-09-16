@@ -90,8 +90,8 @@ header:
 
 **9:45 am Bible Study**  
 **11:00 am Worship Service**   
-<img width="960" height="720" alt="Slide4" src="https://github.com/user-attachments/assets/3081a586-83de-4717-9f4a-5bafc40adc8e" />
 
+<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/75a4716c-c5a8-4ced-bf1c-f1103d4dbe41" />
 
 <hr>   
 
@@ -115,7 +115,7 @@ header:
 *In the Education Building.*  
 Enter through the office door in the back parking lot on West Indian ave    
 
-<img width="960" height="720" alt="Slide21" src="https://github.com/user-attachments/assets/06e56c76-1fcf-4da7-8ee8-926823123695" />
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/f36568e4-180a-41d6-8560-9cef2162b703" />
 
 
 <hr>   
