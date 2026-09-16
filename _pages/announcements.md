@@ -12,6 +12,12 @@ header:
 
  <hr>  
 
+ **OPERATION CHRISTMAS CHILD PENCIL WEEK**  
+ <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/87703393-d42c-4bf0-aef3-6ce037d07c7d" />  
+
+  <hr>  
+  
+
   **Social Platforms**  
   <img width="1600" height="1200" alt="Folly_Beach_Baptist_Exact_Beach_Banner_LOCKED_PHOTOS_4x3" src="https://github.com/user-attachments/assets/30d47c8a-9ed5-413c-becc-767e55e678b1" />
 
