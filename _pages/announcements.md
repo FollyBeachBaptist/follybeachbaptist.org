@@ -23,7 +23,8 @@ header:
   **Monday Mornings at 10:30am**  
   **Beginning September 21st, 2026**
   
-<img width="960" height="720" alt="Slide21" src="https://github.com/user-attachments/assets/1900503d-0445-4330-9b15-b8b7f1ea6e44" />
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/e4e40889-c8e6-4866-9c0d-c69422894141" />
+
 
 
 <hr>      
