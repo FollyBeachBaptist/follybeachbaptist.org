@@ -10,7 +10,7 @@ header:
 
 <hr>  
 
- **WE NOW HAVE HEARING ASSIST DEVICES!!**
+ **WE NOW HAVE ASSISTIVE LISTENING DEVICES!!**
 <img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/919684e1-3efc-422f-87c1-fa7fe66b7ab3" />
 
  <hr>  
