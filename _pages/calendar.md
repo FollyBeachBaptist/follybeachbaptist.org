@@ -25,12 +25,12 @@ header:
 
 
 
-**Sunday, September 13th**    
+**Sunday, September 20th**    
     
 **9:45am Bible Study**  
 **11:00am Worship Service**  
+<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/cb7eaf3f-3ccc-45eb-8485-f8d4049e7096" />
 
-<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/ec12b7ba-01d1-4abb-8bf3-1cb7b02d09fe" />
 
 
 <hr>  
@@ -40,7 +40,10 @@ header:
 
 
   
-**Monday, September 14th**  
+**Monday, September 21st**    
+**10:30am Moms In Prayer**  
+<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/0fa556d4-d6f3-4338-b672-71eb46b98257" />
+
 **6:30 pm Women's Bible Study**   
 <img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/de2a8e32-9647-4505-924b-48cfc378514b" />  
 
@@ -57,23 +60,23 @@ header:
 
 <hr>
 
-**Tuesday, September 15th**  
+**Tuesday, September 22nd**  
 **9:30am Women's Bible Study**
 <hr>  
 
   
 
 
-**Wednesday, September 16th**    
-**6:30pm Special Called Business Meeting**  
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/32e0a701-349e-4cf2-9475-298e8750b64d" />
+**Wednesday, September 23rd**    
+**5:30pm Building and Grounds**  
+**6:30pm Online Prayer Meeting**  
 
 **7:00pm Choir Practice**   
 
 <hr>
 
 
-**Thursday, September 17th**  
+**Thursday, September 24th**  
 **10:00am Women's Bible Study**  
 
 **6:00pm Recovery In Christ** 
@@ -82,47 +85,17 @@ header:
 
 <hr>
 
-
-
-  
-
-**Sunday, September 20th**  
-
+**Sunday, September 27th**  
 **9:45 am Bible Study**  
 **11:00 am Worship Service**   
 
-<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/75a4716c-c5a8-4ced-bf1c-f1103d4dbe41" />
+<img width="960" height="720" alt="Slide5" src="https://github.com/user-attachments/assets/9b74262f-2695-4a0c-9562-8f8b70b9d2ed" />    
 
-<hr>   
+  
 
+**1:00pm - 5:00pm Ministry Team Summit**  
+<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/10f2ea41-1a96-4f92-a075-a59cd064c3d1" />
 
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-**Moms In Prayer**    
-**All moms are welcome to join us beginning Monday, September 21st at 10:30 am as we pray for our schools and children**  
-*In the Education Building.*  
-Enter through the office door in the back parking lot on West Indian ave    
-
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/f36568e4-180a-41d6-8560-9cef2162b703" />
-
-
-<hr>   
-
-**Ministry Team Summit**  
-
-<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/d9b22eab-76ee-4aa5-ab14-fa065ab3be63" />
 
 <hr>    
   
