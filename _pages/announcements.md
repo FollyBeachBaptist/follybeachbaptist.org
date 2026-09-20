@@ -30,7 +30,6 @@ header:
 
   **Moms In Prayer**   
   **Monday Mornings at 10:30am**  
-  **Beginning September 21st, 2026**
   
 <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/e4e40889-c8e6-4866-9c0d-c69422894141" />
 
