@@ -25,11 +25,13 @@ header:
 
 
 
-**Sunday, September 20th**    
+**Sunday, September 27th**    
     
 **9:45am Bible Study**  
 **11:00am Worship Service**  
-<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/cb7eaf3f-3ccc-45eb-8485-f8d4049e7096" />
+<img width="960" height="720" alt="Slide3" src="https://github.com/user-attachments/assets/acd9cc10-2c52-4d67-bb59-6448f18bf1ee" />
+
+<img width="960" height="720" alt="Slide5" src="https://github.com/user-attachments/assets/6ebd2a4c-9c9b-47e8-a00b-68259e64d64a" />
 
 
 
