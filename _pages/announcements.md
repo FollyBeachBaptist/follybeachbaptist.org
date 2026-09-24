@@ -15,8 +15,8 @@ header:
 
  <hr>  
 
- **OPERATION CHRISTMAS CHILD PENCIL WEEK**  
- <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/87703393-d42c-4bf0-aef3-6ce037d07c7d" />  
+ **OPERATION CHRISTMAS CHILD**  
+<img width="960" height="720" alt="Slide6" src="https://github.com/user-attachments/assets/efeff201-7ccb-4016-a68e-2e6c34636347" />
 
   <hr>  
   
@@ -102,7 +102,8 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 
    **Janie Chapman State Missions Offering**
 
-<img width="960" height="720" alt="Slide16" src="https://github.com/user-attachments/assets/741a4f79-af85-46a2-8c0d-10f9fc467aa2" />  
+<img width="960" height="720" alt="Slide17" src="https://github.com/user-attachments/assets/ab90a255-5af0-49a7-955f-d658c0a022dd" />
+
 
   <hr>  
 
