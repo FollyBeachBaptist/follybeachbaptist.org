@@ -8,7 +8,14 @@ header:
 
 
 
-<hr>  
+<hr>    
+
+**Church Office Hours**   
+
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/6e6b7c08-8ca2-40f5-a5a3-bedcec898d40" />
+
+ <hr>  
+ 
 
  **WE NOW HAVE ASSISTIVE LISTENING DEVICES!!**
 <img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/919684e1-3efc-422f-87c1-fa7fe66b7ab3" />
