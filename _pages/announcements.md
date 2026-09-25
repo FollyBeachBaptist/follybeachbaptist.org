@@ -72,7 +72,8 @@ header:
 We also have Bible studies for all ages (preschool, children, youth, and adults)  
  **Sunday mornings from 9:45 a.m. until 10:45 a.m.**    
  
-<img width="960" height="720" alt="Slide14" src="https://github.com/user-attachments/assets/e28270d3-395c-46d3-b119-8a90b57bb0f1" />
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/7d59c9a7-0cd4-4619-8c59-106632add01a" />
+
 
 
 <hr>
