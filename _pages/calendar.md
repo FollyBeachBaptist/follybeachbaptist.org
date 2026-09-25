@@ -87,22 +87,21 @@ header:
 
 <hr>
 
-**Sunday, September 27th**  
+**Sunday, October 4th**  
 **9:45 am Bible Study**  
 **11:00 am Worship Service**   
+<img width="960" height="720" alt="Slide6" src="https://github.com/user-attachments/assets/c4f86864-10fc-4480-b737-8f2071ad72c5" />
 
-<img width="960" height="720" alt="Slide5" src="https://github.com/user-attachments/assets/9b74262f-2695-4a0c-9562-8f8b70b9d2ed" />    
 
-  
 
-**1:00pm - 5:00pm Ministry Team Summit**  
-<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/10f2ea41-1a96-4f92-a075-a59cd064c3d1" />
+
 
 
 <hr>    
   
 **Soup and Soul**  
-<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/fb33cb81-52d1-4c77-898a-f1ac6e62544b" />
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/279fe89d-3647-4fa2-8839-2334453d58c3" />
+
 
 
 
@@ -110,7 +109,7 @@ header:
 
  
 **Christmas at the Beach**  
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/c3d74929-2ce1-4b42-9513-15d6de427270" />
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/175e086b-2f75-4127-af3b-fa4d03579a07" />
 
 <hr>  
 
