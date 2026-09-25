@@ -120,9 +120,13 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
  
 
  **Ministry Team Summit**  
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/4a628693-1cb9-47bc-8057-7732091204ca" />  
+<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/4474ebce-003b-4acc-8558-1ef701aea74d" />
 
-  <hr>  
+
+  <hr>   
+  
+  **Soup and Soul Ministry**  
+  
 <img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/a8ee3357-4ad3-4d27-9133-317328581cec" />
 
   
