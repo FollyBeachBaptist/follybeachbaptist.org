@@ -38,7 +38,8 @@ for suggested gifts and prohibited items.
 
 
 **Soup and Soul Ministry**    
-<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/624a856e-7ce4-4bb6-b4f3-0e927e11f071" />
+
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/3e3ae24b-fdd8-40f6-b7d3-16d73c20fa0b" />
 
 
 Join us every Monday from October through May at noon in the Church Fellowship Hall for a hot bowl
