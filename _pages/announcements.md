@@ -55,8 +55,8 @@ header:
  
   
 **Worship Service Childcare Provided**    
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/b5dcf996-46ab-40cf-87b5-910ce367ff36" />
 
-<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/00747780-f10f-4b42-bac5-dc81bdc180e3" />
 
   We have childcare provided during our morning worship service for ages **birth through 4 years old!** 
 
