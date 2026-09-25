@@ -71,7 +71,7 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 <hr>
     
 **Contact Us!!**  
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/622178ff-176f-49f5-9851-7e0d97ae7bcc" />
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/ed896434-42ec-4de0-b0c1-c99389f85a9c" />
 
 <hr>   
 
