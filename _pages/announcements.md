@@ -128,7 +128,8 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
   
   **Soup and Soul Ministry**  
   
-<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/a8ee3357-4ad3-4d27-9133-317328581cec" />
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/14b2ecf6-ae48-4880-b417-53727946cb19" />
+
 
   
 
