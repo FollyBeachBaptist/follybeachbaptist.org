@@ -42,16 +42,16 @@ header:
 
 
   
-**Monday, September 21st**    
+**Monday, September 28th**    
 **10:30am Moms In Prayer**  
 <img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/0fa556d4-d6f3-4338-b672-71eb46b98257" />
 
 **6:30 pm Women's Bible Study**   
-<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/de2a8e32-9647-4505-924b-48cfc378514b" />  
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/fd452ace-9b66-4914-89b0-bf2c4213e870" />
 
 **6:45 pm Men's Bible Study**  
-<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/ceb915e3-10b8-4e15-8592-784bea5f566d" />
 
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/7f0ac816-d9e3-414d-a2d8-790904395758" />
 
 
 <hr>  
