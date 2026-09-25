@@ -62,14 +62,14 @@ header:
 
 <hr>
 
-**Tuesday, September 22nd**  
+**Tuesday, September 29th**  
 **9:30am Women's Bible Study**
 <hr>  
 
   
 
 
-**Wednesday, September 23rd**    
+**Wednesday, September 30th**    
 **5:30pm Building and Grounds**  
 **6:30pm Online Prayer Meeting**  
 
@@ -78,10 +78,10 @@ header:
 <hr>
 
 
-**Thursday, September 24th**  
+**Thursday, October 1st**  
 **10:00am Women's Bible Study**  
 
-**6:00pm Recovery In Christ** 
+**6:00pm Recovery In Christ Not Meeting, Will Resume October 8th**
 <img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/1fa9ce5c-277f-4660-8f64-d69315f30e59" />
 
 
