@@ -106,26 +106,21 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 
   <hr>    
  
- **Recovery in Christ**    
+ **Recovery in Christ**  
+ **Is Not Meeting Thursday, October 1st.  
+ If you are in need, please call the number on the slide.   
+ You are not alone!! We are here for you!!**
 
 <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/61ed7307-e079-4449-9a33-7f46428ac663" />
 
-  <hr>    
-
-   **Janie Chapman State Missions Offering**
-
-<img width="960" height="720" alt="Slide17" src="https://github.com/user-attachments/assets/ab90a255-5af0-49a7-955f-d658c0a022dd" />
+ 
 
 
   <hr>  
 
  
 
- **Ministry Team Summit**  
-<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/4474ebce-003b-4acc-8558-1ef701aea74d" />
 
-
-  <hr>   
   
   **Soup and Soul Ministry**  
   
