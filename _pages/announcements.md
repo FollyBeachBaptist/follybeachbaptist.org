@@ -25,8 +25,21 @@ header:
  **OPERATION CHRISTMAS CHILD**  
 <img width="960" height="720" alt="Slide6" src="https://github.com/user-attachments/assets/efeff201-7ccb-4016-a68e-2e6c34636347" />
 
-  <hr>  
+  <hr>   
   
+  **Young Life Student Ministry Is Meeting at FBBC!!**  
+  <img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/e521bdd5-c247-4beb-b09a-2825f3c483e0" />  
+
+ <hr>   
+
+ **Charleston Baptist Association 275th Annual Meeting**  
+ <img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/4053ef2f-aee5-44e3-8eb9-db96e6309549" />  
+
+<hr>  
+
+
+ 
+
 
   **Social Platforms**  
   <img width="1600" height="1200" alt="Folly_Beach_Baptist_Exact_Beach_Banner_LOCKED_PHOTOS_4x3" src="https://github.com/user-attachments/assets/30d47c8a-9ed5-413c-becc-767e55e678b1" />
