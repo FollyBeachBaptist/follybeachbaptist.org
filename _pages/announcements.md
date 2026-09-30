@@ -46,7 +46,8 @@ header:
 
  **Pray at the Pier**  
 
-<img width="1448" height="1086" alt="Pray at Pier 4 3 format" src="https://github.com/user-attachments/assets/799e4409-0930-44d6-9103-16b1e5c98dd7" />
+<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/57c19986-f044-403c-a0ba-9817447c951f" />
+
 
 
   <hr>  
