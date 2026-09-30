@@ -92,7 +92,13 @@ header:
 **Sunday, October 4th**  
 **9:45 am Bible Study**  
 **11:00 am Worship Service**   
-<img width="960" height="720" alt="Slide6" src="https://github.com/user-attachments/assets/c4f86864-10fc-4480-b737-8f2071ad72c5" />
+<img width="960" height="720" alt="Slide6" src="https://github.com/user-attachments/assets/c4f86864-10fc-4480-b737-8f2071ad72c5" />  
+
+<hr>  
+
+**WMU**  
+<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/203fab27-42fa-49d9-99b3-4b3da9f30791" />
+
 
 
 
