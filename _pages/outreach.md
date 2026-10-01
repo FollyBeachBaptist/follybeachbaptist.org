@@ -16,7 +16,11 @@ author: default
 <img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/ec16c652-a6b0-4ca7-bcc6-8b4bdd1d61d8" />
 
 
-  <hr>
+  <hr>  
+
+**Young Life Student Ministry**  
+<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/42a2dc14-38ef-4709-9521-d5498b479fad" />
+
 
 
 **Operation Christmas Child**    
