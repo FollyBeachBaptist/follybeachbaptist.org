@@ -137,7 +137,15 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
   
   **Soup and Soul Ministry**  
   
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/14b2ecf6-ae48-4880-b417-53727946cb19" />
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/14b2ecf6-ae48-4880-b417-53727946cb19" />  
+
+ <hr>   
+
+ **2026 Baptist Women's WORLD DAY OF PRAYER**  
+ <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/053c0ad6-df8d-4f1e-9419-2ff0a69c2ed2" />
+
+
+   
 
 
   
