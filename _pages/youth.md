@@ -10,7 +10,7 @@ title: "On The Edge Student Ministries"
 
 We help students in grades 6–12 face life’s challenges with confidence and shine the light of Christ. Our welcoming, God-honoring ministry meets students wherever they are in their faith journey. Through Bible-centered teaching, daily prayer, and devotion, we encourage a personal, growing relationship with Jesus.
 
-**Bring Your Youth Mission Team to Charleston!**
+**Bring Your Youth Mission Team to Folly Beach!**
 
 Last year, we welcomed youth mission teams from North Carolina, Mississippi, and Alabama. We’d love to host your team this summer!  
 
