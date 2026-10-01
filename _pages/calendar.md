@@ -25,13 +25,12 @@ header:
 
 
 
-**Sunday, September 27th**    
+**Sunday, October 4th**    
     
 **9:45am Bible Study**  
 **11:00am Worship Service**  
-<img width="960" height="720" alt="Slide3" src="https://github.com/user-attachments/assets/acd9cc10-2c52-4d67-bb59-6448f18bf1ee" />
 
-<img width="960" height="720" alt="Slide5" src="https://github.com/user-attachments/assets/6ebd2a4c-9c9b-47e8-a00b-68259e64d64a" />
+<img width="960" height="720" alt="Slide6" src="https://github.com/user-attachments/assets/2034ee4f-260c-454f-aaa6-ffbd0669985e" />
 
 
 
@@ -42,7 +41,7 @@ header:
 
 
   
-**Monday, September 28th**    
+**Monday, October 5th**    
 **10:30am Moms In Prayer**  
 <img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/0fa556d4-d6f3-4338-b672-71eb46b98257" />
 
@@ -51,7 +50,11 @@ header:
 
 **6:45 pm Men's Bible Study**  
 
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/7f0ac816-d9e3-414d-a2d8-790904395758" />
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/7f0ac816-d9e3-414d-a2d8-790904395758" />  
+
+**Young Life Student Ministry**  
+
+<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/51c4eca8-38d6-4644-ae81-f51bab139dd5" />
 
 
 <hr>  
@@ -62,14 +65,14 @@ header:
 
 <hr>
 
-**Tuesday, September 29th**  
+**Tuesday, October 6th**  
 **9:30am Women's Bible Study**
 <hr>  
 
   
 
 
-**Wednesday, September 30th**    
+**Wednesday, October 7th**    
 **5:30pm Building and Grounds**  
 **6:30pm Online Prayer Meeting**  
 
@@ -78,26 +81,32 @@ header:
 <hr>
 
 
-**Thursday, October 1st**  
+**Thursday, October 8th**  
 **10:00am Women's Bible Study**  
+**Prayer at the Pier**  
+<img width="960" height="720" alt="Slide18" src="https://github.com/user-attachments/assets/d224c551-7d26-4531-831d-b29fff54c51c" />
 
-**6:00pm Recovery In Christ is Not Meeting this week, but Will Resume October 8th**  
-**Please call the number in the slide if you are in need**  
-**You are not alone!! We are Here For You!!**
-<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/1fa9ce5c-277f-4660-8f64-d69315f30e59" />
+**6:00pm Recovery In Christ**  
+
+<img width="960" height="720" alt="Slide8" src="https://github.com/user-attachments/assets/012734a0-ac6f-4e74-8711-f2417a5948ee" />
 
 
 <hr>
 
-**Sunday, October 4th**  
+**Sunday, October 11th**  
 **9:45 am Bible Study**  
 **11:00 am Worship Service**   
-<img width="960" height="720" alt="Slide6" src="https://github.com/user-attachments/assets/c4f86864-10fc-4480-b737-8f2071ad72c5" />  
+<img width="960" height="720" alt="Slide7" src="https://github.com/user-attachments/assets/58e7b4ba-00d6-4e82-9454-db797ea0f4c2" />
+
 
 <hr>  
 
 **WMU**  
-<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/203fab27-42fa-49d9-99b3-4b3da9f30791" />
+<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/203fab27-42fa-49d9-99b3-4b3da9f30791" />  
+
+<hr>  
+<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/70ce5e60-8b06-4ebf-b700-d67b55121362" />
+
 
 
 
