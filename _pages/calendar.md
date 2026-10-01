@@ -122,7 +122,13 @@ header:
 
 
 
-<hr>  
+<hr>    
+
+**2026 BAPTIST WOMEN'S WORLD DAY OF PRAYER**  
+
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/2941fdfb-ce44-43ab-aa2b-229982f5eab1" />  
+
+<hr>
 
  
 **Christmas at the Beach**  
