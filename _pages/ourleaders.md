@@ -17,8 +17,6 @@ header:
 <i class="fas fa-mobile-alt fa-fw"></i> 843-460-7737  
 <i class="far fa-envelope fa-fw"></i> superdad8586@yahoo.com
 
-**Pastor Emeritus | Rev. Richard Summey**  
-<i class="fas fa-mobile-alt fa-fw"></i> 843-793-8623
 
 
 **Office Administrator | Donna Bolus**  
@@ -33,10 +31,10 @@ Terri Smith
 Matt beasley
 
 **Pianist**  
-Debbie Summey
+Linda Frier
 
 **Treasurer**  
-Marie Schultz
+Marie Schultz / Nancy McConnell
 
 
 
