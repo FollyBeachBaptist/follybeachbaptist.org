@@ -8,7 +8,7 @@ header:
 
 [View the Monthly Calendar]({{ '/monthly-calendar/' | relative_url }})
 
-General public invited. All Bible Study groups meet in the Education Building.
+ All Bible Study groups meet in the Education Building.
 
 {% for event in site.data.calendar %}
 <article class="calendar-scroll-event">
