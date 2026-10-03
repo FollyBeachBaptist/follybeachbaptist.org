@@ -1,9 +1,9 @@
 # Shared source for Calendar Scroll and Monthly Calendar. Dates must be quoted.
 - title: Bible Study
-  date: 'Sunday2026-10-04'
+  date: '2026-10-04'
   time: 9:45 AM
 - title: Worship Service
-  date: 'Sunday2026-10-04'
+  date: '2026-10-04'
   time: 11:00 AM
   slide: https://github.com/user-attachments/assets/2034ee4f-260c-454f-aaa6-ffbd0669985e
 - title: Moms in Prayer
