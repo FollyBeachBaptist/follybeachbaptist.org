@@ -1,0 +1,25 @@
+---
+title: "Monthly Calendar"
+permalink: /monthly-calendar/
+author_profile: false
+classes: wide
+header:
+  og_image: /assets/images/preview.jpg
+---
+<link rel="stylesheet" href="{{ '/assets/css/monthly-calendar.css' | relative_url }}">
+<p>General public invited. <a href="{{ '/calendar/' | relative_url }}">View announcement slides in Calendar Scroll.</a></p>
+<section id="monthly-calendar" data-source="{{ '/calendar-events.json' | relative_url }}" aria-label="Monthly church calendar">
+  <div id="calendar-controls" hidden>
+    <button id="calendar-prev" type="button" aria-label="Previous month">Previous</button>
+    <label for="calendar-month">Month</label>
+    <select id="calendar-month"></select>
+    <button id="calendar-next" type="button" aria-label="Next month">Next</button>
+    <button id="calendar-print" type="button">Print</button>
+  </div>
+  <h2 id="calendar-heading" aria-live="polite"></h2>
+  <div class="mc-weekdays" aria-hidden="true"><span>Sun</span><span>Mon</span><span>Tue</span><span>Wed</span><span>Thu</span><span>Fri</span><span>Sat</span></div>
+  <div id="calendar-days"></div>
+  <p id="calendar-notice" role="status">Loading calendar…</p>
+</section>
+<noscript><p>Please enable JavaScript to view the monthly calendar, or <a href="{{ '/calendar/' | relative_url }}">visit Calendar Scroll</a>.</p></noscript>
+<script src="{{ '/assets/js/monthly-calendar.js' | relative_url }}" defer></script>

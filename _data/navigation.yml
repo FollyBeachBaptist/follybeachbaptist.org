@@ -2,8 +2,10 @@
 main:
   - title: "Announcements"
     url: /announcements/
-  - title: "Calendar"
+  - title: "Calendar Scroll"
     url: /calendar/  
+  - title: "Monthly Calendar"
+    url: /monthly-calendar/
   - title: "Live-Stream"  
     url: https://www.youtube.com/@FollyBeachBaptist/Live  
   - title: "Instagram"      

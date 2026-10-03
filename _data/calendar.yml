@@ -1,0 +1,102 @@
+# Shared source for Calendar Scroll and Monthly Calendar. Dates must be quoted.
+- title: Bible Study
+  date: '2026-10-04'
+  time: 9:45 AM
+- title: Worship Service
+  date: '2026-10-04'
+  time: 11:00 AM
+  slide: https://github.com/user-attachments/assets/2034ee4f-260c-454f-aaa6-ffbd0669985e
+- title: Moms in Prayer
+  date: '2026-10-05'
+  time: 10:30 AM
+  slide: https://github.com/user-attachments/assets/0fa556d4-d6f3-4338-b672-71eb46b98257
+- title: Women’s Bible Study
+  date: '2026-10-05'
+  time: 6:30 PM
+  slide: https://github.com/user-attachments/assets/fd452ace-9b66-4914-89b0-bf2c4213e870
+- title: Men’s Bible Study
+  date: '2026-10-05'
+  time: 6:45 PM
+  slide: https://github.com/user-attachments/assets/7f0ac816-d9e3-414d-a2d8-790904395758
+- title: Young Life Student Ministry
+  date: '2026-10-05'
+  time: 7:30 PM
+  slide: https://github.com/user-attachments/assets/51c4eca8-38d6-4644-ae81-f51bab139dd5
+- title: Women’s Bible Study
+  date: '2026-10-06'
+  time: 9:30 AM
+- title: Building and Grounds
+  date: '2026-10-07'
+  time: 5:30 PM
+- title: Online Prayer Meeting
+  date: '2026-10-07'
+  time: 6:30 PM
+- title: Choir Practice
+  date: '2026-10-07'
+  time: 7:00 PM
+- title: Women’s Bible Study
+  date: '2026-10-08'
+  time: 10:00 AM
+- title: Prayer at the Pier
+  date: '2026-10-08'
+  time: 5:00 PM
+  slide: https://github.com/user-attachments/assets/d224c551-7d26-4531-831d-b29fff54c51c
+- title: Recovery in Christ
+  date: '2026-10-08'
+  time: 6:00 PM
+  slide: https://github.com/user-attachments/assets/012734a0-ac6f-4e74-8711-f2417a5948ee
+- title: Bible Study
+  date: '2026-10-11'
+  time: 9:45 AM
+- title: Worship Service
+  date: '2026-10-11'
+  time: 11:00 AM
+  slide: https://github.com/user-attachments/assets/58e7b4ba-00d6-4e82-9454-db797ea0f4c2
+- title: WMU
+  date: '2026-10-13'
+  time: 11:00 AM
+  slide: https://github.com/user-attachments/assets/203fab27-42fa-49d9-99b3-4b3da9f30791
+- title: CBA Gospel History Tour
+  date: '2026-10-14'
+  time: 9:00 AM
+- title: CBA Lunch
+  date: '2026-10-14'
+  time: 12:30 PM
+- title: CBA Baptist History Lectures
+  date: '2026-10-14'
+  time: 1:30 PM
+- title: CBA 275th Annual Meeting
+  date: '2026-10-15'
+  time: 9:30 AM
+- title: CBA Inauguration Celebration
+  date: '2026-10-15'
+  time: Doors open at 6:00 PM
+  slide: https://github.com/user-attachments/assets/70ce5e60-8b06-4ebf-b700-d67b55121362
+- title: Soup and Soul begins
+  date: '2026-10-19'
+  time: 12:00 noon
+  slide: https://github.com/user-attachments/assets/279fe89d-3647-4fa2-8839-2334453d58c3
+- title: Baptist Women’s World Day of Prayer
+  date: '2026-10-25'
+  time: 3:00–5:00 PM
+  slide: https://github.com/user-attachments/assets/2941fdfb-ce44-43ab-aa2b-229982f5eab1
+- title: Operation Christmas Child Packing Party
+  date: '2026-11-15'
+  time: 5:00–8:00 PM
+  slide: https://github.com/user-attachments/assets/175e086b-2f75-4127-af3b-fa4d03579a07
+- title: Operation Christmas Child Collections Week
+  date: '2026-11-16'
+  time: Needs confirmation
+  end_date: '2026-11-23'
+  slide: https://github.com/user-attachments/assets/209c8b78-6291-418c-9294-5d74d27a1eb6
+- title: Birthday Party for Jesus
+  date: '2026-12-12'
+  time: After the Folly Beach Parade
+  slide: https://github.com/user-attachments/assets/1d92d8b2-7601-4121-b2cc-664dd9a21b54
+- title: Living Nativity with Live Animals
+  date: '2026-12-13'
+  time: Needs confirmation
+- title: Living Nativity with Live Animals
+  date: '2026-12-14'
+  time: Needs confirmation
+  slide: https://github.com/user-attachments/assets/2df75c92-bca2-4504-a863-b79d22145efc
