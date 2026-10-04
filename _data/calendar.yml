@@ -43,17 +43,17 @@
   date: '2026-10-07'
   time: 5:30 PM  
   repeats: Every Wednesday  
-  through: '2027-12-31'
+  through: '2026-10-14'
 - title: Online Prayer Meeting
   date: '2026-10-07'
   time: 6:30 PM  
   repeats: Every Wednesday  
-  through: '2027-12-31'
+  through: '2026-10-14'
 - title: Choir Practice
   date: '2026-10-07'
   time: 7:00 PM  
   repeats: Every Wednesday  
-  through: '2027-12-31'
+  through: '2026-10-14'
 - title: Women’s Bible Study
   date: '2026-10-08'
   time: 10:00 AM  
@@ -102,11 +102,29 @@
   time: 12:00 noon  
   repeats: Every Monday  
   through: '2027-6-31'
-  slide: https://github.com/user-attachments/assets/279fe89d-3647-4fa2-8839-2334453d58c3
+  slide: https://github.com/user-attachments/assets/279fe89d-3647-4fa2-8839-2334453d58c3  
+- title: Quarterly Business Meeting  
+  date: '2026-10-21'  
+  time: 6:30pm
 - title: Baptist Women’s World Day of Prayer
   date: '2026-10-25'
   time: 3:00–5:00 PM
-  slide: https://github.com/user-attachments/assets/2941fdfb-ce44-43ab-aa2b-229982f5eab1
+  slide: https://github.com/user-attachments/assets/2941fdfb-ce44-43ab-aa2b-229982f5eab1  
+- title: Building and Grounds
+  date: '2026-10-28'
+  time: 5:30 PM  
+  repeats: Every Wednesday  
+  through: '2027-12-31'
+- title: Online Prayer Meeting
+  date: '2026-10-28'
+  time: 6:30 PM  
+  repeats: Every Wednesday  
+  through: '2027-12-31'
+- title: Choir Practice
+  date: '2026-10-28'
+  time: 7:00 PM  
+  repeats: Every Wednesday  
+  through: '2027-12-31'
 - title: Operation Christmas Child Packing Party
   date: '2026-11-15'
   time: 5:00–8:00 PM
