@@ -1,49 +1,64 @@
 # Shared source for Calendar Scroll and Monthly Calendar. Dates must be quoted.
 - title: Bible Study
-  date: '2026-10-04'
-  time: 9:45 AM
+  date: '2026-10-04'  
+  time: 9:45 AM  
+  repeats: Every Sunday
 - title: Worship Service
   date: '2026-10-04'
-  time: 11:00 AM
+  time: 11:00 AM  
+  repeats: Every Sunday
   slide: https://github.com/user-attachments/assets/2034ee4f-260c-454f-aaa6-ffbd0669985e
 - title: Moms in Prayer
   date: '2026-10-05'
-  time: 10:30 AM
+  time: 10:30 AM  
+  repeats: Every Monday
   slide: https://github.com/user-attachments/assets/0fa556d4-d6f3-4338-b672-71eb46b98257
 - title: Women’s Bible Study
   date: '2026-10-05'
-  time: 6:30 PM
+  time: 6:30 PM  
+  repeats: Every Monday  
+  through: '2026-11-16'
   slide: https://github.com/user-attachments/assets/fd452ace-9b66-4914-89b0-bf2c4213e870
 - title: Men’s Bible Study
   date: '2026-10-05'
-  time: 6:45 PM
+  time: 6:45 PM  
+  repeats: Every Monday
   slide: https://github.com/user-attachments/assets/7f0ac816-d9e3-414d-a2d8-790904395758
 - title: Young Life Student Ministry
   date: '2026-10-05'
-  time: 7:30 PM
+  time: 7:30 PM  
+  repeats: Every Monday
   slide: https://github.com/user-attachments/assets/51c4eca8-38d6-4644-ae81-f51bab139dd5
 - title: Women’s Bible Study
   date: '2026-10-06'
-  time: 9:30 AM
+  time: 9:30 AM  
+  repeats: Every Tuesday  
+  through: '2026-11-17'
 - title: Building and Grounds
   date: '2026-10-07'
-  time: 5:30 PM
+  time: 5:30 PM  
+  repeats: Every Wednesday
 - title: Online Prayer Meeting
   date: '2026-10-07'
-  time: 6:30 PM
+  time: 6:30 PM  
+  repeats: Every Wednesday
 - title: Choir Practice
   date: '2026-10-07'
-  time: 7:00 PM
+  time: 7:00 PM  
+  repeats: Every Wednesday
 - title: Women’s Bible Study
   date: '2026-10-08'
-  time: 10:00 AM
+  time: 10:00 AM  
+  repeats: Every Thursday  
+  through: '2026-11-19'
 - title: Prayer at the Pier
   date: '2026-10-08'
   time: 5:00 PM
   slide: https://github.com/user-attachments/assets/d224c551-7d26-4531-831d-b29fff54c51c
 - title: Recovery in Christ
   date: '2026-10-08'
-  time: 6:00 PM
+  time: 6:00 PM  
+  repeats: Every Thursday
   slide: https://github.com/user-attachments/assets/012734a0-ac6f-4e74-8711-f2417a5948ee
 - title: Bible Study
   date: '2026-10-11'
