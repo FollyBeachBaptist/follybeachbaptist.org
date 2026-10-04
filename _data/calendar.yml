@@ -2,16 +2,19 @@
 - title: Bible Study
   date: '2026-10-04'  
   time: 9:45 AM  
-  repeats: Every Sunday
+  repeats: Every Sunday  
+  through: '2027-12-31'
 - title: Worship Service
   date: '2026-10-04'
   time: 11:00 AM  
-  repeats: Every Sunday
+  repeats: Every Sunday  
+  through: '2027-12-31'
   slide: https://github.com/user-attachments/assets/2034ee4f-260c-454f-aaa6-ffbd0669985e
 - title: Moms in Prayer
   date: '2026-10-05'
   time: 10:30 AM  
-  repeats: Every Monday
+  repeats: Every Monday  
+  through: '2-27-12-31'
   slide: https://github.com/user-attachments/assets/0fa556d4-d6f3-4338-b672-71eb46b98257
 - title: Women’s Bible Study
   date: '2026-10-05'
