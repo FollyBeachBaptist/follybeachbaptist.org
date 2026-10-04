@@ -89,9 +89,9 @@
       for(let y=start;y<=end;y++) for(let m=0;m<12;m++)periods.push([y,m]);
       periods.forEach(([y,m],i)=>{const option=document.createElement('option');option.value=i;option.textContent=monthNames[m]+' '+y;selector.append(option)});
       selected=periods.findIndex(([y,m])=>y===currentYear&&m===currentMonth);
-      notice.textContent=incomplete?'Some events need date or recurrence confirmation. See Calendar Scroll.':'';
+      notice.textContent=incomplete?:'Some events need date or recurrence confirmation.';
       document.getElementById('calendar-controls').hidden=false;draw();
-    } catch(error) {notice.textContent='The monthly calendar could not load. Please use Calendar Scroll for the schedule.';}
+    } catch(error) {notice.textContent='The monthly calendar could not load. Please refresh or try again later.';}
   }
   load();
 })(typeof globalThis!=='undefined'?globalThis:this);
