@@ -25,12 +25,14 @@
 - title: Men’s Bible Study
   date: '2026-10-05'
   time: 6:45 PM  
-  repeats: Every Monday
+  repeats: Every Monday  
+  through: '2027-12-31'
   slide: https://github.com/user-attachments/assets/7f0ac816-d9e3-414d-a2d8-790904395758
 - title: Young Life Student Ministry
   date: '2026-10-05'
   time: 7:30 PM  
-  repeats: Every Monday
+  repeats: Every Monday  
+  through: '2027-12-31'
   slide: https://github.com/user-attachments/assets/51c4eca8-38d6-4644-ae81-f51bab139dd5
 - title: Women’s Bible Study
   date: '2026-10-06'
@@ -40,15 +42,18 @@
 - title: Building and Grounds
   date: '2026-10-07'
   time: 5:30 PM  
-  repeats: Every Wednesday
+  repeats: Every Wednesday  
+  through: '2027-12-31'
 - title: Online Prayer Meeting
   date: '2026-10-07'
   time: 6:30 PM  
-  repeats: Every Wednesday
+  repeats: Every Wednesday  
+  through: '2027-12-31'
 - title: Choir Practice
   date: '2026-10-07'
   time: 7:00 PM  
-  repeats: Every Wednesday
+  repeats: Every Wednesday  
+  through: '2027-12-31'
 - title: Women’s Bible Study
   date: '2026-10-08'
   time: 10:00 AM  
@@ -56,12 +61,13 @@
   through: '2026-11-19'
 - title: Prayer at the Pier
   date: '2026-10-08'
-  time: 5:00 PM
+  time: 5:00 PM  
   slide: https://github.com/user-attachments/assets/d224c551-7d26-4531-831d-b29fff54c51c
 - title: Recovery in Christ
   date: '2026-10-08'
   time: 6:00 PM  
-  repeats: Every Thursday
+  repeats: Every Thursday  
+  through: '2027-12-31'
   slide: https://github.com/user-attachments/assets/012734a0-ac6f-4e74-8711-f2417a5948ee
 - title: Bible Study
   date: '2026-10-11'
@@ -93,7 +99,9 @@
   time: Doors open at 6:00 PM
 - title: Soup and Soul begins
   date: '2026-10-19'
-  time: 12:00 noon
+  time: 12:00 noon  
+  repeats: Every Monday  
+  through: '2027-6-31'
   slide: https://github.com/user-attachments/assets/279fe89d-3647-4fa2-8839-2334453d58c3
 - title: Baptist Women’s World Day of Prayer
   date: '2026-10-25'
@@ -139,8 +147,8 @@
   slide: https://github.com/user-attachments/assets/1d92d8b2-7601-4121-b2cc-664dd9a21b54
 - title: Living Nativity with Live Animals
   date: '2026-12-13'
-  time: Needs confirmation
+  time: 5:00pm-8:00pm
 - title: Living Nativity with Live Animals
   date: '2026-12-14'
-  time: Needs confirmation
+  time: 5:00pm-8:00pm
   slide: https://github.com/user-attachments/assets/2df75c92-bca2-4504-a863-b79d22145efc
