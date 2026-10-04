@@ -2,8 +2,7 @@
 main:
   - title: "Announcements"
     url: /announcements/
-  - title: "Calendar Scroll"
-    url: /calendar/  
+ 
   - title: "Monthly Calendar"
     url: /monthly-calendar/
   - title: "Live-Stream"  
