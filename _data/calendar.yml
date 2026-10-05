@@ -104,11 +104,11 @@
   date: '2026-10-15'  
   time: 6:00 pm  
   
-- title: Soup and Soul begins
+- title: Soup and Soul 
   date: '2026-10-19'
-  time: 12:00 noon  
+  time: 12:00pm  
   repeats: Every Monday  
-  through: '2027-6-31'
+  through: '2026-11-23'
  
 - title: Quarterly Business Meeting  
   date: '2026-10-21'  
