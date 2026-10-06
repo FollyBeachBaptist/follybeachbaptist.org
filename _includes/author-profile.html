@@ -48,14 +48,11 @@
         </li>
       {% endif %}
 
-      {% if author.email %}
-        <li>
-          <a href="mailto:{{ author.email }}" rel="me" class="u-email">
-            <meta itemprop="email" content="{{ author.email }}" />
-            <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</span>
-          </a>
-        </li>
-      {% endif %}
+     <li>
+  <a href="/contact/">
+    <i class="fas fa-fw fa-envelope" aria-hidden="true"></i><span class="label">Contact Us</span>
+  </a>
+</li>
 
       {% if author.keybase %}
         <li>
