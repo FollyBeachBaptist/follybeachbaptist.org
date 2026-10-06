@@ -10,11 +10,7 @@ header:
 
 <hr>    
 
-**Church Office Hours**   
 
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/6e6b7c08-8ca2-40f5-a5a3-bedcec898d40" />
-
- <hr>  
  
 
  **WE NOW HAVE ASSISTIVE LISTENING DEVICES!!**
@@ -92,11 +88,6 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 
 <hr>
     
-**Contact Us!!**  
-
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/ae51be0a-405c-47f5-9aa2-e3629aca5ca4" />
-
-<hr>   
 
 **Women's Bible study**    
 **Monday 6:30pm**   
