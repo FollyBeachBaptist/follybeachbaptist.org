@@ -4,7 +4,7 @@
 | follybeachbaptist.org                                    |
 |--------------------------------------------------|
 | [Welcome Page](index.md)                         |
-| [Announcements Page]( /_pages/announcements.md/)                         |
+| [Happenings/Events]( /_pages/announcements.md/)                         |
 | [Calendar Page]( /_pages/calendar.md/)           |  
 | [OCC Page]( /_pages/OCC.md/)           |
 | [Outreach Page]( /_pages/outreach.md/)           |
