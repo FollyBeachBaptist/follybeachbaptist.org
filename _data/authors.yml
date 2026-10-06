@@ -2,7 +2,7 @@
 default:
   bio:
        "<h3>Service Times</h3><b>Sunday School</b><br> 9:45am <br><b>Sunday Mornings</b><br> 11:00am
-    <br><b>Sunday Evenings</b><br>See [Calendar](/calendar)<br><br><h3>Church Office Hours</h3><b>Tuesday - Thursday</b><br>10:00am - 2:00pm"
+       <br><b>Sunday Evenings</b><br>See [Calendar](/calendar)<br><br><b>Church Office Hours</b><br><b>Tuesday - Thursday</b><br>10:00am - 2:00pm"
   links:
     - label: "Give Online"
       icon: "fas fa-hand-holding-usd fa-fw"
