@@ -10,7 +10,9 @@ default:
     - label: "Watch Online"
       icon: "fas fa-laptop-house fa-fw"
       url: "https://www.youtube.com/@FollyBeachBaptist/Live"
-  
+    - label: "Instagram"
+      icon: "fab fa-instagram fa-fw"
+      url: "https://www.instagram.com/FollyBeachBaptist/"
     - label: "Facebook"
       icon: "fab fa-facebook fa-fw"
       url: "https://www.facebook.com/FollyBeachBaptistChurch/"
