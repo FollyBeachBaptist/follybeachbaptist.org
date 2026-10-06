@@ -1,6 +1,6 @@
 # Navigation Bar (add, edit, or remove links)
 main:
-  - title: "Announcements/Events"
+  - title: "Happenings/Events"
     url: /announcements/
  
   - title:  "Calendar"
