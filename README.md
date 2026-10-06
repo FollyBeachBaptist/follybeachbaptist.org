@@ -6,7 +6,7 @@
 | [Welcome Page](index.md)                         |
 | [Happenings/Events]( /_pages/announcements.md/)                         |
 | [Calendar Page]( /_pages/calendar.md/)           |  
-| [Operation Christmas Child Page]( /_pages/OperationChristmasChild.md/)           |
+| [Operation Christmas Child Page]( /_pages/operation-christmas-child.md)           |
 | [Outreach Page]( /_pages/outreach.md/)           |
 | [Youth Page]( /_pages/youth.md/)                 |
 | [Leaders Page]( /_pages/ourleaders.md/)
