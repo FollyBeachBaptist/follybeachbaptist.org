@@ -1,5 +1,5 @@
 ---
-title: "Announcements"
+title: "Happenings/Events"
 permalink: /announcements/
 author: default
 header:
