@@ -29,7 +29,8 @@ author: default
 Operation Christmas Child demonstrates God's love in a tangible way. Shoe boxes are packed and shipped to boys and girls ages 2 to 14 around the world who may have never heard the Gospel message or the Christmas Story.  
 
 The boxes contain Toys, School supplies, and Hygiene items. Gifts for the boxes are collected March through October, and packed into the boxes at our annual **Christmas At The Beach** OCC Packing party.  
-  
+  <img width="960" height="720" alt="Slide26" src="https://github.com/user-attachments/assets/4f98164b-2acd-47ca-b94f-b5fbd4853923" />
+
   
 For additional information in contributing or volunteering,  please **contact Charlotte Culpepper at 843-908-5858 or Mary Hadley Knapp at 207-319-5597**  
 Or Check here (https://www.samaritanspurse.org/operation-christmas-child/what-goes-in-my-shoebox-suggestions/)
