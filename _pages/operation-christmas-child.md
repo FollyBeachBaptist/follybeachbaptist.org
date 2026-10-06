@@ -19,6 +19,7 @@ header:
 Operation Christmas Child demonstrates God's love in a tangible way. Shoe boxes are packed and shipped to boys and girls ages 2 to 14 around the world who may have never heard the Gospel message or the Christmas Story.
 
 The boxes contain Toys, School supplies, and Hygiene items. Gifts for the boxes are collected March through October, and packed into the boxes at our annual Christmas At The Beach OCC Packing party.
+<img width="960" height="720" alt="Slide26" src="https://github.com/user-attachments/assets/c55ea608-3bff-48ca-bac3-beae71dc58e9" />
 
 For additional information in contributing or volunteering, please contact  
 **Charlotte Culpepper at 843-908-5858,**  
