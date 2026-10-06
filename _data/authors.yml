@@ -6,13 +6,16 @@ default:
   links:
     - label: "Give Online"
       icon: "fas fa-hand-holding-usd fa-fw"
-      url: "https://secure.myvanco.com/L-Z0TS/home"
+      url: "https://secure.myvanco.com/L-Z0TS/home"  
+      
     - label: "Watch Online"
       icon: "fas fa-laptop-house fa-fw"
-      url: "https://www.youtube.com/@FollyBeachBaptist/Live"
+      url: "https://www.youtube.com/@FollyBeachBaptist/Live"  
+      
     - label: "Instagram"
       icon: "fab fa-instagram fa-fw"
-      url: "https://www.instagram.com/FollyBeachBaptist/"
+      url: "https://www.instagram.com/FollyBeachBaptist/"  
+      
     - label: "Facebook"
       icon: "fab fa-facebook fa-fw"
       url: "https://www.facebook.com/FollyBeachBaptistChurch/"
