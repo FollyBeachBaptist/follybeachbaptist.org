@@ -5,7 +5,7 @@
 |--------------------------------------------------|
 | [Welcome Page](index.md)                         |
 | [Happenings/Events]( /_pages/announcements.md/)                         |
-| [Calendar Page](./_data/calendar.yml)     |  
+| [Calendar Page](https://follybeachbaptist.org/monthly-calendar/)     |  
 | [Operation Christmas Child Page]( /_pages/operation-christmas-child.md)           |
 | [Outreach Page]( /_pages/outreach.md/)           |
 | [Youth Page]( /_pages/youth.md/)                 |
