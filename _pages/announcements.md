@@ -10,6 +10,11 @@ header:
 
 <hr>    
 
+**Quarterly Business Meeting**
+
+<img width="960" height="720" alt="Slide5" src="https://github.com/user-attachments/assets/9355b1c6-600a-42b8-9bbe-99c7e807d50c" />  
+
+ <hr>
 
  
 
@@ -38,7 +43,8 @@ header:
 
 
   **Social Platforms**  
-  <img width="1600" height="1200" alt="Folly_Beach_Baptist_Exact_Beach_Banner_LOCKED_PHOTOS_4x3" src="https://github.com/user-attachments/assets/30d47c8a-9ed5-413c-becc-767e55e678b1" />
+<img width="960" height="720" alt="Slide15" src="https://github.com/user-attachments/assets/d4d780c2-a954-4a54-a3a6-b2f3eabce746" />
+
 
   <hr>  
   
@@ -111,9 +117,6 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
   <hr>    
  
  **Recovery in Christ**  
- **Is Not Meeting Thursday, October 1st.  
- If you are in need, please call the number on the slide.   
- You are not alone!! We are here for you!!**
 
 <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/61ed7307-e079-4449-9a33-7f46428ac663" />
 
