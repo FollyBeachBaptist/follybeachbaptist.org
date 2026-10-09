@@ -111,16 +111,6 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 
 
 
-<hr>     
-
-  **Men's Bible Study  
-  Mondays at 6:45pm**       
-  Join a brotherhood of faith as we dive into Scripture, share life's challenges, and grow together in Christ. Whether you're new to the Bible or a seasoned believer, this group offers a welcoming space for honest conversation, spiritual encouragement, and practical application. Come as you are----Leave strengthened.
-  
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/59149775-c68a-469f-a4c1-54d4d7a6e97c" />
-
-
-
   <hr>    
  
  **Recovery in Christ**  
