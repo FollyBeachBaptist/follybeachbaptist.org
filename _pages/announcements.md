@@ -16,7 +16,13 @@ header:
 
 
 <hr>    
+  
+  **Soup and Soul Ministry**  
+  
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/14b2ecf6-ae48-4880-b417-53727946cb19" />  
 
+ <hr>   
+  
 **Quarterly Business Meeting**
 
 <img width="960" height="720" alt="Slide5" src="https://github.com/user-attachments/assets/9355b1c6-600a-42b8-9bbe-99c7e807d50c" />  
@@ -63,12 +69,6 @@ header:
 <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/e4e40889-c8e6-4866-9c0d-c69422894141" />
 
 
-
-<hr>      
-
- **Pray at the Pier**  
-
-<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/57c19986-f044-403c-a0ba-9817447c951f" />
 
 
 
@@ -122,15 +122,6 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 
   <hr>  
 
- 
-
-
-  
-  **Soup and Soul Ministry**  
-  
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/14b2ecf6-ae48-4880-b417-53727946cb19" />  
-
- <hr>   
 
  **2026 Baptist Women's WORLD DAY OF PRAYER**  
  <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/053c0ad6-df8d-4f1e-9419-2ff0a69c2ed2" />
