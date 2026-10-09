@@ -8,6 +8,11 @@ header:
 
 <hr>  
 
+**WMU Seafarers Ministry**  
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/a44bb6ab-72ac-4447-bf28-8ca253c09e27" />  
+<hr>  
+
+
   **Men's Bible Study  
   Mondays at 6:45pm**       
   Join a brotherhood of faith as we dive into Scripture, share life's challenges, and grow together in Christ. Whether you're new to the Bible or a seasoned believer, this group offers a welcoming space for honest conversation, spiritual encouragement, and practical application. Come as you are----Leave strengthened.
