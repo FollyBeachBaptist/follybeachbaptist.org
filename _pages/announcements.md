@@ -8,9 +8,7 @@ header:
 
 <hr>  
 
-**WMU Seafarers Ministry**  
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/a44bb6ab-72ac-4447-bf28-8ca253c09e27" />  
-<hr>  
+
 
 
   **Men's Bible Study  
@@ -90,7 +88,8 @@ header:
  
   
 **Worship Service Childcare Provided**    
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/b5dcf996-46ab-40cf-87b5-910ce367ff36" />
+
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/e223c684-339f-404e-8fac-2dc3888d859f" />
 
 
   We have childcare provided during our morning worship service for ages **birth through 4 years old!** 
