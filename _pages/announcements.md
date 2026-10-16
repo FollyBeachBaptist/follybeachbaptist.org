@@ -15,11 +15,22 @@ header:
   Mondays at 6:45pm**       
   Join a brotherhood of faith as we dive into Scripture, share life's challenges, and grow together in Christ. Whether you're new to the Bible or a seasoned believer, this group offers a welcoming space for honest conversation, spiritual encouragement, and practical application. Come as you are----Leave strengthened.
   
-<img width="960" height="720" alt="Slide6" src="https://github.com/user-attachments/assets/85718440-d621-4012-81d8-fc78bc6d9d1d" />
+<img width="960" height="720" alt="Slide17" src="https://github.com/user-attachments/assets/49101ef1-d209-4ffa-8078-d09fc26ccbab" />
 
 
 <hr>    
-  
+    
+
+**Women's Bible study**    
+**Monday 6:30pm**   
+'**Tuesday 9:30am**  
+**Thursday 10:00am**  
+
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/30b4ce2b-9419-431f-b6b1-2c569833392c" />  
+
+<hr>  
+
+
   **Soup and Soul Ministry**  
   
 <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/14b2ecf6-ae48-4880-b417-53727946cb19" />  
@@ -49,11 +60,6 @@ header:
 
  <hr>   
 
- **Charleston Baptist Association 275th Annual Meeting**  
- <img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/4053ef2f-aee5-44e3-8eb9-db96e6309549" />  
-
-<hr>  
-
 
  
 
@@ -79,13 +85,15 @@ header:
 
  **WMU**  
 
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/f62448df-5eb6-4b2c-b9d7-6b6176ce1a3e" />
+<img width="1448" height="1086" alt="WMU GRAPHIC" src="https://github.com/user-attachments/assets/e32b2529-cd6f-444f-96b1-a37b01acb36e" />
 
-    
 
 
 <hr>  
- 
+
+ **PRAY AT THE PIER**  
+ <img width="1448" height="1086" alt="Pray at Pier 4 3 format" src="https://github.com/user-attachments/assets/8ab471ce-a3f2-4588-a22b-1cc00015b7af" />
+
   
 **Worship Service Childcare Provided**    
 
@@ -106,17 +114,7 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 <hr>
     
 
-**Women's Bible study**    
-**Monday 6:30pm**   
-'**Tuesday 9:30am**  
-**Thursday 10:00am**  
 
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/30b4ce2b-9419-431f-b6b1-2c569833392c" />
-
-
-
-  <hr>    
- 
  **Recovery in Christ**  
 
 <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/61ed7307-e079-4449-9a33-7f46428ac663" />
@@ -130,11 +128,6 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
  **2026 Baptist Women's WORLD DAY OF PRAYER**  
  <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/053c0ad6-df8d-4f1e-9419-2ff0a69c2ed2" />
 
-
-   
-
-
-  
 
 
   <hr>  
