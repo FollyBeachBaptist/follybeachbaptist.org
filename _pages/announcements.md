@@ -6,8 +6,14 @@ header:
 
 ---  
 
-<hr>  
+<hr>    
 
+**This Sunday, October 18th:**  
+
+<img width="960" height="720" alt="Slide8" src="https://github.com/user-attachments/assets/ddfb5068-a0b9-4f5e-b57d-e00752edcd93" />  
+
+ <hr>  
+ 
 
 
 
