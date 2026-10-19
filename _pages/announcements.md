@@ -8,9 +8,9 @@ header:
 
 <hr>    
 
-**This Sunday, October 18th:**  
+**Sunday, October 25th:**  
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/9a67334a-5540-4a0a-ba60-44fc45aa3f18" />
 
-<img width="960" height="720" alt="Slide8" src="https://github.com/user-attachments/assets/ddfb5068-a0b9-4f5e-b57d-e00752edcd93" />  
 
  <hr>  
  
