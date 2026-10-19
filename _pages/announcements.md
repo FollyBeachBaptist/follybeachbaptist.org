@@ -150,6 +150,12 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 
    <hr>  
 
+ **Annual Folly Beach Community Christmas Tree Lighting**  
+ <img width="1448" height="1086" alt="Tree Lighting" src="https://github.com/user-attachments/assets/722ddd88-4ceb-4933-b619-38d302c45454" />  
+
+ <hr>  
+ 
+
  **Birthday Party For Jesus!!**  
  <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/116928ed-84ee-465b-8b0b-a6de76c35182" />  
 
