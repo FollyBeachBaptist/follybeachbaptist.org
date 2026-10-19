@@ -38,8 +38,8 @@ header:
 
 
   **Soup and Soul Ministry**  
-  
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/14b2ecf6-ae48-4880-b417-53727946cb19" />  
+  <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/e0229574-26f1-4258-a0ec-9563789af22e" />
+
 
  <hr>   
   
