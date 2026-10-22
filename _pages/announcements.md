@@ -9,8 +9,8 @@ header:
 <hr>    
 
 **Sunday, October 25th:**  
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/9a67334a-5540-4a0a-ba60-44fc45aa3f18" />
 
+<img width="960" height="720" alt="Slide3" src="https://github.com/user-attachments/assets/9dbbd6e6-9c64-43df-883c-8f509ba76016" />
 
  <hr>  
  
@@ -38,16 +38,13 @@ header:
 
 
   **Soup and Soul Ministry**  
-  <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/e0229574-26f1-4258-a0ec-9563789af22e" />
+<img width="960" height="720" alt="Slide4" src="https://github.com/user-attachments/assets/c64b8d8a-a291-4bbe-9a3e-5443e5ed2165" />
+
 
 
  <hr>   
   
-**Quarterly Business Meeting**
 
-<img width="960" height="720" alt="Slide5" src="https://github.com/user-attachments/assets/9355b1c6-600a-42b8-9bbe-99c7e807d50c" />  
-
- <hr>
 
  
 
@@ -103,7 +100,7 @@ header:
   
 **Worship Service Childcare Provided**    
 
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/e223c684-339f-404e-8fac-2dc3888d859f" />
+<img width="960" height="720" alt="Slide11" src="https://github.com/user-attachments/assets/02514d20-58fe-47ca-bc80-190fbbee4c06" />
 
 
   We have childcare provided during our morning worship service for ages **birth through 4 years old!** 
