@@ -49,7 +49,7 @@ header:
  
 
  **WE NOW HAVE ASSISTIVE LISTENING DEVICES!!**
-<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/919684e1-3efc-422f-87c1-fa7fe66b7ab3" />
+<img width="960" height="720" alt="Slide6" src="https://github.com/user-attachments/assets/9351d043-452d-4327-9a10-2b47c9bd47f6" />
 
  <hr>  
 
