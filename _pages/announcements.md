@@ -128,12 +128,7 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
   <hr>  
 
 
- **2026 Baptist Women's WORLD DAY OF PRAYER**  
- <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/053c0ad6-df8d-4f1e-9419-2ff0a69c2ed2" />
 
-
-
-  <hr>  
 
    **Christmas at the Beach**  
   <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/70d6078d-dd88-4328-b843-78aa10b960c2" />
