@@ -13,7 +13,7 @@ author: default
   
   **Social Media Reach**  
 
-<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/ec16c652-a6b0-4ca7-bcc6-8b4bdd1d61d8" />
+<img width="960" height="720" alt="Slide15" src="https://github.com/user-attachments/assets/262b9cca-7fa4-4b7c-baee-7c1a867f6c92" />
 
 
   <hr>  
