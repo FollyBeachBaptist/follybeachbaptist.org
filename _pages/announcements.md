@@ -5,6 +5,18 @@ author: default
 header:
 
 ---  
+---
+
+## FEAST & FELLOWSHIP
+### Thursday, November 12, 2026
+
+**CBA Women — Women Serving in Ministry**
+
+Join us for an evening of fellowship, encouragement, and meaningful community!
+
+**[CLICK HERE TO REGISTER](https://www.charlestonbaptist.net/events/2026/11/12/feast-fellowship-cba-women-event)**
+
+
 
 <hr>    
 
