@@ -9,8 +9,9 @@ header:
 
 ## FEAST & FELLOWSHIP
 ### Thursday, November 12, 2026
+ 
+<img width="1406" height="1767" alt="image" src="https://github.com/user-attachments/assets/95bac88e-ded8-45b0-af80-ff2447808d0c" />
 
-**CBA Women — Women Serving in Ministry**
 
 Join us for an evening of fellowship, encouragement, and meaningful community!
 
