@@ -154,7 +154,7 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 
    **Operation Christmas Child Collection Week**   
 
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/52ef1998-0bdc-426e-971c-01e6ded9aadf" />  
+
 <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/81f761cc-3a03-4d1f-86f1-5262263fd26f" />
 
 
