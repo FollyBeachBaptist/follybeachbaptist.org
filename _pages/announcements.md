@@ -43,6 +43,12 @@ Folly Beach Baptist Church invites our church family to consider setting aside *
 
 <hr>
 
+ **Pray at the Pier**  
+ <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/7c626fd9-a5eb-4304-baec-902587e8cd15" />  
+
+  <hr>  
+  
+
 ## FEAST & FELLOWSHIP
 ### Thursday, November 12, 2026
  
