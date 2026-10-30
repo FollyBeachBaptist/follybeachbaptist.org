@@ -12,7 +12,7 @@ header:
 ## PRAY CHARLESTON — UNITED IN PRAYER
 ### Join the Greater Charleston 24/7 Prayer Movement
 
-<div style="text-align:center;margin:1rem 0 1.5rem;"><div style="display:inline-block;padding:14px 28px;border:1px solid #ddd;background:white;color:#333;font-family:Georgia,serif;letter-spacing:3px;font-size:2rem;font-weight:bold;">PRAY<br><span style="font-size:.65rem;letter-spacing:5px;">CHARLESTON</span></div></div>
+
 
 **One community. Many churches. United in prayer.**
 
