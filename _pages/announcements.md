@@ -7,6 +7,7 @@ header:
 ---  
 ---
 
+<img width="326" height="186" alt="image" src="https://github.com/user-attachments/assets/a0f73260-c784-4490-b227-1907c3c5251b" />
 
 ## PRAY CHARLESTON — UNITED IN PRAYER
 ### Join the Greater Charleston 24/7 Prayer Movement
