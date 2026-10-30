@@ -7,6 +7,41 @@ header:
 ---  
 ---
 
+
+## PRAY CHARLESTON — UNITED IN PRAYER
+### Join the Greater Charleston 24/7 Prayer Movement
+
+<div style="text-align:center;margin:1rem 0 1.5rem;"><div style="display:inline-block;padding:14px 28px;border:1px solid #ddd;background:white;color:#333;font-family:Georgia,serif;letter-spacing:3px;font-size:2rem;font-weight:bold;">PRAY<br><span style="font-size:.65rem;letter-spacing:5px;">CHARLESTON</span></div></div>
+
+**One community. Many churches. United in prayer.**
+
+**What is Pray Charleston?** Pray Charleston is a community-wide Christian prayer movement and one of the pathways of **Charleston United**. Its mission is **“To make Jesus unignorable to every man, woman, and child in the Greater Charleston area.”** It connects believers, churches, and prayer groups across the Charleston region in united prayer for our neighbors and communities.
+
+**What does it do?** Pray Charleston is organizing a **24-hour-a-day, seven-day-a-week prayer movement**. Churches and prayer groups take designated prayer times so that prayer can continue throughout the month. Participants can sign up for a **30- or 60-minute prayer time**, even once a month. Monthly prayer guides provide Scripture and specific requests for the Charleston area, South Carolina, and our nation.
+
+### November 2026 Focus: God Is Wisdom
+This month's emphasis is **government leaders and families**. Pray for wisdom, integrity, cooperation, and discernment among public officials. Pray also for strong marriages, patient parents, protection for children, provision for families in need, healing in relationships, and comfort for those facing hardship.
+
+> “If anyone lacks wisdom, let him ask of God.” — James 1:5
+
+### Join the November Prayer Gathering
+**Thursday, November 19, 2026, at 11:30 a.m.**  
+**The Hub, North Charleston**  
+An **online participation option** will also be available; contact the ministry for joining details.
+
+### Take Part
+**[VISIT PRAY CHARLESTON — LEARN MORE AND SIGN UP](https://www.praycharleston.com/)**
+
+**[SIGN UP FOR A PRAYER TIME](https://www.praycharleston.com/)**
+
+Questions? **[Email the Pray Charleston contact](mailto:vbharvey2532@gmail.com)**.
+
+Folly Beach Baptist Church invites our church family to consider setting aside **30 or 60 minutes each month** to pray for our community. Joining believers across Charleston in prayer is one way we can live out our mission to **Reach, Raise, and Release**.
+
+*“If my people, who are called by my name, will humble themselves and pray and seek my face…” — 2 Chronicles 7:14*
+
+<hr>
+
 ## FEAST & FELLOWSHIP
 ### Thursday, November 12, 2026
  
