@@ -69,10 +69,9 @@ Join us for an evening of fellowship, encouragement, and meaningful community!
 
  <hr>  
 
- **OPERATION CHRISTMAS CHILD**  
-<img width="960" height="720" alt="Slide6" src="https://github.com/user-attachments/assets/efeff201-7ccb-4016-a68e-2e6c34636347" />
+ 
 
-  <hr>   
+    
   
   **Young Life Student Ministry Is Meeting at FBBC!!**  
   <img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/e521bdd5-c247-4beb-b09a-2825f3c483e0" />  
