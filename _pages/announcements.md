@@ -151,8 +151,6 @@ Join us for an evening of fellowship, encouragement, and meaningful community!
 
 <hr>  
 
- **PRAY AT THE PIER**  
- <img width="1448" height="1086" alt="Pray at Pier 4 3 format" src="https://github.com/user-attachments/assets/8ab471ce-a3f2-4588-a22b-1cc00015b7af" />
 
   
 **Worship Service Childcare Provided**    
