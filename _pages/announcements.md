@@ -52,7 +52,7 @@ Folly Beach Baptist Church invites our church family to consider setting aside *
 ## FEAST & FELLOWSHIP
 ### Thursday, November 12, 2026
  
-<img width="1406" height="1767" alt="image" src="https://github.com/user-attachments/assets/95bac88e-ded8-45b0-af80-ff2447808d0c" />
+<img width="960" height="720" alt="Slide4" src="https://github.com/user-attachments/assets/2925bcf1-3317-47ea-be13-9a93e60760d5" />
 
 
 Join us for an evening of fellowship, encouragement, and meaningful community!
@@ -186,7 +186,7 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 
 
    **Christmas at the Beach**  
-  <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/70d6078d-dd88-4328-b843-78aa10b960c2" />
+<img width="960" height="720" alt="Slide21" src="https://github.com/user-attachments/assets/f21bfc58-fb8f-4fac-98ce-e7c848a36c9e" />
 
 
    <hr>  
