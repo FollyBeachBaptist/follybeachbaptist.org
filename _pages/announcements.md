@@ -145,7 +145,7 @@ Join us for an evening of fellowship, encouragement, and meaningful community!
 
  **WMU**  
 
-<img width="1448" height="1086" alt="WMU GRAPHIC" src="https://github.com/user-attachments/assets/e32b2529-cd6f-444f-96b1-a37b01acb36e" />
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/72c90267-9dc2-4548-86aa-56dc0722af1a" />
 
 
 
