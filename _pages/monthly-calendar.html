@@ -7,14 +7,33 @@ header:
   og_image: /assets/images/preview.jpg
 ---
 
-<div style="max-width: 1100px; margin: 0 auto;">
-
-  <iframe
+<div style="max-width:1100px;margin:0 auto;">
+  <div role="tablist" aria-label="Calendar display" style="display:flex;gap:10px;margin-bottom:16px;flex-wrap:wrap;">
+    <button id="month-tab" type="button" role="tab" aria-selected="true" aria-controls="church-calendar" style="padding:12px 20px;border:2px solid #173a57;border-radius:6px;background:#173a57;color:white;font-weight:bold;cursor:pointer;">Month View</button>
+    <button id="list-tab" type="button" role="tab" aria-selected="false" aria-controls="church-calendar" style="padding:12px 20px;border:2px solid #173a57;border-radius:6px;background:white;color:#173a57;font-weight:bold;cursor:pointer;">List View</button>
+  </div>
+  <iframe id="church-calendar"
     src="https://calendar.google.com/calendar/embed?src=c_69530bc25819546a97c92e9ef6d1b96caf812e81f0de904cb5d0341be2b8c39d%40group.calendar.google.com&ctz=America%2FNew_York&mode=MONTH&showTitle=1&showNav=1&showDate=1&showPrint=0&showTabs=1"
-    style="border: solid 1px #777; width: 100%; height: 700px;"
-    frameborder="0"
-    scrolling="no"
+    style="border:1px solid #777;width:100%;height:700px;"
+    frameborder="0" scrolling="no"
     title="Folly Beach Baptist Church Calendar">
   </iframe>
-
 </div>
+<script>
+(function(){
+  const frame=document.getElementById('church-calendar');
+  const month=document.getElementById('month-tab');
+  const list=document.getElementById('list-tab');
+  const base="https://calendar.google.com/calendar/embed?src=c_69530bc25819546a97c92e9ef6d1b96caf812e81f0de904cb5d0341be2b8c39d%40group.calendar.google.com&ctz=America%2FNew_York&mode=";
+  function setView(view){
+    frame.src=base+view+'&showTitle=1&showNav=1&showDate=1&showPrint=0&showTabs=1';
+    for(const [button,active] of [[month,view==='MONTH'],[list,view==='AGENDA']]){
+      button.setAttribute('aria-selected',String(active));
+      button.style.background=active?'#173a57':'white';
+      button.style.color=active?'white':'#173a57';
+    }
+  }
+  month.addEventListener('click',()=>setView('MONTH'));
+  list.addEventListener('click',()=>setView('AGENDA'));
+})();
+</script>
