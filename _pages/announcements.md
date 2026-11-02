@@ -130,7 +130,8 @@ Join us for an evening of fellowship, encouragement, and meaningful community!
   **Moms In Prayer**   
   **Monday Mornings at 10:30am**  
   
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/e4e40889-c8e6-4866-9c0d-c69422894141" />
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/b47f4772-0d2b-4137-8e67-081dd156a50c" />
+
 
 
 
