@@ -80,10 +80,7 @@ Join us for an evening of fellowship, encouragement, and meaningful community!
 <hr>    
     
 
-**Women's Bible study**    
-**Monday 6:30pm**   
-'**Tuesday 9:30am**  
-**Thursday 10:00am**  
+**2026 Women's Bible study Ends Thursday Nov 17th**    
 
 <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/30b4ce2b-9419-431f-b6b1-2c569833392c" />  
 
