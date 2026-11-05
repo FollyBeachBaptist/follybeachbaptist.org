@@ -88,7 +88,8 @@ Join us for an evening of fellowship, encouragement, and meaningful community!
 
 
   **Soup and Soul Ministry**  
-<img width="960" height="720" alt="Slide4" src="https://github.com/user-attachments/assets/c64b8d8a-a291-4bbe-9a3e-5443e5ed2165" />
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/2e616112-26cd-416f-959a-ba02c44e3374" />
+
 
 
 
