@@ -193,11 +193,11 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 
 
    <hr>    
-
-   **Sunday, November 29th is the First Day of Advent Season**  
-   **We have a limited supply of Advent and Christmas Devotionals**  
-   **That go along with the Advent Sermon Series "God With Us"**  
-   **Come on the 29th to get yours!!**  
+**Sunday, November 29th is the First Day of Advent Season.
+We have a limited supply of FREE Advent and Christmas Devotionals
+which accompany the Advent Sermon Series "God With Us".
+Come on the 29th to get yours!!**
+    
    <img width="1448" height="1086" alt="ADVENT PROMO" src="https://github.com/user-attachments/assets/621dc4fe-4830-45cd-85bd-8bb29f5f6f44" />  
 
    <hr>  
