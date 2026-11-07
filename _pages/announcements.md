@@ -180,8 +180,7 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 
 
    **Christmas at the Beach**  
-<img width="960" height="720" alt="Slide21" src="https://github.com/user-attachments/assets/f21bfc58-fb8f-4fac-98ce-e7c848a36c9e" />
-
+<img width="960" height="720" alt="Slide7" src="https://github.com/user-attachments/assets/020d8f3d-bb00-4186-8e33-e2b317f0bf1c" />
 
    <hr>  
 
