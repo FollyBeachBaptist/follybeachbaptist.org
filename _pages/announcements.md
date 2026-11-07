@@ -204,7 +204,7 @@ Come on the 29th to get yours!!**
 
 
  **Annual Folly Beach Community Christmas Tree Lighting**  
- <img width="1448" height="1086" alt="Tree Lighting" src="https://github.com/user-attachments/assets/722ddd88-4ceb-4933-b619-38d302c45454" />  
+<img width="960" height="720" alt="Slide9" src="https://github.com/user-attachments/assets/981e1254-d51a-4bd9-aaa4-1a75f64ef7bd" />
 
  <hr>  
  
