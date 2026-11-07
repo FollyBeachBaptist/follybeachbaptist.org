@@ -109,7 +109,7 @@ Join us for an evening of fellowship, encouragement, and meaningful community!
     
   
   **Young Life Student Ministry Is Meeting at FBBC!!**  
-  <img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/e521bdd5-c247-4beb-b09a-2825f3c483e0" />  
+  <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/4898cdcb-3378-41ec-892b-6a3e612d7448" />
 
  <hr>   
 
