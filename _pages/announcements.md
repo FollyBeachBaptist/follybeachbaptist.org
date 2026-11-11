@@ -7,7 +7,22 @@ header:
 ---  
 ---
 
-<img width="326" height="186" alt="image" src="https://github.com/user-attachments/assets/a0f73260-c784-4490-b227-1907c3c5251b" />
+ **Christmas at the Beach**  
+<img width="960" height="720" alt="Slide7" src="https://github.com/user-attachments/assets/020d8f3d-bb00-4186-8e33-e2b317f0bf1c" />  
+
+<hr>    
+
+ **Operation Christmas Child Collection Week**   
+
+
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/81f761cc-3a03-4d1f-86f1-5262263fd26f" />
+
+ <hr>
+
+<img width="326" height="186" alt="image" src="https://github.com/user-attachments/assets/a0f73260-c784-4490-b227-1907c3c5251b" />  
+
+<hr>  
+
 
 ## PRAY CHARLESTON — UNITED IN PRAYER
 ### Join the Greater Charleston 24/7 Prayer Movement
@@ -42,6 +57,7 @@ Folly Beach Baptist Church invites our church family to consider setting aside *
 *“If my people, who are called by my name, will humble themselves and pray and seek my face…” — 2 Chronicles 7:14*
 
 <hr>
+
 
  **Pray at the Pier**  
  <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/7c626fd9-a5eb-4304-baec-902587e8cd15" />  
@@ -170,24 +186,6 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
  **Recovery in Christ**  
 
 <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/61ed7307-e079-4449-9a33-7f46428ac663" />
-
- 
-
-
-  <hr>  
-
-
-
-
-   **Christmas at the Beach**  
-<img width="960" height="720" alt="Slide7" src="https://github.com/user-attachments/assets/020d8f3d-bb00-4186-8e33-e2b317f0bf1c" />
-
-   <hr>  
-
-   **Operation Christmas Child Collection Week**   
-
-
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/81f761cc-3a03-4d1f-86f1-5262263fd26f" />
 
 
 
