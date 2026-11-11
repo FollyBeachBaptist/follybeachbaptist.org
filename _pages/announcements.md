@@ -65,8 +65,7 @@ Join us for an evening of fellowship, encouragement, and meaningful community!
 
  <hr>  
  
-**Sunday, November 8th**  
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/53faca92-e2bc-4640-84ef-f261144fa1c1" />
+
 
 
 
