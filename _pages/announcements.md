@@ -8,7 +8,8 @@ header:
 ---
 
  **Christmas at the Beach**  
-<img width="960" height="720" alt="Slide7" src="https://github.com/user-attachments/assets/020d8f3d-bb00-4186-8e33-e2b317f0bf1c" />  
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/374f00c4-3623-4923-9a9b-206c640ba307" />
+
 
 <hr>    
 
