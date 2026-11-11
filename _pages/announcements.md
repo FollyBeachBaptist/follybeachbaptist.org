@@ -87,8 +87,7 @@ Join us for an evening of fellowship, encouragement, and meaningful community!
 
 
   **Soup and Soul Ministry**  
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/2e616112-26cd-416f-959a-ba02c44e3374" />
-
+<img width="1448" height="1086" alt="SOUP MONDAYS" src="https://github.com/user-attachments/assets/90e0dc76-58df-4a4b-b59e-351d31346f41" />
 
 
 
