@@ -9,7 +9,7 @@ header:
 
  **Christmas at the Beach**  
 
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/ec15e80f-f63e-42b8-9386-9ff801b8d54d" />
+<img width="1448" height="1086" alt="Christmas_at_the_Beach_With_Activities" src="https://github.com/user-attachments/assets/898b07b8-c47a-4746-8832-c9a36a7259fb" />
 
 
 <hr>    
