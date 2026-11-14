@@ -21,37 +21,17 @@ header:
 
  <hr>
 
-<img width="326" height="186" alt="image" src="https://github.com/user-attachments/assets/a0f73260-c784-4490-b227-1907c3c5251b" />  
+**Folly Beach Exchange Annual Club Golden Age Dinner**  
+<img width="960" height="720" alt="Slide9" src="https://github.com/user-attachments/assets/338fbc9d-0209-4a6c-9510-2154b219f39f" />  
 
-## PRAY CHARLESTON — UNITED IN PRAYER
-### Join the Greater Charleston 24/7 Prayer Movement
+ <hr>
 
+**FBBC History Wall Planning Event**    
+<img width="960" height="720" alt="Slide6" src="https://github.com/user-attachments/assets/a957120e-ac84-4ebb-9b6c-737404334071" />  
 
-
-**One community. Many churches. United in prayer.**
-
-**What is Pray Charleston?** Pray Charleston is a community-wide Christian prayer movement and one of the pathways of **Charleston United**. Its mission is **“To make Jesus unignorable to every man, woman, and child in the Greater Charleston area.”** It connects believers, churches, and prayer groups across the Charleston region in united prayer for our neighbors and communities.
-
-**What does it do?** Pray Charleston is organizing a **24-hour-a-day, seven-day-a-week prayer movement**. Churches and prayer groups take designated prayer times so that prayer can continue throughout the month. Participants can sign up for a **30- or 60-minute prayer time**, even once a month. Monthly prayer guides provide Scripture and specific requests for the Charleston area, South Carolina, and our nation.
-
-### November 2026 Focus: God Is Wisdom
-This month's emphasis is **government leaders and families**. Pray for wisdom, integrity, cooperation, and discernment among public officials. Pray also for strong marriages, patient parents, protection for children, provision for families in need, healing in relationships, and comfort for those facing hardship.
-
-> “If anyone lacks wisdom, let him ask of God.” — James 1:5
+ <hr>
 
 
-### Take Part
-**[VISIT PRAY CHARLESTON — LEARN MORE AND SIGN UP](https://www.praycharleston.com/)**
-
-**[SIGN UP FOR A PRAYER TIME](https://www.praycharleston.com/)**
-
-Questions? **[Email the Pray Charleston contact](mailto:vbharvey2532@gmail.com)**.
-
-Folly Beach Baptist Church invites our church family to consider setting aside **30 or 60 minutes each month** to pray for our community. Joining believers across Charleston in prayer is one way we can live out our mission to **Reach, Raise, and Release**.
-
-*“If my people, who are called by my name, will humble themselves and pray and seek my face…” — 2 Chronicles 7:14*
-
-<hr>
 
 **Community Thanksgiving Service and Meal**  
 <img width="960" height="720" alt="Slide7" src="https://github.com/user-attachments/assets/f2d21df8-7817-403e-ba92-a352d3527220" />  
@@ -63,12 +43,6 @@ Folly Beach Baptist Church invites our church family to consider setting aside *
 
   <hr>  
   
-
-
-
-
-
-
   **Men's Bible Study  
   Mondays at 6:45pm**       
   Join a brotherhood of faith as we dive into Scripture, share life's challenges, and grow together in Christ. Whether you're new to the Bible or a seasoned believer, this group offers a welcoming space for honest conversation, spiritual encouragement, and practical application. Come as you are----Leave strengthened.
