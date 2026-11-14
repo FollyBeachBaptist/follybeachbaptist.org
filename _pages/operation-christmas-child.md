@@ -35,7 +35,6 @@ or
 
 <div style="max-width:700px; margin:0 auto 25px auto; padding:20px; border:1px solid #ddd; border-radius:8px; text-align:center;">
 
-  <h3>August Collection Focus</h3>
 
   <p>
     Help us prepare shoebox gifts for children around the world by donating items for this month’s collection.
