@@ -23,15 +23,6 @@ header:
 
 <img width="326" height="186" alt="image" src="https://github.com/user-attachments/assets/a0f73260-c784-4490-b227-1907c3c5251b" />  
 
-<hr>  
-
-**Community Thanksgiving Service and Meal**  
-<img width="960" height="720" alt="Slide7" src="https://github.com/user-attachments/assets/f2d21df8-7817-403e-ba92-a352d3527220" />  
-
-<hr>  
-
-
-
 ## PRAY CHARLESTON — UNITED IN PRAYER
 ### Join the Greater Charleston 24/7 Prayer Movement
 
@@ -48,10 +39,6 @@ This month's emphasis is **government leaders and families**. Pray for wisdom, i
 
 > “If anyone lacks wisdom, let him ask of God.” — James 1:5
 
-### Join the November Prayer Gathering
-**Thursday, November 19, 2026, at 11:30 a.m.**  
-**The Hub, North Charleston**  
-An **online participation option** will also be available; contact the ministry for joining details.
 
 ### Take Part
 **[VISIT PRAY CHARLESTON — LEARN MORE AND SIGN UP](https://www.praycharleston.com/)**
@@ -66,6 +53,10 @@ Folly Beach Baptist Church invites our church family to consider setting aside *
 
 <hr>
 
+**Community Thanksgiving Service and Meal**  
+<img width="960" height="720" alt="Slide7" src="https://github.com/user-attachments/assets/f2d21df8-7817-403e-ba92-a352d3527220" />  
+
+<hr>  
 
  **Pray at the Pier**  
 <img width="960" height="720" alt="Slide17" src="https://github.com/user-attachments/assets/5d75bca0-a023-4c1f-9a02-17a1fa2840d0" />
@@ -73,22 +64,7 @@ Folly Beach Baptist Church invites our church family to consider setting aside *
   <hr>  
   
 
-## FEAST & FELLOWSHIP
-### Thursday, November 12, 2026
- 
-<img width="960" height="720" alt="Slide4" src="https://github.com/user-attachments/assets/2925bcf1-3317-47ea-be13-9a93e60760d5" />
 
-
-Join us for an evening of fellowship, encouragement, and meaningful community!
-
-**[CLICK HERE TO REGISTER](https://www.charlestonbaptist.net/events/2026/11/12/feast-fellowship-cba-women-event)**
-
-
-
-
-
- <hr>  
- 
 
 
 
@@ -103,9 +79,9 @@ Join us for an evening of fellowship, encouragement, and meaningful community!
 <hr>    
     
 
-**2026 Women's Bible study Ends Thursday Nov 19th**    
+**2026 Women's Bible study**    
+<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/ca813405-1a39-4331-95d4-b2d646cb83f6" />
 
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/30b4ce2b-9419-431f-b6b1-2c569833392c" />  
 
 <hr>  
 
