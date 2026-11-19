@@ -22,7 +22,7 @@ header:
 
  <hr>
 
-**Folly Beach Exchange Annual Club Golden Age Dinner**  
+**Folly Beach Exchange Club Annual Golden Age Dinner**  
 <img width="960" height="720" alt="Slide9" src="https://github.com/user-attachments/assets/338fbc9d-0209-4a6c-9510-2154b219f39f" />  
 
  <hr>
