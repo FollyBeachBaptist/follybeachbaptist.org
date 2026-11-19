@@ -7,6 +7,11 @@ header:
 ---  
 ---
 
+<hr>  
+
+**Thanksgiving Office Hours**  
+<img width="960" height="720" alt="Slide8" src="https://github.com/user-attachments/assets/ea466b8a-ba01-49ca-8485-194a71c819c2" />
+
 
 <hr>    
 
@@ -26,7 +31,8 @@ header:
 
 
 **Community Thanksgiving Service and Meal**  
-<img width="960" height="720" alt="Slide7" src="https://github.com/user-attachments/assets/f2d21df8-7817-403e-ba92-a352d3527220" />  
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/6afab784-d250-453e-b569-87484a55077b" />
+
 
 <hr>  
 
@@ -135,12 +141,14 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 
  **Recovery in Christ**  
 
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/61ed7307-e079-4449-9a33-7f46428ac663" />
+<img width="960" height="720" alt="Slide10" src="https://github.com/user-attachments/assets/241d68bc-a9ee-48ce-a552-91384fb90b1c" />
 
 
 
-   <hr>    
-**Sunday, November 29th is the First Day of Advent Season.
+
+   <hr>   
+   
+**Sunday, November 29th is the First Day of Advent Season**
 We have a limited supply of FREE Advent and Christmas Devotionals
 which accompany the Advent Sermon Series "God With Us".
 Come on the 29th to get yours!!**
