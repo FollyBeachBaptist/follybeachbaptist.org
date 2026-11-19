@@ -22,10 +22,6 @@ header:
 
  <hr>
 
-**FBBC History Wall Planning Event**    
-<img width="960" height="720" alt="Slide6" src="https://github.com/user-attachments/assets/a957120e-ac84-4ebb-9b6c-737404334071" />  
-
- <hr>
 
 
 
