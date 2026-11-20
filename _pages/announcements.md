@@ -48,12 +48,6 @@ header:
 <hr>    
     
 
-**2026 Women's Bible study**    
-<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/ca813405-1a39-4331-95d4-b2d646cb83f6" />
-
-
-<hr>  
-
 
   **Soup and Soul Ministry**  
 <img width="1448" height="1086" alt="SOUP MONDAYS" src="https://github.com/user-attachments/assets/90e0dc76-58df-4a4b-b59e-351d31346f41" />
