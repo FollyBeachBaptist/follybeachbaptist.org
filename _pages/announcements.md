@@ -9,29 +9,13 @@ header:
 
 <hr>  
 
-**Thanksgiving Office Hours**  
+**Thanksgiving Week Office Hours**  
 <img width="960" height="720" alt="Slide8" src="https://github.com/user-attachments/assets/ea466b8a-ba01-49ca-8485-194a71c819c2" />
 
 
-<hr>    
-
- **Operation Christmas Child Collection Week**   
+<hr>     
 
 
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/81f761cc-3a03-4d1f-86f1-5262263fd26f" />
-
- <hr>
-
-
-
-
-
-
-**Community Thanksgiving Service and Meal**  
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/6afab784-d250-453e-b569-87484a55077b" />
-
-
-<hr>  
 
  **Pray at the Pier**  
 <img width="960" height="720" alt="Slide17" src="https://github.com/user-attachments/assets/5d75bca0-a023-4c1f-9a02-17a1fa2840d0" />
@@ -56,28 +40,16 @@ header:
 
  <hr>   
   
-
-
- 
-
  **WE NOW HAVE ASSISTIVE LISTENING DEVICES!!**
 <img width="960" height="720" alt="Slide6" src="https://github.com/user-attachments/assets/9351d043-452d-4327-9a10-2b47c9bd47f6" />
 
  <hr>  
 
- 
-
-    
-  
   **Young Life Student Ministry Is Meeting at FBBC!!**  
 
 <img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/6c23b84e-b884-4d62-a115-b05b0b8ae29e" />
 
  <hr>   
-
-
- 
-
 
   **Social Platforms**  
 <img width="960" height="720" alt="Slide15" src="https://github.com/user-attachments/assets/d4d780c2-a954-4a54-a3a6-b2f3eabce746" />
@@ -85,19 +57,12 @@ header:
 
   <hr>  
   
-
-
   **Moms In Prayer**   
   **Monday Mornings at 11:00am**  
   
 <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/b47f4772-0d2b-4137-8e67-081dd156a50c" />
 
-
-
-
-
-
-  <hr>  
+ <hr>  
 
  **WMU**  
 
