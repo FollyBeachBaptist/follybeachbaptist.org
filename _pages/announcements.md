@@ -7,7 +7,11 @@ header:
 ---  
 ---
 
-<hr>  
+<hr>   
+
+
+
+
 
 **Thanksgiving Week Office Hours**  
 <img width="960" height="720" alt="Slide8" src="https://github.com/user-attachments/assets/ea466b8a-ba01-49ca-8485-194a71c819c2" />
