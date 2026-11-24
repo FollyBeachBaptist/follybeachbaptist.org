@@ -135,7 +135,10 @@ We also have Bible studies for all ages (preschool, children, youth, and adults)
 
  **Living Nativity**  
  
- <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/9895fe89-0d5e-4922-8485-cf128a86a0ed" />  
+
+
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/a3fad19d-34d6-4a61-ab8d-f56036fd3ed0" />
+
 
   <hr>
 
