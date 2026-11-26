@@ -7,7 +7,13 @@ header:
 ---  
 ---
 
-<hr>    
+<hr>     
+
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/05d13ded-388d-4c80-ab18-3e07a7d637ea" />  
+
+<hr>  
+
+
 
 **Sunday, November 29th is the First Day of Advent Season**
 We have a limited supply of FREE Advent and Christmas Devotionals
